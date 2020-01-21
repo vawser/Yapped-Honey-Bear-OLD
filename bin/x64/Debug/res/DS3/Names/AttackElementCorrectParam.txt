@@ -1,0 +1,142 @@
+1000 Firebomb
+1001 Lightning Urn
+1003 Hexing Urn
+1004 Witching Urn
+1010 Throwing Knife
+1020 Dragon Head Stone
+1030 Twinkling Dragon Torso Stone
+2100 Spear Fragment
+10000 Common
+10001 Physical: STR, DEX, LCK
+10002 Physical: STR, DEX, FTH
+10003 Physical: STR, DEX, INT
+10004 Physical: STR, DEX, INT, FTH
+10005 Physical: STR, DEX, INT, FTH, LCK
+10006 Physical: STR, DEX, FTH, LCK
+10007 Physical: STR, DEX, INT, LCK
+10008 Twin Princes' Greatsword
+11000 Lucky - Physical and Magic
+11001 Lucky - Physical and Fire
+11002 Lucky - Physical and Lightning
+11003 Lucky - Physical and Dark
+11004 Lucky - Magic, Fire and Dark
+11005 Lucky - Physical, Magic and Lightning
+11006 Lucky - Physical, Magic and Fire
+12000 Holy - Elemental
+12001 Fire: INT, FTH, LCK
+12002 Lightning: FTH, LCK
+12003 Dark: INT, FTH, LCK
+14000 Magic: FTH
+14001 Magic/Dark: INT, LCK
+14002 Magic: INT, LCK
+14003 Magic: STR, DEX, INT
+15000 Anri's Straight Sword
+15001 Fire: INT, FTH, DEX, LCK
+16000 Demon's Scar
+16001 Spell Tool: INT, FTH, LCK
+17000 All: STR, DEX, INT, FTH
+17001 All: STR, DEX, INT, FTH, LCK
+18000 Fire/Dark: STR, DEX, INT, FTH
+18001 Fire/Dark: STR, DEX, INT, FTH, LCK
+19000 Scholar's Candlestick - Holy
+25000 Man-grub's Staff
+25001 Archdeacon's Great Staff
+25002 Heretic's Staff
+25003 Crystal Chime
+25004 Holy Flame
+25005 Sorcerous Flame
+25006 Fool's Flame
+25007 Chaos Flame
+25008 Jester's Talisman
+25009 Darkmoon Ritual Staff
+25010 Izalith Staff
+25011 Sunless Talisman
+25012 Insanity Catalyst
+30000 Golden Ritual Spear
+30001 Golden Ritual Spear - Lucky
+30002 Golden Ritual Spear - Enchanted
+30003 Golden Ritual Spear - Holy
+30010 Cleric's Candlestick
+30011 Cleric's Candlestick - Lucky
+30012 Cleric's Candlestick - Enchanted
+30013 Cleric's Candlestick - Holy
+30020 Heysel Pick
+30021 Heysel Pick - Lucky
+30022 Heysel Pick - Enchanted
+30023 Heysel Pick - Holy
+30030 Immolation Tinder
+30031 Immolation Tinder - Lucky
+30032 Immolation Tinder - Enchanted
+30033 Immolation Tinder - Holy
+30040 Demon's Scar
+30041 Demon's Scar - Lucky
+30042 Demon's Scar - Enchanted
+30043 Demon's Scar - Holy
+30050 Rose of Ariandel
+30051 Rose of Ariandel - Lucky
+30052 Rose of Ariandel - Enchanted
+30053 Rose of Ariandel - Holy
+30060 Anri's Straight Sword
+30061 Anri's Straight Sword - Lucky
+30062 Anri's Straight Sword - Enchanted
+30063 Anri's Straight Sword - Holy
+30070 Longstaff of Rosaria
+30071 Longstaff of Rosaria - Lucky
+30072 Longstaff of Rosaria - Enchanted
+30073 Longstaff of Rosaria - Holy
+30080 Preacher's Right Arm
+30081 Preacher's Right Arm - Lucky
+30082 Preacher's Right Arm - Enchanted
+30083 Preacher's Right Arm - Holy
+30090 Holy Moonlight Sword
+30091 Holy Moonlight Sword - Lucky
+30100 Marvelous Zweihander
+30101 Marvelous Zweihander - Lucky
+30102 Marvelous Zweihander - Enchanted
+30103 Marvelous Zweihander - Holy
+39999 ### Spells ###
+40000 Boulder Heave
+40001 Wrath of the Gods
+40002 Emit Force
+40003 Way of White Corona
+40004 Divine Pillars of Light
+40005 Bursting Halo
+40006 Halo
+40007 Divine Retribution
+40008 Flynn's Bow
+40009 Spiral Greatsword - Beckon Storm
+40010 Darkmoon Longbow
+40011 Ring of Londor - Abyssal Burst
+40012 Serpentine Orbs
+40013 Primordial Flame
+40014 Darkmoon Volley
+40015 Holy Arrow
+49999 ### Dark Spells ###
+50000 Deep Soul
+50001 Great Deep Soul
+50002 Affinity
+50003 Great Soul Dregs
+50004 Dark Edge
+50005 Abyssal Edge
+50006 Deep Barb
+50007 Surging Deep
+50008 Dark Bead
+50009 Cascading Deep
+50010 Yearning Dregs
+50011 Dreg Torrent
+50012 Writhing Deep
+50013 Climax
+50014 Black Serpent
+50015 Black Flame
+50016 Black Fire Orb
+50017 Dark Dance
+50018 Recollection
+50019 Whisper of Despair
+50020 Mourning Flames
+50021 Gnaw
+50022 Dorhys' Gnawing
+50023 Lifehunt Scythe
+50024 Ravenous Gnawing
+50025 Voracious Gnawing
+50026 Nibble
+50027 Devouring Swarm

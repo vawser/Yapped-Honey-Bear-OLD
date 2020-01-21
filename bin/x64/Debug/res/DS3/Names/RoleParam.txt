@@ -1,0 +1,26 @@
+0 Survival player
+1 White Ghost
+2 Black Ghost
+3 Wandering
+4 Wandering NPC
+5 Normal enemy
+6 Animal enemies
+7 Boss Enemy
+8 Grey Ghost
+9 Npc
+10 Replay
+11 Display
+12 Intruders
+13 For the Arena
+10001 White Ghost (Red Hunt white pledge)
+10002 Black Ghost (Red Hunt white pledge)
+20001 White Ghost (Sun Pledge)
+20002 Black Ghost (Sun Pledge)
+30001 White Ghost (Berserker Pledge)
+30002 Black Ghost (Berserker Pledge)
+40001 White Ghost (Sinner Hero Pledge)
+40002 Black Ghost (Sinner Hero Pledge)
+50001 White Ghost (Boss Guardian Pledge (Rosalia))
+50002 Black Ghost (Boss Guardian Pledge (Rosalia))
+60001 White Ghost (Map Guardian pledge (bridge))
+60002 Black Ghost (Map Guardian pledge (bridge))

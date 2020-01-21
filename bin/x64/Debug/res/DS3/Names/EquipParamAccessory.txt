@@ -1,0 +1,144 @@
+9999 ### Covenants ###
+10000 Darkmoon Faithful
+10020 Watchdogs of Farron
+10030 Aldrich Faithful
+10040 Warrior of Sunlight
+10050 Mound-makers
+10060 Thieves' Pact
+10070 Chaos Servant
+10080 Rosaria's Fingers
+10090 Spears of the Church
+10100 Vinheim Scholars
+10110 Pilgrims of Dark
+10120 Way of White
+10130 Dragon Remnants
+19999 ### Rings ###
+20000 Life Ring
+20010 Chloranthy Ring
+20020 Havel's Ring
+20030 Ring of Favor
+20040 Ring of Steel Protection
+20050 Flame Stoneplate Ring
+20060 Thunder Stoneplate Ring
+20070 Magic Stoneplate Ring
+20080 Dark Stoneplate Ring
+20090 Speckled Stoneplate Ring
+20100 Bloodbite Ring
+20110 Poisonbite Ring
+20120 Cursebite Ring
+20130 Fleshbite Ring
+20140 Wood Grain Ring
+20150 Scholar Ring
+20160 Priestess Ring
+20170 Red Tearstone Ring
+20180 Blue Tearstone Ring
+20190 Wolf Ring
+20200 Leo Ring
+20210 Ring of Sacrifice
+20230 Young Dragon Ring
+20240 Great Swamp Ring
+20250 Morne's Ring
+20270 Lingering Dragoncrest Ring
+20280 Sage Ring
+20290 Slumbering Dragoncrest Ring
+20300 Dusk Crown Ring
+20310 Saint's Ring
+20320 Deep Ring
+20330 Darkmoon Ring
+20340 Bellowing Dragoncrest Ring
+20350 Witch's Ring
+20360 Ring of the Sun's First Born
+20370 Hawk Ring
+20380 Hornet Ring
+20390 Covetous Gold Serpent Ring
+20400 Covetous Silver Serpent Ring
+20410 Sun Princess Ring
+20420 Silvercat Ring
+20430 Skull Ring
+20440 Untrue White Ring
+20450 Carthus Milkring
+20460 Knight's Ring
+20470 Hunter's Ring
+20480 Knight Slayer's Ring
+20490 Magic Clutch Ring
+20500 Lightning Clutch Ring
+20510 Fire Clutch Ring
+20520 Dark Clutch Ring
+20540 Flynn's Ring
+20550 Prisoner's Chain
+20560 Untrue Dark Ring
+20580 Obscuring Ring
+20590 Ring of the Evil Eye
+20600 Ring of Calamity
+20610 Farron Ring
+20620 Aldrich's Ruby
+20630 Aldrich's Sapphire
+20660 Lloyd's Sword Ring
+20670 Lloyd's Shield Ring
+20700 Estus Ring
+20710 Ashen Estus Ring
+20720 Horsehoof Ring
+20730 Carthus Bloodring
+20740 Reversal Ring
+20750 Pontiff's Right Eye
+20790 Pontiff's Left Eye
+20830 Dragonscale Ring
+21000 Chillbite Ring
+30000 Ring of Londor
+30010 Spirit Amethyst
+30020 Unholy Remains
+30040 Wretched Pendant
+30050 Symbol of the Penitent
+30070 Runic Seal
+30080 Tome of Sunlight
+30090 Greatwood Remnants
+30100 Charred Bone
+30110 Green Tearstone Ring
+30130 Violet Tearstone Ring
+30170 Demonsbane Ring
+30180 Crypt Ring
+30190 Blight Ring
+30200 Hallowed Ring
+30210 Ring of Wisdom
+30330 Ring of Retaliation
+30340 Ring of Reprisal
+30350 Ring of Spite
+30360 Ring of Retribution
+30370 Ring of Vengeance
+30380 Bulwark Ring
+30390 Mercenary Ring
+30400 Heretic Ring
+30410 Merchant Ring
+30420 Physician Ring
+30430 Jester Ring
+30440 Arcane Trinket
+30450 Londor Tincture
+30490 Enchanted Quiver
+30500 Old Pygmy Brooch
+30510 Cursed Ring of Evasion
+30520 Cursed Ring of Vengeance
+30530 Cursed Ring of Deflection
+30540 Cursed Ring of Confusion
+30560 Redeye Ring
+30570 Ring of Woe
+30580 Ring of Adversity
+30590 Ring of Catastrophe
+30640 Black Tearstone Ring
+30650 Beastial Band
+30660 Band of Stone
+30670 Band of Magic
+30680 Band of Flame
+30690 Band of Sparks
+30700 Band of Darkness
+30710 Ring of the Exalted
+30720 Ring of the Dutiful
+30730 Ring of the Blessed
+30740 Ring of the Resolute
+30750 Ring of the Faithful
+30760 Ring of the Devout
+30770 Ring of the Fanatic
+30780 Ring of Rosaria
+30790 Ring of Demons
+30800 Elden Ring
+30810 Rare Ring of Humanity
+40000 Base Modifiers

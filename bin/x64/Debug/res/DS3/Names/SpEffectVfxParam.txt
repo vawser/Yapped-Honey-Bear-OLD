@@ -1,0 +1,645 @@
+2 Poison
+3 Hill
+4 Acid
+5 Toxic
+6 Bleed
+8 Hidden
+9 Gravity user
+10 State abnormal recovery [poison]
+11 State abnormal recovery [plague]
+12 State abnormal recovery [bleeding]
+13 State abnormal recovery [Universal]
+14 Soul Drain
+15 Zoom
+16 Warp
+17 Demon's Souls
+18 Black Ghost Disperse
+19 Strong Ghost
+20 White Hope
+21 Black Hope
+22 Black Ghost
+23 Resuscitation
+24 Vow of Silence
+25 Tranquil Walk of Peace
+26 Grinding wheel
+27 Asphyxia Resuscitation
+28 Magic Weapon
+29 Magic Barrier
+30 Covered yarn
+31 【 system 】 Ghost Rum Change
+32 Incubus
+33 Flies bummed
+34 [FDP proto] slime freezing
+35 Flame Phantom _ Second phase
+36 Flame Phantom _ Third stage
+37 Flame Phantom _ Fourth stage
+38 Hallucinations
+39 Soul Coins
+40 Great Magic Barrier
+41 Flash Sweat
+42 HP Recovery Status
+43 Forced ghosting first Stage
+44 Forced ghosting Phase II
+45 Forced ghosting third phase
+46 Pheromones
+47 Fall Control
+48 Pinch attack power up
+49 Pinch defensive power up
+50 HP Recovery
+51 Torchlight
+52 Weak Regenerate
+53 Weak Ghost Camouflage
+54 Hidden weakness
+55 Tip Blood Letters
+56 Hill Foot
+57 Yellow Robe
+58 Point Light
+59 Blood character evaluation
+60 Great Magic Weapon
+61 Crystal Magic Weapon
+62 Charcoal Pine Resin
+63 Fire Weapon
+64 Magic Weapon
+65 Chimera Reinforcement
+66 Item Drop correction
+67 MP Regenerate
+68 Weak MP Regenerate
+69 Spell - Tears of Denial
+70 Poison Resist
+71 Magic Boost
+72 Magic Resist
+73 Bleed Resist
+74 Toxic Resist
+75 Green Blossom
+76 Curse Resist
+77 Fire Resist
+78 King's Shield one step left foot
+79 King's Shield 2 step left foot
+80 King's Shield three step left foot
+91 King's Shield one step right foot
+92 King's Shield 2 stage right foot
+93 King's Shield 3 stage right foot
+94 Referee's belly bleeding
+95 Chameleon
+96 Dragon Head Stone - Dragon Head
+97 Extension
+98 Detection
+99 Waiting for cooperation
+100 Cooperation
+101 Send cooperation
+102 Gravity
+103 Evil Eye
+104 State lifting [waiting for cooperation]
+105 Effect LV1
+106 Effect LV2
+107 Effect Lv3
+108 Ring of the Evil Eye
+109 Ring of the Evil Eye
+110 Counter
+111 Planting Egg Standby
+112 Planting eggs
+113 Egg Head Standby
+114 Egg Head
+115 Super Light Movement
+116 Curse
+117 Petrified
+118 Curse lifted
+119 Human Nature Damage
+120 Damage Anime Change _sa Limited time
+121 Damage Anime Changes _ added
+122 Underwater behavior
+123 Weapon Head
+124 Weapon Torso
+125 Weapon hand
+126 Weapon legs
+127 Sleep
+128 Mimic _ mimicry
+129 Mimic _ Mimicry Slumber
+130 Mimic _ usually
+131 Mimic _ usually asleep
+132 Rapport
+133 Blood character acquisition
+134 Iron Flesh
+135 Mimic _ usually beginning to sleep
+136 Crystallization
+137 Resonance lv0
+138 Resonance LV1
+139 Resonance Lv2
+140 Resonance Lv3
+141 Resonance lv4
+142 Behavior ID Specification
+143 Immortal Enemy
+144 Enemy _ Asphyxia
+145 The Sacred attribute
+146 Repair Powder
+147 Orb of Light
+148 Request for Relief
+149 White Relief
+150 Black Relief
+151 Gold Pine Resin
+152 Rotten Pine Resin
+153 Strengthening the plague
+154 Undead Hunter Charm - Estus Block
+155 SA reinforcement
+156 Endurance decrease disabled
+157 Resonance
+158 Magic Shield
+159 Usually dead when the ring resurrection
+160 When a curse dies, the ring revives.
+161 Warp b
+162 Warp C
+163 Warp D
+164 Warp E
+165 Warp A
+166 Pledge discarded
+167 Dragon Form
+168 Precision Reinforcement
+169 resonance enhancement
+170 Karmic Justice
+171 Karmic Justice Explosion
+172 Sheath Invincible 1
+173 Sheath Invincible 2
+174 Sheath Invincible 3
+175 Revival of humanity
+176 Soul Coin (Immortal)
+177 Soul Coin (Beast System)
+178 Ally Reinforcement Magic
+179 Curse effect LV1
+180 Curse effect Lv2
+181 Curse effect Lv3
+182 Curse effect Lv4
+183 SOS Vis
+184 Invisible Weapon
+185 NITs effect
+186 Fire Kick
+187 A death
+188 Forest thieves summon Hope
+189 Forest thieves in territory
+190 Wang Mother brother summoned Hope
+191 King Mother Brother Territory
+192 Egg Head _ Two
+193 Life extension
+194 Magic Use up
+195 Dragon NEWT Sines
+196 Prize Neck sign
+197 Counter up
+198 Egg condemning
+199 HP Drain
+200 Power Within
+201 Vow of Silence
+202 Dragon Torso Stone - Dragon Roar
+203 Magic usage Down
+204 Great Magic Shield
+205 [DLC] Dark reinforcement
+206 Arena 1 vs. 1 [small] in territory
+207 Arena 2 vs. 2 [small] territory
+208 Arena Battle Royal [small] territory
+209 Arena 1 vs. 1 [small] summon hope a
+210 Arena 1 vs. 1 [small] Summon Hope B
+211 Arena 2 vs. 2 [small] summon hope A1
+212 Arena 2 vs. 2 [small] summon hope A2
+213 Arena 2 vs. 2 [small] Summon Hope B1
+214 Arena 2 vs. 2 [small] Summon hope B2
+215 Arena Battle Royal [small] summon hope a
+216 Arena Battle Royal [small] summon Hope B
+217 Arena Battle Royal [small] Summon hope C
+218 Arena Battle Royal [small] summon hope D
+219 Arena 1 to 1 [large] in territory
+220 Arena 2 vs. 2 [large] territory
+221 Arena Battle Royal 【 Dai 】 Territory
+222 Arena 1 to 1 [large] Summon hope a
+223 Arena 1 to 1 [large] Summon hope B
+224 Arena 2 vs. 2 [large] summon request A1
+225 Arena 2 vs. 2 [large] summon hope A2
+226 Arena 2 vs. 2 [large] Summon hope B1
+227 Arena 2 vs. 2 [large] Summon hope B2
+228 Arena Battle Royal [large] summon hope a
+229 Arena Battle Royal [large] Summon hope B
+230 Arena Battle Royal [large] Summon hope C
+231 Arena Battle Royal [large] summon hope D
+232 Prohibition of use prohibited items in the arena
+233 Arena dead
+234 Provisional first place in the arena
+235 Arena Nodead
+236 Arena Equal # 1
+237 Black Dragon Ring
+238 More than ten fighting pits
+239 Over 30 wins in the arena
+240 Arena 50 wins over
+241 Over 100 wins in the arena
+242 Blood material override
+243 Blood Material _ Blood
+244 Blood Material _ Flame
+245 Blood Material _ blood Small
+246 Stacking Magic A_LV1
+247 Stacking Magic A_lv2
+248 Stacking Magic A_lv3
+249 Stacking Magic B_LV1
+250 Stacking Magic B_lv2
+251 Stacking Magic B_lv3
+252 Covered with oil
+253 Fire Daruma
+254 In the midst of being possessed
+255 Dark Magic
+256 Burning Body combustion Level 1
+257 Burning Body combustion Level 2
+258 Sound magnification change
+259 Target Down
+260 Frost
+261 Maggots
+262 State abnormal recovery [maggots]
+263 Bleeding state
+265 Quick Match Request
+266 Dead disabled during fall
+267 Change Visual Range
+268 Caries deaths
+269 Double chanting
+270 General ABATABAF 1
+271 General ABATABAF 2
+272 General ABATABAF 3
+273 General ABATABAF 4
+274 General ABATABAF 5
+299 Seed of a Giant Tree
+321 Purging Stone
+5000 Torches _ Flame Effect
+5001 Torches, the effect of hanging
+5010 King of Firewood State Fire powder (small)
+5011 King of Firewood State Fire powder (Large)
+5020 Ember - Right Arm
+5021 Ember - Right Elbow
+5022 Ember - Right Shoulder
+5023 Ember - Upper Body
+5024 Ember - System
+5025 Ember - System
+5026 Ember - System
+5027 Ember - System
+5028 Ember - System
+5130 Mossfruit
+5140 Pale Pine Resin
+5150 Human Pine Resin
+5160 Carthus Rouge
+5180 Young White Branch
+5200 Aura - Blue Bug Pellet
+5210 Aura - Red Bug Pellet
+5220 Aura - Yellow Bug Pellet
+5230 Aura - Black Bug Pellet
+5562 Charcoal Pine Resin
+5651 Gold Pine Resin
+5652 Rotten Pine Resin
+5840 Pale Pine Resin
+5850 Human Pine Resin
+5860 Carthus Rogue
+6900 Weapon Art - Warcry
+6910 Weapon Art - Steady Change (Right)
+6911 Weapon Art - Steady Change (Left)
+6920 Weapon Art - Perserverence
+6930 Weapon Art - Unfaltering Prayer - 1
+6940 Weapon Art - Unfaltering Prayer - 2
+6950 Weapon Art - Unfaltering Prayer - 3
+6999 Estus Block Recovery
+8000 Flame Weapon
+8010 Regen Double Chanting
+8020 Recovery double Chanting
+8030 Sun Sword
+8040 HP Recovery
+8041 HP Recovery
+8042 HP Recovery
+8043 HP Recovery
+8044 HP Recovery
+8050 Vow of Silence
+10000 Wet Control - Water
+10010 Wet Control - Poison
+10020 Wet Control - Mud
+10030 Wet Control - Frost
+40002 Aura - Poison
+40005 Aura - Toxic
+40253 Aura - Fire
+40260 Aura - Frost
+50000 Demon Cleric - Mojo
+50001 Demon Cleric - Magic VFX
+50002 Demon Cleric - Great Mojo
+50003 Demon Cleric - Fire Weapon
+50004 Demon Cleric -
+50010 Crystal Sage -
+50020 Archive Scholar - Wax Head
+50021 Archive Scholar - Wax Head Flame
+50030 Demon - Head Flame
+50031 Demon - Chest Flame
+50032 Demon - Back Flame
+50033 Demon - Weapon Flame
+50034 Demon - Head Flame - Heatup
+50035 Demon - Chest Flame - Heatup
+50036 Demon - Back Flame - Heatup
+50037 Demon - Weapon Flame - Heatup
+50040 Skeleton - Torch
+50050 Pontiff Knight - Sword Enchantment
+50051 Pontiff Knight - Sickle Enchantment
+50052 Pontiff Knight - Body
+50053 Pontiff Knight - Body
+50054 Pontiff Knight -
+50055 Sulyvahn's Beast - Eyes
+50058 Gargoyle - Torch
+50059 Gargoyle -
+50060 High Lord Wolnir - Miasma Aura
+50061 High Lord Wolnir - Miasma Aura
+50062 High Lord Wolnir - Miasma Aura
+50063 High Lord Wolnir - Miasma Aura
+50064 High Lord Wolnir - Miasma Aura
+50065 High Lord Wolnir - Miasma Aura
+50066 High Lord Wolnir - Miasma Aura
+50067 High Lord Wolnir - Miasma Aura
+50068 High Lord Wolnir - Miasma Aura
+50069 High Lord Wolnir - Miasma Aura
+50070 Pontiff Sulyvahn - Aura
+50071 Pontiff Sulyvahn - Aura - Heatup
+50072 Pontiff Sulyvahn - Aura
+50073 Pontiff Sulyvahn - Aura - Heatup
+50074 Pontiff Sulyvahn - Aura
+50075 Pontiff Sulyvahn - Illusion - Transparency
+50076 Pontiff Sulyvahn - Illusion - Total Transparency
+50090 Stray Demon - Weapon Smoke
+50091 Stray Demon - Body Smoke
+50092 Stray Demon - Joint 1
+50093 Stray Demon - Joint 2
+50094 Stray Demon - Joint 3
+50095 Stray Demon - Joint 4
+50096 Stray Demon - Strain 1
+50097 Stray Demon - Strain 2
+50098 Stray Demon - Strain 3
+50110 Hollow Soldier - Lantern
+50111 Hollow Soldier - Lantern
+50120 Hollow Soldier - Pus of Man State
+50121 Hollow Soldier - Pus of Man State
+50122 Hollow Soldier - Pus of Man State
+50123 Hollow Soldier - Pus of Man State
+50124 Hollow Soldier - Pus of Man State
+50125 Hollow Soldier - Pus of Man State
+50130 Hollow Soldier - Lantern
+50150 Lothric Knight - Red Eyes
+50151 Lothric Knight -
+50152 Lothric Knight -
+50153 Lothric Knight -
+50154 Lothric Knight -
+50155 Lothric Knight -
+50156 Lothric Knight -
+50200 Boreal Outrider Knight - Head
+50201 Boreal Outrider Knight - Torso
+50202 Boreal Outrider Knight - Left Arm
+50203 Boreal Outrider Knight - Right Arm
+50204 Boreal Outrider Knight - Right Foot
+50205 Boreal Outrider Knight - Left Foot
+50206 Boreal Outrider Knight - Weapon
+50207 Boreal Outrider Knight - Eyes
+50210 Dancer - Frost Aura
+50211 Dancer - Flame Sword
+50212 Dancer - Sword of the Eclipse
+50220 Deacon - Curse
+50221 Deacon - Ranged Regen
+50222 Deacon - Ranged Scrut
+50223 Deacon - Eye Glow
+50224 Deacon - Aura
+50225 Deacon -
+50226 Deacon -
+50227 Deacon -
+50228 Deacon -
+50230 Irithyll Fire Witch - Aura
+50240 Jailer - Lantern
+50241 Jailer - Lantern
+50242 Jailer - Lantern
+50243 Jailer - Lantern
+50244 Jailer - Lantern
+50245 Jailer -
+50246 Jailer -
+50247 Jailer - HP Drain
+50248 Jailer -
+50250 Vordt - Frost Aura - Body
+50251 Vordt - Frost Aura - Weapon
+50252 Vordt - Frost Aura - Body - Heatup
+50253 Vordt - Frost Aura - Weapon - Heatup
+50254 Vordt - Eye Glow - Heatup
+50260 Aldrich -
+50261 Aldrich -
+50262 Aldrich -
+50263 Aldrich -
+50264 Aldrich -
+50265 Aldrich -
+50266 Aldrich -
+50267 Aldrich -
+50270 Pontiff Knight - Illusion
+50280 Ancient Wyvern - High Wall of Lothric
+50290 Archive Scholar - Wax Head
+50300 Sulyvahn's Beast - Large Aura
+50301 Sulyvahn's Beast - Small Aura
+50302 Sulyvahn's Beast -
+50330 Soul of Cinder -
+50331 Soul of Cinder -
+50332 Soul of Cinder -
+50333 Soul of Cinder -
+50334 Soul of Cinder -
+50335 Soul of Cinder -
+50336 Soul of Cinder -
+50337 Soul of Cinder -
+50338 Soul of Cinder -
+50339 Soul of Cinder -
+50340 Yhorm the Giant -
+50341 Yhorm the Giant - Heatup
+50370 Lorian -
+50371 Lorian -
+50372 Lorian -
+50460 Dragonslayer Armour -
+50490 Nameless Knight -
+50491 Nameless Knight -
+50492 Nameless Knight -
+50500 Giant Crab - Bubble Spit
+50501 Giant Crab -
+60100 Sister Friede -
+60110 Sister Friede -
+62000 Slave Knight Gael -
+62001 Slave Knight Gael -
+62100 Darkeater Midir -
+62101 Darkeater Midir -
+62102 Darkeater Midir -
+62103 Darkeater Midir -
+62104 Darkeater Midir -
+62105 Darkeater Midir -
+62106 Darkeater Midir -
+62107 Darkeater Midir -
+62108 Darkeater Midir -
+62109 Darkeater Midir -
+62112 Darkeater Midir -
+62113 Darkeater Midir -
+62114 Darkeater Midir -
+62115 Darkeater Midir -
+62116 Darkeater Midir -
+62117 Darkeater Midir -
+62500 NPC - Ignore Sight Reductions
+62501 NPC - Ignore Sight Reductions
+62700 Londor Thief - Curse Aura
+62701 Londor Thief - Curse Aura
+63400 NPC - Movement
+63401 NPC - Movement
+100020 Wind Ground Force
+100100 Total Invisibility
+100101 Total Invisibility - Half Camo
+100200 Proximity Invisibility
+100201 Proximity Invisibility - Half Camo
+100210 Total Invisibility
+100211 Total Invisibility - Half Camo
+100300 Bonewheel Skeleton - Proximity Invisibility
+800000 Light Burst
+800010 Light Burst
+800011 Fast Light Orb
+800100 Orange Force Circle
+800110 Orange Force Circle
+800200 Orange Force Circle
+800210 Orange Force Circle
+90013100 Spell - Magic Weapon - Magic Enchantment
+90013110 Spell - Great Magic Weapon - Magic Enchantment
+90013120 Spell - Crystal Magic Weapon - Magic Enchantment
+90013130 Spell - Frozen Weapon - Frost Aura
+90013300 Spell - Magic Shield - Magic Enchantment
+90013310 Spell - Great Magic Shield - Magic Enchantment
+90013400 Spell - Hidden Weapon
+90013410 Spell - Hidden Body
+90013500 Spell - Cast Light
+90013510 Spell - Cast Light
+90013530 Spell - Repair
+90013540 Spell - Spook
+90013550 Spell - Chameleon
+90024300 Spell - Iron Flesh
+90024310 Spell - Flash Sweat
+90024350 Spell - Carthus Flame Arc
+90024360 Spell - Rapport
+90024361 Spell - Rapport
+90024400 Spell - Power Within
+90024700 Spell - Warmth
+90025620 Spell - Profuse Sweat
+90026500 Spell - Carthus Beacon
+90034900 Spell - Heal Aid
+90035000 Spell - Heal
+90035010 Spell - Med Heal
+90035020 Spell - Great Heal
+90035030 Spell - Soothing Sunlight
+90035040 Spell - Replenishment
+90035050 Spell - Bountiful Sunlight
+90035070 Spell - Bountiful Light
+90035080 Spell - Caressing Tears
+90035200 Spell - Tears of Denial
+90035210 Spell - Tears of Denial
+90035600 Spell - Magic Barrier
+90035610 Spell - Great Magic Barrier
+90035630 Spell - Sacred Oath
+90035810 Spell - Vow of Silence
+90035900 Spell - Lightning Blade
+90035910 Spell - Darkmoon Blade
+90036400 Spell - Dark Blade
+90037300 Spell - Lifehunt Scythe
+90037600 Spell - Blessed Weapon
+90037700 Spell - Deep Protection
+90037800 Spell - Atonement
+90037900 Spell - Projected Heal
+91007001 Weapon Art - Scholar's Candlestick - Right
+91007051 Weapon Art - Scholar's Candlestick - Left
+91011200 Weapon - Handmaid's Dagger
+91011211 Weapon Art - Handmaid's Dagger - Right
+91011261 Weapon Art - Handmaid's Dagger - Left
+91021110 Weapon Art - Sunlight Straight Sword
+91021400 Weapon - Irithyll Weapon
+91022210 Weapon - Executioner's Greatsword
+91022401 Weapon Art - Onyx Blade - Right
+91022451 Weapon Art - Onyx Blade - Left
+91040700 Weapon Art - Pontiff Knight Curved Sword
+91040701 Weapon Art - Pontiff Knight Curved Sword
+91041000 Weapon Art - Crescent Moon Sword
+91050200 Weapon - Chaos Blade
+91050401 Weapon Art - Bloodlust - Right
+91050451 Weapon Art - Bloodlust - Left
+91062311 Weapon Art - Warcry 1 - Right
+91062351 Weapon Art - Warcry 1 - Left
+91070111 Weapon Art - Warcry 2 - Right
+91070151 Weapon Art - Warcry 2 - Left
+91070411 Weapon Art - Warcry 3 - Right
+91070451 Weapon Art - Warcry 3 - Left
+91070511 Weapon Art - Warcry 4 - Right
+91070551 Weapon Art - Warcry 4 - Left
+91080011 Weapon Art - Warcry 5 - Right
+91080051 Weapon Art - Warcry 5 - Left
+91080611 Weapon Art - Warcry 6 - Right
+91080651 Weapon Art - Warcry 6 - Left
+91083211 Weapon Art - Ledo's Great Hammer - Right - Craggy Boulder
+91083212 Weapon Art - Ledo's Great Hammer - Right - Boulder Smash
+91083251 Weapon Art - Ledo's Great Hammer - Left - Craggy Boulder
+91083252 Weapon Art - Ledo's Great Hammer - Left - Boulder Smash
+91091901 Weapon - Yorshka's Spear
+91091910 Weapon Art - Yorshka's Spear - Right
+91091951 Weapon Art - Yorshka's Spear - Left
+91092200 Weapon - Dragonslayer Spear - Right
+91092210 Weapon - Dragonslayer Spear
+91092411 Weapon Art - Ringed Knight Spear - Ember - Right - Small Lava Pools
+91092451 Weapon Art - Ringed Knight Spear - Ember - Left - Small Lava Pools
+91092500 Weapon Art - Lothric War Banner
+91092510 Weapon Art - Lothric War Banner
+91100700 Weapon Art - Pontiff Knight Great Scythe - Right
+91100750 Weapon Art - Pontiff Knight Great Scythe - Left
+91120400 Weapon Art - Witch's Locks
+91120701 Weapon Art - Rose of Ariandel - Right
+91120751 Weapon Art - Rose of Ariandel - Left
+91130700 Weapon Art - Storyteller's Staff - Right
+91130750 Weapon Art - Storyteller's Staff - Left
+91134131 Weapon Art - Pyromancer's Parting Flame
+91201500 Weapon Art - Havel's Greatshield
+92003000 Weapon Art - Moaning Shield
+92017000 Weapon - Morion Blade
+92019000 Weapon - Lothric Knight Long Spear
+92041000 Weapon - Anri's Straight Sword
+92059010 Weapon - Arstor's Spear
+92063001 Ring - Aldrich's Sapphire
+92075000 Weapon - Old Wolf Curved Sword
+92079000 Weapon - Old Wolf Curved Sword
+94044000 White Phantom
+94056000 No Phantom
+95001000 Weapon Art - Gentle Prayer
+95004000 Weapon Art - Sacred Chime of Filianore
+99901000 Ring of Champions - Color 1
+99901001 Ring of Champions - Color 2
+99901002 Ring of Champions - Color 3
+99901003 Ring of Champions - Color 4
+99901004 Ring of Champions - Color 5
+99901005 Ring of Champions - Color 6
+99901006 Ring of Champions - Color 7
+99901007 Ring of Champions - Color 8
+99901008 Ring of Champions - Color 9
+99910000 Cosmetic - Fire Stone
+99910001 Cosmetic - Magic Stone
+99910002 Cosmetic - Lightning Stone
+99910003 Cosmetic - Dark Stone
+99910004 Cosmetic - Poison Stone
+99910005 Cosmetic - Bleed Stone
+99910006 Cosmetic - Frost Stone
+99910007 Cosmetic - Blessed Stone
+99910008 Cosmetic - Enchanted Stone
+99911000 NPC - Proximity Invisibility
+99912000 Champion's Pact
+99912010 Darkmoon Faithful
+99912020 Spears of the Church
+99912030 Watchdogs of Farron
+99912040 Aldrich Faithful
+99912050 Warriors of Sunlight
+99912060 Mound-makers
+99912070 Rosaria's Fingers
+99912080 Chaos Servants
+99913000 Nightmare
+99914000 Curse Aura
+99914001 Curse Aura
+99915000 Curse Burst
+99916000 Fire Infusion - DOT
+99917000 Lightning Infusion
+99918000 Knight Slayer's Ring
+99919000 Blind
+99921000 Aged Dragon Stone - DS2
+99921001 Aged Dragon Stone - DS2
+99922000 Logan's Staff - Logan's Focus
+99923000 Sage's Crystal Staff - Crystallization
+99924000 Manus Catalyst - Fury of Manus
+99930000 Humanity Sprite
+99930001 Humanity Sprite

@@ -1,0 +1,1920 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layout>
+  <entry>
+    <name>Icon ID</name>
+    <type>s32</type>
+    <default>-1</default>
+    <description>10004 - Dried Finger
+10005 - Shadowy Hollow
+10006 - Open Red Eye
+10007 - Closed Black Eye
+10008 - Estus with Down Blue Arrow
+10009 - Attack
+10010 - Magic
+10011 - Defence
+10012 - Resistances
+10013 - Stamina Regen
+10014 - HP Regen
+10015 - FP Regen
+10016 - Estus
+10017 - Ashen Estus
+10018 - Absorb HP
+10019 - Absorb FP
+10020 - FP Cost
+10021 - Weapon Skill
+10022 - Durability
+10023 - Carthus Milkring
+10024 - Silvercat Ring
+10025 - Slumbering Dragoncrest Ring
+10026 - Ring of Sacrifice
+10027 - Bow Distance
+10028 - Leo Ring
+10029 - Message Icon
+10030 - Item Discovery
+10031 - Souls
+10032 - Skull Ring
+10033 - Poise
+10034 - Calamity Ring
+10035 - Seed of a Giant Tree
+10036 - Damaged Helm
+10037 - Broken Helm 
+10038 - Damaged Armor
+10039 - Broken Armor
+10040 - Damaged Gauntlets
+10041 - Broken Gauntlets
+10042 - Damaged Leggings
+10043 - Broken Leggings
+10044 - Password Seal icon
+10045 - Armor and sword with blue aura and blue down arrow</description>
+  </entry>
+  <entry>
+    <name>Trigger on HP Below %</name>
+    <type>f32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Duration</name>
+    <type>f32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Trigger Interval</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Max Health</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Max Focus</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Max Stamina</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Slash</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Strike</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Thrust</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Standard</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Attack %: Physical</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Attack %: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Attack %: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Attack %: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Power %: Physical</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Power %: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Power %: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Power %: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage +: Physical</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Damage +: Magic</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Damage +: Fire</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Damage +: Lighting</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Defence %: Physical</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Defence %: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Defence %: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Defence %: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Defence +: Physical</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Defence +: Magic</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Defence +: Fire</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Defence +: Lightning</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>No Guard Damage %</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Vital Spot Change %</name>
+    <type>f32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Normal Spot Change %</name>
+    <type>f32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Max HP Change</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Behavior ID</name>
+    <type>s32</type>
+    <default>-1</default>
+    <description>NPC Behavior - Requires State Info 142
+Player Behavior - Requires State Info 275
+Bullet Behavior - Requires State Info 334</description>
+  </entry>
+  <entry>
+    <name>Change HP %</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Change HP +</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Change FP %</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Change FP +</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>FP Recovery</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Change SP %</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Change SP +</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Recovery</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Magic Effect Time Change</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Change Durability</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 4</description>
+  </entry>
+  <entry>
+    <name>Max Durability</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Attack %: Stamina</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Inflict Poison +</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 2</description>
+  </entry>
+  <entry>
+    <name>Inflict Toxic +</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 5</description>
+  </entry>
+  <entry>
+    <name>Inflict Blood +</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 6</description>
+  </entry>
+  <entry>
+    <name>Inflict Curse +</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 116</description>
+  </entry>
+  <entry>
+    <name>Fall Damage %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Souls %</name>
+    <type>f32</type>
+    <default>1</default>
+    <description>Requires State Info 76</description>
+  </entry>
+  <entry>
+    <name>Equip Load %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Item Weight %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Souls +</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Anim ID Offset</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Have Souls %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Target Priority</name>
+    <type>f32</type>
+    <default>0</default>
+    <description>Requires State Info 46</description>
+  </entry>
+  <entry>
+    <name>Enemy Sight Reduction</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 8</description>
+  </entry>
+  <entry>
+    <name>Enemy Listen Reduction</name>
+    <type>f32</type>
+    <default>1</default>
+    <description>Requires State Info 54</description>
+  </entry>
+  <entry>
+    <name>Gravity %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Resist %: Poison</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Resist %: Toxic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Resist %: Bleed</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Resist %: Curse</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Soul Steal %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Life Reduction %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>HP Recovery %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Expiration Effect ID</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Cycle Occurance Effect ID</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Attack Occurance Effect ID</name>
+    <type>s32</type>
+    <default>-1</default>
+    <description>Player - Requires State Info 153
+Enemies - Requires State Info 152</description>
+  </entry>
+  <entry>
+    <name>Guard Defense Flick Power %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Stability %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Raycast Passed Time</name>
+    <type>s16</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Poise +</name>
+    <type>s16</type>
+    <default>0</default>
+    <description>Requires State Info 155</description>
+  </entry>
+  <entry>
+    <name>Bow Distance %</name>
+    <type>s16</type>
+    <default>0</default>
+    <description>Requires State Info 168</description>
+  </entry>
+  <entry>
+    <name>Effect Category</name>
+    <type>s16</type>
+    <default>0</default>
+    <description>0 - Default
+10 - Stacks with Self
+20 - Recovery
+
+151 - Body Buff
+160 - Body Buff
+161 - Body Buff
+162 - Weapon Buff
+163 - Weapon Buff
+
+100 - Animation Change Offset
+1001 - Super Armor Change
+10001 - Damage Level Change
+
+110 - Resonance
+154 - Spook
+156 - Stamina Recovery
+1000 - Movement
+1002 - Lava Walk
+
+10003 - Bleed
+10004 - Poison
+10005 - Toxic
+10007 - Frostbite</description>
+  </entry>
+  <entry>
+    <name>Category Priority</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Save Category</name>
+    <type>s8</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Magic Attunement Slot</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Miracle Attunement Slot</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Hero Point Damage</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Defence Flick Power</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Flick Absorption %</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Bleed Damage Taken %</name>
+    <type>u8</type>
+    <default>100</default>
+  </entry>
+  <entry>
+    <name>Damage Level: None</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Small</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Medium</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Large</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Medium Strike</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Push</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Strike</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Small Strike</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Minimum</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Uppercut</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Strike LL</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Damage Level: Breath</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Damage Level Change before Poise Break - State Info 120
+Damage Level Change - State Info 121
+0 - Default
+1 - No Stagger
+2 - Short Stagger
+3 - Long Stagger
+4 - Stagger to Floor
+5 - Stagger Backwards
+6 - Faceplant
+7 - Stagger to Floor
+8 - Faceplant
+9 - Air Uppercut
+10 - Push
+11 - Heavy Stagger
+12 - Tumble Backwards</description>
+  </entry>
+  <entry>
+    <name>Attack Attribute</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>0 - None
+1 - Slash
+2 - Strike
+3 - Thrust
+4 - Standard</description>
+  </entry>
+  <entry>
+    <name>Effect Attribute</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>0 - None
+1 - Physical
+2 - Fire
+3 - Magic
+4 - Bleed
+5 - None
+6 - Lightning
+7 - Petrify
+8 - Curse
+9 - Dark</description>
+  </entry>
+  <entry>
+    <name>State Info</name>
+    <type>s16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Weapon Param Change</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>0 - None
+1 - Right-hand
+2 - Left-hand
+3 - Any
+4 - Kick
+-5 - -5</description>
+  </entry>
+  <entry>
+    <name>Move Type</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>0 - None
+3 - 1
+4 - 2
+5 - 3</description>
+  </entry>
+  <entry>
+    <name>Life Reduction Type</name>
+    <type>s16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Throw Trigger</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>0 - None
+1 - Not Allowed
+2 - Parry
+4 - Fall
+5 - Backstab
+6 - Lifedrain</description>
+  </entry>
+  <entry>
+    <name>addBehaviorJudgeId_add Trigger</name>
+    <type>s8</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>addBehaviorJudgeId_add</name>
+    <type>s8</type>
+    <default>100</default>
+  </entry>
+  <entry>
+    <name>Target Self</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Target Friend</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Target Enemy</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Target Player</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Target AI</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Target Live</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Target Ghost</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Target White Ghost</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Target Black Ghost</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Target Attacker</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Display Icon Non-active</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Use Effect in Effect</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Adjust Magic Ability</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Adjust Faith Ability</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Game Clear Bonus</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Magic Param Change</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Miracle Param Change</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Clear Soul</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Request: SOS</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Request: SOS (Black)</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Request: Force Join SOS (Black)</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Request: Kick Session</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Request: Leave Session</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Request: NPC Invasion</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>No Dead</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Current HP ignore Max HP</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Durability Loss</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Sight Reductions</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Listen Reductions</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Anti-Magic Effect</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Fake Targets</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Fake Undead Targets</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Fake Animal Targets</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Ignore Gravity</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Disable Poison</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Disable Toxic</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Disable Bleed</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Disable Curse</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Enable Charm</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Enable Persistence</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Has Target</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Cancel on Fire Damage</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Extend Effect Lifetime</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Request: Leave Arena Session</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Disable Frost</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Charge Attack Param Change</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Throw Attack Param Change</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Check Equip Slot</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 0</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 1</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 2</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 3</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 4</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 5</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 6</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 7</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 8</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 9</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 10</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 11</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 12</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 13</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 14</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Vow Type 15</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Damage Change State</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Visual Distance Change - AI 1</name>
+    <type>f32</type>
+    <default>1</default>
+    <description>StateInfo 267</description>
+  </entry>
+  <entry>
+    <name>Trigger for Opponent</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Friendly</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Self</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Trigger for Player</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Trigger for AI</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Trigger for Live</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Trigger for Ghost</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Trigger for Attacker</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Team Type</name>
+    <type>s8</type>
+    <default>-1</default>
+    <description>Requires State Info 132</description>
+  </entry>
+  <entry>
+    <name>Bullet Behavior ID - DmyPoly ID</name>
+    <type>s16</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 0</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>State Effect 1 - SpEffect</name>
+    <type>s32</type>
+    <default>-1</default>
+    <description>StateInfo303-311</description>
+  </entry>
+  <entry>
+    <name>State Effect 1 - Condition</name>
+    <type>s32</type>
+    <default>-1</default>
+    <description>StateInfo303-311</description>
+  </entry>
+  <entry>
+    <name>State Effect 2 - SpEffect</name>
+    <type>s32</type>
+    <default>-1</default>
+    <description>StateInfo303-311</description>
+  </entry>
+  <entry>
+    <name>State Effect 2 - Condition</name>
+    <type>s32</type>
+    <default>-1</default>
+    <description>StateInfo303-311</description>
+  </entry>
+  <entry>
+    <name>State Effect Increment</name>
+    <type>s32</type>
+    <default>0</default>
+	<description>StateInfo303-311</description>
+  </entry>
+  <entry>
+    <name>Unk9</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+   <entry>
+    <name>Visual Distance Change - AI 2</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>StateInfo 267</description>
+  </entry>
+  <entry>
+    <name>Visual Distance Change - AI 3</name>
+    <description>StateInfo 267</description>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk11</name>
+    <type>s16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 1</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 2</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 3</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 4</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 5</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 6</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Effect VFX 7</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Inflict Frost +</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 260</description>
+  </entry>
+  <entry>
+    <name>Unk12</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk13</name>
+    <type>s16</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Is Enable Foot Effect Slot</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk15</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Poise %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Anti-Demon %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Anti-Undead %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Anti-Hollow %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Anti-Abyss %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Unk16</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Unk17</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Defence %: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Defence +: Dark [E]</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Attack %: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Power %: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage +: Dark</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>pad2</name>
+    <type>dummy8</type>
+    <size>4</size>
+  </entry>
+  <entry>
+    <name>Dark Sight Value</name>
+    <type>s32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Trigger on HP Above %</name>
+    <type>f32</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Weapon Stamina Usage %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Item Discovery %</name>
+    <type>f32</type>
+    <default>0</default>
+    <description>Requires State Info 66</description>
+  </entry>
+  <entry>
+    <name>Goal ID to Find</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Poison Change % [E]</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Toxic Change % [E]</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Bleed Change % [E]</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Curse Change % [E]</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Frost Change % [E]</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>UnkDamageMult0</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>UnkDamageMult1</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>UnkDamageMult2</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>UnkDamageMult3</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Poison</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Toxic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Bleed</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Curse</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Frost</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Slash</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Strike</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Thrust</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Physical</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Magic</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Fire</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Lightning</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>SP Damage %: Dark</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Weapon Arts Points - STR</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Weapon Arts Points - DEX</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Weapon Arts Points - INT</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Weapon Arts Points - FTH</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Wet Aspect Param Jumptable</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Requires State Info 281</description>
+  </entry>
+  <entry>
+    <name>Disable Frostbite</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Scale with Aux Inflict Correction</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Scale with Flat Damage Correction</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Scale with Hollowing</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Cancel on Death</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Is Trigger on HP Condition</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Is Disable Compare for SP Attribute</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Disable Multiplayer Usage</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk28</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk29</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk30</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Absorption %: Physical</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Absorption %: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Absorption %: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Absorption %: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Absorption %: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption %: Physical</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption %: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption %: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption %: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Absorption %: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Global Weapon Damage %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Damage %: Physical</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Damage %: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Damage %: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Damage %: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>PVP Damage %: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Physical</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Magic</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Fire</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Lightning</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Damage %: Dark</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Inflict %: Frost</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Trigger on State Info: 0</name>
+    <type>s16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Trigger on State Info: 1</name>
+    <type>s16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Trigger on State Info: 2</name>
+    <type>s16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Affects Pyromancy</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Cast Speed +</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Purchase Item / Soul Transposition Menu</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Weapon Skill Cost %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Sorcery Cost %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Pyromancy Cost %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Miracle Cost %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Estus HP %</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Estus HP +</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Estus FP %</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Estus FP +</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Estus HP Restore %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Estus FP Restore %</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Death Occurence Effect ID</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>Requires State Info 199</description>
+  </entry>
+  <entry>
+    <name>Effect Duration %</name>
+    <type>f32</type>
+    <default>1</default>
+    <description>Requires State Info 193</description>
+  </entry>
+  <entry>
+    <name>Unk39</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Unk40</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk41</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>subSpCategory</name>
+    <type>s16</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>Unk42</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Vigor</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Attunement</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Endurance</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Vitality</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Strength</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Dexterity</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Intelligence</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Faith</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Luck</name>
+    <type>s8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>HumanPoint</name>
+    <type>s8</type>
+    <default>-1</default>
+  </entry>
+  <entry>
+    <name>pad</name>
+    <type>dummy8</type>
+    <size>14</size>
+  </entry>
+</layout>

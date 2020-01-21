@@ -1,0 +1,49 @@
+0 Scale - Softcap 40 <> 60 (75% to 85%)
+1 Scale - Softcap 40 <> 60 (75% to 85%)
+2 Scale - Softcap 40 <> 60 (72% to 81%)
+3 Linear - Used for Poison
+4 Scale - Softcap 30 <> 50 (80% to 90%)
+5 Scale - Softcap 40 <> 60 (60% to 90%)
+6 Scale - Softcap 45 <> 60 (55% to 90%)
+7 Bleed
+8 Scale - Softcap 40 <> 60 (70% to 85%)
+9 Scale - Softcap 40 <> 60 (75% to 85%)
+10 Scale - Softcap 30 <> 50 (50% to 60%)
+11 Scale - Softcap 30 <> 45 (40% to 90%)
+12 Scale - Softcap 30 <> 45 (55% to 75%)
+13 Scale - Softcap 40 <> 60 (85% to 95%)
+14 Scale - Softcap 30 <> 45 (55 to 75%)
+15 Scale - Softcap 30 <> 45 (75% to 90%)
+16 Scale - Softcap 45 <> 60 (65% to 90%)
+20 Spell Tool - Early Peak  - 100%
+33 Quality - Boosted Correction
+40 Infusion: Split INT/FTH Scaling
+60 Catalyst - Normal
+61 Catalyst - Late
+62 Catalyst - Dual - Normal
+63 Catalyst - Dual - Late
+64 Catalyst - Early
+65 Catalyst - Dual - Early
+70 Tool - Linear Scaling
+100 VIG - HP Scaling
+101 ATN - FP Scaling
+102 Soul Level - Defence
+110 Soul Level - Poison Resist
+111 Soul Level - Toxic Resist
+112 Soul Level - Bleed Resist
+113 Soul Level - Curse Resist
+114 Soul Level - Frost Resist
+120 VIT - Poison Resist
+121 None - Toxic Resist
+122 END - Bleed Resist
+123 LCK - Curse Resist
+124 VIG - Frost Resist
+130 STR - Physical Defence
+131 VIT - Physical Defence
+132 INT - Magical Defence
+133 STR - Fire Defence
+134 END - Lightning Defence
+135 FTH - Dark Defence
+140 LCK - Item Discovery
+150 Estus at Bonfire [Obsolete]
+200 Soul Level - Souls Required
