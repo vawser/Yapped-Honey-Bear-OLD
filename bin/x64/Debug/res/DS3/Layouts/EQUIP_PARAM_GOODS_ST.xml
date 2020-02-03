@@ -1,5 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="GoodsUseAnim" type="s8">
+    <item value="0" name="Consumable" />
+	<item value="1" name="Apply to Weapon" />
+	<item value="2" name="Quick Throw" />
+	<item value="3" name="Slow Throw" />
+	<item value="4" name="Binoculars" />
+	<item value="5" name="Scatter" />
+	<item value="6" name="Tool Kneel" />
+	<item value="7" name="Prism Stone" />
+	<item value="8" name="Apply to Ground" />
+	<item value="9" name="Crush Consumable" />
+	<item value="10" name="Estus Flask" />
+	<item value="11" name="Dragon Head Stone" />
+	<item value="12" name="Dragon Torso Stone" />
+	<item value="13" name="Pray" />
+	<item value="14" name="Cross Arms and Apply" />
+	<item value="16" name="Quick Apply to Weapon" />
+	<item value="17" name="Throwing Knife" />
+	<item value="18" name="Quick Throw Bottle" />
+	<item value="19" name="Ashen Estus Flask" />
+	<item value="20" name="Throw Backwards" />
+	<item value="21" name="Siegbräu" />
+	<item value="22" name="Transform" />
+	<item value="23" name="Twinkling Dragon Head Stone" />
+	<item value="24" name="Twinkling Dragon Torso Stone" />
+	<item value="25" name="Spear Fragment" />
+	<item value="26" name="Church Guardian Shiv" />
+  </enum>
+  <enum name="OpenMenuType" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Yes / No" />
+	<item value="4" name="Yes / No (Session)" />
+	<item value="5" name="Unknown" />
+	<item value="6" name="Create Blood Message" />
+	<item value="7" name="Roster Of Knights" />
+	<item value="8" name="Unknown" />
+	<item value="9" name="Ok / Cancel" />
+	<item value="10" name="Invasion" />
+	<item value="11" name="Coiled Sword Fragment" />
+	<item value="12" name="Darksign" />
+  </enum>
+  <enum name="SpEffectCategory" type="u8">
+    <item value="0" name="Default" />
+    <item value="5" name="Weapon" />
+  </enum>
+  <enum name="ReferenceType" type="u8">
+    <item value="0" name="Behavior / None" />
+	<item value="1" name="Bullet" />
+	<item value="2" name="SpEffect" />
+  </enum>
+  <enum name="GoodsType" type="u8">
+    <item value="0" name="Consumable" />
+	<item value="1" name="Key Item" />
+	<item value="2" name="Material" />
+  </enum>
+  
   <entry>
     <name>Ref ID 1</name>
     <type>s32</type>
@@ -99,24 +155,19 @@
     <name>Goods Type</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - Consumable
-1 - Key Item
-2 - Material</description>
+    <enum>GoodsType</enum>
   </entry>
   <entry>
-    <name>Ref Category</name>
+    <name>Reference Type</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - None
-1 - Bullet
-2 - SpEffect</description>
+    <enum>ReferenceType</enum>
   </entry>
   <entry>
     <name>SpEffect Category</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - Default
-5 - Weapon</description>
+    <enum>SpEffectCategory</enum>
   </entry>
   <entry>
     <name>Goods Category</name>
@@ -127,47 +178,13 @@
     <name>Goods Use Animation</name>
     <type>s8</type>
     <default>0</default>
-    <description>-2 - Estus Flask (drained)
-0 - Consumable          
-1 - Apply to Weapon    
-2 - Quick Throw         
-3 - Slow Throw          
-4 - Binoculars          
-5 - Scatter             
-6 - Tool Kneel          
-7 - Prism Stone         
-8 - Apply to Ground     
-9 - Consume Crushable
-10 - Estus Flask
-11 - Dragon Head Stone
-12 - Dragon Torso Stone
-14 - Cross Arms and Apply
-16 - Quick Apply to Weapon
-17 - Throwing Knife
-19 - Ashen Estus Flask
-20 - Throwable (Backwards)
-21 - Siegbräu
-22 - Transform
-23 - Twinkling Dragon Head Stone
-24 - Twinkling Dragon Torso Stone
-25 - Spear Fragment
-26 - Church Guardian Shiv</description>
+    <enum>GoodsUseAnim</enum>
   </entry>
   <entry>
     <name>Open Menu Type</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - None
-1 - Yes / No
-4 - Yes / No (Session)
-5 - Unknown
-6 - Create Blood Message
-7 - Roster of Knights
-8 - Unknown
-9 - Ok / Cancel
-10 - Invasion
-11 - Coiled Sword Fragment
-12 - Darksign</description>
+    <enum>OpenMenuType</enum>
   </entry>
   <entry>
     <name>Use Limit Category</name>

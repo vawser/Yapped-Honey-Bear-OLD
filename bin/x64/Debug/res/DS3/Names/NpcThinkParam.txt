@@ -529,6 +529,7 @@
 227003 Giant Crab
 227100 Lesser Crab
 227101 Lesser Crab
+227102 Lesser Crab - Tight Lease
 228000 Giant Rat
 229000 Irithyll Dog
 229100 Irithyll Dog
@@ -582,6 +583,7 @@
 502090 [Boss] Demon Prince
 502100 [Boss] Demon Prince (Orb)
 502200 [Boss] Demon Prince (Orb)
+502300 Crimson Bat
 503000 [Boss] King of the Storm
 511000 [Boss] Iudex Gundyr
 511080 [Boss] Iudex Gundyr (Throwing)

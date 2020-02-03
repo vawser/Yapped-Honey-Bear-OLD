@@ -628,6 +628,8 @@
 99912060 Mound-makers
 99912070 Rosaria's Fingers
 99912080 Chaos Servants
+99912081 Chaos Servants - Fire Aura
+99912090 Tomb Ghost
 99913000 Nightmare
 99914000 Curse Aura
 99914001 Curse Aura
@@ -641,5 +643,10 @@
 99922000 Logan's Staff - Logan's Focus
 99923000 Sage's Crystal Staff - Crystallization
 99924000 Manus Catalyst - Fury of Manus
+99924010 Velka's Talisman - Velka's Grace
 99930000 Humanity Sprite
 99930001 Humanity Sprite
+99931000 Immolate Aura
+99932000 Heal Burst
+99933000 Repel
+99934000 Frigid Valley Mask

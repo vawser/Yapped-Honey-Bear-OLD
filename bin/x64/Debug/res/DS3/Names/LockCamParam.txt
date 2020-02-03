@@ -106,6 +106,8 @@
 10300 [FDP] Wolf Kara
 10400 [FDP] Player map start
 20000 Numbness
+20001 Devil's Trumpet
+20002 Moonflower
 90000 Covert Camera-Zoom in
 90001 Covert Camera-Zoom Out
 90010 Monster House Boss Camera

@@ -1144,6 +1144,11 @@
 2621707 Dragon Greatsword - Unleash Dragon
 2623700 Abyssal Blade - Abyssal Burst
 2623705 Abyssal Blade - Abyssal Burst - Explosion
+2624300 Smelter Sword - 2H Heavy #1
+2624305 Smelter Sword - 2H Heavy #1 Max
+2624720 Smelter Sword - Smelter's Fury
+2624725 Smelter Sword - Smelter's Fury [Bullet]
+2624726 Smelter Sword - Smelter's Fury [Bullet]
 2700000 Rapier - 1H Light #1
 2700010 Rapier - 1H Light #2
 2700020 Rapier - 1H Light #3
@@ -1988,6 +1993,8 @@
 3215705 Dragon King Greataxe - Unleash Dragon
 3215706 Dragon King Greataxe - Unleash Dragon
 3215707 Dragon King Greataxe - Unleash Dragon
+3216700 Crypt Blacksword - Undead Wrath
+3216710 Crypt Blacksword - Undead Wrath [HitBullet]
 3300000 Hammer - 1H Light #1
 3300001 Hammer
 3300010 Hammer - 1H Light #2
@@ -3414,9 +3421,9 @@
 4800580 Small Shield - 2H Backstep
 4800600 Small Shield - Parry
 4800610 Small Shield - Backstab Transition
-4800700 Small Shield
-4800701 Small Shield
-4800710 Small Shield
+4800700 Small Shield - Weapon Art
+4800701 Small Shield - Weapon Art
+4800710 Small Shield - Weapon Art
 4800780 Small Shield - Blown Attack
 4803000 Pierce Shield - 1H Light #1
 4803010 Pierce Shield - 1H Light #2
@@ -3891,8 +3898,11 @@
 11300000 [Sorcery] Soul Arrow
 11301000 [Sorcery] Great Soul Arrow
 11302000 [Sorcery] Shockwave
+11302001 [Sorcery] Shockwave - Ascended
 11303000 [Sorcery] Soul Geyser
+11303001 [Sorcery] Soul Geyser - Ascended
 11303100 [Sorcery] Soul Geyser [HitBullet]
+11303101 [Sorcery] Soul Geyser - Ascended [HitBullet]
 11304000 [Sorcery] Homing Soulmass
 11304100 [Sorcery] Homing Soulmass [HitBullet]
 11305000 [Sorcery] Homing Crystal Soulmass
@@ -3918,30 +3928,52 @@
 11374000 [Sorcery] Soul Greatsword
 11374100 [Sorcery] Soul Greatsword
 11375000 [Sorcery] Farron Flashsword
+11375001 [Sorcery] Farron Flashsword - Ascended
 11375100 [Sorcery] Farron Flashsword
+11375101 [Sorcery] Farron Flashsword - Ascended
 11376000 [Sorcery] Old Moonlight
 11376001 [Sorcery] Old Moonlight [HitBullet]
 11376010 [Sorcery] Old Moonlight - Sword
+11376011 [Sorcery] Old Moonlight - Sword - Ascended
 11376020 [Sorcery] Old Moonlight - Sword
+11376021 [Sorcery] Old Moonlight - Sword - Ascended
 11376100 [Sorcery] Old Moonlight - Charged
 11376101 [Sorcery] Old Moonlight - Charged [HitBullet]
 11603000 [Sorcery] Affinity
 11603100 [Sorcery] Affinity [HitBullet]
 11604000 [Sorcery] Great Soul Dregs
+11604010 [Sorcery] Great Soul Dregs [BulletEmitter]
+11604020 [Sorcery] Great Soul Dregs [EmittedBullet]
 11613000 [Sorcery] Abyssal Edge
+11613001 [Sorcery] Abyssal Edge - Ascended
 11613100 [Sorcery] Abyssal Edge
+11613101 [Sorcery] Abyssal Edge - Ascended
 11620000 [Sorcery] Soul Stream
+11620001 [Sorcery] Soul Stream - Ascended
 11620100 [Sorcery] Soul Stream [BulletEmitter]
+11620101 [Sorcery] Soul Stream - Ascended [BulletEmitter]
 11620200 [Sorcery] Soul Stream
+11620201 [Sorcery] Soul Stream - Ascended
 11620300 [Sorcery] Soul Stream
+11620301 [Sorcery] Soul Stream - Ascended
 11651000 [Sorcery] Twisted Wall of Light
 11651100 [Sorcery] Twisted Wall of Light
 11740000 [Sorcery] Pestilent Mist
 11740100 [Sorcery] Pestilent Mist [HitBullet]
+11740110 [Sorcery] Pestilent Mist - Ascended
+11740200 [Sorcery] Snap Freeze
+11742000 [Sorcery] Light Hail
+11742100 [Sorcery] Light Hail [BulletEmitter]
+11742200 [Sorcery] Light Hail [HitBullet]
+11742300 [Sorcery] Light Hail
+11742400 [Sorcery] Light Hail [BulletEmitter]
+11742500 [Sorcery] Light Hail [HitBullet]
 12400000 [Pyromancy] Fireball
 12400100 [Pyromancy] Fireball [HitBullet]
+12400110 [Pyromancy] Fireball - Lava
 12402000 [Pyromancy] Fire Orb
 12402100 [Pyromancy] Fire Orb [HitBullet]
+12402110 [Pyromancy] Fire Orb - Lava
 12403000 [Pyromancy] Firestorm
 12403100 [Pyromancy] Firestorm [HitBullet]
 12403200 [Pyromancy] Firestorm [HitBullet]
@@ -3961,11 +3993,17 @@
 12407800 [Pyromancy] Black Serpent [HitBullet]
 12407900 [Pyromancy] Black Serpent [HitBullet]
 12411000 [Pyromancy] Great Combustion
+12411001 [Pyromancy] Great Combustion - Ascended
 12411100 [Pyromancy] Great Combustion [HitBullet]
+12411101 [Pyromancy] Great Combustion - Ascended [HitBullet]
 12411200 [Pyromancy] Great Combustion [HitBullet]
+12411201 [Pyromancy] Great Combustion - Ascended [HitBullet]
 12420000 [Pyromancy] Poison Mist
+12420001 [Pyromancy] Poison Mist - Ascended
 12421000 [Pyromancy] Toxic Mist
+12421001 [Pyromancy] Toxic Mist - Ascended
 12422000 [Pyromancy] Acid Surge
+12422001 [Pyromancy] Acid Surge - Ascended
 12430000 [Pyromancy] Iron Flesh
 12436000 [Pyromancy] Rapport
 12450000 [Pyromancy] Great Chaos Fire Orb
@@ -3981,9 +4019,13 @@
 12451600 [Pyromancy] Chaos Storm [HitBullet]
 12451700 [Pyromancy] Chaos Storm [HitBullet]
 12452000 [Pyromancy] Fire Whip
+12452001 [Pyromancy] Fire Whip - Ascended
 12453000 [Pyromancy] Black Flame
+12453001 [Pyromancy] Black Flame - Ascended
 12453100 [Pyromancy] Black Flame [HitBullet]
+12453101 [Pyromancy] Black Flame [HitBullet] - Ascended
 12453200 [Pyromancy] Black Flame [HitBullet]
+12453201 [Pyromancy] Black Flame [HitBullet] - Ascended
 12455000 [Pyromancy] Profaned Flame
 12455100 [Pyromancy] Profaned Flame [HitBullet]
 12455200 [Pyromancy] Profaned Flame [HitBullet]
@@ -3991,10 +4033,15 @@
 12456100 [Pyromancy] Chaos Bed Vestiges
 12456200 [Pyromancy] Chaos Bed Vestiges [unlinked]
 12456210 [Pyromancy] Chaos Bed Vestiges [BulletEmitter]
+12456212 [Pyromancy] Chaos Bed Vestiges - Lava
 12457000 [Pyromancy] Floating Chaos
 12457010 [Pyromancy] Floating Chaos [unlinked]
 12457100 [Pyromancy] Floating Chaos [BulletEmitter]
 12457110 [Pyromancy] Floating Chaos [EmittedBullet]
+12458000 [Pyromancy] Flame Fan
+12458001 [Pyromancy] Flame Fan - Ascended
+12458100 [Pyromancy] Flame Fan
+12458101 [Pyromancy] Flame Fan - Ascended
 12458200 [Pyromancy] Flame Fan
 12458210 [Pyromancy] Flame Fan
 12470000 [Pyromancy] Warmth
@@ -4005,6 +4052,7 @@
 12620000 [Pyromancy] Bursting Fireball
 12620100 [Pyromancy] Bursting Fireballl [HitBullet]
 12620200 [Pyromancy] Bursting Fireballl [HitBullet]
+12620210 [Pyromancy] Bursting Fireballl - Lava
 12630000 [Pyromancy] Boulder Heave
 12630100 [Pyromancy] Boulder Heave [HitBullet]
 12660000 [Pyromancy] Seething Chaos
@@ -4026,6 +4074,7 @@
 13509000 [Miracle] Lightning Arrow
 13513000 [Miracle] Morbid Temptation [unused]
 13530000 [Miracle] Force
+13530001 [Miracle] Force - Ascended
 13531000 [Miracle] Wrath of the Gods
 13532000 [Miracle] Emit Force
 13532100 [Miracle] Emit Force [HitBullet]
@@ -4041,8 +4090,12 @@
 13553000 [Miracle] Lightning Storm
 13553100 [Miracle] Lightning Storm
 13553200 [Miracle] Lightning Storm [HitBullet]
+13553300 [Miracle] Lightning Storm [HitBullet]
+13553400 [Miracle] Lightning Storm [HitBullet]
 13553500 [Miracle] Lightning Storm
 13553600 [Miracle] Lightning Storm [HitBullet]
+13553700 [Miracle] Lightning Storm [HitBullet]
+13553800 [Miracle] Lightning Storm [HitBullet]
 13554000 [Miracle] Gnaw
 13555000 [Miracle] Dorhys' Gnawing
 13556000 [Miracle] Way of White Corona
@@ -4053,6 +4106,7 @@
 13557010 [Miracle] Projected Heal [HitBullet]
 13581000 [Miracle] Vow of Silence
 13710000 [Miracle] Lightning Stake
+13710001 [Miracle] Lightning Stake - Ascended
 13710100 [Miracle] Lightning Stake [HitBullet]
 13710200 [Miracle] Lightning Stake [HitBullet]
 13710310 [Miracle] Lightning Stake [HitBullet]
@@ -4067,10 +4121,10 @@
 13725100 [Miracle] Divine Upheavel [HitBullet]
 13725200 [Miracle] Divine Upheavel [HitBullet]
 13725300 [Miracle] Divine Upheavel [HitBullet]
-13730000 [Miracle] Lifehunt Scythe - 1
-13730005 [Miracle] Lifehunt Scythe - 1
-13730100 [Miracle] Lifehunt Scythe - 2
-13730105 [Miracle] Lifehunt Scythe - 2
+13730000 [Miracle] Lifehunt Scythe
+13730005 [Miracle] Lifehunt Scythe
+13730100 [Miracle] Lifehunt Scythe - Ascended
+13730105 [Miracle] Lifehunt Scythe - Ascended
 13730200 [Miracle] Lifehunt Scythe - 3
 13730205 [Miracle] Lifehunt Scythe - 3
 13730300 [Miracle] Lifehunt Scythe - 4
@@ -4084,10 +4138,15 @@
 14999999 ### Spells ###
 15002000 [Sorcery] Soul Wave
 15003000 [Sorcery] Dark Edge
-15003001 [Sorcery] Dark Edge
+15003001 [Sorcery] Dark Edge - Ascended
+15003010 [Sorcery] Dark Edge
+15003011 [Sorcery] Dark Edge - Ascended
 15004000 [Miracle] Halo
+15004001 [Miracle] Halo - Ascended
 15004010 [Miracle] Halo [HitBullet]
+15004011 [Miracle] Halo [HitBullet] - Ascended
 15004020 [Miracle] Halo [HitBullet]
+15004021 [Miracle] Halo [HitBullet] - Ascended
 15005000 [Miracle] Ravenous Gnawing
 15006000 [Sorcery] Crystal Storm
 15006100 [Sorcery] Crystal Storm [HitBullet]
@@ -4128,6 +4187,7 @@
 18230111 [Pyromancy] Recollection [Bullet] - HitBullet
 18240000 [Sorcery] Whisper of Despair
 18280000 [Sorcery] Blinding Light
+18280001 [Sorcery] Blinding Light - Ascended
 18290000 [Sorcery] Deep Barb
 18300000 [Sorcery] Surging Deep
 18310000 [Sorcery] Dark Bead
@@ -4156,6 +4216,7 @@
 18360600 [Sorcery] Blizzard [HitBullet]
 18400000 [Pyromancy] Lingering Chaos
 18401000 [Sorcery] Climax
+18401001 [Sorcery] Climax - Ascended
 18402000 [Pyromancy] Mournful Flames
 18403000 [Miracle] Devouring Swarm
 18403010 [Miracle] Devouring Swarm
@@ -4176,9 +4237,9 @@
 18700000 [Miracle] Inner Fervor
 18800000 [Sorcery] Orbs of Judgment
 18800100 [Sorcery] Orbs of Judgment [HitBullet]
-18900000 Illusory Ring of the Guilty - Spell Deflection
-18900100 Illusory Ring of the Guilty - Spell Deflection
-19000000 Illusory Ring of the Exalted - Rapport
+18900000 Cursed Ring of Deflection - Spell Deflection
+18900100 Cursed Ring of Deflection - Spell Deflection
+19000000 Cursed Ring of Confusion - Rapport
 19100000 Ring of Londor - Abyssal Burst
 19200000 Wretched Pendant - Aura
 19502000 Mendicant's Staff - Serpentine Orbs
@@ -4188,3 +4249,13 @@
 19503002 Izalith Staff - Primordial Flame [HitBullet]
 19504003 Darkmoon Ritual Staff - Darkmoon Volley
 19505000 Man-grub's Staff - Holy Arrow
+19509000 Consumed King's Staff - Pestilent Mist
+19509100 Consumed King's Staff - Pestilent Mist
+19511000 Sunlight Talisman - Shower of Sunlight
+19511001 Sunlight Talisman - Shower of Sunlight [HitBullet]
+19511002 Sunlight Talisman - Shower of Sunlight [HitBullet]
+19512000 Lord's Chime - Lord's Bellow
+19513000 Caitha's Chime - Caitha's Affliction
+19517000 Rotten Talisman - Poison Spores
+19518000 Smouldering Talisman - Immolate
+19530000 Frigid Valley Mask - Frost Aura

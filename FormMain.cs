@@ -766,11 +766,15 @@ namespace Yapped
                     return;
                 }
 
+                int startID = massDuplicateForm.startRowID;
+                int endID = massDuplicateForm.endRowID;
+                int stepValue = massDuplicateForm.stepValue;
+
                 int index = dgvRows.SelectedCells[0].RowIndex;
                 ParamWrapper wrapper = (ParamWrapper)rowSource.DataSource;
                 PARAM.Row oldRow = wrapper.Rows[index];
 
-                for (int rowID = massDuplicateForm.startRowID; rowID <= massDuplicateForm.endRowID; rowID++)
+                for (int rowID = startID; rowID <= endID; rowID += stepValue)
                 {
                     PARAM.Row newRow;
                     if ((newRow = CreateRow_MassDuplicate(rowID)) != null)
@@ -812,6 +816,11 @@ namespace Yapped
                 dgvRows.Refresh();
             }
             return result;
+        }
+
+        private void massEditToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var massEditForm = new FormMassEdit(dgvRows);
         }
 
         private string GetResRoot()

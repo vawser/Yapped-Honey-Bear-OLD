@@ -73,26 +73,26 @@
 435 [Armor] Fire Absorption
 436 [Armor] Lightning Absorption
 437 [Armor] Dark Absorption
-500 Spell type
-501 Spell Attack attribute
-502 [Spell] Number of slots used
-503 [spell] number of times used
-504 [Spell] Required ability value Force
-505 [Spell] Required Ability value Faith
-520 【 spell 】 Consumption MP
-600 Arrow: Weapon type
+500 [Spell] Type
+501 [Spell] Attack Attribute
+502 [Spell] Slots Used
+503 [Spell] Number of Uses
+504 [Spell] INT Requirement
+505 [Spell] FTH Requirement
+520 [Spell] FP Consumption
+600 [Arrow] Weapon type
 601 [Arrow] Attack attribute
-610 [Arrow] Attack Force: Physics
-611 [Arrow] Attack Force: Magic
-612 [Arrow] Attack Force: Flame
-613 [Arrow] Attack Force: Thunder
-614 【 Arrow 】 Deadlier
-615 [Arrow] attack power: Darkness
-620 【 Arrow 】 Special Effect: Poison
-621 【 Arrow 】 Special effects: Bleeding
-622 【 Arrow 】 Special effects: Sacred
-623 【 Arrow 】 Special Effect: Voodoo
-624 【 Arrow 】 Special Effect: cold air
+610 [Arrow] Physical Damage
+611 [Arrow] Magic Damage
+612 [Arrow] Fire Damage
+613 [Arrow] Lightning Damage
+614 [Arrow] Critical
+615 [Arrow] Dark Damage
+620 [Arrow] Poison
+621 [Arrow] Bleed
+622 [Arrow] <Sacred>
+623 [Arrow] <Voodoo>
+624 [Arrow] Frost
 10000 PC Basic Name
 10001 [PC Basic] Sex
 10002 [Basic PC] Feature

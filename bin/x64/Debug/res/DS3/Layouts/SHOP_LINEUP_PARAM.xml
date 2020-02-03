@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="EquipType" type="u8">
+    <item value="0" name="Weapon" />
+	<item value="1" name="Armor" />
+	<item value="2" name="Accessory" />
+    <item value="3" name="Good" />
+  </enum>
   <entry>
     <name>Equip ID</name>
     <type>s32</type>
@@ -39,6 +45,7 @@
     <name>Equip Type</name>
     <type>u8</type>
     <default>3</default>
+    <enum>EquipType</enum>
   </entry>
   <entry>
     <name>Value (SAN)</name>

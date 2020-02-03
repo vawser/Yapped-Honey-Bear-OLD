@@ -127,7 +127,7 @@
   </entry>
   <entry>
     <name>Has Effect Type</name>
-    <type>s16</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
@@ -293,6 +293,6 @@
   <entry>
     <name>data</name>
     <type>dummy8</type>
-    <size>2</size>
+    <size>3</size>
   </entry>
 </layout>

@@ -36,7 +36,7 @@
 113 Player - Whip
 114 Player - Scythe
 115 Player - Thrusting Sword
-116 Player - Bow
+116 Player - Bow / Greatbow
 117 Player - Crossbow
 118 Player - Shield
 119 Player - Greatshield
@@ -60,5 +60,6 @@
 214 Player - Use Item
 215 Player - Use Object
 216 Player - Gesture
-217 Player - Stumble
+217 Player - Attacked
 218 Player - Deflected
+220 Player - Staggered

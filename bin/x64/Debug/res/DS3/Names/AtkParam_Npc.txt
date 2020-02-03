@@ -515,18 +515,18 @@
 1220150 [Corpse-grub]
 1220160 [Corpse-grub]
 1220170 [Corpse-grub]
-1230010 [Cathedral Ev[Pilgrim Angel]ist] Left hand: Sword down
-1230020 [Cathedral Ev[Pilgrim Angel]ist] Left hand: Right Saigi
-1230030 [Cathedral Ev[Pilgrim Angel]ist] Left hand: Right → Saigi
-1230040 [Cathedral Ev[Pilgrim Angel]ist] Left hand: Right Saigi
-1230050 [Cathedral Ev[Pilgrim Angel]ist] Right hand: Bible Helmet Split
-1230060 [Cathedral Ev[Pilgrim Angel]ist] Left hand: Right swing Saigi
-1230070 [Cathedral Ev[Pilgrim Angel]ist] Throwing Start technique
-1230071 [Cathedral Ev[Pilgrim Angel]ist] Continuous damage during throwing
-1230072 [Cathedral Ev[Pilgrim Angel]ist] Headed at times continued damage thrown
-1230080 [Cathedral Ev[Pilgrim Angel]ist] Bible Slap
-1230740 [Cathedral Ev[Pilgrim Angel]ist] Projection Magic
-1230750 [Cathedral Ev[Pilgrim Angel]ist]
+1230010 [Cathedral Evangelist] Left hand: Sword down
+1230020 [Cathedral Evangelist] Left hand: Right Saigi
+1230030 [Cathedral Evangelist] Left hand: Right → Saigi
+1230040 [Cathedral Evangelist] Left hand: Right Saigi
+1230050 [Cathedral Evangelist] Right hand: Bible Helmet Split
+1230060 [Cathedral Evangelist] Left hand: Right swing Saigi
+1230070 [Cathedral Evangelist] Throwing Start technique
+1230071 [Cathedral Evangelist] Continuous damage during throwing
+1230072 [Cathedral Evangelist] Headed at times continued damage thrown
+1230080 [Cathedral Evangelist] Bible Slap
+1230740 [Cathedral Evangelist] Projection Magic
+1230750 [Cathedral Evangelist]
 1240100 [Peasant Hollow] Axe lateral shaking 1
 1240110 [Peasant Hollow] Axe lateral shaking 2
 1240120 [Peasant Hollow] Axe Lateral swing

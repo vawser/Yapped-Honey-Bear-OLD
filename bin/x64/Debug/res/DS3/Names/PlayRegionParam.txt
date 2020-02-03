@@ -16,14 +16,14 @@
 301001 Lothric Castle - Dragon Barracks
 301002 Lothric Castle - Dragon Barracks
 301003 Lothric Castle - Dragon Barracks
-301010 Lothric Castle - Dragon Barracks
+301010 Lothric Castle - Dragonslayer Armour
 301011 Lothric Castle - None
 310000 Undead Settlement
 310001 Undead Settlement
 310002 Undead Settlement
 310003 Undead Settlement
 310004 Undead Settlement
-310020 Undead Settlement
+310020 Undead Settlement - Curse-rotted Greatwood
 310021 Undead Settlement
 320001 Archdragon Peak
 320002 Archdragon Peak

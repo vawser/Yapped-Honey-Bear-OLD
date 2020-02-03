@@ -1,5 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+   <enum name="EquipModelCategory" type="u8">
+    <item value="1" name="Hands" />
+    <item value="2" name="Body" />
+    <item value="5" name="Head" />
+    <item value="6" name="Legs" />
+  </enum>
+  <enum name="EquipModelGender" type="u8">
+    <item value="0" name="None" />
+    <item value="1" name="None" />
+    <item value="3" name="Split by Gender" />
+    <item value="4" name="Shared" />
+  </enum>
+  <enum name="ArmorCategory" type="u8">
+    <item value="0" name="Head" />
+    <item value="1" name="Body" />
+    <item value="2" name="Hands" />
+    <item value="3" name="Legs" />
+  </enum>
   <entry>
     <name>Sort ID</name>
     <type>s32</type>
@@ -329,26 +347,19 @@
     <name>Equip Model Category</name>
     <type>u8</type>
     <default>5</default>
-    <description>1 - Hands
-2 - Body
-5 - Head
-6 - Legs</description>
+    <enum>EquipModelCategory</enum>
   </entry>
   <entry>
     <name>Equip Model Gender</name>
     <type>u8</type>
     <default>4</default>
-    <description>3 - Separate Gender Model
-4 - Shared Model</description>
+    <enum>EquipModelGender</enum>
   </entry>
   <entry>
     <name>Armor Category</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - Head
-1 - Body
-2 - Hands
-3 - Legs</description>
+    <enum>ArmorCategory</enum>
   </entry>
   <entry>
     <name>Defence Material</name>

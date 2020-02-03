@@ -87,6 +87,12 @@
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMassEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMassEdit.Designer.cs">
+      <DependentUpon>FormMassEdit.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormNewRow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -110,6 +116,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMassEdit.resx">
+      <DependentUpon>FormMassEdit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormNewRow.resx">
       <DependentUpon>FormNewRow.cs</DependentUpon>

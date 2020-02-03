@@ -302,10 +302,6 @@
 3011 Bleed Stone
 3012 Frost Stone
 3013 Blessed Stone
-3014 Flask of Magic
-3015 Flask of Fire
-3016 Flask of Lightning
-3017 Flask of Abyss
 3018 Hexing Urn
 3019 Holy Water Urn
 3020 Witching Urn
@@ -331,7 +327,9 @@
 4014 Crystal Shard
 4015 Dragon Eye
 4016 Humanity
-4018 Aged Dragon Stone
+4017 Devil's Trumpet
+4018 Moonflower
+4019 Henbane
 5000 Dream of Iudex Gundyr
 5001 Dream of Vordt
 5002 Dream of Rotted Greatwood

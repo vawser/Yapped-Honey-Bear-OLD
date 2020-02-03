@@ -386,7 +386,7 @@
 4501 [Behavior] Falling
 4502 [Behavior] Falling
 4620 Curse Trap - Grand Archives
-4621 Curse Trap - Grand Archives - Apply Curse
+4621 Curse Trap - Grand Archives - Curse 50
 4900 EMEVD 710
 4901 EMEVD 710
 5000 Non-combat action running
@@ -614,26 +614,71 @@
 7160 Level Scaling - Dreg Heap
 7170 Level Scaling - Ringed City
 7300 Soul Black
-7400 NG Scaling - Cemetery of Ash
-7410 NG Scaling - High Wall of Lothric
-7420 NG Scaling - Undead Settlement
-7430 NG Scaling - Road of Sacrifices
-7440 NG Scaling - Cathedral of the Deep
-7445 NG Scaling - Farron Keep
-7460 NG Scaling - Catacombs of Carthus
-7470 NG Scaling - Smouldering Lake
-7480 NG Scaling - Irithyll of the Boreal Valley
-7490 NG Scaling - Irithyll Dungeon/Profaned Capital
-7492 NG Scaling - Anor Londo/Lothric Castle
-7493 NG Scaling - Lothric Castle
-7495 NG Scaling - Lothric Castle
-7520 NG Scaling - Archdragon Peak
-7530 NG Scaling - Untended Graves
-7535 NG Scaling - Grand Archives
-7540 NG Scaling - Fireless Shrine
-7550 NG Scaling - Ariandel
-7560 NG Scaling - Dreg Heap
-7570 NG Scaling - Ringed City
+7400 NG Scaling - Cemetery of Ash [Weak]
+7410 NG Scaling - High Wall of Lothric [Weak]
+7420 NG Scaling - Undead Settlement [Weak]
+7430 NG Scaling - Road of Sacrifices [Weak]
+7440 NG Scaling - Cathedral of the Deep [Weak]
+7445 NG Scaling - Farron Keep [Weak]
+7460 NG Scaling - Catacombs of Carthus [Weak]
+7470 NG Scaling - Smouldering Lake [Weak]
+7480 NG Scaling - Irithyll of the Boreal Valley [Weak]
+7490 NG Scaling - Irithyll Dungeon/Profaned Capital [Weak]
+7492 NG Scaling - Anor Londo/Lothric Castle [Weak]
+7493 NG Scaling - Lothric Castle [Weak]
+7495 NG Scaling - Lothric Castle [Weak]
+7520 NG Scaling - Archdragon Peak [Weak]
+7530 NG Scaling - Untended Graves [Weak]
+7535 NG Scaling - Grand Archives [Weak]
+7540 NG Scaling - Fireless Shrine [Weak]
+7550 NG Scaling - Ariandel [Weak]
+7560 NG Scaling - Dreg Heap [Weak]
+7570 NG Scaling - Ringed City [Weak]
+7600 NG Scaling - Cemetery of Ash [Strong]
+7610 NG Scaling - High Wall of Lothric [Strong]
+7620 NG Scaling - Undead Settlement [Strong]
+7630 NG Scaling - Road of Sacrifices [Strong]
+7640 NG Scaling - Cathedral of the Deep [Strong]
+7645 NG Scaling - Farron Keep [Strong]
+7660 NG Scaling - Catacombs of Carthus [Strong]
+7670 NG Scaling - Smouldering Lake [Strong]
+7680 NG Scaling - Irithyll of the Boreal Valley [Strong]
+7690 NG Scaling - Irithyll Dungeon/Profaned Capital [Strong]
+7692 NG Scaling - Anor Londo/Lothric Castle [Strong]
+7693 NG Scaling - Lothric Castle [Strong]
+7695 NG Scaling - Lothric Castle [Strong]
+7720 NG Scaling - Archdragon Peak [Strong]
+7730 NG Scaling - Untended Graves [Strong]
+7735 NG Scaling - Grand Archives [Strong]
+7740 NG Scaling - Fireless Shrine [Strong]
+7750 NG Scaling - Ariandel [Strong]
+7760 NG Scaling - Dreg Heap [Strong]
+7770 NG Scaling - Ringed City [Strong]
+8000 NG Scaling - Iudex Gundyr
+8010 NG Scaling - Vordt of the Boreal Valley
+8020 NG Scaling - Curse-rotted Greatwood
+8030 NG Scaling - Crystal Sage
+8040 NG Scaling - Deacons of the Deep
+8050 NG Scaling - Abyss Watchers
+8060 NG Scaling - High Lord Wolnir
+8070 NG Scaling - Old Demon King
+8080 NG Scaling - Pontiff Sulyvahn
+8090 NG Scaling - Aldrich, Devourer of Gods
+8100 NG Scaling - Yhorm the Giant
+8110 NG Scaling - Dancer of the Boreal Valley
+8120 NG Scaling - Oceiros, the Consumed King
+8130 NG Scaling - Dragonslayer Armour
+8140 NG Scaling - Ancient Wyvern
+8150 NG Scaling - Nameless King
+8160 NG Scaling - Champion Gundyr
+8170 NG Scaling - Twin Princes
+8180 NG Scaling - Soul of Cinder
+8190 NG Scaling - Sister Friede
+8200 NG Scaling - Gravetender's Champion
+8210 NG Scaling - Demon Prince
+8220 NG Scaling - Darkeater Midir
+8230 NG Scaling - Slave Knight Gael
+8240 NG Scaling - Halflight
 9000 VFX for Avatar (Super Ability)
 9010 No warp.
 9100 World Baff: Return blood of poison
@@ -1508,33 +1553,50 @@
 1092451 [Weapon Art] Ringed Knight Spear - Ember
 1092461 [Weapon Art] Ringed Knight Spear - Ember
 101310000 [Sorcery] Magic Weapon
+101310001 [Sorcery] Magic Weapon - Ascended
 101311000 [Sorcery] Great Magic Weapon
+101311001 [Sorcery] Great Magic Weapon - Ascended
 101312000 [Sorcery] Crystal Magic Weapon
+101312001 [Sorcery] Crystal Magic Weapon - Ascended
 101313000 [Sorcery] Frozen Weapon
+101313001 [Sorcery] Frozen Weapon - Ascended
 101330000 [Sorcery] Magic Shield
+101330001 [Sorcery] Magic Shield - Ascended
 101331000 [Sorcery] Great Magic Shield
+101331001 [Sorcery] Great Magic Shield - Ascended
 101340000 [Sorcery] Hidden Weapon
+101340001 [Sorcery] Hidden Weapon - Ascended
 101341000 [Sorcery] Hidden Body
+101341001 [Sorcery] Hidden Body - Ascended
 101350000 [Sorcery] Cast Light
 101353000 [Sorcery] Repair
 101354000 [Sorcery] Spook
+101354001 [Sorcery] Spook - Ascended
 101354100 [Sorcery] Spook [CycleOccurance]
 101355000 [Sorcery] Chameleon
 101355100 [Sorcery] Chameleon [CycleOccurance]
 101356000 [Sorcery] Aural Decoy
+101356001 [Sorcery] Aural Decoy - Ascended
 101740000 [Sorcery] Pestilent Mist
 101741000 [Sorcery] Snap Freeze
 102422000 [Pyromancy] Acid Surge
 102430000 [Pyromancy] Iron Flesh
+102430001 [Pyromancy] Iron Flesh - Ascended
 102430100 [Pyromancy] Iron Flesh
 102430200 [Pyromancy] Iron Flesh
 102431000 [Pyromancy] Flash Sweat
+102431001 [Pyromancy] Flash Sweat - Ascended
 102435000 [Pyromancy] Carthus Flame Arc
+102435001 [Pyromancy] Carthus Flame Arc - Ascended
 102436000 [Pyromancy] Rapport
+102436001 [Pyromancy] Rapport - Ascended
 102440000 [Pyromancy] Power Within
+102440001 [Pyromancy] Power Within - Ascended
 102470000 [Pyromancy] Warmth
 102562000 [Pyromancy] Profuse Sweat
+102562001 [Pyromancy] Profuse Sweat - Ascended
 102650000 [Pyromancy] Carthus Beacon
+102650001 [Pyromancy] Carthus Beacon - Ascended
 102650010 [Pyromancy] Carthus Beacon [CycleOccurance]
 103490000 [Miracle] Heal Aid
 103490100 [Miracle] Heal Aid [MP]
@@ -1558,34 +1620,46 @@
 103521000 [Miracle] Homeward
 103521100 [Miracle] Homeward [Replace]
 103540000 [Miracle] Heavenly Relief
+103540001 [Miracle] Heavenly Relief - Ascended
 103540010 [Miracle] Heavenly Relief
+103540011 [Miracle] Heavenly Relief - Ascended
 103557000 [Miracle] Projected Heal - Friendly
 103557010 [Miracle] Projected Heal - Self
 103560000 [Miracle] Magic Barrier
+103560001 [Miracle] Magic Barrier - Ascended
 103561000 [Miracle] Great Magic Barrier
+103561001 [Miracle] Great Magic Barrier - Ascended
 103563000 [Miracle] Sacred Oath
+103563001 [Miracle] Sacred Oath - Ascended
 103563100 [Miracle] Sacred Oath
 103581000 [Miracle] Vow of Silence
+103581001 [Miracle] Vow of Silence - Ascended
 103590000 [Miracle] Lightning Blade
+103590001 [Miracle] Lightning Blade - Ascended
 103591000 [Miracle] Darkmoon Blade
+103591001 [Miracle] Darkmoon Blade - Ascended
 103640000 [Miracle] Dark Blade
+103640001 [Miracle] Dark Blade - Ascended
 103700000 [Miracle] Dead Again
 103730000 [Miracle] Lifehunt Scythe
-103730100 [Miracle] Lifehunt Scythe
+103730100 [Miracle] Lifehunt Scythe - Ascended
 103730200 [Miracle] Lifehunt Scythe
 103730300 [Miracle] Lifehunt Scythe
 103730400 [Miracle] Lifehunt Scythe
 103731000 [Miracle] Lifehunt Scythe - HP Gain
-103731100 [Miracle] Lifehunt Scythe - HP Gain
+103731100 [Miracle] Lifehunt Scythe - Ascended - HP Gain
 103731200 [Miracle] Lifehunt Scythe - HP Gain
 103731300 [Miracle] Lifehunt Scythe - HP Gain
 103731400 [Miracle] Lifehunt Scythe - HP Gain
 103760000 [Miracle] Blessed Weapon
+103760001 [Miracle] Blessed Weapon - Ascended
 103770000 [Miracle] Deep Protection
+103770001 [Miracle] Deep Protection - Ascended
 103770100 [Miracle] Deep Protection [CycleOccurance]
 103770200 [Miracle] Deep Protection [CycleOccurance]
 103770300 [Miracle] Deep Protection [CycleOccurance]
 103780000 [Miracle] Atonement
+103780001 [Miracle] Atonement - Ascended
 111000000 Blade of the Darkmoon [old]
 111001000 Spears of the Church [old]
 111002000 Watchdogs of Farron [old]
@@ -1931,19 +2005,10 @@
 130201510 [Weapon Art] Havel's Greatshield [Cycle]
 130201520 [Weapon Art] Havel's Greatshield [Cycle]
 130220500 [Weapon Art] Moaning Shield
-143021400 Irithyll Straight Sword
-143021410 Irithyll Straight Sword
 143021900 [Weapon Art] Friede's Great Scythe
 143021905 [Weapon Art] Friede's Great Scythe
 143021910 [Weapon Art] Friede's Great Scythe
 143021911 [Weapon Art] Friede's Great Scythe
-143030500 Irithyll Rapier
-143030510 Irithyll Rapier
-143040700 Pontiff Knight Curved Sword
-143040710 Pontiff Knight Curved Sword
-143040720 Pontiff Knight Curved Sword
-143081800 Vordt's Great Hammer
-143081810 Vordt's Great Hammer
 150001000 [Weapon Art] Gentle Prayer
 150001001 [Weapon Art] Gentle Prayer [Cycle]
 150001050 [Weapon Art] Gentle Prayer
@@ -1955,7 +2020,6 @@
 150004060 [Weapon Art] Sacred Chime of Filianore
 160100001 ### System ###
 160100005 Player - FP Regen
-160100010 Player - Poise
 160100230 [Covenant] Thieves' Code
 160100231 [Covenant] Thieves' Code
 160100232 [Covenant] Thieves' Code [DeathOccurance]
@@ -1998,6 +2062,11 @@
 160105000 [Weapon] Bow - Dummy
 160106000 [Weapon] Greatbow - Dummy
 160107000 [Weapon] Crossbow - Dummy
+160109999 ### Poise
+160110000 Player - Idle
+160110001 Player - Cast
+160110002 Player - Weak Melee
+160110003 Player - Strong Melee
 160200000 ### Weapons ###
 160200001 Weapon Art - Disable Aux
 160200010 Black Knight Weapon - Anti-Demon
@@ -2019,6 +2088,7 @@
 160200352 Old Wolf Curved Sword [State]
 160200353 Old Wolf Curved Sword [State]
 160200360 Chikage
+160200361 Chikage [DeathOccurance]
 160200370 Hallowed Sword
 160200380 Hallowed Greatsword
 160200430 Phosophrescent Pole
@@ -2062,6 +2132,18 @@
 160201090 Titanite Catch Pole
 160201100 Executioner's Greatsword
 160201101 Executioner's Greatsword [DeathOccurance]
+160201110 Smoldering Talisman
+160201120 Beast Claw
+160201121 Beast Claw [DeathOccurance]
+160201130 Rakuyo
+160201140 Handmaid's Ladle
+160201150 Smouldering Curved Sword
+160201160 Smouldering Dagger
+160201170 Smouldering Spear
+160201180 Thrall Pick
+160201190 Thrall Harpe
+160201200 Scythe of Want
+160201201 Scythe of Want [DeathOccurance]
 160208999 ### Catalysts ###
 160209000 Storyteller's Staff
 160209001 Sunlight Talisman
@@ -2072,7 +2154,6 @@
 160209006 Saint's Bell-vine
 160209010 Sunless Talisman
 160209011 Mendicant's Staff
-160209012 Insanity Catalyst
 160209100 Normal Catalyst - Dark Reduction
 160209999 ### Dark Catalysts ###
 160210000 Manus Catalyst
@@ -2097,13 +2178,22 @@
 160250051 Tranquil Walk of Peace - Enemy
 160250060 Channeler's Boon - Self
 160250061 Channeler's Boon - Friend
-160250070 Hands of God - Flurry of Fists
 160250080 Scraping Spear - Acid Surge
 160250090 Quelaag's Fury Sword
 160250100 Logan's Staff - Logan's Focus
 160250110 Darkmoon Volley - Magic Absorption
 160250120 Sage's Crystal Staff - Crystallization
 160250130 Manus Catalyst - Fury of Manus
+160250131 Manus Catalyst - Fury of Manus - Apply Curse
+160250140 Velka's Talisman - Velka's Grace
+160250150 Tin Banishment Catalyst - Banish
+160250160 Crystal Chime - Crystallization
+160250170 Insanity Catalyst - Insanity
+160250180 Talisman of Beasts - Bestial Wrath
+160250190 Rotten Talisman - Poison Spores
+160250191 Rotten Talisman - Poison Spores - Disable Aux
+160250200 Smouldering Talisman - Immolate
+160250201 Smouldering Talisman - Enemy VFX
 160300001 ### Shields ###
 160300010 Ethereal Oak Shield
 160300020 Grass Crest Shield
@@ -2133,6 +2223,10 @@
 160300520 Immortal Dragon Greatshield
 160300530 Stone Greatshield
 160300540 Greatshield of Artorias
+160300550 Crystal Ring Shield
+160300560 Sanctus
+160300570 Smouldering Shield
+160300580 Shield of the Hunted
 160400000 ### Armor ###
 160400001 Pursuer's Gauntlets
 160400002 Millwood Knight Gauntlets
@@ -2199,38 +2293,84 @@
 160400067 Leggings of Thorns
 160400068 Black Dragon Leggings
 160400069 Black Dragon Leggings [CycleOccurance]
+160400070 Frigid Valley Mask
 160410000 Harald Legion Head VFX
 160500001 ### Spells - Effects ###
-160500030 Unleash Magic
-160500050 Repel
-160500060 Numbness
-160500070 Perseverance
-160500080 Blizzard
-160500090 Soul Focus
-160500100 Inner Fervor
-160500200 Rockflesh
-160500210 Rockflesh [CycleOccurance]
-160500220 Rockflesh [CycleOccurance]
-160500230 Acid Surge
-160500240 Climax
+160500030 [Sorcery] Unleash Magic
+160500031 [Sorcery] Unleash Magic - Ascended
+160500050 [Sorcery] Repel
+160500051 [Sorcery] Repel - Ascended
+160500060 [Sorcery] Numbness
+160500061 [Sorcery] Numbness - Ascended
+160500070 [Miracle] Perseverance
+160500071 [Miracle] Perseverance - Ascended
+160500080 [Sorcery] Blizzard
+160500090 [Sorcery] Soul Focus
+160500100 [Miracle] Inner Fervor
+160500200 [Pyromancy] Rockflesh
+160500201 [Pyromancy] Rockflesh - Ascended
+160500210 [Pyromancy] Rockflesh [CycleOccurance]
+160500211 [Pyromancy] Rockflesh - Ascended [CycleOccurance]
+160500220 [Pyromancy] Rockflesh [CycleOccurance]
+160500230 [Pyromancy] Acid Surge
+160500240 [Sorcery] Farron Flashsword - Ascended
 160600001 ### Rings ###
 160600010 Life Ring
+160600011 Life Ring+1
+160600012 Life Ring+2
+160600013 Life Ring+3
 160600020 Chloranthy Ring
+160600021 Chloranthy Ring+1
+160600022 Chloranthy Ring+2
+160600023 Chloranthy Ring+3
 160600030 Havel's Ring
+160600031 Havel's Ring+1
+160600032 Havel's Ring+2
+160600033 Havel's Ring+3
 160600040 Ring of Favor
+160600041 Ring of Favor+1
+160600042 Ring of Favor+2
+160600043 Ring of Favor+3
 160600050 Ring of Steel Protection
+160600051 Ring of Steel Protection+1
+160600052 Ring of Steel Protection+2
+160600053 Ring of Steel Protection+3
 160600060 Flame Stoneplate Ring
+160600061 Flame Stoneplate Ring+1
+160600062 Flame Stoneplate Ring+2
+160600063 Flame Stoneplate Ring+3
 160600070 Thunder Stoneplate Ring
+160600071 Thunder Stoneplate Ring+1
+160600072 Thunder Stoneplate Ring+2
+160600073 Thunder Stoneplate Ring+3
 160600080 Magic Stoneplate Ring
+160600081 Magic Stoneplate Ring+1
+160600082 Magic Stoneplate Ring+2
+160600083 Magic Stoneplate Ring+3
 160600090 Dark Stoneplate Ring
+160600091 Dark Stoneplate Ring+1
+160600092 Dark Stoneplate Ring+2
+160600093 Dark Stoneplate Ring+3
 160600100 Speckled Stoneplate Ring
+160600101 Speckled Stoneplate Ring+1
+160600102 Speckled Stoneplate Ring+2
+160600103 Speckled Stoneplate Ring+3
 160600110 Bloodbite Ring
 160600120 Poisonbite Ring
 160600130 Cursebite Ring
 160600140 Fleshbite Ring
 160600150 Wood Grain Ring
+160600151 Wood Grain Ring+1
+160600152 Wood Grain Ring+2
+160600153 Wood Grain Ring+3
 160600160 Scholar Ring
+160600161 Scholar Ring+1
+160600162 Scholar Ring+2
+160600163 Scholar Ring+3
 160600170 Priestess Ring
+160600171 Priestess Ring+1
+160600172 Priestess Ring+2
+160600173 Priestess Ring+3
 160600180 Red Tearstone Ring
 160600190 Blue Tearstone Ring
 160600200 Unused - Attack Boosts Power
@@ -2249,27 +2389,69 @@
 160600270 Morne's Ring
 160600280 Ring of the Sun's First Born
 160600290 Lingering Dragoncrest Ring
+160600291 Lingering Dragoncrest Ring+1
+160600292 Lingering Dragoncrest Ring+2
+160600293 Lingering Dragoncrest Ring+3
 160600300 Sage Ring
+160600301 Sage Ring+1
+160600302 Sage Ring+2
+160600303 Sage Ring+3
 160600310 Slumbering Dragoncrest Ring
 160600320 Dusk Crown Ring
+160600321 Dusk Crown Ring+1
+160600322 Dusk Crown Ring+2
+160600323 Dusk Crown Ring+3
 160600330 Saint's Ring
 160600340 Deep Ring
 160600350 Darkmoon Ring
 160600360 Hawk Ring
+160600361 Hawk Ring+1
+160600362 Hawk Ring+2
+160600363 Hawk Ring+3
 160600380 Covetous Gold Serpent Ring
+160600381 Covetous Gold Serpent Ring+1
+160600382 Covetous Gold Serpent Ring+2
+160600383 Covetous Gold Serpent Ring+3
 160600390 Covetous Silver Serpent Ring
+160600391 Covetous Silver Serpent Ring+1
+160600392 Covetous Silver Serpent Ring+2
+160600393 Covetous Silver Serpent Ring+3
 160600400 Sun Princess Ring
 160600410 Silvercat Ring
 160600420 Skull Ring
+160600421 Skull Ring+1
+160600422 Skull Ring+2
+160600423 Skull Ring+3
 160600430 Untrue White Ring
 160600440 Carthus Milkring
 160600450 Knight's Ring
+160600451 Knight's Ring+1
+160600452 Knight's Ring+2
+160600453 Knight's Ring+3
 160600460 Hunter's Ring
+160600461 Hunter's Ring+1
+160600462 Hunter's Ring+2
+160600463 Hunter's Ring+3
 160600470 Knight Slayer's Ring
+160600471 Knight Slayer's Ring+1
+160600472 Knight Slayer's Ring+2
+160600473 Knight Slayer's Ring+3
 160600480 Magic Clutch Ring
+160600481 Magic Clutch Ring+1
+160600482 Magic Clutch Ring+2
+160600483 Magic Clutch Ring+3
 160600490 Lightning Clutch Ring
+160600491 Lightning Clutch Ring+1
+160600492 Lightning Clutch Ring+2
+160600493 Lightning Clutch Ring+3
 160600500 Fire Clutch Ring
+160600501 Fire Clutch Ring+1
+160600502 Fire Clutch Ring+2
+160600503 Fire Clutch Ring+3
 160600510 Dark Clutch Ring
+160600511 Dark Clutch Ring+1
+160600512 Dark Clutch Ring+2
+160600513 Dark Clutch Ring+3
 160600520 Flynn's Ring
 160600530 Prisoner's Chain
 160600540 Untrue Dark Ring
@@ -2278,17 +2460,26 @@
 160600561 Ring of the Evil Eye [DeathOccurance]
 160600570 Ring of Calamity
 160600580 Farron Ring
+160600581 Farron Ring+1
+160600582 Farron Ring+2
+160600583 Farron Ring+3
 160600610 Lloyd's Sword Ring
 160600620 Lloyd's Shield Ring
 160600630 Estus Ring
 160600640 Ashen Estus Ring
 160600650 Horsehoof Ring
+160600651 Horsehoof Ring+1
+160600652 Horsehoof Ring+2
+160600653 Horsehoof Ring+3
 160600670 Reversal Ring
 160600680 Pontiff's Right Eye
 160600681 Pontiff's Right Eye [State]
 160600700 Pontiff's Left Eye
 160600701 Pontiff's Left Eye [State]
 160600710 Dragonscale Ring
+160600711 Dragonscale Ring+1
+160600712 Dragonscale Ring+2
+160600713 Dragonscale Ring+3
 160600720 Chillbite Ring
 160600730 Ring of Londor
 160600740 Spirit Amethyst
@@ -2298,9 +2489,18 @@
 160600771 Wretched Pendant - Bullet
 160600772 Wretched Pendant - Movement Slow
 160600780 Symbol of the Penitent
+160600781 Symbol of the Penitent+1
+160600782 Symbol of the Penitent+2
+160600783 Symbol of the Penitent+3
 160600800 Runic Seal
 160600810 Tome of Sunlight
+160600811 Tome of Sunlight+1
+160600812 Tome of Sunlight+2
+160600813 Tome of Sunlight+3
 160600830 Charred Bone
+160600831 Charred Bone+1
+160600832 Charred Bone+2
+160600833 Charred Bone+3
 160600840 Green Tearstone Ring
 160600860 Violet Tearstone Ring
 160600900 Demonsbane Ring
@@ -2308,6 +2508,9 @@
 160600920 Blight Ring
 160600930 Hallowed Ring
 160600940 Ring of Wisdom
+160600941 Ring of Wisdom+1
+160600942 Ring of Wisdom+2
+160600943 Ring of Wisdom+3
 160601060 Ring of Retaliation
 160601070 Ring of Reprisal
 160601080 Ring of Spite
@@ -2315,10 +2518,25 @@
 160601100 Ring of Vengeance
 160601110 Bulwark Ring
 160601120 Mercenary Ring
+160601121 Mercenary Ring+1
+160601122 Mercenary Ring+2
+160601123 Mercenary Ring+3
 160601130 Heretic Ring
+160601131 Heretic Ring+1
+160601132 Heretic Ring+2
+160601133 Heretic Ring+3
 160601140 Merchant Ring
+160601141 Merchant Ring+1
+160601142 Merchant Ring+2
+160601143 Merchant Ring+3
 160601150 Physician Ring
+160601151 Physician Ring+1
+160601152 Physician Ring+2
+160601153 Physician Ring+3
 160601160 Jester Ring
+160601161 Jester Ring+1
+160601162 Jester Ring+2
+160601163 Jester Ring+3
 160601170 Arcane Trinket
 160601180 Londor Tincture
 160601210 Enchanted Quiver
@@ -2332,20 +2550,35 @@
 160601330 Beastial Band
 160601331 Beastial Band [DeathOccurance]
 160601340 Band of Stone
+160601341 Band of Stone+1
+160601342 Band of Stone+2
+160601343 Band of Stone+3
 160601350 Band of Magic
+160601351 Band of Magic+1
+160601352 Band of Magic+2
+160601353 Band of Magic+3
 160601360 Band of Flame
+160601361 Band of Flame+1
+160601362 Band of Flame+2
+160601363 Band of Flame+3
 160601370 Band of Sparks
+160601371 Band of Sparks+1
+160601372 Band of Sparks+2
+160601373 Band of Sparks+3
 160601380 Band of Darkness
-160601390 Ring of Champions
-160601391 Ring of Champions - Color 1
-160601392 Ring of Champions - Color 2
-160601393 Ring of Champions - Color 3
-160601394 Ring of Champions - Color 4
-160601395 Ring of Champions - Color 5
-160601396 Ring of Champions - Color 6
-160601397 Ring of Champions - Color 7
-160601398 Ring of Champions - Color 8
-160601399 Ring of Champions - Color 9
+160601381 Band of Darkness+1
+160601382 Band of Darkness+2
+160601383 Band of Darkness+3
+160601390 Rainbow Ring
+160601391 Rainbow Ring - Color 1
+160601392 Rainbow Ring - Color 2
+160601393 Rainbow Ring - Color 3
+160601394 Rainbow Ring - Color 4
+160601395 Rainbow Ring - Color 5
+160601396 Rainbow Ring - Color 6
+160601397 Rainbow Ring - Color 7
+160601398 Rainbow Ring - Color 8
+160601399 Rainbow Ring - Color 9
 160601400 Ring of the Dutiful
 160601410 Ring of the Blessed
 160601420 Ring of the Resolute
@@ -2354,22 +2587,27 @@
 160601450 Ring of the Fanatic
 160601460 Ring of the Fingers
 160601470 Ring of Demons
-160601480 Cursed Ring of Evasion - Apply Curse
-160601481 Cursed Ring of Evasion - Curse [CycleOccurance]
-160601490 Cursed Ring of Vengeance
-160601491 Cursed Ring of Vengeance [AttackOccurance]
-160601492 Cursed Ring of Vengeance - Apply Curse
-160601493 Cursed Ring of Vengeance - Curse [CycleOccurance]
-160601500 Cursed Ring of Deflection
-160601501 Cursed Ring of Deflection - Apply Curse
-160601502 Cursed Ring of Deflection - Curse [CycleOccurance]
-160601510 Cursed Ring of Confusion
-160601511 Cursed Ring of Confusion - Team Type
-160601512 Cursed Ring of Confusion - Apply Curse
-160601513 Cursed Ring of Confusion - Curse [CycleOccurance]
 160601520 Elden Ring
 160601530 Rare Ring of Humanity
 160601540 Wolf Ring
+160601541 Wolf Ring+1
+160601542 Wolf Ring+2
+160601543 Wolf Ring+3
+160601550 Tomb Ring
+160689999 ### Curse - Rings ###
+160690000 Cursed Ring of Evasion - Apply Curse
+160690001 Cursed Ring of Evasion - Apply Curse [CycleOccurance]
+160690010 Cursed Ring of Vengeance - Effect
+160690011 Cursed Ring of Vengeance [AttackOccurance]
+160690012 Cursed Ring of Vengeance - Apply Curse
+160690013 Cursed Ring of Vengeance - Apply Curse [CycleOccurance]
+160690020 Cursed Ring of Deflection  - Effect
+160690021 Cursed Ring of Deflection - Apply Curse
+160690022 Cursed Ring of Deflection - Apply Curse [CycleOccurance]
+160690030 Cursed Ring of Confusion  - Effect
+160690031 Cursed Ring of Confusion - Change Team Type
+160690032 Cursed Ring of Confusion - Apply Curse
+160690033 Cursed Ring of Confusion - Apply Curse [CycleOccurance]
 160700001 ### Items ###
 160700020 Brightbug
 160700030 Blood of Might
@@ -2385,10 +2623,6 @@
 160700160 Bleed Stone
 160700170 Frost Stone
 160700180 Blessed Stone
-160700190 Flask of Magic
-160700200 Flask of Fire
-160700210 Flask of Lightning
-160700220 Flask of Abyss
 160700230 Old Growth Balm
 160700240 Vine Balm
 160700250 Blackweed Balm
@@ -2396,6 +2630,9 @@
 160700270 Purging Stone
 160700290 Aged Dragon Stone
 160700300 Enchanted Stone
+160700310 Devil's Trumpet
+160700320 Moonflower
+160700330 Henbane
 160709999 ### Developer Items ###
 160710000 Detection - Event Flag Tool
 160710101 Effect - God Tool
@@ -2433,6 +2670,7 @@
 160740001 Pilgrim Dummy
 160740002 Pilgrim Pulpa - Holy Burst
 160740003 Humanity Sprite
+160740100 NG+ Phantom
 160800000 ### NPC ###
 160800001 NPC - Base
 160800002 Enemy - Base
@@ -2537,8 +2775,11 @@
 170000030 Poison - Poison Mist
 170000040 Poison - Toxic Mist
 170000050 Bleed - Nibble
+170000051 Bleed - Nibble - Ascended
 170000060 Bleed - Gnaw
+170000061 Bleed - Gnaw - Ascended
 170000070 Bleed - Dorhys' Gnawing
+170000071 Bleed - Dorhys' Gnawing - Ascended
 170000080 Bleed - Devouring Swarm
 170000090 Frost - Blizzard
 170000110 Curse - Deep Barb
@@ -2551,8 +2792,17 @@
 170000240 Curse - Surging Deep
 170000250 Curse - Dreg Torrent
 170000260 Curse - Whisper of Despair
+170000261 Curse - Whisper of Despair - Ascended
 170000270 Curse - Pestilent Mist
+170000271 Curse - Pestilent Mist - HP Removal
+170000272 Curse - Pestilent Mist - Ascended
+170000273 Curse - Pestilent Mist - HP Removal - Ascended
 170000280 Curse - White Dragon Breath
+170000290 Curse - Pestilent Mist (Consumed King's Staff)
+170000291 Curse - Pestilent Mist - HP Removal (Consumed King's Staff)
+170000300 Durability - King's Ultra Greatsword
+170000310 Bleed - Caitha's Affliction
+170000320 Frost - Frigid Valley Mask
 179999999 ### Poison - Weapons ###
 180000000 Poison - Normal (Infusion)
 180000001 Poison - Quick (Infusion)
@@ -2589,12 +2839,7 @@
 180000211 Poison - Great Corvian Scythe (Infusion)
 180000220 Poison - Corvian Greatknife
 180000221 Poison - Corvian Greatknife (Infusion)
-180001000 Poison Effect - Instant - 30
-180001001 Poison Effect - Instant - 40
-180001002 Poison Effect - Instant - 50
-180001010 Poison Effect - Passive - 30
-180001011 Poison Effect - Passive - 40
-180001012 Poison Effect - Passive - 50
+180000230 Poison - Rotten Talisman
 180009999 ### Bleed - Weapons ###
 180010000 Bleed - Normal (Infusion)
 180010001 Bleed - Quick (Infusion)
@@ -2683,11 +2928,8 @@
 180010481 Bleed - Priscilla's Scythe (Infusion)
 180010490 Bleed - Priscilla's Scythe - Self
 180010491 Bleed - Priscilla's Scythe - Self (Infusion)
-180011000 Bleed Effect - Instant - 100
-180011001 Bleed Effect - Instant - 150
-180011002 Bleed Effect - Instant - 200
-180011003 Bleed Effect - Instant - 500
-180011010 Bleed Effect - Passive
+180010500 Bleed - Scythe of Nahr Alma
+180010501 Bleed - Scythe of Nahr Alma (Infusion)
 180019999 ### Frost ##
 180020000 Frost - Normal (Infusion)
 180020001 Frost - Quick (Infusion)
@@ -2716,6 +2958,8 @@
 180020121 Frost - Pontiff Knight Curved Sword (Infusion)
 180020130 Frost - Pontiff Knight Great Scythe
 180020131 Frost - Pontiff Knight Great Scythe (Infusion)
+180020140 Frost - Rampart Golem Lance
+180020141 Frost - Rampart Golem Lance (Infusion)
 180029999 ### Curse ###
 180030000 Curse - Normal (Infusion)
 180030001 Curse - Quick (Infusion)

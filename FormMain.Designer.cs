@@ -70,6 +70,7 @@
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.fbdExport = new System.Windows.Forms.FolderBrowserDialog();
+            this.massEditToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).BeginInit();
             this.splitContainer2.Panel1.SuspendLayout();
@@ -176,6 +177,7 @@
             this.addRowToolStripMenuItem,
             this.duplicateRowToolStripMenuItem,
             this.MassDuplicateRowsToolStripMenuItem,
+            this.massEditToolStripMenuItem,
             this.deleteRowToolStripMenuItem,
             this.findRowToolStripMenuItem,
             this.findNextRowToolStripMenuItem,
@@ -476,6 +478,15 @@
             this.fbdExport.Description = "Choose the folder to export parambnds to";
             this.fbdExport.RootFolder = System.Environment.SpecialFolder.MyComputer;
             // 
+            // massEditToolStripMenuItem
+            // 
+            this.massEditToolStripMenuItem.Name = "massEditToolStripMenuItem";
+            this.massEditToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.E)));
+            this.massEditToolStripMenuItem.Size = new System.Drawing.Size(253, 22);
+            this.massEditToolStripMenuItem.Text = "Mass Edit";
+            this.massEditToolStripMenuItem.Click += new System.EventHandler(this.massEditToolStripMenuItem_Click);
+            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -550,6 +561,7 @@
         private System.Windows.Forms.FolderBrowserDialog fbdExport;
         private System.Windows.Forms.ToolStripComboBox toolStripComboBoxGame;
         private System.Windows.Forms.ToolStripMenuItem MassDuplicateRowsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem massEditToolStripMenuItem;
     }
 }
 

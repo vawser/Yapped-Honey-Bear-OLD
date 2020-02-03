@@ -22,7 +22,7 @@
 2190 [Champion Gundyr] Soul of Champion Gundyr
 2200 [Soul of Cinder] Soul of the Lords
 2300 [Sister Friede] Soul of Sister Friede
-2310 [Champion's Gravetender] Champion's Bones
+2310 [Champion's Gravetender] Titanite Slab
 2330 [Demon Prince] Soul of the Demon Prince
 2340 [Halflight] Titanite Slab
 2341 [Halflight] Filianore's Spear Ornament
@@ -533,6 +533,7 @@
 3100030 [Undead Settlement] Mortician's Ashes
 3100040 [Undead Settlement] Homeward Bone
 3100050 [Undead Settlement] Caduceus Round Shield
+3100051 [Undead Settlement] Shiv
 3100060 [Undead Settlement] Ember
 3100070 [Undead Settlement] Soul of an Unknown Traveler
 3100080 [Undead Settlement] Soul of a Deserted Corpse
@@ -1056,7 +1057,7 @@
 3800610 [Smouldering Lake] Soul of a Great Champion
 3800620 [Smouldering Lake] Soul of a Great Champion
 3800630 [Smouldering Lake] Soul of a Great Champion
-3800760 [Smouldering Lake] Chest - Ember
+3800760 [Smouldering Lake] Chest - Bone Scythe
 3800900 [Smouldering Lake] Twinkling Titanite
 3800910 [Smouldering Lake] Large Titanite Shard
 3800920 [Smouldering Lake] Titanite Chunk
@@ -1133,7 +1134,7 @@
 3900810 [Profaned Capital] Storm Ruler
 3900820 [Irithyll Dungeon] Prisoner Chief's Ashes
 3900900 [Profaned Capital] Soul of a Weary Warrior
-4000010 [Cemetery of Ash] Broken Straight Sword
+4000010 [Cemetery of Ash] Ladle
 4000020 [Cemetery of Ash] Ember
 4000030 [Cemetery of Ash] Firebomb
 4000050 [Cemetery of Ash] Titanite Shard
@@ -1148,7 +1149,7 @@
 4000141 [Cemetery of Ash] Pale Shade Robe
 4000142 [Cemetery of Ash] Pale Shade Gloves
 4000143 [Cemetery of Ash] Pale Shade Trousers
-4000160 [Cemetery of Ash] Homeward Bone
+4000160 [Cemetery of Ash] Rainbow Ring
 4000170 [Cemetery of Ash] Transposing Kiln
 4000180 [Cemetery of Ash] Estus Ring
 4000190 [Cemetery of Ash] Fire Keeper Soul
@@ -1693,7 +1694,7 @@
 11901114 [Cathedral Knight - Greatsword - Consumed King's Garden] Cathedral Knight Leggings
 11901115 [Cathedral Knight - Greatsword - Consumed King's Garden] Magic Gem
 11901120 [Cathedral Knight - Consumed King's Garden] Magic Stoneplate Ring
-12000000 [Hollow Slave - Axe] Thrall Axe
+12000000 [Hollow Slave - Axe] Thrall Axe, Thrall Harpe, Thrall Pick
 12000001 [Hollow Slave - Axe] Thrall Hood
 12000002 [Hollow Slave - Axe] Titanite Shard
 12000003 [Hollow Slave - Axe] Bone Fragment
@@ -1707,7 +1708,7 @@
 12000300 [Hollow Slave - Flamberge] Thrall Hood
 12000301 [Hollow Slave - Flamberge] Titanite Shard
 12000302 [Hollow Slave - Flamberge] Bone Fragment
-12001000 [Hollow Slave - Axe] Thrall Axe
+12001000 [Hollow Slave - Axe] Thrall Axe, Thrall Harpe, Thrall Pick
 12001001 [Hollow Slave - Axe] Thrall Hood
 12001002 [Hollow Slave - Axe] Titanite Shard
 12001003 [Hollow Slave - Axe] Bone Fragment
@@ -1721,7 +1722,7 @@
 12001300 [Hollow Slave - Flamberge] Thrall Hood
 12001301 [Hollow Slave - Flamberge] Titanite Shard
 12001302 [Hollow Slave - Flamberge] Bone Fragment
-12002000 [Hollow Slave - Axe] Thrall Axe
+12002000 [Hollow Slave - Axe] Thrall Axe, Thrall Harpe, Thrall Pick
 12002001 [Hollow Slave - Axe] Thrall Hood
 12002002 [Hollow Slave - Axe] Titanite Chunk
 12002003 [Hollow Slave - Axe] Bone Fragment
@@ -1735,7 +1736,7 @@
 12002300 [Hollow Slave - Flamberge] Thrall Hood
 12002301 [Hollow Slave - Flamberge] Titanite Chunk
 12002302 [Hollow Slave - Flamberge] Bone Fragment
-12003000 [Hollow Slave - Axe] Thrall Axe
+12003000 [Hollow Slave - Axe] Thrall Axe, Thrall Harpe, Thrall Pick
 12003001 [Hollow Slave - Axe] Thrall Hood
 12003002 [Hollow Slave - Axe] Large Titanite Shard
 12003003 [Hollow Slave - Axe] Bone Fragment
@@ -1749,7 +1750,7 @@
 12003300 [Hollow Slave - Flamberge] Thrall Hood
 12003301 [Hollow Slave - Flamberge] Large Titanite Shard
 12003302 [Hollow Slave - Flamberge] Bone Fragment
-12004000 [Hollow Slave - Axe] Thrall Hood
+12004000 [Hollow Slave - Axe] Thrall Axe, Thrall Harpe, Thrall Pick
 12004001 [Hollow Slave - Axe] Titanite Chunk
 12004002 [Hollow Slave - Axe] Bone Fragment
 12004100 [Hollow Slave - Axe] Thrall Hood
@@ -1771,34 +1772,37 @@
 12100004 [Ghru - Spear] Wolf's Blood Swordgrass
 12100005 [Ghru - Spear] Poison Gem
 12100006 [Ghru - Spear] Vine Balm
+12100007 [Ghru - Spear] Rotten Talisman
 12100100 [Ghru - Curved Sword] Rotten Ghru Curved Sword
 12100101 [Ghru - Curved Sword] Titanite Shard
 12100102 [Ghru - Curved Sword] Rotten Pine Resin
 12100103 [Ghru - Curved Sword] Wolf's Blood Swordgrass
 12100104 [Ghru - Curved Sword] Poison Gem
 12100105 [Ghru - Curved Sword] Vine Balm
+12100106 [Ghru - Curved Sword] Rotten Talisman
 12100200 [Ghru - Dagger] Rotten Ghru Dagger
 12100201 [Ghru - Dagger] Titanite Shard
 12100202 [Ghru - Dagger] Black Bug Pellet
 12100203 [Ghru - Dagger] Wolf's Blood Swordgrass
 12100204 [Ghru - Dagger] Poison Gem
 12100205 [Ghru - Dagger] Vine Balm
+12100206 [Ghru - Dagger] Rotten Talisman
 12100300 [Mad Ghru] Titanite Shard
 12100301 [Mad Ghru] Black Bug Pellet
 12100302 [Mad Ghru] Wolf's Blood Swordgrass
 12100303 [Mad Ghru] Poison Gem
 12100400 [Smouldering Ghru - Spear] Titanite Shard
 12100401 [Smouldering Ghru - Spear] Fire Gem
-12101000 [Smouldering Ghru - Spear] Rotten Ghru Spear
-12101001 [Smouldering Ghru - Spear] Ghru Rotshield
+12101000 [Smouldering Ghru - Spear] Smouldering Spear, Smouldering Talisman
+12101001 [Smouldering Ghru - Spear] Smouldering Shield
 12101002 [Smouldering Ghru - Spear] Titanite Shard
 12101003 [Smouldering Ghru - Spear] Large Titanite Shard
 12101004 [Smouldering Ghru - Spear] Fire Gem
-12101100 [Smouldering Ghru - Curved Sword] Rotten Ghru Curved Sword
+12101100 [Smouldering Ghru - Curved Sword] Smouldering Curved Sword, Smouldering Talisman
 12101101 [Smouldering Ghru - Curved Sword] Titanite Shard
 12101102 [Smouldering Ghru - Curved Sword] Large Titanite Shard
 12101103 [Smouldering Ghru - Curved Sword] Fire Gem
-12101200 [Smouldering Ghru - Dagger] Rotten Ghru Dagger
+12101200 [Smouldering Ghru - Dagger] Smouldering Dagger, Smouldering Talisman
 12101201 [Smouldering Ghru - Dagger] Titanite Shard
 12101202 [Smouldering Ghru - Dagger] Large Titanite Shard
 12101203 [Smouldering Ghru - Dagger] Fire Gem
@@ -1852,6 +1856,7 @@
 12400004 [Peasant Hollow - Axe] Worker Trousers
 12400005 [Peasant Hollow - Axe] Charcoal Pine Resin
 12400006 [Peasant Hollow - Axe] Titanite Shard
+12400007 [Peasant Hollow - Axe] Worker Machete
 12400100 [Peasant Hollow - Lantern] Firebomb
 12400101 [Peasant Hollow - Lantern] Worker Hat
 12400102 [Peasant Hollow - Lantern] Worker Garb
@@ -2192,35 +2197,42 @@
 13500403 [Irithyllian Slave] Blackweed Balm
 13600000 [Lycanthrope] Titanite Shard
 13600001 [Lycanthrope] Ember
-13600002 [Lycanthrope] Lizard Hide
-13600003 [Lycanthrope] Old Growth Balm
+13600002 [Lycanthrope] Old Growth Balm
+13600003 [Lycanthrope] Shield of the Hunted
+13600004 [Lycanthrope] Beast Claw
 13700000 [Lycanthrope Hunter] Titanite Shard
-13700001 [Lycanthrope Hunter] Pike
+13700001 [Lycanthrope Hunter] Hunter's Log
 13800000 [Serpent-man Summoner] Mendicant's Staff
 13800001 [Serpent-man Summoner] Lizard Hide
 13800002 [Serpent-man Summoner] Lightning Gem
 13900000 [Serpent-man] Large Titanite Shard, Titanite Chunk
 13900001 [Serpent-man] Lizard Hide
 13900002 [Serpent-man] Lightning Gem, Sharp Gem
+13900003 [Serpent-man] Serpentine Twindaggers, Serpentine Hatchet, Serpentine Axe
 13900100 [Serpent-man] Man Serpent Hatchet
 13900101 [Serpent-man] Small Leather Shield
 13900102 [Serpent-man] Large Titanite Shard, Titanite Chunk
 13900103 [Serpent-man] Lizard Hide
 13900104 [Serpent-man] Lightning Gem, Sharp Gem
+13900105 [Serpent-man] Serpentine Twindaggers, Serpentine Hatchet, Serpentine Axe
 13900200 [Serpent-man] Man Serpent Hatchet
 13900201 [Serpent-man] Large Titanite Shard, Titanite Chunk
 13900202 [Serpent-man] Lizard Hide
 13900203 [Serpent-man] Lightning Gem, Sharp Gem
+13900204 [Serpent-man] Serpentine Twindaggers, Serpentine Hatchet, Serpentine Axe
 13900300 [Serpent-man] Man Serpent Hatchet
 13900301 [Serpent-man] Large Titanite Shard, Titanite Chunk
 13900302 [Serpent-man] Lizard Hide
 13900303 [Serpent-man] Lightning Gem, Sharp Gem
+13900304 [Serpent-man] Serpentine Twindaggers, Serpentine Hatchet, Serpentine Axe
 13901000 [Serpent-man] Large Titanite Shard, Titanite Chunk
 13901001 [Serpent-man] Lizard Hide
 13901002 [Serpent-man] Lightning Gem, Sharp Gem
+13901003 [Serpent-man] Serpentine Twindaggers, Serpentine Hatchet, Serpentine Axe
 13902000 [Serpent-man - High Wall of Lothric] Dragon Scale
 13902001 [Serpent-man - High Wall of Lothric] Lizard Hide
 13902002 [Serpent-man - High Wall of Lothric] Lightning Gem
+13902003 [Serpent-man - High Wall of Lothric] Serpentine Twindaggers, Serpentine Hatchet, Serpentine Axe
 13910000 [Giant Serpent-man] Large Titanite Shard, Titanite Chunk, Titanite Slab
 13910001 [Giant Serpent-man] Lizard Hide
 13910002 [Giant Serpent-man] Lightning Gem, Lethal Gem, Blunt Gem
@@ -2505,6 +2517,14 @@
 21208302 [Mimic - Lothric Castle] Rune Shield
 21208400 [Mimic - Grand Archives] Symbol of Avarice
 21208401 [Mimic - Grand Archives] Crystal Straight Sword
+21208500 [Mimic - Smouldering Lake] Symbol of Avarice
+21208501 [Mimic - Smouldering Lake] Scythe of Nahr Alma
+21208510 [Mimic - Smouldering Lake] Symbol of Avarice
+21208511 [Mimic - Smouldering Lake] Sacred Chime Hammer
+21208520 [Mimic - Smouldering Lake] Symbol of Avarice
+21208521 [Mimic - Smouldering Lake] Quelaag's Fury Sword
+21208530 [Mimic - Smouldering Lake] Symbol of Avarice
+21208531 [Mimic - Smouldering Lake] Smelter Sword
 21300000 [Writhing Rotten Flesh] Titanite Shard
 21300001 [Writhing Rotten Flesh] Lucky Gem
 21301000 [Writhing Rotten Flesh] Titanite Shard
@@ -2604,15 +2624,19 @@
 21900000 [Gargoyle - Profaned Capital] Gargoyle Flame Hammer
 21900001 [Gargoyle - Profaned Capital] Twinkling Titanite
 21900002 [Gargoyle - Profaned Capital] Fire Gem
+21900003 [Gargoyle - Profaned Capital] Gargoyle Skull
 21900100 [Gargoyle - Profaned Capital] Gargoyle Flame Spear
 21900101 [Gargoyle - Profaned Capital] Titanite Scale
 21900102 [Gargoyle - Profaned Capital] Fire Gem
+21900103 [Gargoyle - Profaned Capital] Gargoyle Skull
 21910000 [Gargoyle - Grand Archives] Gargoyle Flame Hammer
 21910001 [Gargoyle - Grand Archives] Twinkling Titanite
 21910002 [Gargoyle - Grand Archives] Fire Gem
+21910003 [Gargoyle - Grand Archives] Gargoyle Skull
 21910100 [Gargoyle - Grand Archives] Gargoyle Flame Spear
 21910101 [Gargoyle - Grand Archives] Titanite Scale
 21910102 [Gargoyle - Grand Archives] Fire Gem
+21910103 [Gargoyle - Grand Archives] Gargoyle Skull
 22000000 [Carthus Sandworm] Lightning Stake
 22000001 [Carthus Sandworm] Undead Bone Shard
 22100000 [Corvian - Road of Sacrifices] Corvian Greatknife
@@ -2670,21 +2694,29 @@
 22600000 [Sulyvahn's Beast] None
 22700000 [Great Crab - Road of Sacrifices] Titanite Shard
 22700001 [Great Crab - Road of Sacrifices] Lucky Gem
+22700002 [Great Crab - Road of Sacrifices] Giant Crab Arm
 22700010 [Great Crab - Road of Sacrifices] Titanite Shard
 22700011 [Great Crab - Road of Sacrifices] Lucky Gem
+22700012 [Great Crab - Road of Sacrifices] Giant Crab Arm
 22700020 [Great Crab - Road of Sacrifices] Great Swamp Ring
 22700021 [Great Crab - Road of Sacrifices] Lucky Gem
+22700022 [Great Crab - Road of Sacrifices] Giant Crab Arm
 22701000 [Great Crab - Smouldering Lake] Titanite Shard
 22701001 [Great Crab - Smouldering Lake] Large Titanite Shard
 22701002 [Great Crab - Smouldering Lake] Titanite Scale
 22701003 [Great Crab - Smouldering Lake] Lucky Gem
+22701004 [Great Crab - Smouldering Lake] Crab Helmet
+22701005 [Great Crab - Smouldering Lake] Giant Crab Arm
 22702000 [Great Crab - Farron Keep] Titanite Shard
 22702001 [Great Crab - Farron Keep] Lucky Gem
+22702002 [Great Crab - Farron Keep] Giant Crab Arm
 22702010 [Great Crab - Farron Keep] Lingering Dragoncrest Ring
 22710000 [Lesser Crab] Bloodred Moss Clump, Purple Moss Clump
 22710001 [Lesser Crab] Lucky Gem
+22710002 [Lesser Crab] Crab Claw
 22711000 [Lesser Crab] Blooming Purple Moss Clump, Rime-blue Moss Clump
 22711001 [Lesser Crab] Lucky Gem
+22711002 [Lesser Crab] Crab Claw
 22800000 [Giant Rat] Bloodbite Ring
 22800001 [Giant Rat] Blood Gem
 22800010 [Giant Rat] Large Soul of a Deserted Corpse
@@ -2701,7 +2733,7 @@
 30200101 [Giant Slave - Irithyll] Titanite Shard, Large Titanite Shard
 30210000 [Giant Slave - Cathedral of the Deep] Large Titanite Shard
 30210001 [Giant Slave - Cathedral of the Deep] Dung Pie
-30211000 [Giant Slave - Irithyll Dungeon] Titanite Chunk
+30211000 [Giant Slave - Irithyll Dungeon] Giant Slave Helmet
 30211001 [Giant Slave - Irithyll Dungeon] Dung Pie
 30600000 [Demon - Undead Settlement] Soul of a Demon
 30600001 [Demon - Undead Settlement] Fire Seed
@@ -2715,6 +2747,7 @@
 30700000 [Demon Cleric] Titanite Shard, Large Titanite Shard, Titanite Chunk, Fire Seed
 30700001 [Demon Cleric] Fire Gem
 30700002 [Demon Cleric] Cinder
+30700003 [Demon Cleric] Demon Cleric Mask
 30900000 [Cage Spider] Fading Soul
 30900001 [Cage Spider] Bone Fragment
 30901000 [Cage Spider] Fading Soul
@@ -2729,11 +2762,14 @@
 31103001 [Deep Accursed] Lethal Gem
 31200000 [Elder Ghru] Ember
 31200001 [Elder Ghru] Stone Greatshield
+31200002 [Elder Ghru] Elder Ghru Tree
 31200100 [Elder Ghru] Ember
 31200101 [Elder Ghru] Stone Greatshield
+31200102 [Elder Ghru] Elder Ghru Tree
 31200110 [Elder Ghru] Pharis's Hat
 31200200 [Elder Ghru] Ember
 31200201 [Elder Ghru] Stone Greatshield
+31200202 [Elder Ghru] Elder Ghru Tree
 31200210 [Elder Ghru] Black Bow of Pharis
 31410000 [Ancient Wyvern - High Wall] Drake Sword
 31410001 [Ancient Wyvern - High Wall] Dragon Scale
@@ -2877,8 +2913,10 @@
 60600002 [Tree Woman] Fire Seed
 60700000 [Corvian Knight] Large Titanite Shard, Titanite Chunk
 60700001 [Corvian Knight] Lethal Gem
+60700002 [Corvian Knight] Corvian Knight Helmet
 60700100 [Corvian Knight] Large Titanite Shard, Titanite Chunk
 60700101 [Corvian Knight] Lethal Gem
+60700102 [Corvian Knight] Corvian Knight Helmet
 60900000 [Giant Fly] Human Pine Resin
 60900001 [Giant Fly] Dark Gem
 61000000 [Millwood Knight] Titanite Shard, Large Titanite Shard, Titanite Chunk, Titanite Slab
@@ -3125,7 +3163,7 @@
 210000240 [Cathedral of the Deep] Human Dregs
 210000250 [Irithyll] Kris Blade
 210000260 [Smouldering Lake] Charcoal Pine Resin
-210000270 [Archdragon Peak] Flask of Lightning
+210000270 [Archdragon Peak] Titanite Chunk
 210000290 [Road of Sacrifices] Undead Bone Shard
 210000300 [Farron Keep] Soul of a Weary Warrior
 210000310 [Lothric Castle] Sunlight Medal
@@ -3161,9 +3199,10 @@
 210000611 [Undead Settlement] Black Cleric Robe
 210000612 [Undead Settlement] Black Manchette
 210000613 [Undead Settlement] Black Tights
+210000614 [Undead Settlement] Velka's Talisman
 210000620 [Profaned Capital] Soul of a Crestfallen Knight
 210000630 [Undead Settlement] Velka's Rapier
-210000880 [Cemetery of Ash] Ring of the Exalted
+210000880 [Cemetery of Ash] Champion's Bones
 210000881 [Cemetery of Ash] Champion's Tome
 210000882 [Cemetery of Ash] Death and You
 210000890 [Cemetery of Ash] Censuring Palm
@@ -3238,7 +3277,7 @@
 210001580 [Farron Keep] Chest - Knight's Ring
 210001590 [Farron Keep] Chest - Hunter's Ring
 210001600 [Farron Keep] Chest - Hunter Axe
-210001610 [Cathedral of the Deep] Flask of Abyss
+210001610 [Cathedral of the Deep] Large Titanite Shard
 210001620 [Cathedral of the Deep] Dark Gem
 210001630 [Cathedral of the Deep] Large Titanite Shard
 210001640 [Cathedral of the Deep] Hexing Urn
@@ -3253,14 +3292,20 @@
 210001730 [Catacombs of Carthus] Bloodred Moss Clump
 210001740 [Catacombs of Carthus] Repair Powder
 210001750 [Catacombs of Carthus] Chest - Black Flame
-210001760 [Catacombs of Carthus] Chest - Black Fire Orb
+210001751 [Catacombs of Carthus] Chest - Black Fire Orb
+210001760 [Catacombs of Carthus] Chest - Paladin Helm
+210001761 [Catacombs of Carthus] Chest - Paladin Armor
+210001762 [Catacombs of Carthus] Chest - Paladin Gauntlets
+210001763 [Catacombs of Carthus] Chest - Paladin Leggings
+210001764 [Catacombs of Carthus] Chest - Sanctus
 210001770 [Catacombs of Carthus] Chest - Dark Dance
 210001780 [Catacombs of Carthus] Chest - Fool's Flame
-210001790 [Catacombs of Carthus] Chest - Flask of Fire
+210001790 [Catacombs of Carthus] Chest - Titanite Catch Pole
 210001800 [Catacombs of Carthus] Chest - Recollection
+210001801 [Catacombs of Carthus] Chest - Tomb Ring
 210001810 [Smouldering Lake] Red Bug Pellet
 210001820 [Smouldering Lake] Charcoal Pine Resin
-210001830 [Smouldering Lake] Titanite Catch Pole
+210001830 [Smouldering Lake] Large Titanite Shard
 210001840 [Smouldering Lake] Rope Firebomb
 210001850 [Smouldering Lake] Chest - Guillotine Axe
 210001860 [Smouldering Lake] Chest - Band of Flame
@@ -3275,9 +3320,12 @@
 210001950 [Irithyll] Soul of a Crestfallen Knight
 210001960 [Irithyll] Frost Gem
 210001970 [Irithyll] Large Soul of a Nameless Soldier
-210001980 [Irithyll] Chest - Flask of Magic
+210001980 [Irithyll] Chest - Procelain Mask
+210001981 [Irithyll] Chest - Lord's Blade Robe
+210001982 [Irithyll] Chest - Lord's Blade Gloves
+210001983 [Irithyll] Chest - Lord's Blade Waistcloth
 210001990 [Irithyll] Chest - Valorheart
-210002000 [Irithyll] Chest - Surging Deep
+210002000 [Irithyll] Chest - Pilgrim's Spontoon
 210002010 [Irithyll] Chest - Manikin Claws
 210002020 [Irithyll] Chest - Ring of Adversity
 210002030 [Irithyll] Chest - Boom Hammer
@@ -3304,10 +3352,10 @@
 210002180 [Lothric Castle] Firebomb
 210002190 [Lothric Castle] Green Blossom
 210002200 [Lothric Castle] Lightning Urn
-210002210 [Lothric Castle] Chest - Divine Blessing
+210002210 [Lothric Castle] Chest - Key to the Embedded
 210002220 [Lothric Castle] Chest - Unleash Magic
 210002230 [Lothric Castle] Chest - Red Tearstone Ring
-210002240 [Lothric Castle] Chest - Titanite Scale
+210002240 [Lothric Castle] Chest - Rakuyo
 210002250 [Lothric Castle] Chest - Tome of Sunlight
 210002260 [Grand Archives] Siegbräu
 210002270 [Grand Archives] Enchanted Gem
@@ -3420,3 +3468,273 @@
 800202220 [Nightmare - Darkeater Midir] Primordial Titanite
 800202300 [Dream - Slave Knight Gael] Primordial Titanite
 800202320 [Nightmare - Slave Knight Gael] Primordial Titanite
+800300000 [NG+1 - Cemetery of Ash] Life Ring+1
+800300001 Primordial Titanite
+800300010 [NG+1 - Farron Keep] Havel's Ring+1
+800300011 Primordial Titanite
+800300020 [NG+1 - Anor Londo] Ring of Favor+1
+800300021 Primordial Titanite
+800300030 [NG+1 - Grand Archives] Ring of Wisdom+1
+800300031 Primordial Titanite
+800300040 [NG+1 - Profaned Capital] Chloranthy Ring+1
+800300041 Primordial Titanite
+800300050 [NG+1 - Anor Londo] Wood Grain Ring+1
+800300051 Primordial Titanite
+800300060 [NG+1 - Farron Keep] Wolf Ring+1
+800300061 Primordial Titanite
+800300070 [NG+1 - Road of Sacrifices] Hawk Ring+1
+800300071 Primordial Titanite
+800300080 [NG+1 - Catacombs of Carthus] Knight Slayer's Ring+1
+800300081 Primordial Titanite
+800300090 [NG+1 - Farron Keep] Farron Ring+1
+800300091 Primordial Titanite
+800300100 [NG+1 - Consumed King's Garden] Dragonscale Ring+1
+800300101 Primordial Titanite
+800300110 [NG+1 - Catacombs of Carthus] Horsehoof Ring+1
+800300111 Primordial Titanite
+800300120 [NG+1 - Cathedral of the Deep] Symbol of the Penitent+1
+800300121 Primordial Titanite
+800300130 [NG+1 - High Wall of Lothric] Knight's Ring+1
+800300131 Primordial Titanite
+800300140 [NG+1 - Irithyll] Hunter's Ring+1
+800300141 Primordial Titanite
+800300150 [NG+1 - Grand Archives] Scholar Ring+1
+800300151 Primordial Titanite
+800300160 [NG+1 - Lothric Castle] Priestess Ring+1
+800300161 Primordial Titanite
+800300170 [NG+1 - Irithyll Dungeon] Mercenary Ring+1
+800300171 Primordial Titanite
+800300180 [NG+1 - Profaned Capital] Heretic Ring+1
+800300181 Primordial Titanite
+800300190 [NG+1 - Road of Sacrifices] Merchant Ring+1
+800300191 Primordial Titanite
+800300200 [NG+1 - Undead Settlement] Physician Ring+1
+800300201 Primordial Titanite
+800300210 [NG+1 - Lothric Castle] Jester Ring+1
+800300211 Primordial Titanite
+800300220 [NG+1 - Ariandel] Dusk Crown Ring+1
+800300221 Primordial Titanite
+800300230 [NG+1 - Ringed City] Tome of Sunlight+1
+800300231 Primordial Titanite
+800300240 [NG+1 - Smouldering Lake] Charred Bone+1
+800300241 Primordial Titanite
+800300250 [NG+1 - Grand Archives] Lingering Dragoncrest Ring+1
+800300251 Primordial Titanite
+800300260 [NG+1 - Irithyll] Sage Ring+1
+800300261 Primordial Titanite
+800300270 [NG+1 - Ringed City] Ring of Steel Protection+1
+800300271 Primordial Titanite
+800300280 [NG+1 - Smouldering Lake] Flame Stoneplate Ring+1
+800300281 Primordial Titanite
+800300290 [NG+1 - Archdragon Peak] Thunder Stoneplate Ring+1
+800300291 Primordial Titanite
+800300300 [NG+1 - Ariandel] Magic Stoneplate Ring+1
+800300301 Primordial Titanite
+800300310 [NG+1 - Ringed City] Dark Stoneplate Ring+1
+800300311 Primordial Titanite
+800300320 [NG+1 - Profaned Capital] Speckled Stoneplate Ring+1
+800300321 Primordial Titanite
+800300330 [NG+1 - Dreg Heap] Band of Stone+1
+800300331 Primordial Titanite
+800300340 [NG+1 - Irithyll] Band of Magic+1
+800300341 Primordial Titanite
+800300350 [NG+1 - Smouldering Lake] Band of Flame+1
+800300351 Primordial Titanite
+800300360 [NG+1 - Lothric Castle] Band of Sparks+1
+800300361 Primordial Titanite
+800300370 [NG+1 - Cathedral of the Deep] Band of Darkness+1
+800300371 Primordial Titanite
+800300380 [NG+1 - Dreg Heap] Covetous Gold Serpent Ring+1
+800300381 Primordial Titanite
+800300390 [NG+1 - Archdragon Peak] Covetous Silver Serpent Ring+1
+800300391 Primordial Titanite
+800300400 [NG+1 - Ringed City] Skull Ring+1
+800300401 Primordial Titanite
+800300410 [NG+1 - Ariandel] Magic Clutch Ring+1
+800300411 Primordial Titanite
+800300420 [NG+1 - Archdragon Peak] Lightning Clutch Ring+1
+800300421 Primordial Titanite
+800300430 [NG+1 - Profaned Capital] Fire Clutch Ring+1
+800300431 Primordial Titanite
+800300440 [NG+1 - Irithyll Dungeon] Dark Clutch Ring+1
+800300441 Primordial Titanite
+800301000 [NG+2 - Cemetery of Ash] Life Ring+2
+800301001 Primordial Titanite
+800301010 [NG+2 - Farron Keep] Havel's Ring+2
+800301011 Primordial Titanite
+800301020 [NG+2 - Anor Londo] Ring of Favor+2
+800301021 Primordial Titanite
+800301030 [NG+2 - Grand Archives] Ring of Wisdom+2
+800301031 Primordial Titanite
+800301040 [NG+2 - Profaned Capital] Chloranthy Ring+2
+800301041 Primordial Titanite
+800301050 [NG+2 - Anor Londo] Wood Grain Ring+2
+800301051 Primordial Titanite
+800301060 [NG+2 - Farron Keep] Wolf Ring+2
+800301061 Primordial Titanite
+800301070 [NG+2 - Road of Sacrifices] Hawk Ring+2
+800301071 Primordial Titanite
+800301080 [NG+2 - Catacombs of Carthus] Knight Slayer's Ring+2
+800301081 Primordial Titanite
+800301090 [NG+2 - Farron Keep] Farron Ring+2
+800301091 Primordial Titanite
+800301100 [NG+2 - Consumed King's Garden] Dragonscale Ring+2
+800301101 Primordial Titanite
+800301110 [NG+2 - Catacombs of Carthus] Horsehoof Ring+2
+800301111 Primordial Titanite
+800301120 [NG+2 - Cathedral of the Deep] Symbol of the Penitent+2
+800301121 Primordial Titanite
+800301130 [NG+2 - High Wall of Lothric] Knight's Ring+2
+800301131 Primordial Titanite
+800301140 [NG+2 - Irithyll] Hunter's Ring+2
+800301141 Primordial Titanite
+800301150 [NG+2 - Grand Archives] Scholar Ring+2
+800301151 Primordial Titanite
+800301160 [NG+2 - Lothric Castle] Priestess Ring+2
+800301161 Primordial Titanite
+800301170 [NG+2 - Irithyll Dungeon] Mercenary Ring+2
+800301171 Primordial Titanite
+800301180 [NG+2 - Profaned Capital] Heretic Ring+2
+800301181 Primordial Titanite
+800301190 [NG+2 - Road of Sacrifices] Merchant Ring+2
+800301191 Primordial Titanite
+800301200 [NG+2 - Undead Settlement] Physician Ring+2
+800301201 Primordial Titanite
+800301210 [NG+2 - Lothric Castle] Jester Ring+2
+800301211 Primordial Titanite
+800301220 [NG+2 - Ariandel] Dusk Crown Ring+2
+800301221 Primordial Titanite
+800301230 [NG+2 - Ringed City] Tome of Sunlight+2
+800301231 Primordial Titanite
+800301240 [NG+2 - Smouldering Lake] Charred Bone+2
+800301241 Primordial Titanite
+800301250 [NG+2 - Grand Archives] Lingering Dragoncrest Ring+2
+800301251 Primordial Titanite
+800301260 [NG+2 - Irithyll] Sage Ring+2
+800301261 Primordial Titanite
+800301270 [NG+2 - Ringed City] Ring of Steel Protection+2
+800301271 Primordial Titanite
+800301280 [NG+2 - Smouldering Lake] Flame Stoneplate Ring+2
+800301281 Primordial Titanite
+800301290 [NG+2 - Archdragon Peak] Thunder Stoneplate Ring+2
+800301291 Primordial Titanite
+800301300 [NG+2 - Ariandel] Magic Stoneplate Ring+2
+800301301 Primordial Titanite
+800301310 [NG+2 - Ringed City] Dark Stoneplate Ring+2
+800301311 Primordial Titanite
+800301320 [NG+2 - Profaned Capital] Speckled Stoneplate Ring+2
+800301321 Primordial Titanite
+800301330 [NG+2 - Dreg Heap] Band of Stone+2
+800301331 Primordial Titanite
+800301340 [NG+2 - Irithyll] Band of Magic+2
+800301341 Primordial Titanite
+800301350 [NG+2 - Smouldering Lake] Band of Flame+2
+800301351 Primordial Titanite
+800301360 [NG+2 - Lothric Castle] Band of Sparks+2
+800301361 Primordial Titanite
+800301370 [NG+2 - Cathedral of the Deep] Band of Darkness+2
+800301371 Primordial Titanite
+800301380 [NG+2 - Dreg Heap] Covetous Gold Serpent Ring+2
+800301381 Primordial Titanite
+800301390 [NG+2 - Archdragon Peak] Covetous Silver Serpent Ring+2
+800301391 Primordial Titanite
+800301400 [NG+2 - Ringed City] Skull Ring+2
+800301401 Primordial Titanite
+800301410 [NG+2 - Ariandel] Magic Clutch Ring+2
+800301411 Primordial Titanite
+800301420 [NG+2 - Archdragon Peak] Lightning Clutch Ring+2
+800301421 Primordial Titanite
+800301430 [NG+2 - Profaned Capital] Fire Clutch Ring+2
+800301431 Primordial Titanite
+800301440 [NG+2 - Irithyll Dungeon] Dark Clutch Ring+2
+800301441 Primordial Titanite
+800302000 [NG+3 - Cemetery of Ash] Life Ring+3
+800302001 Primordial Titanite
+800302010 [NG+3 - Farron Keep] Havel's Ring+3
+800302011 Primordial Titanite
+800302020 [NG+3 - Anor Londo] Ring of Favor+3
+800302021 Primordial Titanite
+800302030 [NG+3 - Grand Archives] Ring of Wisdom+3
+800302031 Primordial Titanite
+800302040 [NG+3 - Profaned Capital] Chloranthy Ring+3
+800302041 Primordial Titanite
+800302050 [NG+3 - Anor Londo] Wood Grain Ring+3
+800302051 Primordial Titanite
+800302060 [NG+3 - Farron Keep] Wolf Ring+3
+800302061 Primordial Titanite
+800302070 [NG+3 - Road of Sacrifices] Hawk Ring+3
+800302071 Primordial Titanite
+800302080 [NG+3 - Catacombs of Carthus] Knight Slayer's Ring+3
+800302081 Primordial Titanite
+800302090 [NG+3 - Farron Keep] Farron Ring+3
+800302091 Primordial Titanite
+800302100 [NG+3 - Consumed King's Garden] Dragonscale Ring+3
+800302101 Primordial Titanite
+800302110 [NG+3 - Catacombs of Carthus] Horsehoof Ring+3
+800302111 Primordial Titanite
+800302120 [NG+3 - Cathedral of the Deep] Symbol of the Penitent+3
+800302121 Primordial Titanite
+800302130 [NG+3 - High Wall of Lothric] Knight's Ring+3
+800302131 Primordial Titanite
+800302140 [NG+3 - Irithyll] Hunter's Ring+3
+800302141 Primordial Titanite
+800302150 [NG+3 - Grand Archives] Scholar Ring+3
+800302151 Primordial Titanite
+800302160 [NG+3 - Lothric Castle] Priestess Ring+3
+800302161 Primordial Titanite
+800302170 [NG+3 - Irithyll Dungeon] Mercenary Ring+3
+800302171 Primordial Titanite
+800302180 [NG+3 - Profaned Capital] Heretic Ring+3
+800302181 Primordial Titanite
+800302190 [NG+3 - Road of Sacrifices] Merchant Ring+3
+800302191 Primordial Titanite
+800302200 [NG+3 - Undead Settlement] Physician Ring+3
+800302201 Primordial Titanite
+800302210 [NG+3 - Lothric Castle] Jester Ring+3
+800302211 Primordial Titanite
+800302220 [NG+3 - Ariandel] Dusk Crown Ring+3
+800302221 Primordial Titanite
+800302230 [NG+3 - Ringed City] Tome of Sunlight+3
+800302231 Primordial Titanite
+800302240 [NG+3 - Smouldering Lake] Charred Bone+3
+800302241 Primordial Titanite
+800302250 [NG+3 - Grand Archives] Lingering Dragoncrest Ring+3
+800302251 Primordial Titanite
+800302260 [NG+3 - Irithyll] Sage Ring+3
+800302261 Primordial Titanite
+800302270 [NG+3 - Ringed City] Ring of Steel Protection+3
+800302271 Primordial Titanite
+800302280 [NG+3 - Smouldering Lake] Flame Stoneplate Ring+3
+800302281 Primordial Titanite
+800302290 [NG+3 - Archdragon Peak] Thunder Stoneplate Ring+3
+800302291 Primordial Titanite
+800302300 [NG+3 - Ariandel] Magic Stoneplate Ring+3
+800302301 Primordial Titanite
+800302310 [NG+3 - Ringed City] Dark Stoneplate Ring+3
+800302311 Primordial Titanite
+800302320 [NG+3 - Profaned Capital] Speckled Stoneplate Ring+3
+800302321 Primordial Titanite
+800302330 [NG+3 - Dreg Heap] Band of Stone+3
+800302331 Primordial Titanite
+800302340 [NG+3 - Irithyll] Band of Magic+3
+800302341 Primordial Titanite
+800302350 [NG+3 - Smouldering Lake] Band of Flame+3
+800302351 Primordial Titanite
+800302360 [NG+3 - Lothric Castle] Band of Sparks+3
+800302361 Primordial Titanite
+800302370 [NG+3 - Cathedral of the Deep] Band of Darkness+3
+800302371 Primordial Titanite
+800302380 [NG+3 - Dreg Heap] Covetous Gold Serpent Ring+3
+800302381 Primordial Titanite
+800302390 [NG+3 - Archdragon Peak] Covetous Silver Serpent Ring+3
+800302391 Primordial Titanite
+800302400 [NG+3 - Ringed City] Skull Ring+3
+800302401 Primordial Titanite
+800302410 [NG+3 - Ariandel] Magic Clutch Ring+3
+800302411 Primordial Titanite
+800302420 [NG+3 - Archdragon Peak] Lightning Clutch Ring+3
+800302421 Primordial Titanite
+800302430 [NG+3 - Profaned Capital] Fire Clutch Ring+3
+800302431 Primordial Titanite
+800302440 [NG+3 - Irithyll Dungeon] Dark Clutch Ring+3
+800302441 Primordial Titanite

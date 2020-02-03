@@ -1,5 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="AttackAttribute" type="s8">
+    <item value="0" name="None" />
+	<item value="1" name="Slash" />
+	<item value="2" name="Strike" />
+    <item value="3" name="Thrust" />
+    <item value="4" name="Standard" />
+  </enum>
+  <enum name="EffectAttribute" type="s8">
+    <item value="-1" name="None" />
+	<item value="1" name="Physical" />
+	<item value="2" name="Fire" />
+    <item value="3" name="Magic" />
+    <item value="4" name="Poison/Bleed" />
+    <item value="6" name="Lightning" />
+    <item value="7" name="Petrify" />
+    <item value="8" name="Crystallize" />
+    <item value="9" name="Dark" />
+  </enum>
+  <enum name="DamageLevel" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="No Stagger" />
+	<item value="2" name="Short Stagger" />
+    <item value="3" name="Long Stagger" />
+    <item value="4" name="Stagger to Floor" />
+    <item value="5" name="Stagger Backwards" />
+    <item value="6" name="Faceplant" />
+    <item value="7" name="Stagger to Floor" />
+    <item value="8" name="Faceplant" />
+    <item value="9" name="Air Juggle Stagger" />
+    <item value="10" name="Push" />
+    <item value="11" name="Strong Stagger" />
+    <item value="12" name="Stagger Backwards" />
+  </enum>
+  <enum name="AttackType" type="s8">
+    <item value="0" name="None" />
+	<item value="1" name="Block Parry" />
+	<item value="2" name="Affect Guard / Block Parry" />
+  </enum>
   <entry>
     <name>Hit 1: Radius</name>
     <type>f32</type>
@@ -254,6 +292,7 @@
     <name>Damage Level</name>
     <type>u8</type>
     <default>2</default>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Map Hit Type</name>
@@ -261,7 +300,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Guard Cut Cancel Rate</name>
+    <name>Guard Absorption Bypass Rate</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -269,16 +308,19 @@
     <name>Attack Attribute</name>
     <type>s8</type>
     <default>4</default>
+    <enum>AttackAttribute</enum>
   </entry>
   <entry>
     <name>Effect Attribute</name>
     <type>s8</type>
     <default>-1</default>
+    <enum>EffectAttribute</enum>
   </entry>
   <entry>
     <name>Attack Type</name>
     <type>s8</type>
     <default>0</default>
+    <enum>AttackType</enum>
   </entry>
   <entry>
     <name>Attack Material</name>

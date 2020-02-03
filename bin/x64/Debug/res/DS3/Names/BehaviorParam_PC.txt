@@ -49,14 +49,15 @@
 21510 Sacred Flame
 100000 Dragon Form
 100010 Dragon Form
-200000 Illusory Ring of the Guilty
-200010 Illusory Ring of the Exalted
+200000 Cursed Ring of Deflection
+200010 Cursed Ring of Confusion
 200020 Ring of Londor
 200030 Wretched Pendant
+200040 Frigid Valley Mask
 13730000 [Miracle] Lifehunt Scythe
 13730005 [Miracle] Lifehunt Scythe
-13730100 [Miracle] Lifehunt Scythe
-13730105 [Miracle] Lifehunt Scythe
+13730100 [Miracle] Lifehunt Scythe - Ascended
+13730105 [Miracle] Lifehunt Scythe - Ascended
 13730200 [Miracle] Lifehunt Scythe
 13730205 [Miracle] Lifehunt Scythe
 13730300 [Miracle] Lifehunt Scythe
@@ -64,7 +65,7 @@
 13730400 [Miracle] Lifehunt Scythe
 13730405 [Miracle] Lifehunt Scythe
 13731000 [Miracle] Lifehunt Scythe
-13731100 [Miracle] Lifehunt Scythe
+13731100 [Miracle] Lifehunt Scythe - Ascended
 13731200 [Miracle] Lifehunt Scythe
 13731300 [Miracle] Lifehunt Scythe
 13731400 [Miracle] Lifehunt Scythe
@@ -1040,6 +1041,10 @@
 102621705 Dragon Greatsword - Unleash Dragon
 102623700 Abyssal Blade - Abyssal Burst
 102623705 Abyssal Blade - Abyssal Burst
+102624300 Smelter Sword - 2H Heavy #1
+102624305 Smelter Sword - 2H Heavy #1 Max
+102624720 Smelter Sword - Smelter's Fury
+102624725 Smelter Sword - Smelter's Fury
 102700000 Rapier - 1H Light #1
 102700010 Rapier - 1H Light #2
 102700020 Rapier - 1H Light #3
@@ -1974,6 +1979,8 @@
 103214720 Witchtree Limb - Spin Bash
 103215700 Dragon King Greataxe - Unleash Dragon
 103215705 Dragon King Greataxe - Unleash Dragon
+103216700 Crypt Blacksword - Undead Wrath
+103216705 Crypt Blacksword - Undead Wrath
 103300000 Hammer - 1H Light #1
 103300001 Hammer
 103300010 Hammer - 1H Light #2
@@ -3021,13 +3028,25 @@
 104112720 Sorcerous Flame - Weapon Art
 104112725 Sorcerous Flame - Weapon Art
 104112800 Sorcerous Flame - Weapon Art
-104113700 Logan's Staff - Weapon Art - Logan's Focus
-104114700 Mendicant's Staff - Weapon Art - Serpentine Orbs
-104115700 Izalith Staff - Weapon Art - Primordial Flame
-104116700 Darkmoon Ritual Staff - Weapon Art - Darkmoon Volley
-104117700 Man-grub's Staff - Weapon Art - Holy Arrow
-104118700 Sage's Crystal Staff - Weapon Art - Crystallization
-104119700 Manus Catalyst - Weapon Art - Fury of Manus
+104113700 Logan's Staff - Logan's Focus
+104114700 Mendicant's Staff - Serpentine Orbs
+104115700 Izalith Staff - Primordial Flame
+104116700 Darkmoon Ritual Staff - Darkmoon Volley
+104117700 Man-grub's Staff - Holy Arrow
+104118700 Sage's Crystal Staff - Crystallization
+104119700 Manus Catalyst - Fury of Manus
+104120700 Velka's Talisman - Velka's Grace
+104121700 Consumed King's Staff - Pestilent Mist
+104122700 Tin Banishment Catalyst - Banish
+104123700 Sunlight Talisman - Shower of Sunlight
+104124700 Lord's Chime - Lord's Bellow
+104125700 Caitha's Chime - Caitha's Affliction
+104126700 Crystal Chime - Crystallization
+104127700 Insanity Catalyst - Insanity
+104128700 Talisman of Beasts - Bestial Wrath
+104129700 Rotten Talisman - Poison Spores
+104130700 Smouldering Talisman - Immolate
+104130701 Smouldering Talisman - Immolate - Behavior
 104200000 Caestus - 1H Light #1
 104200010 Caestus - 1H Light #2
 104200020 Caestus - 1H Light #3
@@ -3511,9 +3530,9 @@
 104800580 Small Shield - 2H Backstep
 104800600 Small Shield - Parry
 104800610 Small Shield - Backstab Transition
-104800700 Small Shield
-104800701 Small Shield
-104800710 Small Shield
+104800700 Small Shield - Weapon Art
+104800701 Small Shield - Weapon Art
+104800710 Small Shield - Weapon Art
 104800780 Small Shield - Blown Attack
 104803000 Pierce Shield - 1H Light #1
 104803010 Pierce Shield - 1H Light #2
@@ -4060,12 +4079,20 @@
 201374000 Soul Greatsword
 201374100 Soul Greatsword
 201375000 Farron Flashsword
+201375001 Farron Flashsword - Ascended
 201375100 Farron Flashsword
+201375101 Farron Flashsword - Ascended
 201376010 Old Moonlight
+201376011 Old Moonlight - Ascended
 201376020 Old Moonlight
+201376021 Old Moonlight - Ascended
 201613000 Abyssal Edge
+201613001 Abyssal Edge - Ascended
 201613100 Abyssal Edge
+201613101 Abyssal Edge - Ascended
 202458000 Flame Fan
+202458001 Flame Fan - Ascended
 202458100 Flame Fan
-202458101 Dark Edge
-202458102 Dark Edge
+202458101 Flame Fan - Ascended
+202458200 Dark Edge
+202458210 Dark Edge

@@ -188,6 +188,7 @@
 1201000 Screenshot Armor - Body
 1202000 Screenshot Armor - Arms
 1203000 Screenshot Armor - Legs
+1210000 Symbol of Avarice - NPC
 10000001 ### Armor ###
 19000000 Fallen Knight Helm
 19001000 Fallen Knight Armor

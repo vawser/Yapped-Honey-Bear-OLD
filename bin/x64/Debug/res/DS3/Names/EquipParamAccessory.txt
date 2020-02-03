@@ -14,34 +14,85 @@
 10130 Dragon Remnants
 19999 ### Rings ###
 20000 Life Ring
+20001 Life Ring+1
+20002 Life Ring+2
+20003 Life Ring+3
 20010 Chloranthy Ring
+20011 Chloranthy Ring+1
+20012 Chloranthy Ring+2
+20013 Chloranthy Ring+3
 20020 Havel's Ring
+20021 Havel's Ring+1
+20022 Havel's Ring+2
+20023 Havel's Ring+3
 20030 Ring of Favor
+20031 Ring of Favor+1
+20032 Ring of Favor+2
+20033 Ring of Favor+3
 20040 Ring of Steel Protection
+20041 Ring of Steel Protection+1
+20042 Ring of Steel Protection+2
+20043 Ring of Steel Protection+3
 20050 Flame Stoneplate Ring
+20051 Flame Stoneplate Ring+1
+20052 Flame Stoneplate Ring+2
+20053 Flame Stoneplate Ring+3
 20060 Thunder Stoneplate Ring
+20061 Thunder Stoneplate Ring+1
+20062 Thunder Stoneplate Ring+2
+20063 Thunder Stoneplate Ring+3
 20070 Magic Stoneplate Ring
+20071 Magic Stoneplate Ring+1
+20072 Magic Stoneplate Ring+2
+20073 Magic Stoneplate Ring+3
 20080 Dark Stoneplate Ring
+20081 Dark Stoneplate Ring+1
+20082 Dark Stoneplate Ring+2
+20083 Dark Stoneplate Ring+3
 20090 Speckled Stoneplate Ring
+20091 Speckled Stoneplate Ring+1
+20092 Speckled Stoneplate Ring+2
+20093 Speckled Stoneplate Ring+3
 20100 Bloodbite Ring
 20110 Poisonbite Ring
 20120 Cursebite Ring
 20130 Fleshbite Ring
 20140 Wood Grain Ring
+20141 Wood Grain Ring+1
+20142 Wood Grain Ring+2
+20143 Wood Grain Ring+3
 20150 Scholar Ring
+20151 Scholar Ring+1
+20152 Scholar Ring+2
+20153 Scholar Ring+3
 20160 Priestess Ring
+20161 Priestess Ring+1
+20162 Priestess Ring+2
+20163 Priestess Ring+3
 20170 Red Tearstone Ring
 20180 Blue Tearstone Ring
 20190 Wolf Ring
+20191 Wolf Ring+1
+20192 Wolf Ring+2
+20193 Wolf Ring+3
 20200 Leo Ring
 20210 Ring of Sacrifice
 20230 Young Dragon Ring
 20240 Great Swamp Ring
 20250 Morne's Ring
 20270 Lingering Dragoncrest Ring
+20271 Lingering Dragoncrest Ring+1
+20272 Lingering Dragoncrest Ring+2
+20273 Lingering Dragoncrest Ring+3
 20280 Sage Ring
+20281 Sage Ring+1
+20282 Sage Ring+2
+20283 Sage Ring+3
 20290 Slumbering Dragoncrest Ring
 20300 Dusk Crown Ring
+20301 Dusk Crown Ring+1
+20302 Dusk Crown Ring+2
+20303 Dusk Crown Ring+3
 20310 Saint's Ring
 20320 Deep Ring
 20330 Darkmoon Ring
@@ -49,21 +100,54 @@
 20350 Witch's Ring
 20360 Ring of the Sun's First Born
 20370 Hawk Ring
+20371 Hawk Ring+1
+20372 Hawk Ring+2
+20373 Hawk Ring+3
 20380 Hornet Ring
 20390 Covetous Gold Serpent Ring
+20391 Covetous Gold Serpent Ring+1
+20392 Covetous Gold Serpent Ring+2
+20393 Covetous Gold Serpent Ring+3
 20400 Covetous Silver Serpent Ring
+20401 Covetous Silver Serpent Ring+1
+20402 Covetous Silver Serpent Ring+2
+20403 Covetous Silver Serpent Ring+3
 20410 Sun Princess Ring
 20420 Silvercat Ring
 20430 Skull Ring
+20431 Skull Ring+1
+20432 Skull Ring+2
+20433 Skull Ring+3
 20440 Untrue White Ring
 20450 Carthus Milkring
 20460 Knight's Ring
+20461 Knight's Ring+1
+20462 Knight's Ring+2
+20463 Knight's Ring+3
 20470 Hunter's Ring
+20471 Hunter's Ring+1
+20472 Hunter's Ring+2
+20473 Hunter's Ring+3
 20480 Knight Slayer's Ring
+20481 Knight Slayer's Ring+1
+20482 Knight Slayer's Ring+2
+20483 Knight Slayer's Ring+3
 20490 Magic Clutch Ring
+20491 Magic Clutch Ring+1
+20492 Magic Clutch Ring+2
+20493 Magic Clutch Ring+3
 20500 Lightning Clutch Ring
+20501 Lightning Clutch Ring+1
+20502 Lightning Clutch Ring+2
+20503 Lightning Clutch Ring+3
 20510 Fire Clutch Ring
+20511 Fire Clutch Ring+1
+20512 Fire Clutch Ring+2
+20513 Fire Clutch Ring+3
 20520 Dark Clutch Ring
+20521 Dark Clutch Ring+1
+20522 Dark Clutch Ring+2
+20523 Dark Clutch Ring+3
 20540 Flynn's Ring
 20550 Prisoner's Chain
 20560 Untrue Dark Ring
@@ -71,6 +155,9 @@
 20590 Ring of the Evil Eye
 20600 Ring of Calamity
 20610 Farron Ring
+20611 Farron Ring+1
+20612 Farron Ring+2
+20613 Farron Ring+3
 20620 Aldrich's Ruby
 20630 Aldrich's Sapphire
 20660 Lloyd's Sword Ring
@@ -78,21 +165,36 @@
 20700 Estus Ring
 20710 Ashen Estus Ring
 20720 Horsehoof Ring
+20721 Horsehoof Ring+1
+20722 Horsehoof Ring+2
+20723 Horsehoof Ring+3
 20730 Carthus Bloodring
 20740 Reversal Ring
 20750 Pontiff's Right Eye
 20790 Pontiff's Left Eye
 20830 Dragonscale Ring
+20831 Dragonscale Ring+1
+20832 Dragonscale Ring+2
+20833 Dragonscale Ring+3
 21000 Chillbite Ring
 30000 Ring of Londor
 30010 Spirit Amethyst
 30020 Unholy Remains
 30040 Wretched Pendant
 30050 Symbol of the Penitent
+30051 Symbol of the Penitent+1
+30052 Symbol of the Penitent+2
+30053 Symbol of the Penitent+3
 30070 Runic Seal
 30080 Tome of Sunlight
+30081 Tome of Sunlight+1
+30082 Tome of Sunlight+2
+30083 Tome of Sunlight+3
 30090 Greatwood Remnants
 30100 Charred Bone
+30101 Charred Bone+1
+30102 Charred Bone+2
+30103 Charred Bone+3
 30110 Green Tearstone Ring
 30130 Violet Tearstone Ring
 30170 Demonsbane Ring
@@ -100,6 +202,9 @@
 30190 Blight Ring
 30200 Hallowed Ring
 30210 Ring of Wisdom
+30211 Ring of Wisdom+1
+30212 Ring of Wisdom+2
+30213 Ring of Wisdom+3
 30330 Ring of Retaliation
 30340 Ring of Reprisal
 30350 Ring of Spite
@@ -107,10 +212,25 @@
 30370 Ring of Vengeance
 30380 Bulwark Ring
 30390 Mercenary Ring
+30391 Mercenary Ring+1
+30392 Mercenary Ring+2
+30393 Mercenary Ring+3
 30400 Heretic Ring
+30401 Heretic Ring+1
+30402 Heretic Ring+2
+30403 Heretic Ring+3
 30410 Merchant Ring
+30411 Merchant Ring+1
+30412 Merchant Ring+2
+30413 Merchant Ring+3
 30420 Physician Ring
+30421 Physician Ring+1
+30422 Physician Ring+2
+30423 Physician Ring+3
 30430 Jester Ring
+30431 Jester Ring+1
+30432 Jester Ring+2
+30433 Jester Ring+3
 30440 Arcane Trinket
 30450 Londor Tincture
 30490 Enchanted Quiver
@@ -126,11 +246,26 @@
 30640 Black Tearstone Ring
 30650 Beastial Band
 30660 Band of Stone
+30661 Band of Stone+1
+30662 Band of Stone+2
+30663 Band of Stone+3
 30670 Band of Magic
+30671 Band of Magic+1
+30672 Band of Magic+2
+30673 Band of Magic+3
 30680 Band of Flame
+30681 Band of Flame+1
+30682 Band of Flame+2
+30683 Band of Flame+3
 30690 Band of Sparks
+30691 Band of Sparks+1
+30692 Band of Sparks+2
+30693 Band of Sparks+3
 30700 Band of Darkness
-30710 Ring of the Exalted
+30701 Band of Darkness+1
+30702 Band of Darkness+2
+30703 Band of Darkness+3
+30710 Rainbow Ring
 30720 Ring of the Dutiful
 30730 Ring of the Blessed
 30740 Ring of the Resolute
@@ -141,4 +276,4 @@
 30790 Ring of Demons
 30800 Elden Ring
 30810 Rare Ring of Humanity
-40000 Base Modifiers
+30820 Tomb Ring

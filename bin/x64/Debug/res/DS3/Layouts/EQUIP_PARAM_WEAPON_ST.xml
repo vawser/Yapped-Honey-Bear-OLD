@@ -1,5 +1,121 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="WeaponMovesetCategory" type="u8">
+    <item value="0" name="None" />
+    <item value="20" name="Dagger" />
+    <item value="23" name="Straight Sword" />
+    <item value="25" name="Greatsword" />
+    <item value="26" name="Ultra Greatsword" />
+    <item value="27" name="Thrusting Sword" />
+    <item value="28" name="Curved Sword" />
+    <item value="29" name="Katana" />
+    <item value="30" name="Axe" />
+    <item value="32" name="Greataxe" />
+    <item value="33" name="Hammer" />
+    <item value="35" name="Great Hammer" />
+    <item value="36" name="Spear" />
+    <item value="38" name="Halberd" />
+    <item value="41" name="Spell Tool" />
+    <item value="42" name="Fist" />
+    <item value="43" name="Whip/Claw" />
+    <item value="44" name="Bow" />
+    <item value="45" name="Greatbow" />
+    <item value="46" name="Crossbow" />
+    <item value="47" name="Greatshield" />
+    <item value="48" name="Shield" />
+    <item value="49" name="Torch" />
+    
+  </enum>
+  <enum name="GuardMovesetCategory" type="u8">
+    <item value="0" name="Shield" />
+    <item value="1" name="Greatshield" />
+    <item value="2" name="Weapon" />
+  </enum>
+  <enum name="MovesetAttribute" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Physical" />
+	<item value="2" name="Fire" />
+    <item value="3" name="Magic" />
+    <item value="4" name="Poison/Bleed" />
+    <item value="6" name="Lightning" />
+    <item value="7" name="Petrify" />
+    <item value="8" name="Crystallize" />
+    <item value="9" name="Dark" />
+  </enum>
+  <enum name="WeaponCategory" type="u8">
+    <item value="0" name="Dagger" />
+    <item value="1" name="Straight Sword / Greatsword / Ultra Greatsword / Whip" />
+    <item value="2" name="Thrusting Sword" />
+    <item value="3" name="Curved Sword / Curved Greatsword" />
+    <item value="4" name="Axe" />
+    <item value="5" name="Hammer" />
+    <item value="6" name="Spear" />
+    <item value="7" name="Halberd / Reaper" />
+    <item value="8" name="Spell Tool" />
+    <item value="9" name="Fist" />
+    <item value="10" name="Bow / Greatbow" />
+    <item value="11" name="Crossbow" />
+    <item value="12" name="Shield / Torch" />
+    <item value="13" name="Arrow" />
+    <item value="14" name="Bolt" />
+  </enum>
+  <enum name="WeaponHoldPosition" type="u8">
+    <item value="0" name="One hand down by hip" />
+	<item value="2" name="One hand on shoulder" />
+    <item value="3" name="One hand down and behind hip" />
+    <item value="10" name="Both hands in front" />
+    <item value="12" name="Both hands on shoulder" />
+    <item value="13" name="Both hands in spear position" />
+    <item value="14" name="Both hands in bow position" />
+    <item value="15" name="Both hands in shield position" />
+    <item value="16" name="Both hands in crossbow position" />
+  </enum>
+  <enum name="DisplayType" type="s16">
+    <item value="1" name="Dagger" />
+    <item value="3" name="Straight Sword" />
+    <item value="5" name="Greatsword" />
+    <item value="7" name="Ultra Greatsword" />
+    <item value="15" name="Thrusting Sword" />
+    <item value="9" name="Curved Sword" />
+    <item value="13" name="Katana" />
+    <item value="11" name="Curved Greatsword" />
+    <item value="17" name="Axe" />
+    <item value="19" name="Greataxe" />
+    <item value="21" name="Hammer" />
+    <item value="23" name="Great Hammer" />
+    <item value="25" name="Spear" />
+    <item value="27" name="Lance" />
+    <item value="29" name="Halberd" />
+    <item value="31" name="Scythe" />
+    <item value="37" name="Paired Fist" />
+    <item value="57" name="Staff" />
+    <item value="61" name="Talisman" />
+    <item value="63" name="Chime" />
+    <item value="59" name="Pyromancy Flame" />
+    <item value="39" name="Whip" />
+    <item value="51" name="Bow" />
+    <item value="53" name="Greatbow" />
+    <item value="55" name="Crossbow" />
+    <item value="33" name="Fist" />
+    <item value="65" name="Small Shield" />
+    <item value="67" name="Medium Shield" />
+    <item value="69" name="Greatshield" />
+    <item value="81" name="Arrow" />
+    <item value="83" name="Greatarrow" />
+    <item value="85" name="Bolt" />
+    <item value="87" name="Torch" />
+    <item value="101" name="Paired Dagger" />
+    <item value="103" name="Paired Straight Sword" />
+    <item value="107" name="Paired Curved Sword" />
+    <item value="109" name="Paired Katana" />
+    <item value="111" name="Paired Axe" />
+    <item value="113" name="Paired Hammer" />
+    <item value="115" name="Paired Spear" />
+    <item value="116" name="Paired Sword and Shield" />
+    <item value="119" name="Paired Thrusting Sword" />
+    <item value="131" name="Paired Greatshield" />
+    <item value="133" name="Paired Ultra Greatsword" />
+  </enum>
   <entry>
     <name>Behavior Variation ID</name>
     <type>s32</type>
@@ -345,226 +461,34 @@
     <name>Weapon Category</name>
     <type>u8</type>
     <default>9</default>
-    <description>0 - Dagger
-1 - Straight Sword / Greatsword / Ultra Greatsword / Whip
-2 - Thrusting Sword
-3 - Curved Sword / Curved Greatsword
-4 - Axe
-5 - Hammer
-6 - Spear
-7 - Halberd / Reaper
-8 - Spell Tool
-9 - Fist
-10 - Bow / Greatbow
-11 - Crossbow
-12 - Shield / Torch
-13 - Arrow
-14 - Bolt</description>
+    <enum>WeaponCategory</enum>
   </entry>
   <entry>
     <name>Weapon Moveset Category</name>
     <type>u8</type>
     <default>42</default>
-    <description>0 - None
-20 - Dagger
-23 - Straight Sword
-25 - Greatsword
-26 - Ultra Greatsword
-28 - Curved Sword
-29 - Katana
-30 - Axe
-32 - Greataxe
-33 - Hammer
-35 - Great Hammer
-36 - Spear
-38 - Halberd
-41 - Staff
-42 - Fist
-43 - Claw
-43 - Whip
-44 - Bow
-45 - Greatbow
-46 - Crossbow
-47 - Greatshield
-48 - Shield
-49 - Torch</description>
+    <enum>WeaponMovesetCategory</enum>
   </entry>
   <entry>
     <name>Guard Moveset Category</name>
     <type>u8</type>
     <default>2</default>
-    <description>0 - Shield
-1 - Greatshield
-2 - Weapon</description>
+    <enum>GuardMovesetCategory</enum>
   </entry>
   <entry>
     <name>Attack Material</name>
     <type>u8</type>
     <default>0</default>
-    <description>50 - Great Scythe
-51 - Carthus Curved Greatsword
-53 - Broadsword
-54 - Lothric Knight Sword
-57 - Dark Sword
-59 - Club
-63 - Partizan
-67 - Pike
-68 - Dragonslayer Spear
-69 - Large Club
-70 - Smough's Great Hammer
-71 - Parrying Dagger
-72 - Dagger
-74 - Claymore
-75 - Greatsword (Alternative Heavy)
-80 - Black Knight Sword
-81 - Composite Bow
-82 - Black Bow of Pharis
-83 - Dragonslayer Greatbow
-84 - Avelyn
-85 - Sniper Crossbow
-90 - Black Blade
-91 - Buckler
-93 - Pierce Shield
-94 - Havel's Greatshield
-95 - Cathedral Knight Greatsword
-99 - Shotel
-101 - Painting Guardian's Curved Sword
-102 - Hand Axe
-103 - Butcher Knife
-107 - Black Knight Greataxe
-108 - Halberd
-112 - Black Knight Glaive
-113 - Estoc
-115 - Ricard's Rapier
-123 - Dark Hand
-126 - Bonewheel Shield
-127 - Talisman
-128 - Black Knight Greatsword
-131 - Wolf Knight's Greatsword
-134 - Four-Pronged Plow
-137 - Sellsword Twinblades
-138 - Winged Knight Twinaxes
-139 - Dancer's Enchanted Swords
-141 - Brigand Twindaggers
-142 - Gotthard Twinswords
-144 - Onikiri and Ubadachi
-145 - Drang Twinspears
-146 - Claw
-148 - Drang Hammers
-149 - Pyromancy Flame
-150 - Medium Shield</description>
   </entry>
   <entry>
     <name>Defence Material</name>
     <type>u8</type>
     <default>100</default>
-    <description>151 - Scimitar
-152 - Caestus
-153 - Bandit's Knife
-154 - Greatsword of Judgment
-155 - Twin Princes' Greatsword
-156 - Wolnir's Holy Sword
-157 - Hollowslayer Greatsword
-158 - Moonlight Greatsword
-159 - Firelink Greatsword
-160 - Astora Greatsword
-161 - Farron Greatsword
-162 - Profaned Greatsword
-163 - Fume Ultra Greatsword
-164 - Pontiff Knight Curved Sword
-165 - Crescent Moon Sword
-166 - Old Wolf Curved Sword
-167 - Eleonora
-168 - Demon's Greataxe
-169 - Yhorm's Great Machete
-171 - Pickaxe
-172 - Gargoyle Flame Hammer
-173 - Vordt's Great Hammer
-174 - Old King's Great Hammer
-175 - Gargoyle Flame Spear
-176 - Dragonslayer Swordspear
-177 - Greatlance
-178 - Golden Ritual Spear
-179 - Pontiff Knight Great Scythe
-184 - Onislayer Greatbow
-185 - Chime
-187 - Irithyll Rapier
-188 - Lothric's Holy Sword
-189 - Lorian's Greatsword
-193 - Greatsword
-195 - Curved Greatsword
-196 - Drakeblood Greatsword
-197 - Yorshka's Spear
-198 - Bloodlust
-199 - Dragonslayer Greataxe
-200 - Spear
-201 - Winged Knight Halberd
-202 - Lothric Knight Greatsword
-203 - Zweihander
-204 - Tailbone Short Sword
-205 - Mail Breaker
-206 - Scholar's Candlestick
-207 - Cleric's Candlestick
-208 - Irithyll Straight Sword
-209 - Sunlight Straight Sword
-210 - Reinforced Club</description>
   </entry>
   <entry>
     <name>Defence SFX Material</name>
     <type>u8</type>
     <default>0</default>
-    <description>211 - Morne's Great Hammer
-212 - Storm Curved Sword
-213 - Great Club
-214 - Sacred Bloom Shield
-215 - Gundyr's Halberd
-217 - Immolation Tinder
-218 - Rapier
-220 - Heysel Pick
-221 - Executioner's Greatsword
-222 - Moaning Shield
-223 - Sage's Crystal Staff
-224 - Storyteller's Staff
-225 - Dragonslayer Greatshield
-227 - Spiked Shield
-228 - Warpick
-229 - Witch's Locks
-230 - Darkmoon Longbow
-231 - Whip
-232 - Friede's Great Scythe
-234 - Rose of Ariandel
-235 - Crow Talons
-236 - Valorheart
-237 - Crow Quills
-239 - Pyromancer's Parting Flame
-240 - Follower Torch
-241 - Millwood Battle Axe
-242 - Earth Seeker
-243 - Quakestone Hammer
-244 - Millwood Greatbow
-245 - Onyx Blade
-246 - Follower Javelin
-247 - Follower Sabre
-248 - Splitleaf Greatsword
-249 - White Birch Bow
-250 - Giant Door Shield
-251 - Ringed Knight Straight Sword
-252 - Ringed Knight Spear
-253 - Ringed Knight Paired Greatswords
-254 - Dragonhead Shield
-255 - Dragonhead Greatshield
-256 - Aquamarine Dagger
-257 - Demon's Scar
-258 - Frayed Blade
-259 - Ledo's Great Hammer
-260 - Lothric War Banner
-261 - Crucifix of the Mad King
-262 - Repeating Crossbow
-263 - Gael's Greatsword
-264 - Harald Curved Greatsword
-265 - Preacher's Right Arm
-266 - Murky Longstaff
-267 - Sacred Chime of Filianore</description>
   </entry>
   <entry>
     <name>Correction Type: Physical</name>
@@ -575,16 +499,7 @@
     <name>Moveset Attribute</name>
     <type>u8</type>
     <default>1</default>
-    <description>0 - None
-1 - Physical
-2 - Fire
-3 - Magic
-4 - Bleed
-5 - None
-6 - Lightning
-7 - Petrify
-8 - Curse
-9 - Dark</description>
+    <enum>MovesetAttribute</enum>
   </entry>
   <entry>
     <name>Moveset Override Category</name>
@@ -592,32 +507,16 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Weapon Moveset 1H ID</name>
+    <name>Weapon Hold Position - 1H</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - One hand down by hip
-2 - One hand on shoulder
-3 - One hand down and behind hip
-10 - Both hands in front
-12 - Both hands on shoulder
-13 - Both hands in spear position
-14 - Both hands in bow position
-15 - Both hands in shield position
-16 - Both hands in crossbow position</description>
+    <enum>WeaponHoldPosition</enum>
   </entry>
   <entry>
-    <name>Weapon Moveset 2H ID</name>
+    <name>Weapon Hold Position - 2H</name>
     <type>u8</type>
     <default>10</default>
-    <description>0 - One hand down by hip
-2 - One hand on shoulder
-3 - One hand down and behind hip
-10 - Both hands in front
-12 - Both hands on shoulder
-13 - Both hands in spear position
-14 - Both hands in bow position
-15 - Both hands in shield position
-16 - Both hands in crossbow position</description>
+    <enum>WeaponHoldPosition</enum>
   </entry>
   <entry>
     <name>Requirement: STR</name>
@@ -1075,7 +974,7 @@
     <default>139</default>
   </entry>
   <entry>
-    <name>Weapon Absorption Position ID</name>
+    <name>Weapon Sheath Position ID</name>
     <type>s32</type>
     <default>1042</default>
   </entry>
@@ -1218,6 +1117,7 @@
     <name>Display Type ID</name>
     <type>s16</type>
     <default>35</default>
+    <enum>DisplayType</enum>
   </entry>
   <entry>
     <name>Correction Value 0</name>

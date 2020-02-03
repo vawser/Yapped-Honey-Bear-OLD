@@ -1,42 +1,42 @@
-1 小白 Phantom
-2 White Phantom
-3 Blue Phantom 0
-4 Blue Phantom 1
-5 Blue Phantom 2
-6 Muted Orange Phantom
-7 Orange Phantom
-8 Red Phantom 0
-9 Red Phantom 1
-10 Red Phantom 2
-11 Black Phantom
-12 Dragon Spirit Phantom
-13 Purple Phantom
-14 White Phantom
-15 Ghost Phantom usually
-16 Bonfire Ghost Phantom
-17 Tomb Ghost Phantom
-18 Weapon Enchantment _ Physical reinforcement
-19 Weapon Enchantment _ Magical reinforcement
-20 Weapon Enchant _ Lightning strengthening
-21 Weapon Enchant _ Flame Enhancement
-22 Weapon Enchantment _ Dark Reinforcement
-23 Weapons Enchant _ Poison strengthening
-24 Weapons Enchant _ Bleeding strengthening
-25 Weapon Enchantment _ Weapon destruction reinforcement
-26 Weapons Enchanted _ Curse Enhanced
-27 Phantom Ghost (tentative name)
-28 Weapon Enchantment _ Chill
-29 Red Phantom 3
-30 Weapon Enchantment _ Greater Magic
-31 Ghost Knight _ Ghost State
-32 Painting Mamoru Phantom
-33 Old King Illusion of caries
-35 King of Firewood Test
-36 King of Firewood Test (with Edge)
-40 Tiger Translucent
-41 Tiger completely transparent
-42 Tiger Normal
-43 Black Tiger Normal
+1 White (dull)
+2 White
+3 Blue Tint
+4 Blue Tint
+5 Blue Tint with Glow
+6 Orange/Blue
+7 Orange/Blue with Glow
+8 Cyan/Red
+9 Cyan/Red
+10 Cyan/Red with Glow
+11 Cyan
+12 White/Grey
+13 Purple Tint
+14 Phantom - White
+15 Ghost (75%)
+16 White Phantom (Ghost)
+17 Tomb Ghost (Deep Blue Tint)
+18 Magic Enhancement - Light Blue
+19 Magic Enhancement - Light Blue with Glow
+20 Lightning Enchancement - Yellow
+21 Lightning Enchancement - Orange
+22 Dark Enchancement - Purple
+23 Poison Enchancement - Yellow/Green
+24 Bleed Enchancement - Light Orange
+25 Enchancement - Dark Blue
+26 Enchancement - Dark Blue
+27 Enchancement - White
+28 Frost Enchancement - White/Light Blue
+29 White
+30 Magic Enhancement - Dark Blue
+31 Grey (Ghost)
+32 Grey/Black (Ghost)
+33 Purple/Grey (Ghost)
+35 Embered
+36 Embered with Tint
+40 Blue (Ghost)
+41 Invisible
+42 Bright White
+43 Black with White Tint
 50 Shield Enchantment _ Physical reinforcement
 51 Shield Enchantment _ Strengthening Magic
 52 Shield Enchantment _ Lightning strengthening
@@ -47,30 +47,38 @@
 57 Shield Enchantment _ Shield destruction reinforcement
 58 Shield Enchanted _ Curse Enhanced
 59 Shield Enchantment _ Chill
-60 Dark Spirits
-61 White Spirits
-62 Wandering Ghosts
-63 Blood Phantom.
-64 Solar White Spirits
-65 Sun Red Spirits
-66 Berserker White Spirits
-67 Berserker Red Spirits
-68 The Sinner Hero Spirit
-69 Sinners Hunting Spirits
-70 Red Hunting Spirits
-71 Rosalia Guardian Spirits
-72 Map Guardian Spirits (bridge)
-73 Map Guardian Spirits (tbd)
-74 Sign Illusion
-80 White Phantom
-81 Red Phantom
-82 Blue Phantom
-83 Light Blue Phantom
-84 Light Blue Phantom
-85 Orange Phantom
-88 Purple Phantom
-101 小白 Phantom-time to rest-inside
-102 White Phantom-time remaining-medium
+60 Phantom - Red
+61 Phantom - White
+62 Phantom - White (Ghost)
+63 Phantom - White/Red Tint
+64 Phantom - Yellow/White Tint
+65 Phantom - Yellow/Red Tint
+66 Phantom - Purple/White Tint
+67 Phantom - Purple/Red Tint
+68 Phantom - Cyan/White Tint
+69 Phantom - Cyan/Red Tint
+70 Phantom - Blue/White Tint
+71 Phantom - White/Blue Tint
+72 Phantom - Orange/Purple Tint
+73 Phantom - Green/Blue Tint
+74 Grey (Ghost)
+75 Normal (Ghost)
+76 White (Ghost)
+80 Phantom - White
+81 Phantom - Red
+82 Phantom - Dark Blue
+83 Phantom - White/Blue Tint
+84 Phantom - White/Blue Tint
+85 Phantom - Orange
+86 Phantom - Red/Orange Tint
+87 Phantom - Purple
+88 Phantom - Purple
+89 Phantom - Red
+90 Phantom - Blue/Purple Tint with Glow
+91 Phantom - Light Blue/Red Tint
+92 Phantom - Light Orange
+101 Grey
+102 White
 103 Koganeyu Phantom-time to rest-inside
 104 Gold Phantom-remaining time-in
 105 Red Phantom 0-remaining time-medium
@@ -96,6 +104,7 @@
 216 Mound-makers
 217 Rosaria's Fingers
 218 Chaos Servants
+219 Tomb Ghost
 300 Ring of Champions - Color 1 - Red
 301 Ring of Champions - Color 2 - Orange
 302 Ring of Champions - Color 3 - Yellow

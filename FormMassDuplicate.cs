@@ -15,6 +15,7 @@ namespace Yapped
         public int startRowID;
         public int endRowID;
         public int initialID;
+        public int stepValue;
 
         public FormMassDuplicate(int initialID)
         {
@@ -24,6 +25,7 @@ namespace Yapped
 
             startIDInput.Text = startRowID.ToString();
             endIDInput.Text = endRowID.ToString();
+            stepValueTextbox.Text = "1";
 
             DialogResult = DialogResult.Cancel;
         }
@@ -34,6 +36,7 @@ namespace Yapped
 
             bool isValid_startRowID = Int32.TryParse(startIDInput.Text, out startRowID);
             bool isValid_endRowID = Int32.TryParse(endIDInput.Text, out endRowID);
+            bool isValid_stepValue = Int32.TryParse(stepValueTextbox.Text, out stepValue);
 
             if (!isValid_startRowID)
                 startRowID = initialID;
@@ -41,12 +44,21 @@ namespace Yapped
             if (!isValid_endRowID)
                 endRowID = initialID + 10;
 
+            if (!isValid_endRowID)
+                stepValue = 1;
+
             Close();
         }
 
         private void FormMassDuplicate_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void cancelBtn_Click(object sender, EventArgs e)
+        {
+            DialogResult = DialogResult.Cancel;
+            Close();
         }
     }
 }

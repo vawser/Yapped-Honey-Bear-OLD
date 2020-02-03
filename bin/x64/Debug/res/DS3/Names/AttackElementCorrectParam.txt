@@ -52,6 +52,7 @@
 25010 Izalith Staff
 25011 Sunless Talisman
 25012 Insanity Catalyst
+25013 Velka's Talisman
 30000 Golden Ritual Spear
 30001 Golden Ritual Spear - Lucky
 30002 Golden Ritual Spear - Enchanted
@@ -100,7 +101,6 @@
 40002 Emit Force
 40003 Way of White Corona
 40004 Divine Pillars of Light
-40005 Bursting Halo
 40006 Halo
 40007 Divine Retribution
 40008 Flynn's Bow
@@ -111,6 +111,7 @@
 40013 Primordial Flame
 40014 Darkmoon Volley
 40015 Holy Arrow
+40016 Light Hail
 49999 ### Dark Spells ###
 50000 Deep Soul
 50001 Great Deep Soul

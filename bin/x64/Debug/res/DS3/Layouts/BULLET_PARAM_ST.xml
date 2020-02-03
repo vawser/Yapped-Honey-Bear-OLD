@@ -1,5 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="AttackAttribute" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Slash" />
+	<item value="2" name="Strike" />
+    <item value="3" name="Thrust" />
+    <item value="4" name="Standard" />
+  </enum>
+  <enum name="EffectAttribute" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Physical" />
+	<item value="2" name="Fire" />
+    <item value="3" name="Magic" />
+    <item value="4" name="Poison/Bleed" />
+    <item value="6" name="Lightning" />
+    <item value="7" name="Petrify" />
+    <item value="8" name="Crystallize" />
+    <item value="9" name="Dark" />
+    <item value="255" name="None" />
+  </enum>
   <entry>
     <name>AtkParam ID</name>
     <type>s32</type>
@@ -239,11 +258,13 @@
     <name>Attack Attribute</name>
     <type>u8</type>
     <default>4</default>
+    <enum>AttackAttribute</enum>
   </entry>
   <entry>
-    <name>Type Attribute</name>
+    <name>Effect Attribute</name>
     <type>u8</type>
     <default>1</default>
+    <enum>EffectAttribute</enum>
   </entry>
   <entry>
     <name>Material Attack Type</name>

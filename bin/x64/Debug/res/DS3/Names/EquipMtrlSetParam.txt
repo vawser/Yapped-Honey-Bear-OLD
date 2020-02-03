@@ -847,6 +847,8 @@
 200018 Primordial Titanite - 18
 200019 Primordial Titanite - 19
 200020 Primordial Titanite - 20
+200025 Primordial Titanite - 25
+200030 Primordial Titanite - 30
 200100 Primordial Titanite - 100
 200300 Darkmoon Faithful - 15
 200301 Darkmoon Faithful - 10

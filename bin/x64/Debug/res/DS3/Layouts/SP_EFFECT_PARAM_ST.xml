@@ -1,51 +1,380 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="StateInfo" type="s16">
+    <item value="0" name="0 - None" />
+    <item value="2" name="2 - Poison" />
+    <item value="3" name="3 - Effect99101" />
+    <item value="4" name="4 - Durability Damage" />
+    <item value="5" name="5 - Toxic" />
+    <item value="6" name="6 - Bleed" />
+    <item value="7" name="7 - Ghost" />
+    <item value="8" name="8 - Enemy Sight Reduction" />
+    <item value="9" name="9 - Tranquil Walk of Peace" />
+    <item value="10" name="10 - Used to remove Poison buildup" />
+    <item value="11" name="11 - Used to remove Toxic buildup" />
+    <item value="12" name="12 - Used to remove Bleed buildup" />
+    <item value="13" name="13 - Used to remove all aux buildup" />
+    <item value="14" name="14 - Humanity Stolen" />
+    <item value="15" name="15 - Binoculars" />
+    <item value="16" name="16 - Warp_Lothric3002953" />
+    <item value="17" name="17 - OnSpEffectRevive" />
+    <item value="19" name="19 - Dispel Black Phantom" />
+    <item value="22" name="22 - Unknown" />
+    <item value="23" name="23 - OnReviveMagic" />
+    <item value="24" name="24 - Disables Spell Usage" />
+    <item value="28" name="28 - Right-hand Buff VFX" />
+    <item value="29" name="29 - Body Buff VFX" />
+    <item value="31" name="31 - Ghost Parameter Change" />
+    <item value="32" name="32 - Middle of Paralysis" />
+    <item value="34" name="34 - Giant Slime Freezing" />
+    <item value="35" name="35 - Effect99310" />
+    <item value="36" name="36 - Effect99311" />
+    <item value="37" name="37 - Effect99312" />
+    <item value="39" name="39 - Sound Feed" />
+    <item value="40" name="40 - Greater Body Buff VFX" />
+    <item value="41" name="41 - VFX - Flash Sweat" />
+    <item value="42" name="42 - Used in HP Recovery" />
+    <item value="43" name="43 - Unknown" />
+    <item value="44" name="44 - Unknown" />
+    <item value="45" name="45 - Unknown" />
+    <item value="46" name="46 - Modify Target Priority" />
+    <item value="47" name="47 - Disable Fall Damage" />
+    <item value="48" name="48 - Increase Damage" />
+    <item value="49" name="49 - Increase Defense" />
+    <item value="50" name="50 - Used in HP Recovery" />
+    <item value="52" name="52 - Pledge Effect Test" />
+    <item value="54" name="54 - Modify Enemy Listen Reduction" />
+    <item value="55" name="55 - HostDeath" />
+    <item value="58" name="58 - Point Light Source Equipped" />
+    <item value="59" name="59 - Your Message Was Rated" />
+    <item value="60" name="60 - Magic Buff VFX" />
+    <item value="61" name="61 - Crystal Magic Buff VFX" />
+    <item value="62" name="62 - Charcoal Pine Resin VFX" />
+    <item value="64" name="64 - Effect1040" />
+    <item value="65" name="65 - Effect12180" />
+    <item value="66" name="66 - Modify Item Discovery" />
+    <item value="69" name="69 - Tears of Denial VFX" />
+    <item value="70" name="70 - Is Dead Test Condition" />
+    <item value="71" name="71 - Spell Power Boost" />
+    <item value="75" name="75 - Green Blossom VFX" />
+    <item value="76" name="76 - Modify Soul Rate" />
+    <item value="78" name="78 - Effect93313" />
+    <item value="79" name="79 - Effect93314" />
+    <item value="91" name="91 - Effect99201" />
+    <item value="95" name="95 - Applies Chamelon effect" />
+    <item value="96" name="96 - Applies Dragon Form effect" />
+    <item value="98" name="98 - MP Detection" />
+    <item value="99" name="99 - MP Wait for Cooperation" />
+    <item value="100" name="100 - MP Cooperation" />
+    <item value="101" name="101 - MP Cooperation Sent" />
+    <item value="102" name="102 - Wax Slow Down" />
+    <item value="103" name="103 - Used for Evil Eye effect" />
+    <item value="104" name="104 - MP Wait for Cooperation" />
+    <item value="105" name="105 - MP Cooperation LV 1" />
+    <item value="106" name="106 - MP Cooperation LV 2" />
+    <item value="107" name="107 - MP Cooperation LV 3" />
+    <item value="108" name="108 - Used for Evil Eye effect (1)" />
+    <item value="109" name="109 - Used for Evil Eye effect (2)" />
+    <item value="110" name="110 - Counter Damage" />
+    <item value="112" name="112 - 1409F7282_HKS" />
+    <item value="113" name="113 - Unknown" />
+    <item value="114" name="114 - Unknown" />
+    <item value="115" name="115 - Backstep Animation Change" />
+    <item value="116" name="116 - Curse" />
+    <item value="117" name="117 - Curse - Instant Death animation" />
+    <item value="118" name="118 - Curse - Extra" />
+    <item value="119" name="119 - Effect3231" />
+    <item value="120" name="120 - Damage Level Change before Poise Break" />
+    <item value="121" name="121 - Damage Level Change" />
+    <item value="122" name="122 - Unknown" />
+    <item value="123" name="123 - Apply Effect on Roll (Head)" />
+    <item value="124" name="124 - Apply Effect on Roll (Body)" />
+    <item value="125" name="125 - Apply Effect on Roll (Hands)" />
+    <item value="126" name="126 - Apply Effect on Roll (Legs)" />
+    <item value="127" name="127 - Mimic Sleep" />
+    <item value="128" name="128 - Mimic Sleep" />
+    <item value="130" name="130 - Mimic Sleep" />
+    <item value="131" name="131 - Mimic Sleep" />
+    <item value="132" name="132 - Change Team Type" />
+    <item value="133" name="133 - Enable Developer Messages" />
+    <item value="134" name="134 - Iron Flesh" />
+    <item value="135" name="135 - Mimic Sleep" />
+    <item value="136" name="136 - Curse" />
+    <item value="137" name="137 - ResonanceLvl 0" />
+    <item value="138" name="138 - ResonanceLvl 1" />
+    <item value="139" name="139 - ResonanceLvl 2" />
+    <item value="140" name="140 - ResonanceLvl 3" />
+    <item value="141" name="141 - ResonanceLvl 4" />
+    <item value="142" name="142 - NPC Behavior ID Change" />
+    <item value="143" name="143 - Character Respawn" />
+    <item value="144" name="144 - Unknown" />
+    <item value="146" name="146 - Restore Durability" />
+    <item value="147" name="147 - Cast Light" />
+    <item value="148" name="148 - Unknown" />
+    <item value="149" name="149 - White Relief Magic" />
+    <item value="150" name="150 - Black Relief Magic" />
+    <item value="151" name="151 - Gold Pine Resin VFX" />
+    <item value="152" name="152 - Enable AttackOccurance for Enemies" />
+    <item value="153" name="153 - Enable AttackOccurance for Players" />
+    <item value="154" name="154 - Block Estus usage" />
+    <item value="155" name="155 - Modify Poise" />
+    <item value="156" name="156 - Disable Durability" />
+    <item value="157" name="157 - Transient Curse" />
+    <item value="158" name="158 - Left-hand Buff VFX" />
+    <item value="159" name="159 - Ring of Sacrifice" />
+    <item value="160" name="160 - Rare Ring of Sacrifice [DS1]" />
+    <item value="161" name="161 - Warp1_Removed" />
+    <item value="162" name="162 - Warp2_Removed" />
+    <item value="163" name="163 - Warp3_Removed" />
+    <item value="164" name="164 - Warp_Firelink" />
+    <item value="165" name="165 - Warp4_Removed" />
+    <item value="166" name="166 - Pledge Discarded" />
+    <item value="167" name="167 - Dragon Change VFX" />
+    <item value="168" name="168 - Bow Distance Change" />
+    <item value="169" name="169 - Ring of the Sun Princess [DS1]" />
+    <item value="170" name="170 - Karmic Justice Counter" />
+    <item value="171" name="171 - Karmic Justice - Used for Behavior Change" />
+    <item value="173" name="173 - Ritual" />
+    <item value="174" name="174 - Power of Evil Spirits" />
+    <item value="175" name="175 - Revival Production" />
+    <item value="176" name="176 - Aural Decoy" />
+    <item value="177" name="177 - Unknown" />
+    <item value="179" name="179 - CurseEffectLv1" />
+    <item value="180" name="180 - CurseEffectLv2" />
+    <item value="181" name="181 - CurseEffectLv3" />
+    <item value="182" name="182 - CurseEffectLv4" />
+    <item value="183" name="183 - BlueSignVisualization" />
+    <item value="184" name="184 - Hide Weapon" />
+    <item value="185" name="185 - Gravelord Invasion" />
+    <item value="186" name="186 - Orange Charred Ring [DS1]" />
+    <item value="188" name="188 - Blade of the Darkmoon" />
+    <item value="189" name="189 - Spear of the Church" />
+    <item value="190" name="190 - Watchdog of Farron" />
+    <item value="192" name="192 - Unknown" />
+    <item value="193" name="193 - Modify Effect Duration" />
+    <item value="194" name="194 - CompareWith203" />
+    <item value="195" name="195 - Unknown" />
+    <item value="196" name="196 - IfWorldChrManNull" />
+    <item value="197" name="197 - Leo Ring" />
+    <item value="198" name="198 - Unknown" />
+    <item value="199" name="199 - Use DeathOccurance SpEffect" />
+    <item value="200" name="200 - Power Within VFX" />
+    <item value="201" name="201 - VowOfSilenceVisual" />
+    <item value="202" name="202 - Dragon Roar" />
+    <item value="203" name="203 - CompareWith194" />
+    <item value="204" name="204 - Great Magic Shield" />
+    <item value="206" name="206 - Effect12013" />
+    <item value="207" name="207 - Effect11897 (Jailer HP Drain)" />
+    <item value="213" name="213 - Hornet Ring - Checks for backstab on enemies" />
+    <item value="221" name="221 - Effect4085" />
+    <item value="222" name="222 - ItemBan" />
+    <item value="223" name="223 - Effect9132" />
+    <item value="224" name="224 - Effect4700" />
+    <item value="232" name="232 - DisableUseAtColiseum" />
+    <item value="237" name="237 - Calamity Ring" />
+    <item value="252" name="252 - Oil" />
+    <item value="253" name="253 - Fire" />
+    <item value="259" name="259 - Effect90" />
+    <item value="260" name="260 - Frost" />
+    <item value="261" name="261 - Remove Effect If Torch In Hand" />
+    <item value="262" name="262 - WormRecovery(Torch)" />
+    <item value="264" name="264 - SetCultBool" />
+    <item value="266" name="266 - FallDeathIsDisabled" />
+    <item value="267" name="267 - AiVisualDistanceChange" />
+    <item value="269" name="269 - Effect1906" />
+    <item value="275" name="275 - Player Behavior ID Change" />
+    <item value="276" name="276 - Unknown" />
+    <item value="277" name="277 - Effect3296" />
+    <item value="278" name="278 - DisableSpellEffect" />
+    <item value="280" name="280 - WatchdogTriggerForHost" />
+    <item value="281" name="281 - WetSystemTrigger" />
+    <item value="282" name="282 - Effect140001" />
+    <item value="283" name="283 - Unknown" />
+    <item value="284" name="284 - SpCategory" />
+    <item value="285" name="285 - Unknown" />
+    <item value="286" name="286 - Weak Movement Slow" />
+    <item value="287" name="287 - Strong Movement Slow" />
+    <item value="288" name="288 - Critical Hits (HP)" />
+    <item value="289" name="289 - Critical Hits (FP)" />
+    <item value="290" name="290 - Grants roll i-frames" />
+    <item value="291" name="291 - Grants roll invisibility" />
+    <item value="292" name="292 - Repair1" />
+    <item value="293" name="293 - Change Durability" />
+    <item value="294" name="294 - AldrichFaithful" />
+    <item value="295" name="295 - AldrichFaithfulForHost" />
+    <item value="296" name="296 - ChrFinder_DarkmoonInvasion" />
+    <item value="297" name="297 - Cant Be Used In Session" />
+    <item value="298" name="298 - Trigger on Backstab" />
+    <item value="299" name="299 - Enemies attack Invaders" />
+    <item value="300" name="300 - Enemies attack Invaders" />
+    <item value="301" name="301 - 1410370B1" />
+    <item value="302" name="302 - Homeward Warp" />
+    <item value="303" name="303 - Condition Occurence 1" />
+    <item value="304" name="304 - Condition Occurence 2" />
+    <item value="305" name="305 - Condition Occurence 3" />
+    <item value="306" name="306 - Condition Occurence 4" />
+    <item value="307" name="307 - Condition Occurence 5" />
+    <item value="308" name="308 - Condition Occurence 6" />
+    <item value="309" name="309 - Condition Occurence 7" />
+    <item value="310" name="310 - Condition Occurence 8 (Jailer HP Drain)" />
+    <item value="311" name="311 - Condition Occurence 9" />
+    <item value="312" name="312 - Unknown" />
+    <item value="313" name="313 - Seek Guidance" />
+    <item value="314" name="314 - Add Stability" />
+    <item value="315" name="315 - Flynn's Ring - CalcCorrectGraph_32" />
+    <item value="316" name="316 - CalcCorrectGraph_33" />
+    <item value="317" name="317 - Revoke Online Penalty" />
+    <item value="318" name="318 - Dead Again" />
+    <item value="319" name="319 - Effect4901" />
+    <item value="320" name="320 - Effect4902" />
+    <item value="321" name="321 - Reverse Hollowing" />
+    <item value="322" name="322 - ChrAsmStyle_HKS_LEFTHAND" />
+    <item value="323" name="323 - ChrAsmStyle_HKS_RIGHTHAND" />
+    <item value="324" name="324 - Unknown" />
+    <item value="325" name="325 - Wet Aspect Param" />
+    <item value="326" name="326 - Gender Change" />
+    <item value="327" name="327 - Ember" />
+    <item value="328" name="328 - Change Durability" />
+    <item value="329" name="329 - GetEstusCharge" />
+    <item value="330" name="330 - Online Check, Reset Event Flag 2100" />
+    <item value="331" name="331 - AiParam1" />
+    <item value="332" name="332 - AiParam_effect16189" />
+    <item value="333" name="333 - Spell Enhance (+6 to ID)" />
+    <item value="334" name="334 - Bullet Behavior ID Change" />
+    <item value="335" name="335 - AiParam2" />
+    <item value="336" name="336 - Effect16413" />
+    <item value="1000" name="1000 - SkipSpCategoryCheck1" />
+    <item value="1001" name="1001 - SkipSpCategoryCheck2" />
+  </enum>
+  <enum name="AttackAttribute" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Slash" />
+	<item value="2" name="Strike" />
+    <item value="3" name="Thrust" />
+    <item value="4" name="Standard" />
+  </enum>
+  <enum name="EffectAttribute" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Physical" />
+	<item value="2" name="Fire" />
+    <item value="3" name="Magic" />
+    <item value="4" name="Poison/Bleed" />
+    <item value="6" name="Lightning" />
+    <item value="7" name="Petrify" />
+    <item value="8" name="Crystallize" />
+    <item value="9" name="Dark" />
+  </enum>
+  <enum name="DamageLevel" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="No Stagger" />
+	<item value="2" name="Short Stagger" />
+    <item value="3" name="Long Stagger" />
+    <item value="4" name="Stagger to Floor" />
+    <item value="5" name="Stagger Backwards" />
+    <item value="6" name="Faceplant" />
+    <item value="7" name="Stagger to Floor" />
+    <item value="8" name="Faceplant" />
+    <item value="9" name="Air Juggle Stagger" />
+    <item value="10" name="Push" />
+    <item value="11" name="Strong Stagger" />
+    <item value="12" name="Stagger Backwards" />
+  </enum>
+  <enum name="ThrowTrigger" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Forbidden" />
+	<item value="2" name="Parry" />
+    <item value="4" name="Fall" />
+    <item value="5" name="Hornet Ring" />
+    <item value="6" name="Lifedrain" />
+  </enum>
+  <enum name="MoveType" type="u8">
+    <item value="0" name="0" />
+	<item value="3" name="3" />
+	<item value="4" name="4" />
+    <item value="5" name="5" />
+  </enum>
+  <enum name="WeaponParamChange" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Right-hand" />
+	<item value="2" name="Left-hand" />
+    <item value="3" name="Self" />
+    <item value="4" name="Kick" />
+  </enum>
+  <enum name="EffectCategory" type="s16">
+    <item value="0" name="None" />
+	<item value="10" name="Stacks with Self" />
+	<item value="20" name="Expire on Resting" />
+	<item value="151" name="Body Buff 1" />
+    <item value="152" name="Body Buff 2" />
+    <item value="157" name="Body Buff 3" />
+	<item value="160" name="Body Buff 4)" />
+	<item value="161" name="Body Buff 5" />
+	<item value="162" name="Weapon Buff - Right-hand" />
+	<item value="163" name="Weapon Buff - Left-hand" />
+	<item value="100" name="Animation Change Offset" />
+	<item value="1001" name="Super Armor Change" />
+	<item value="10001" name="Damage Level Change" />
+	<item value="110" name="Resonance" />
+	<item value="154" name="Spook" />
+	<item value="156" name="Stamina Recovery" />
+	<item value="1000" name="Move Type" />
+	<item value="1002" name="Lava Walk" />
+	<item value="10003" name="Bleed" />
+	<item value="10004" name="Poison" />
+	<item value="10005" name="Toxic" />
+	<item value="10006" name="Curse" />
+	<item value="10007" name="Frostbite" />
+  </enum>
+  <enum name="IconID" type="s32">
+    <item value="-1" name="None" />
+    <item value="10004" name="Dried Finger" />
+    <item value="10005" name="Shadowy Hollow" />
+    <item value="10006" name="Open Red Eye" />
+    <item value="10007" name="Closed Black Eye" />
+    <item value="10008" name="Estus with Down Blue Arrow" />
+    <item value="10009" name="Attack" />
+    <item value="10010" name="Magic" />
+    <item value="10011" name="Defence" />
+    <item value="10012" name="Resistances" />
+    <item value="10013" name="Stamina Regen" />
+    <item value="10014" name="HP Regen" />
+    <item value="10015" name="FP Regen" />
+    <item value="10016" name="Estus" />
+    <item value="10017" name="Ashen Estus" />
+    <item value="10018" name="Absorb HP" />
+    <item value="10019" name="Absorb FP" />
+    <item value="10020" name="FP Cost" />
+    <item value="10021" name="Weapon Skill" />
+    <item value="10022" name="Durability" />
+    <item value="10023" name="Carthus Milkring" />
+    <item value="10024" name="Silvercat Ring" />
+    <item value="10025" name="Slumbering Dragoncrest Ring" />
+    <item value="10026" name="Ring of Sacrifice" />
+    <item value="10027" name="Bow Distance" />
+    <item value="10028" name="Leo Ring" />
+    <item value="10029" name="Message Icon" />
+    <item value="10030" name="Item Discovery" />
+    <item value="10031" name="Souls" />
+    <item value="10032" name="Skull Ring" />
+    <item value="10033" name="Poise" />
+    <item value="10034" name="Calamity Ring" />
+    <item value="10035" name="Seed of a Giant Tree" />
+    <item value="10036" name="Damaged Helm" />
+    <item value="10037" name="Broken Helm" />
+    <item value="10038" name="Damaged Armor" />
+    <item value="10039" name="Broken Armor" />
+    <item value="10040" name="Damaged Gauntlets" />
+    <item value="10041" name="Broken Gauntlets" />
+    <item value="10042" name="Damaged Leggings" />
+    <item value="10043" name="Broken Leggings" />
+    <item value="10044" name="Password Seal icon" />
+    <item value="10045" name="Armor and Sword Blue Aura" />
+  </enum>
   <entry>
     <name>Icon ID</name>
     <type>s32</type>
     <default>-1</default>
-    <description>10004 - Dried Finger
-10005 - Shadowy Hollow
-10006 - Open Red Eye
-10007 - Closed Black Eye
-10008 - Estus with Down Blue Arrow
-10009 - Attack
-10010 - Magic
-10011 - Defence
-10012 - Resistances
-10013 - Stamina Regen
-10014 - HP Regen
-10015 - FP Regen
-10016 - Estus
-10017 - Ashen Estus
-10018 - Absorb HP
-10019 - Absorb FP
-10020 - FP Cost
-10021 - Weapon Skill
-10022 - Durability
-10023 - Carthus Milkring
-10024 - Silvercat Ring
-10025 - Slumbering Dragoncrest Ring
-10026 - Ring of Sacrifice
-10027 - Bow Distance
-10028 - Leo Ring
-10029 - Message Icon
-10030 - Item Discovery
-10031 - Souls
-10032 - Skull Ring
-10033 - Poise
-10034 - Calamity Ring
-10035 - Seed of a Giant Tree
-10036 - Damaged Helm
-10037 - Broken Helm 
-10038 - Damaged Armor
-10039 - Broken Armor
-10040 - Damaged Gauntlets
-10041 - Broken Gauntlets
-10042 - Damaged Leggings
-10043 - Broken Leggings
-10044 - Password Seal icon
-10045 - Armor and sword with blue aura and blue down arrow</description>
+    <enum>IconID</enum>
   </entry>
   <entry>
     <name>Trigger on HP Below %</name>
@@ -467,30 +796,7 @@ Enemies - Requires State Info 152</description>
     <name>Effect Category</name>
     <type>s16</type>
     <default>0</default>
-    <description>0 - Default
-10 - Stacks with Self
-20 - Recovery
-
-151 - Body Buff
-160 - Body Buff
-161 - Body Buff
-162 - Weapon Buff
-163 - Weapon Buff
-
-100 - Animation Change Offset
-1001 - Super Armor Change
-10001 - Damage Level Change
-
-110 - Resonance
-154 - Spook
-156 - Stamina Recovery
-1000 - Movement
-1002 - Lava Walk
-
-10003 - Bleed
-10004 - Poison
-10005 - Toxic
-10007 - Frostbite</description>
+    <enum>EffectCategory</enum>
   </entry>
   <entry>
     <name>Category Priority</name>
@@ -536,291 +842,103 @@ Enemies - Requires State Info 152</description>
     <name>Damage Level: None</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Small</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Medium</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Large</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Medium Strike</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Push</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Strike</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Small Strike</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Minimum</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Uppercut</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Strike LL</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Damage Level: Breath</name>
     <type>u8</type>
     <default>0</default>
-    <description>Damage Level Change before Poise Break - State Info 120
-Damage Level Change - State Info 121
-0 - Default
-1 - No Stagger
-2 - Short Stagger
-3 - Long Stagger
-4 - Stagger to Floor
-5 - Stagger Backwards
-6 - Faceplant
-7 - Stagger to Floor
-8 - Faceplant
-9 - Air Uppercut
-10 - Push
-11 - Heavy Stagger
-12 - Tumble Backwards</description>
+    <enum>DamageLevel</enum>
   </entry>
   <entry>
     <name>Attack Attribute</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - None
-1 - Slash
-2 - Strike
-3 - Thrust
-4 - Standard</description>
+    <enum>AttackAttribute</enum>
   </entry>
   <entry>
     <name>Effect Attribute</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - None
-1 - Physical
-2 - Fire
-3 - Magic
-4 - Bleed
-5 - None
-6 - Lightning
-7 - Petrify
-8 - Curse
-9 - Dark</description>
+    <enum>EffectAttribute</enum>
   </entry>
   <entry>
     <name>State Info</name>
     <type>s16</type>
     <default>0</default>
+    <enum>StateInfo</enum>
   </entry>
   <entry>
     <name>Weapon Param Change</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - None
-1 - Right-hand
-2 - Left-hand
-3 - Any
-4 - Kick
--5 - -5</description>
+    <enum>WeaponParamChange</enum>
   </entry>
   <entry>
     <name>Move Type</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - None
-3 - 1
-4 - 2
-5 - 3</description>
+    <enum>MoveType</enum>
   </entry>
   <entry>
     <name>Life Reduction Type</name>
@@ -831,12 +949,7 @@ Damage Level Change - State Info 121
     <name>Throw Trigger</name>
     <type>u8</type>
     <default>0</default>
-    <description>0 - None
-1 - Not Allowed
-2 - Parry
-4 - Fall
-5 - Backstab
-6 - Lifedrain</description>
+    <enum>ThrowTrigger</enum>
   </entry>
   <entry>
     <name>addBehaviorJudgeId_add Trigger</name>
@@ -1741,7 +1854,7 @@ Damage Level Change - State Info 121
     <default>1</default>
   </entry>
   <entry>
-    <name>Inflict %: Frost</name>
+    <name>Resist %: Frost</name>
     <type>f32</type>
     <default>1</default>
   </entry>
@@ -1749,16 +1862,19 @@ Damage Level Change - State Info 121
     <name>Trigger on State Info: 0</name>
     <type>s16</type>
     <default>0</default>
+    <enum>StateInfo</enum>
   </entry>
   <entry>
     <name>Trigger on State Info: 1</name>
     <type>s16</type>
     <default>0</default>
+    <enum>StateInfo</enum>
   </entry>
   <entry>
     <name>Trigger on State Info: 2</name>
     <type>s16</type>
     <default>0</default>
+    <enum>StateInfo</enum>
   </entry>
   <entry>
     <name>Affects Pyromancy</name>

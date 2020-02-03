@@ -1,160 +1,301 @@
 1199999 ### Sorcery ###
 1200000 Farron Dart
+1200100 Farron Dart - Ascended
 1210000 Great Farron Dart
+1210100 Great Farron Dart - Ascended
 1300000 Soul Arrow
+1300100 Soul Arrow - Ascended
 1301000 Great Soul Arrow
+1301100 Great Soul Arrow - Ascended
 1302000 Shockwave
+1302100 Shockwave - Ascended
 1303000 Soul Geyser
+1303100 Soul Geyser - Ascended
 1304000 Homing Soulmass
+1304100 Homing Soulmass - Ascended
 1305000 Homing Crystal Soulmass
+1305100 Homing Crystal Soulmass - Ascended
 1306000 Soul Spear
+1306100 Soul Spear - Ascended
 1307000 Crystal Soul Spear
+1307100 Crystal Soul Spear - Ascended
 1308000 Deep Soul
+1308100 Deep Soul - Ascended
 1309000 Great Deep Soul
+1309100 Great Deep Soul - Ascended
 1310000 Magic Weapon
+1310100 Magic Weapon - Ascended
 1311000 Great Magic Weapon
+1311100 Great Magic Weapon - Ascended
 1312000 Crystal Magic Weapon
+1312100 Crystal Magic Weapon - Ascended
 1313000 Frozen Weapon
+1313100 Frozen Weapon - Ascended
 1330000 Magic Shield
+1330100 Magic Shield - Ascended
 1331000 Great Magic Shield
+1331100 Great Magic Shield - Ascended
 1340000 Hidden Weapon
+1340100 Hidden Weapon - Ascended
 1341000 Hidden Body
+1341100 Hidden Body - Ascended
 1350000 Cast Light
+1351000 Cast Light - Ascended
 1353000 Repair
+1353100 Repair - Ascended
 1354000 Spook
+1354100 Spook - Ascended
 1355000 Chameleon
+1355100 Chameleon - Ascended
 1356000 Aural Decoy
+1356100 Aural Decoy - Ascended
 1370000 White Dragon Breath
+1370100 White Dragon Breath - Ascended
 1372000 Farron Hail
+1372100 Farron Hail - Ascended
 1373000 Crystal Hail
+1373100 Crystal Hail - Ascended
 1374000 Soul Greatsword
+1374100 Soul Greatsword - Ascended
 1375000 Farron Flashsword
+1375100 Farron Flashsword - Ascended
 1376000 Old Moonlight
+1376100 Old Moonlight - Ascended
 1603000 Affinity
+1603100 Affinity - Ascended
 1604000 Great Soul Dregs
+1604100 Great Soul Dregs - Ascended
 1613000 Abyssal Edge
+1613100 Abyssal Edge - Ascended
 1620000 Soul Stream
+1620100 Soul Stream - Ascended
 1651000 Twisted Wall of Light
+1651100 Twisted Wall of Light - Ascended
 1740000 Pestilent Mist
+1740100 Pestilent Mist - Ascended
 1741000 Snap Freeze
+1741100 Snap Freeze - Ascended
 1800000 Crystal Storm
+1800100 Crystal Storm - Ascended
 1801000 Unleash Magic
+1801100 Unleash Magic - Ascended
 1802000 Soul Wave
+1802100 Soul Wave - Ascended
 1803000 Blizzard
+1803100 Blizzard - Ascended
 1805000 Orbs of Judgment
+1805100 Orbs of Judgment - Ascended
 1806000 Soul Focus
+1806100 Soul Focus - Ascended
 1807000 Blinding Light
+1807100 Blinding Light - Ascended
 1808000 Whisper of Despair
+1808100 Whisper of Despair - Ascended
 1809000 Repel
+1809100 Repel - Ascended
 1810000 Numbness
+1810100 Numbness - Ascended
 1811000 Dark Edge
+1811100 Dark Edge - Ascended
 1812000 Deep Barb
+1812100 Deep Barb - Ascended
 1813000 Surging Deep
+1813100 Surging Deep - Ascended
 1814000 Dark Bead
+1814100 Dark Bead - Ascended
 1815000 Cascading Deep
+1815100 Cascading Deep - Ascended
 1816000 Yearning Dregs
+1816100 Yearning Dregs - Ascended
 1817000 Dreg Torrent
+1817100 Dreg Torrent - Ascended
 1818000 Writhing Deep
+1818100 Writhing Deep - Ascended
 1822000 Climax
+1822100 Climax - Ascended
 2399999 ### Pyromancies ###
 2400000 Fireball
+2400100 Fireball - Ascended
 2402000 Fire Orb
+2402100 Fire Orb - Ascended
 2403000 Firestorm
+2403100 Firestorm - Ascended
 2405000 Fire Surge
+2405100 Fire Surge - Ascended
 2407000 Black Serpent
+2407100 Black Serpent - Ascended
 2410000 Combustion
 2411000 Great Combustion
+2411100 Great Combustion - Ascended
 2420000 Poison Mist
+2420100 Poison Mist - Ascended
 2421000 Toxic Mist
+2421100 Toxic Mist - Ascended
 2422000 Acid Surge
+2422100 Acid Surge - Ascended
 2430000 Iron Flesh
+2430100 Iron Flesh - Ascended
 2431000 Flash Sweat
+2431100 Flash Sweat - Ascended
 2435000 Carthus Flame Arc
+2435100 Carthus Flame Arc - Ascended
 2436000 Rapport
+2436100 Rapport - Ascended
 2440000 Power Within
+2440100 Power Within - Ascended
 2450000 Great Chaos Fire Orb
+2450100 Great Chaos Fire Orb - Ascended
 2451000 Chaos Storm
+2451100 Chaos Storm - Ascended
 2452000 Fire Whip
+2452100 Fire Whip - Ascended
 2453000 Black Flame
+2453100 Black Flame - Ascended
 2455000 Profaned Flame
+2455100 Profaned Flame - Ascended
 2456000 Chaos Bed Vestiges
+2456100 Chaos Bed Vestiges - Ascended
 2457000 Floating Chaos
+2457100 Floating Chaos - Ascended
 2458000 Flame Fan
+2458100 Flame Fan - Ascended
 2470000 Warmth
+2470100 Warmth - Ascended
 2562000 Profuse Sweat
-2600000 Dark Orb
+2562100 Profuse Sweat - Ascended
 2610000 Black Fire Orb
+2610100 Black Fire Orb - Ascended
 2620000 Bursting Fireball
+2620100 Bursting Fireball - Ascended
 2630000 Boulder Heave
+2630100 Boulder Heave - Ascended
 2640000 Sacred Flame
+2640100 Sacred Flame - Ascended
 2650000 Carthus Beacon
+2650100 Carthus Beacon - Ascended
 2660000 Seething Chaos
+2660100 Seething Chaos - Ascended
 2701000 Lingering Chaos
+2701100 Lingering Chaos - Ascended
 2702000 Cataclysm
+2702100 Cataclysm - Ascended
 2707000 Dark Dance
+2707100 Dark Dance - Ascended
 2708000 Recollection
+2708100 Recollection - Ascended
 2709000 Mournful Flames
+2709100 Mournful Flames - Ascended
 2710000 Earthfall
+2710100 Earthfall - Ascended
 2711000 Wretch Earth
+2711100 Wretch Earth - Ascended
 2712000 Earthquake
+2712100 Earthquake - Ascended
 2713000 Rockflesh
+2713100 Rockflesh - Ascended
 3399999 ### Miracles ###
 3490000 Heal Aid
+3490100 Heal Aid - Ascended
 3500000 Heal
-3500006 Heal
+3500006 Heal - Filianore AOE
+3500100 Heal - Ascended
+3500106 Heal - Filianore AOE - Ascended
 3501000 Med Heal
-3501006 Med Heal
+3501006 Med Heal - Filianore AOE
+3501100 Med Heal - Ascended
+3501106 Med Heal - Filianore AOE - Ascended
 3502000 Great Heal
-3502006 Great Heal
+3502006 Great Heal - Filianore AOE
+3502100 Great Heal - Ascended
+3502106 Great Heal - Filianore AOE - Ascended
 3503000 Soothing Sunlight
-3503006 Soothing Sunlight
+3503006 Soothing Sunlight - Filianore AOE
+3503100 Soothing Sunlight - Ascended
+3503106 Soothing Sunlight - Filianore AOE - Ascended
 3504000 Replenishment
+3504100 Replenishment - Ascended
 3505000 Bountiful Sunlight
-3505006 Bountiful Sunlight
+3505006 Bountiful Sunlight - Filianore AOE
+3505100 Bountiful Sunlight - Ascended
+3505106 Bountiful Sunlight - Filianore AOE - Ascended
 3507000 Bountiful Light
+3507100 Bountiful Light - Ascended
 3508000 Caressing Tears
-3508006 Caressing Tears
+3508006 Caressing Tears - Filianore AOE
+3508100 Caressing Tears - Ascended
+3508106 Caressing Tears - Filianore AOE - Ascended
 3509000 Lightning Arrow
+3509100 Lightning Arrow - Ascended
 3520000 Tears of Denial
+3520100 Tears of Denial - Ascended
 3521000 Homeward
+3521100 Homeward - Ascended
 3530000 Force
+3530100 Force - Ascended
 3531000 Wrath of the Gods
+3531100 Wrath of the Gods - Ascended
 3532000 Emit Force
+3532100 Emit Force - Ascended
 3540000 Heavenly Relief
+3540100 Heavenly Relief - Ascended
 3550000 Lightning Spear
+3550100 Lightning Spear - Ascended
 3551000 Great Lightning Spear
+3551100 Great Lightning Spear - Ascended
 3552000 Sunlight Spear
+3552100 Sunlight Spear - Ascended
 3553000 Lightning Storm
+3553100 Lightning Storm - Ascended
 3554000 Gnaw
+3554100 Gnaw - Ascended
 3555000 Dorhys' Gnawing
+3555100 Dorhys' Gnawing - Ascended
 3556000 Way of White Corona
+3556100 Way of White Corona - Ascended
 3557000 Projected Heal
-3557006 Projected Heal
+3557006 Projected Heal - Filianore AOE
+3557100 Projected Heal - Ascended
+3557106 Projected Heal - Filianore AOE - Ascended
 3560000 Magic Barrier
+3560100 Magic Barrier - Ascended
 3561000 Great Magic Barrier
+3561100 Great Magic Barrier - Ascended
 3563000 Sacred Oath
-3563006 Sacred Oath
+3563006 Sacred Oath - Filianore
+3563100 Sacred Oath - Ascended
 3581000 Vow of Silence
-3581006 Vow of Silence
+3581006 Vow of Silence - Filianore
+3581100 Vow of Silence - Ascended
 3590000 Lightning Blade
+3590100 Lightning Blade - Ascended
 3591000 Darkmoon Blade
+3591100 Darkmoon Blade - Ascended
 3640000 Dark Blade
+3640100 Dark Blade - Ascended
 3700000 Dead Again
+3700100 Dead Again - Ascended
 3710000 Lightning Stake
+3710100 Lightning Stake - Ascended
 3720000 Divine Pillars of Light
+3720100 Divine Pillars of Light - Ascended
 3730000 Lifehunt Scythe
-3730100 Lifehunt Scythe
-3730200 Lifehunt Scythe
-3730300 Lifehunt Scythe
-3730400 Lifehunt Scythe
+3730100 Lifehunt Scythe - Ascended
 3760000 Blessed Weapon
+3760100 Blessed Weapon - Ascended
 3770000 Deep Protection
+3770100 Deep Protection - Ascended
 3780000 Atonement
-3800000 Lightning Bolt
+3780100 Atonement - Ascended
 3802000 Heavenly Thunder
+3802100 Heavenly Thunder - Ascended
 3803000 Halo
+3803100 Halo - Ascended
 3805000 Perseverance
+3805100 Perseverance - Ascended
 3806000 Inner Fervor
+3806100 Inner Fervor - Ascended
 3807000 Nibble
+3807100 Nibble - Ascended
 3810000 Devouring Swarm
+3810100 Devouring Swarm - Ascended
 5200000 ### Below are NPC versions of the above spells

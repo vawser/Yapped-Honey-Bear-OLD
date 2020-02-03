@@ -63,6 +63,7 @@
 410 [Ultra Greatsword] Ember (Ringed Knight Paired Greatswords)
 411 [Ultra Greatsword] Unleash Dragon
 413 [Ultra Greatsword] Abyssal Burst
+414 [Ultra Greatsword] Smelter's Fury
 500 [Rapier] Stance
 501 [Rapier] Shield Splitter
 502 [Rapier] Ricard's Lunge and Press
@@ -89,6 +90,8 @@
 802 [Katana] Hold (Washing Pole)
 803 [Katana] Darkdrift
 804 [Katana] Hold (Frayed Blade)
+805 [Katana] Pierce
+806 [Katana] Seppuku
 900 [Axe] Warcry (General)
 901 [Axe] Sharpen
 902 [Axe] Feast Bell
@@ -104,6 +107,7 @@
 1006 [Greataxe] Earthen Wrath
 1007 [Greataxe] Wretch Earth
 1008 [Greataxe] Unleash Dragon
+1009 [Greataxe] Undead Wrath
 1100 [Hammer] Perseverance
 1101 [Hammer] Warcry
 1102 [Hammer] Steady Chant
@@ -123,6 +127,9 @@
 1209 [Great Hammer] Spew Fire
 1210 [Great Hammer] Holy Wrath
 1211 [Great Hammer] Bloodlust
+1212 [Great Hammer] Ghru Spirits
+1213 [Great Hammer] Bubblebeam
+1214 [Great Hammer] Abyssal Howl
 1300 [Spear] Charge
 1301 [Spear] Falling Bolt
 1302 [Spear] Pacify
@@ -173,6 +180,8 @@
 1802 [Claw] Quickstep
 1803 [Claw] Raptor Flurry
 1804 [Fist] Flurry of Fists
+1805 [Claw] Bestial Fury
+1806 [Claw] Crabby
 1900 [Bow] Rapid Fire
 1901 [Bow] Puncture
 1902 [Bow] Pharis Triple-Shot
@@ -197,6 +206,8 @@
 2210 [Staff] Holy Arrow
 2211 [Staff] Crystallization
 2212 [Staff] Fury of Manus
+2213 [Staff] Pestilent Mist
+2214 [Staff] Banish
 2300 [Talisman] Unfaltering Prayer
 2301 [Talisman] Gentle Prayer
 2302 [Talisman] Combustion (White Hair Talisman)
@@ -204,6 +215,15 @@
 2304 [Talisman] Unfaltering Prayer (Sunlight Talisman)
 2305 [Talisman] Awakening (Rose of Ariandel)
 2306 [Talisman] Pray for Favor
+2307 [Talisman] Velka's Grace
+2308 [Talisman] Shower of Sunlight
+2309 [Talisman] Lord's Bellow
+2310 [Talisman] Caitha's Affliction
+2311 [Talisman] Crystallization
+2312 [Talisman] Insanity
+2313 [Talisman] Bestial Wrath
+2314 [Talisman] Poison Spores
+2315 [Talisman] Immolate
 2400 [Pyromancy Flame] Combustion
 2401 [Pyromancy Flame] Parting Flame
 2402 [Pyromancy Flame] Abyssal Grasp
