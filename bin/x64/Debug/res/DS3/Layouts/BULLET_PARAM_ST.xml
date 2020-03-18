@@ -205,32 +205,32 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Damp: Damage</name>
+    <name>Damage Falloff: Physical</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Damp: Magic Damage</name>
+    <name>Damage Falloff: Magic</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Damp: Fire</name>
+    <name>Damage Falloff: Fire</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Damp: Lightning</name>
+    <name>Damage Falloff: Lightning</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Damp: Stamina</name>
+    <name>Damage Falloff: Stamina</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Damp: Knockback</name>
+    <name>Damage Falloff: Knockback</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -287,32 +287,32 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Follow Type 0</name>
+    <name>Follow Type: Soulmass</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Follow Type 1</name>
+    <name>Follow Type: Catalyst</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Follow Type 2</name>
+    <name>Follow Type: Unknown</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Emitter Position Type 0</name>
+    <name>Emitter Position: Player Feet</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Emitter Position Type 1</name>
+    <name>Emitter Position: Parent Bullet</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Emitter Position Type 2</name>
+    <name>Emitter Position: Nearest Enemy Feet</name>
     <type>b8</type>
     <default>False</default>
   </entry>
@@ -407,7 +407,7 @@
     <default>False</default>
   </entry>
   <entry>
-    <name>Damp: Dark Damage</name>
+    <name>Damage Falloff: Dark Damage</name>
     <type>u8</type>
     <default>0</default>
   </entry>

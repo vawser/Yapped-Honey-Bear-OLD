@@ -34,7 +34,6 @@
 113500 Backstab - PC → Irithyllian Slave
 113700 Backstab - PC → Lycanthrope Hunter
 113900 Backstab - PC → Serpent-man
-113910 Backstab - PC → Giant Serpent-man
 114100 Backstab - PC → Silver Knight
 114300 Backstab - PC → Undead Cleric
 114400 Backstab - PC → Devout of the Deep

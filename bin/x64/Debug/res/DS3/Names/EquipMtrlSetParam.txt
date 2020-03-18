@@ -744,6 +744,39 @@
 10008 Fire Seed +8
 10009 Fire Seed +9
 10010 Fire Seed +10
+11000 Crystal Fragment +0
+11001 Crystal Fragment +1
+11002 Crystal Fragment +2
+11003 Crystal Fragment +3
+11004 Crystal Fragment +4
+11005 Crystal Fragment +5
+11006 Crystal Fragment +6
+11007 Crystal Fragment +7
+11008 Crystal Fragment +8
+11009 Crystal Fragment +9
+11010 Crystal Fragment +10
+12000 Holy Fragment +0
+12001 Holy Fragment +1
+12002 Holy Fragment +2
+12003 Holy Fragment +3
+12004 Holy Fragment +4
+12005 Holy Fragment +5
+12006 Holy Fragment +6
+12007 Holy Fragment +7
+12008 Holy Fragment +8
+12009 Holy Fragment +9
+12010 Holy Fragment +10
+13000 Abyssal Fragment +0
+13001 Abyssal Fragment +1
+13002 Abyssal Fragment +2
+13003 Abyssal Fragment +3
+13004 Abyssal Fragment +4
+13005 Abyssal Fragment +5
+13006 Abyssal Fragment +6
+13007 Abyssal Fragment +7
+13008 Abyssal Fragment +8
+13009 Abyssal Fragment +9
+13010 Abyssal Fragment +10
 20000 Shield - Titanite +0
 20001 Shield - Titanite +1
 20002 Shield - Titanite +2
@@ -802,6 +835,22 @@
 23103 Shield - Infused - Dragon Scale +3
 23104 Shield - Infused - Dragon Scale +4
 23105 Shield - Infused - Dragon Scale +5
+30000 Handmaid's Ladle +0
+30001 Handmaid's Ladle +1
+30002 Handmaid's Ladle +2
+30003 Handmaid's Ladle +3
+30004 Handmaid's Ladle +4
+30005 Handmaid's Ladle +5
+30006 Handmaid's Ladle +6
+30007 Handmaid's Ladle +7
+30008 Handmaid's Ladle +8
+30009 Handmaid's Ladle +9
+30010 Handmaid's Ladle +10
+30011 Handmaid's Ladle +11
+30012 Handmaid's Ladle +12
+30013 Handmaid's Ladle +13
+30014 Handmaid's Ladle +14
+30015 Handmaid's Ladle +15
 100000 Soul of Champion Gundyr
 100002 Soul of the Dancer
 100003 Soul of a Crystal Sage
@@ -827,29 +876,32 @@
 100025 Soul of the Demon Prince
 100026 Soul of Darkeater Midir
 100027 Soul of the Dark Sun
+100028 Soul of Corrupted Gundyr
+100029 Soul of the Ancient Wyvern
+100030 Soul of the Triad
 200001 Primordial Titanite - 1
-200002 Primordial Titanite - 2
-200003 Primordial Titanite - 3
-200004 Primordial Titanite - 4
-200005 Primordial Titanite - 5
-200006 Primordial Titanite - 6
-200007 Primordial Titanite - 7
-200008 Primordial Titanite - 8
-200009 Primordial Titanite - 9
-200010 Primordial Titanite - 10
-200011 Primordial Titanite - 11
-200012 Primordial Titanite - 12
-200013 Primordial Titanite - 13
-200014 Primordial Titanite - 14
-200015 Primordial Titanite - 15
-200016 Primordial Titanite - 16
-200017 Primordial Titanite - 17
-200018 Primordial Titanite - 18
-200019 Primordial Titanite - 19
-200020 Primordial Titanite - 20
-200025 Primordial Titanite - 25
-200030 Primordial Titanite - 30
-200100 Primordial Titanite - 100
+200002 Primordial Titanite - 1
+200003 Primordial Titanite - 1
+200004 Primordial Titanite - 2
+200005 Primordial Titanite - 2
+200006 Primordial Titanite - 2
+200007 Primordial Titanite - 3
+200008 Primordial Titanite - 3
+200009 Primordial Titanite - 3
+200010 Primordial Titanite - 4
+200011 Primordial Titanite - 4
+200012 Primordial Titanite - 4
+200013 Primordial Titanite - 5
+200014 Primordial Titanite - 5
+200015 Primordial Titanite - 5
+200016 Primordial Titanite - 6
+200017 Primordial Titanite - 6
+200018 Primordial Titanite - 6
+200019 Primordial Titanite - 7
+200020 Primordial Titanite - 8
+200025 Primordial Titanite - 9
+200030 Primordial Titanite - 10
+200100 Primordial Titanite - 10
 200300 Darkmoon Faithful - 15
 200301 Darkmoon Faithful - 10
 200302 Darkmoon Faithful - 5

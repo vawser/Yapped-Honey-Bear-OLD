@@ -79,6 +79,8 @@
 609 Beard - Type 9
 610 Beard - Type 10
 611 Beard - Type 11
+612 Beard - Type 12
+613 Beard - Type 13
 620 Beard (Female) - None
 621 Beard (Female) - Type 1
 622 Beard (Female) - Type 2
@@ -91,6 +93,8 @@
 629 Beard (Female) - Type 9
 630 Beard (Female) - Type 10
 631 Beard (Female) - Type 11
+632 Beard (Female) - Type 12
+633 Beard (Female) - Type 13
 700 Hairstyle - None
 701 Hairstyle - Type 1
 702 Hairstyle - Type 2
@@ -192,8 +196,8 @@
 100100 Age - Young
 100101 Age - Mature
 100102 Age - Aged
-100200 Class - Knight
-100201 Class - Soldier
+100200 Class - Deprived
+100201 Class - Knight
 100202 Class - Thief
 100203 Class - Sentinel
 100204 Class - Mercenary
@@ -202,8 +206,8 @@
 100207 Class - Samurai
 100208 Class - Warrior
 100209 Class - Bandit
-100210 Class - Deprived
-100211 Class - Paladin
+100210 Class - Soldier
+100211 Class - Acolyte
 100212 Class - Herald
 100213 Class - Captain
 100214 Class - Peasant
@@ -217,7 +221,8 @@
 100222 Class - Heretic
 100223 Class - Outcast
 100224 Class - Skeptic
-100225 Class - Acolyte
+100225 Class - Paladin
+100226 Class - Accursed
 100300 Gift - None
 100301 Gift - Master Key
 100302 Gift - Coiled Sword Fragment
@@ -245,6 +250,11 @@
 100324 Gift - Magic Stoneplate Ring
 100325 Gift - Dark Stoneplate Ring
 100326 Gift - Young White Branch
+100327 Gift - Rattling Finger
+100328 Gift - Murky Finger
+100329 Gift - Accursed Ring
+100330 Gift - Tomb Ring
+100331 Gift - Untrue Dark Ring
 100400 Voice - Young
 100401 Voice - Mature
 100402 Voice - Aged

@@ -24,7 +24,9 @@
 21100 Sir Vilhelm [Ariandel]
 21140 Sir Vilhelm [Ariandel]
 21200 Livid Pyromancer Dunnel [Ariandel]
-21300 [Boss] Champion's Gravetender
+21300 [Boss] The Lord's Blade
+21301 [Boss] The Dragonslayer
+21302 [Boss] The Executioner
 21400 Amnesiac Lapp [Dreg Heap]
 21420 Amnesiac Lapp - White Phantom [Dreg Heap]
 21421 Amnesiac Lapp - White Phantom
@@ -197,6 +199,9 @@
 33600 Easterner Iazeel
 33700 Gaius the Mighty
 33800 Quintus the Monstrous
+33900 Thorned Knight
+34000 Undead Hexer
+34100 Roaming Sorcerer
 89999 ### Enemies ###
 90390 Dungeon Objects (for bullet owners)
 107000 Skeleton [Catacombs of Carthus]
@@ -206,6 +211,10 @@
 107004 Skeleton - Running - Scimitar [Catacombs of Carthus]
 107005 Skeleton - Running - Falchion [Catacombs of Carthus]
 107006 Skeleton - Firebomb [Catacombs of Carthus]
+107010 Skeleton - Scimitar - TOG
+107011 Skeleton - Falchion - TOG
+107012 Skeleton - Bow - TOG
+107013 Skeleton - Firebomb - TOG
 107021 Skeleton - Scimitar
 107022 Skeleton - Falchion
 107023 Skeleton - Bow
@@ -227,9 +236,11 @@
 107096 Skeleton
 107126 Skeleton
 109000 Pus of Man
+109001 Pus of Man - TOG
 109010 Pus of Man
 110000 Hollow Soldier - Straight Sword
 110001 Hollow Soldier - Straight Sword - Firebomb
+110002 Hollow Soldier - Straight Sword - TOG
 110003 Hollow Soldier - Straight Sword - Firebomb
 110004 Hollow Soldier - Straight Sword - Firebomb
 110005 Hollow Soldier - Straight Sword
@@ -237,22 +248,28 @@
 110007 Hollow Soldier - Straight Sword - Firebomb
 110008 Hollow Soldier - Straight Sword - Firebomb
 110009 Hollow Soldier - Straight Sword
-110010 Hollow Soldier - Spear
+110010 Hollow Soldier - Sword and Shield
+110011 Hollow Soldier - Sword and Shield - TOG
+110012 Hollow Soldier - Straight Sword - Firebomb - TOG
 110020 Hollow Soldier - Crossbow
 110021 Hollow Soldier - Crossbow
 110022 Hollow Soldier - Crossbow
 110023 Hollow Soldier - Crossbow
 110024 Hollow Soldier - Crossbow
 110025 Hollow Soldier - Crossbow
+110026 Hollow Soldier - Crossbow - TOG
 110030 Hollow Soldier - Lantern
+110031 Hollow Soldier - Lantern - TOG
 110050 Hollow Soldier - Spear and Shield
 110051 Hollow Soldier - Spear and Shield
+110052 Hollow Soldier - Spear and Shield - TOG
 110053 Hollow Soldier - Spear and Shield
 110054 Hollow Soldier - Spear and Shield
 110060 Hollow Soldier - Dagger
 110061 Hollow Soldier - Dagger
 110062 Hollow Soldier - Dagger
 110063 Hollow Soldier - Dagger
+110064 Hollow Soldier - Dagger - TOG
 110070 Hollow Soldier - Combat State -> Think ID
 110080 Hollow Assassin
 110085 Hollow Assassin
@@ -265,29 +282,38 @@
 110105 Hollow Soldier - Sword [Lothric Castle]
 110500 Large Hollow Soldier - Greataxe
 110501 Large Hollow Soldier - Greataxe - Low Visibility
+110502 Large Hollow Soldier - Greataxe - TOG
 110510 Large Hollow Soldier - Halberd
 110511 Large Hollow Soldier - Halberd - Low Visibility
+110512 Large Hollow Soldier - Halberd - TOG
 110520 Large Hollow Soldier
 110580 Large Hollow Soldier - Greataxe
 110590 Large Hollow Soldier
 113000 Rotten Slug
+113001 Rotten Slug - TOG
 113010 Rotten Slug
 113200 Rotten Slug
 117000 Carthus Swordsman - Sword
 117001 Carthus Swordsman - Sword
+117002 Carthus Swordsman - Sword - TOG
 117010 Carthus Swordsman - Greatsword
+117011 Carthus Swordsman - Greatsword - TOG
 117030 Carthus Swordsman - Bow
+117031 Carthus Swordsman - Bow - TOG
 117040 Carthus Swordsman
-118000 Carthus Swordsman - Sword
+118000 Carthus Swordsman - Shotel
+118001 Carthus Swordsman - Shotel - TOG
 118010 Carthus Swordsman - Shotel
 118020 Carthus Swordsman
 119000 Cathedral Knight
 119001 Cathedral Knight
 119002 Cathedral Knight
+119003 Cathedral Knight - TOG
 119005 Cathedral Knight
 119010 Cathedral Knight
 119011 Cathedral Knight
 119012 Cathedral Knight
+119013 Cathedral Knight - TOG
 119020 Cathedral Knight
 119021 Cathedral Knight
 119050 Cathedral Knight
@@ -298,34 +324,43 @@
 120004 Hollow Slave - Axe - Firebomb
 120005 Hollow Slave - Axe - Firebomb
 120006 Hollow Slave - Axe - Firebomb
+120007 Hollow Slave - Axe - Firebomb - TOG
 120009 Hollow Slave - Axe - Firebomb
 120010 Hollow Slave - Axe - Blowpipe
 120020 Hollow Slave - Flamberge
+120021 Hollow Slave - Flamberge - TOG
 120050 Hollow Slave - Flamberge
 121000 Ghru - Spear
 121001 Ghru - Spear
+121002 Ghru - Spear - TOG
 121010 Ghru - Curved Sword
+121011 Ghru - Curved Sword - TOG
 121020 Ghru - Dagger
 121021 Ghru - Dagger
 121022 Ghru - Dagger
 121023 Ghru - Dagger
+121024 Ghru - Dagger - TOG
 121030 Mad Ghru
+121031 Mad Ghru - TOG
 121040 Mad Ghru
 121049 Mad Ghru
-122000 Corpse-grub - Patrol
-122010 Corpse-grub
-122020 Corpse-grub
-122030 Corpse-grub
-122040 Corpse-grub
-122050 Corpse-grub
-122060 Corpse-grub
-122070 Corpse-grub
+122000 Infested Corpse
+122001 Infested Corpse - TOG
+122010 Infested Corpse - Chest
+122011 Infested Corpse - Chest - TOG
+122020 Infested Corpse
+122030 Infested Corpse
+122040 Infested Corpse
+122050 Infested Corpse
+122060 Infested Corpse
+122070 Infested Corpse
 123000 Cathedral Evangelist
 123001 Cathedral Evangelist
 123002 Cathedral Evangelist
 123003 Cathedral Evangelist
 123004 Cathedral Evangelist
 123005 Cathedral Evangelist
+123006 Cathedral Evangelist - TOG
 123010 Cathedral Evangelist
 123051 Cathedral Evangelist
 123097 Cathedral Evangelist
@@ -338,35 +373,46 @@
 124004 Peasant Hollow - Axe
 124005 Peasant Hollow - Axe
 124006 Peasant Hollow - Axe
+124007 Peasant Hollow - Axe - TOG
 124009 Peasant Hollow - Axe
 124010 Peasant Hollow - Lantern
 124011 Peasant Hollow - Lantern
 124012 Peasant Hollow - Lantern
 124013 Peasant Hollow - Lantern
 124014 Peasant Hollow - Lantern
+124015 Peasant Hollow - Lantern - TOG
 124019 Peasant Hollow - Lantern
 124020 Peasant Hollow - Sickle
 124021 Peasant Hollow - Sickle
+124022 Peasant Hollow - Sickle - TOG
 124029 Peasant Hollow - Sickle
 124030 Peasant Hollow - Mallet
+124031 Peasant Hollow - Mallet - TOG
 124039 Peasant Hollow - Mallet
 124040 Peasant Hollow - Hoe
 124041 Peasant Hollow - Hoe
+124042 Peasant Hollow - Hoe - TOG
 124049 Peasant Hollow - Hoe
 124050 Peasant Hollow
 125000 Cathedral Grave Warden
 125001 Cathedral Grave Warden
 125002 Cathedral Grave Warden
+125003 Cathedral Grave Warden - TOG
 125099 Cathedral Grave Warden
 126000 Hollow Manservant
 126001 Hollow Manservant
 126002 Hollow Manservant
+126003 Hollow Manservant - TOG
 126090 Hollow Manservant - Saw
 126091 Hollow Manservant - Low Visibility
 128000 Lothric Knight - Sword and Shield
+128001 Lothric Knight - Sword and Shield - TOG
 128010 Lothric Knight - Spear and Shield
+128011 Lothric Knight - Spear and Shield - TOG
 128020 Lothric Knight - Greatsword
+128021 Lothric Knight - Greatsword - TOG
 128030 Lothric Knight - Crossbow
+128031 Lothric Knight - Crossbow - TOG
 128100 Lothric Knight - Sword and Shield
 128110 Lothric Knight - Spear and Shield
 128120 Lothric Knight - Greatsword
@@ -377,136 +423,201 @@
 128310 Lothric Knight - Spear and Shield
 128311 Lothric Knight - Spear and Shield
 129000 Winged Knight - Halberd
+129001 Winged Knight - Halberd - TOG
 129010 Winged Knight - Twinaxes
+129011 Winged Knight - Twinaxes - TOG
 129020 Winged Knight - Halberd [Grand Archives]
 129030 Winged Knight - Twinaxes [Grand Archives]
 130000 Black Knight - Sword
 130010 Black Knight - Greatsword
+130011 Black Knight - Greatsword - TOG
 130020 Black Knight - Greataxe
+130021 Black Knight - Greataxe - TOG
 130030 Black Knight - Halberd
 130100 Black Knight - Sword
 130110 Black Knight - Greatsword
 130120 Black Knight - Greataxe
 130130 Black Knight - Halberd
 131000 Boreal Outrider Knight
+131001 Boreal Outrider Knight - TOG
 132000 [Boss] Crystal Sage
+132001 [Boss] Crystal Sage - TOG
 132010 [Boss] Crystal Sage
 132050 [Boss] Crystal Sage
 132051 [Boss] Crystal Sage
 132052 [Boss] Crystal Sage
 132200 [Boss] Crystal Sage
 134000 Archive Scholar
+134001 Archive Scholar - TOG
 134010 Archive Scholar
+134011 Archive Scholar - TOG
 135000 Irithyllian Slave
+135001 Irithyllian Slave - TOG
 135005 Irithyllian Slave
 135006 Irithyllian Slave
+135007 Irithyllian Slave - TOG
 135010 Irithyllian Slave
+135011 Irithyllian Slave - TOG
 135020 Irithyllian Slave
 135021 Irithyllian Slave
+135022 Irithyllian Slave - TOG
 135030 Irithyllian Slave
+135031 Irithyllian Slave - TOG
 136000 Lycanthrope
 136001 Lycanthrope
+136002 Lycanthrope - TOG
 137000 Lycanthrope Hunter
+137001 Lycanthrope Hunter - TOG
 137090 Lycanthrope Hunter
 138000 Serpent-man Summoner
 138001 Serpent-man Summoner
+138002 Serpent-man Summoner - TOG
 138010 Serpent-man Summoner
 138200 Serpent-man Summoner
 139000 Serpent-man - Dagger
+139001 Serpent-man - Dagger - TOG
 139010 Serpent-man - Hatchet
-139020 Serpent-man - Hatchet
-139030 Serpent-man - Hatchet
-139100 Giant Serpent-man
-139110 Giant Serpent-man
+139011 Serpent-man - Hatchet - TOG
+139020 Serpent-man - Axe
+139021 Serpent-man - Axe - TOG
+139030 Serpent-man - Double-bit Axe
+139031 Serpent-man - Double-bit Axe - TOG
+139100 Giant Serpent-man - Chainaxe
+139101 Giant Serpent-man - Chainaxe - TOG
+139110 Giant Serpent-man - Greataxe
+139111 Giant Serpent-man - Greataxe - TOG
 140000 Fire Keeper
 141000 Silver Knight - Sword and Shield
+141001 Silver Knight - Sword and Shield - TOG
 141010 Silver Knight - Spear and Shield
+141011 Silver Knight - Spear and Shield - TOG
 141020 Silver Knight - Greatbow -> Sword and Shield
 141021 Silver Knight - Greatbow -> Sword and Shield
+141022 Silver Knight - Greatbow -> Sword and Shield - TOG
 141030 Silver Knight - Greatbow -> Spear and Shield
-143010 Undead Cleric
-143030 Undead Cleric
-143031 Undead Cleric
-143040 Undead Cleric
-143041 Undead Cleric
-143061 Undead Cleric
-144000 Devout Bomber
-144001 Devout Bomber
-144010 Devout Bomber
-144020 Devout of the Deep
-144030 Devout of the Deep
-144031 Devout Bomber
-144035 Devout Bomber
-144040 Devout Bomber
-144041 Devout Bomber
-144050 Devout Bomber
-144060 Devout of the Deep
-144061 Devout of the Deep
-144070 Devout of the Deep
-144071 Devout of the Deep
-144072 Devout of the Deep
+141031 Silver Knight - Greatbow -> Spear and Shield - TOG
+143010 Undead Cleric 1
+143011 Undead Cleric 1 - TOG
+143030 Undead Cleric 2
+143031 Undead Cleric 2
+143032 Undead Cleric 2 - TOG
+143040 Undead Cleric 3
+143041 Undead Cleric 3
+143042 Undead Cleric 3 - TOG
+143061 Undead Cleric 4
+143062 Undead Cleric 4 - TOG
+144000 Devout of the Deep 1
+144001 Devout of the Deep 1
+144002 Devout of the Deep 1 - TOG
+144010 Devout of the Deep 2
+144011 Devout of the Deep 2 - TOG
+144020 Devout of the Deep 3
+144021 Devout of the Deep 3 - TOG
+144030 Devout of the Deep 4
+144031 Devout of the Deep 4
+144032 Devout of the Deep 4 - TOG
+144035 Devout of the Deep 4
+144040 Devout of the Deep 5
+144041 Devout of the Deep 5
+144042 Devout of the Deep 5 - TOG
+144050 Devout of the Deep 6
+144051 Devout of the Deep 6 - TOG
+144060 Devout of the Deep 7
+144061 Devout of the Deep 7
+144062 Devout of the Deep 7 - TOG
+144070 Lothric Priest
+144071 Lothric Priest
+144072 Lothric Priest
+144073 Lothric Priest - TOG
 146000 Painting Protection (phantom)
 147000 Bonewheel Skeleton
+147001 Bonewheel Skeleton - TOG
 147010 Bonewheel Skeleton
 148000 Irithyll Knight - Regular - Ghost
 149000 Irithyll Knight - Dancer - Ghost
 202000 Undead Dog
+202001 Undead Dog - TOG
 202050 Undead Dog
 202099 Undead Dog
 202100 Small Undead Dog (Undead Settlement)
 202101 Small Undead Dog
 202102 Small Undead Dog
 202103 Small Undead Dog
+202104 Small Undead Dog - TOG
 202200 Undead Dog (Irithyll)
 202201 Undead Dog (Irithyll)
+202202 Undead Dog (Irithyll) - TOG
 203000 Pontiff Knight - Curved Sword
+203001 Pontiff Knight - Curved Sword - TOG
 203005 Pontiff Knight - Curved Sword
 203010 Pontiff Knight - Scythe
+203011 Pontiff Knight - Scythe - TOG
 203099 Pontiff Knight
 204000 Monstrosity of Sin
+204001 Monstrosity of Sin - TOG
 204050 Monstrosity of Sin
 204099 Monstrosity of Sin
 206000 Infested Corpse
+206001 Infested Corpse - TOG
 206010 Infested Corpse
+206011 Infested Corpse - TOG
 207000 Wretch (Unarmed)
+207001 Wretch (Unarmed) - TOG
 207010 Wretch (Spear)
 207011 Wretch (Spear)
+207012 Wretch (Spear) - TOG
 207020 Wretch (Dagger)
-208000 Undead Dog
+207021 Wretch (Dagger) - TOG
+208000 Undead Dog - Pregnant
+208001 Undead Dog - Pregnant - TOG
 209000 [Boss] Oceiros, the Consumed King
+209001 [Boss] Oceiros, the Consumed King - TOG
 210000 Sewer Centipede
+210001 Sewer Centipede - TOG
 210010 Sewer Centipede
 211000 Hound-rat
+211001 Hound-rat - TOG
 211098 Hound-rat
 212000 Mimic
+212001 Mimic - TOG
 212010 Mimic
+212011 Mimic - TOG
 212100 Mimic
 213000 Writhing Rotten Flesh
+213001 Writhing Rotten Flesh - TOG
 213090 Writhing Rotten Flesh
 213200 Smouldering Rotten Flesh
 214000 Basilisk
 214001 Basilisk
+214002 Basilisk - TOG
 215000 Crystal Lizard
+215001 Crystal Lizard - TOG
 215005 Crystal Lizard
 215010 Crystal Lizard
 215020 Crystal Lizard
 215025 Crystal Lizard
 216000 Yoel of Londor
+216001 Pilgrim - TOG
 216010 Londor Pilgrim
 216030 Pilgrim Dummy
 218000 Grub
 218001 Grub
+218002 Grub - TOG
 218010 Grub (Witch)
 218100 Grub
 218110 Grub (Witch)
 219000 Gargoyle (Hammer)
+219001 Gargoyle (Hammer) - TOG
 219010 Gargoyle (Spear)
+219011 Gargoyle (Spear) - TOG
 220000 Carthus Sandworm
+220001 Carthus Sandworm - TOG
 220010 Carthus Sandworm
 220100 Carthus Sandworm
 221000 Corvian (Dagger) - Road of Sacrifices
 221001 Corvian (Scythe) - Road of Sacrifices
 221002 Corvian (Storyteller's Staff) - Road of Sacrifices
+221003 Corvian - TOG
 221010 Corvian (Dagger) - Untended Graves
 221011 Corvian (Scythe) - Untended Graves
 221012 Corvian (Storyteller's Staff) - Untended Graves
@@ -514,26 +625,35 @@
 221021 Corvian (Scythe) - Irithyll
 221022 Corvian (Storyteller's Staff) - Irithyll
 223000 Jailer
+223001 Jailer - TOG
 223005 Jailer
 223006 Jailer
 223010 Jailer Handmaid
+223011 Jailer Handmaid - TOG
 223020 Jailer Handmaid
 224000 [Boss] Vordt of the Boreal Valley
+224001 [Boss] Vordt of the Boreal Valley - TOG
 224100 [Boss] Vordt of the Boreal Valley (Heatup)
 225000 Sulyvahn's Beast
+225001 Sulyvahn's Beast - TOG
 225010 Sulyvahn's Beast
 226000 Ballista
 227000 Giant Crab
 227001 Giant Crab
 227002 Giant Crab
 227003 Giant Crab
+227004 Giant Crab - TOG
 227100 Lesser Crab
 227101 Lesser Crab
 227102 Lesser Crab - Tight Lease
+227103 Lesser Crab - TOG
 228000 Giant Rat
+228001 Giant Rat - TOG
 229000 Irithyll Dog
+229001 Irithyll Dog - TOG
 229100 Irithyll Dog
 302000 Giant Slave
+302001 Giant Slave - TOG
 302010 Giant Slave
 302020 Giant Slave
 302100 Giant Slave
@@ -550,19 +670,25 @@
 304098 [Boss] Abyss Watcher (Old)
 305000 [Boss] Old Demon King
 306000 Demon
+306001 Demon - TOG
 306099 Demon (Old)
 306100 Demon (Undead Settlement)
 307000 Demon Cleric
+307001 Demon Cleric - TOG
 307100 Demon Cleric
 308000 Pilgrim Butterfly
 308001 Pilgrim Butterfly
 309000 Caged Hollow
+309001 Caged Hollow - TOG
 309010 Caged Hollow
 310000 Giant Crystal Lizard
+310001 Giant Crystal Lizard - TOG
 310050 Giant Crystal Lizard
 311000 Deep Acursed
+311001 Deep Acursed - TOG
 312000 Elder Ghru
 312001 Elder Ghru
+312002 Elder Ghru - TOG
 312020 Elder Ghru
 314000 Ancient Wyvern
 314010 Ancient Wyvern
@@ -570,13 +696,18 @@
 314100 [Boss] Ancient Wyvern
 314200 Ancient Wyvern
 316000 Dragonslayer Armour
+316001 Dragonslayer Armour - TOG
 316010 Dragonslayer Armour
 317000 Darkwraith
+317001 Darkwraith - TOG
 321000 Poisonhorn Bug
+321001 Poisonhorn Bug - TOG
 322000 Rock Lizard
 322001 Rock Lizard
 322002 Rock Lizard
+322003 Rock Lizard - TOG
 323000 Demon Statue
+323001 Demon Statue - TOG
 325000 High Priestess Emma
 501000 [Boss] Nameless King
 502000 [Boss] Demon Prince
@@ -606,6 +737,7 @@
 520000 Stray Demon
 520001 Stray Demon (Heatup)
 520002 Stray Demon
+520003 Stray Demon - TOG
 522000 [Boss] Deacons of the Deep
 522099 [Boss] Deacons of the Deep (Old)
 522100 Fat Deacon
@@ -616,43 +748,55 @@
 522300 Deacon
 522310 Deacon
 522500 Fat Deacon (Irithyll)
+522501 Fat Deacon (Irithyll) - TOG
 522510 Fat Deacon (Irithyll)
 522600 Tall Deacon (Irithyll)
+522601 Tall Deacon (Irithyll) - TOG
 522610 Tall Deacon (Irithyll)
 522700 Deacon (Irithyll)
+522701 Deacon (Irithyll) - TOG
 522710 Deacon (Irithyll)
 524000 Irithyll Fire Witch
+524001 Irithyll Fire Witch - TOG
 525000 [Boss] Lorian, Elder Prince
 525001 [Boss] Lorian, Elder Prince (Heatup)
 525100 [Boss] Lothric, Younger Prince
 526000 [Boss] Yhorm the Giant
 527000 [Boss] Dancer of the Boreal Valley
+527001 [Boss] Dancer of the Boreal Valley - TOG
 528000 [Boss] Soul of Cinder
 528100 [Boss] Soul of Cinder (Heatup)
-600000 Farron Follower
-600001 Farron Follower
-600002 Farron Follower
-600010 Farron Follower
-600011 Farron Follower
-600012 Farron Follower
-600020 Farron Follower
-600021 Farron Follower
-600022 Farron Follower
-600030 Farron Follower
-600031 Farron Follower
-600032 Farron Follower
+600000 Farron Follower 1
+600001 Farron Follower 1
+600002 Farron Follower 1
+600003 Farron Follower 1 - TOG
+600010 Farron Follower 2
+600011 Farron Follower 2
+600012 Farron Follower 2
+600013 Farron Follower 2 - TOG
+600020 Farron Follower 3
+600021 Farron Follower 3
+600022 Farron Follower 3
+600023 Farron Follower 3 - TOG
+600030 Farron Follower 4
+600031 Farron Follower 4
+600032 Farron Follower 4
+600033 Farron Follower 4 - TOG
 601000 [Boss] Father Ariandel
 602000 [Boss] Sister Friede
 602001 [Boss] Sister Friede (Heatup)
 603000 Greatwolf
 603001 Greatwolf
 603002 Greatwolf
+603003 Greatwolf - TOG
 603004 Greatwolf
 604000 Wolf
+604001 Wolf - TOG
 604010 Wolf
 604020 Wolf
 604040 Wolf
 605000 Skittish Wolf
+605001 Skittish Wolf - TOG
 605010 Skittish Wolf
 605020 Skittish Wolf
 605030 Skittish Wolf
@@ -662,11 +806,14 @@
 606000 Tree Woman
 606001 Tree Woman
 606002 Tree Woman
+606003 Tree Woman - TOG
 606010 Tree Woman
 607000 Corvian Knight
 607001 Corvian Knight
 607002 Corvian Knight
+607003 Corvian Knight - TOG
 607010 Corvian Knight
+607011 Corvian Knight - TOG
 607012 Corvian Knight
 608000 Corvian Villager
 608001 Corvian Villager
@@ -674,6 +821,7 @@
 608003 Corvian Villager
 608005 Corvian Villager
 608006 Corvian Villager
+608007 Corvian Villager - TOG
 608010 Corvian Villager
 608011 Corvian Villager
 608015 Corvian Villager
@@ -681,19 +829,25 @@
 608100 Corvian Villager
 608101 Corvian Villager
 608102 Corvian Villager
+608103 Corvian Villager - TOG
 608105 Corvian Villager
 609000 Giant Fly
-610000 Millwood Knight
-610010 Millwood Knight
-610011 Millwood Knight
-610020 Millwood Knight
-610021 Millwood Knight
-610030 Millwood Knight
-610031 Millwood Knight
-610032 Millwood Knight
-610033 Millwood Knight
-610034 Millwood Knight
-610035 Millwood Knight
+609001 Giant Fly - TOG
+610000 Millwood Knight 1
+610001 Millwood Knight 1 - TOG
+610010 Millwood Knight 2
+610011 Millwood Knight 2
+610012 Millwood Knight 2 - TOG
+610020 Millwood Knight 3
+610021 Millwood Knight 3
+610022 Millwood Knight 3 - TOG
+610030 Millwood Knight 4
+610031 Millwood Knight 4
+610032 Millwood Knight 4
+610033 Millwood Knight 4
+610034 Millwood Knight 4
+610035 Millwood Knight 4
+610036 Millwood Knight 4 - TOG
 613000 Great Crab
 620000 [Boss] Slave Knight Gael
 620100 [Boss] Slave Knight Gael (Heatup)
@@ -705,8 +859,10 @@
 623002 Murkman
 623003 Murkman
 623004 Murkman
+623005 Murkman - TOG
 623100 Crawling Murkman
 623101 Crawling Murkman
+623102 Crawling Murkman - TOG
 623104 Crawling Murkman
 623200 Murkman Spirit
 624000 Pilgrim Pulpa
@@ -717,15 +873,18 @@
 626000 Ringed Knight
 626001 Ringed Knight
 626002 Ringed Knight
+626003 Ringed Knight - TOG
 626005 Ringed Knight
 626010 Ringed Knight
 626015 Ringed Knight
 626020 Ringed Knight
 626021 Ringed Knight
-627000 Lothric Thief
-627001 Lothric Thief
-627002 Lothric Thief
+627000 Hollow Vagabond
+627001 Hollow Vagabond
+627002 Hollow Vagabond
+627003 Hollow Vagabond - TOG
 628000 Judicator
+628001 Judicator - TOG
 628010 Judicator
 628020 Judicator
 628090 Judicator
@@ -735,21 +894,24 @@
 629002 Hollow Cleric
 629003 Hollow Cleric
 629004 Hollow Cleric
+629005 Hollow Cleric - TOG
 630000 Mad Pilgrim
 632000 Harald Knight
 632001 Harald Knight
 632002 Harald Knight
+632003 Harald Knight - TOG
 632010 Harald Knight
 633000 Big Locust
 633001 Big Locust
 633002 Big Locust
+633003 Big Locust - TOG
 633010 Big Locust
 633100 Small Locust
 633101 Small Locust
+633102 Small Locust - TOG
 633110 Small Locust
 633111 Small Locust
 633112 Small Locust
-700000 Humanity Sprite
 900000 ■ ■ ■ ■ ■ For products up here ■ ■ ■ ■. ■.
 901000 Hiras Test
 901100 Yoshihi Test

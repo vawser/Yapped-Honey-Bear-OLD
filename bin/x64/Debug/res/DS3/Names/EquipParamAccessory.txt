@@ -277,3 +277,7 @@
 30800 Elden Ring
 30810 Rare Ring of Humanity
 30820 Tomb Ring
+30830 Accursed Ring
+30840 Fool's Sigil
+30850 Rattling Finger
+30860 Murky Finger

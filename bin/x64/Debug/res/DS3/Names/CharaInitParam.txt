@@ -48,6 +48,11 @@
 2424 [Gift] Magic Stoneplate Ring
 2425 [Gift] Dark Stoneplate Ring
 2426 [Gift] Young White Branch
+2427 [Gift] Rattling Finger
+2428 [Gift] Murky Finger
+2429 [Gift] Accursed Ring
+2430 [Gift] Tomb Ring
+2431 [Gift] Untrue Dark Ring
 2500 Nothing
 2501 Life Ring
 2502 Divine Blessing
@@ -58,8 +63,8 @@
 2507 Rusted Gold Coin
 2508 Dung Pie
 2509 Young White Branch
-3000 [Class] Knight
-3001 [Class] Soldier
+3000 [Class] Deprived
+3001 [Class] Knight
 3002 [Class] Thief
 3003 [Class] Sentinel
 3004 [Class] Mercenary
@@ -68,8 +73,8 @@
 3007 [Class] Samurai
 3008 [Class] Warrior
 3009 [Class] Bandit
-3010 [Class] Deprived
-3011 [Class] Paladin
+3010 [Class] Soldier
+3011 [Class] Acolyte
 3012 [Class] Herald
 3013 [Class] Captain
 3014 [Class] Peasant
@@ -83,7 +88,8 @@
 3022 [Class] Heretic
 3023 [Class] Outcast
 3024 [Class] Skeptic
-3025 [Class] Acolyte
+3025 [Class] Paladin
+3099 [Class] Accursed
 3100 Knight
 3101 Warrior
 3102 Thief
@@ -100,8 +106,9 @@
 21005 Slave Knight Gael [Dreg Heap]
 21100 Sir Vilhelm [Ariandel]
 21140 Sir Vilhelm [Ariandel]
-21200 Livid Pyromancer Dunnel [Ariandel]
-21300 [Boss] Champion Gravetender
+21300 [Boss] The Lord's Blade
+21301 [Boss] The Dragonslayer
+21302 [Boss] The Abyss Walker
 21400 Amnesiac Lapp
 21401 Amnesiac Lapp [Dreg Heap]
 21420 Amnesiac Lapp [Dreg Heap]
@@ -247,7 +254,7 @@
 30300 Holy Knight Morton [Catacombs of Carthus]
 30500 Tiny [Lothric Castle]
 30600 Captain Morrel [High Wall of Lothric]
-30700 Dominatrix Sharron [Dreg Heap]
+30700 Dominatrix Sharron [Lothric Castle]
 30800 Morric, the Fallen Knight [Cathedral of the Deep]
 30900 Tomb Raider Dyfan [Catacombs of Carthus]
 31000 Chaos Servant Eygor [Smouldering Lake]
@@ -288,6 +295,19 @@
 33600 Easterner Iazeel [Ringed City]
 33700 Gaius the Mighty [Archdragon Peak]
 33800 Quintus the Monstrous [Grand Archives]
+33900 Burial Knight - Scythe of Nahr Alma [Cemetery of Ash]
+33901 Burial Knight - Reinforced Club [Cemetery of Ash]
+33902 Burial Knight - Flamberge [Cemetery of Ash]
+33903 Burial Knight - Great Machete [Cemetery of Ash]
+33904 Burial Knight - Barbed Straight Sword [Cemetery of Ash]
+34000 Undead Hexer - Shiv [Undead Settlement]
+34001 Undead Hexer - Harpe [Undead Settlement]
+34002 Undead Hexer - Dagger [Undead Settlement]
+34003 Undead Hexer - Murky Hand Scythe [Undead Settlement]
+34004 Undead Hexer - Corvian Greatknife [Undead Settlement]
+34100 Roaming Sorcerer - Shockwave [Road of Sacrifices]
+34101 Roaming Sorcerer - Soul Arrow [Road of Sacrifices]
+999999 ### Enemies ###
 1000000 Bonfire
 1000010 1000010: [For the weapon animation confirmation] ◎ 01 Dagger (id_20: Dagger)
 1000011 1000011: [For the weapon animation confirmation] ◎ 01 Dagger (id_72: Cut)

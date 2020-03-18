@@ -30,7 +30,9 @@
 21100 Sir Vilhelm [Ariandel]
 21140 Sir Vilhelm - Enemy [Ariandel]
 21200 Livid Pyromancer Dunnel - Mad Phantom [Ariandel]
-21300 [Boss] Champion's Gravetender
+21300 [Boss] The Lord's Blade
+21301 [Boss] The Dragonslayer
+21302 [Boss] The Abyss Walker
 21400 Amnesiac Lapp [Dreg Heap]
 21401 Amnesiac Lapp [Dreg Heap]
 21402 Amnesiac Lapp [The Ringed City]
@@ -216,6 +218,10 @@
 33600 Easterner Iazeel [Ringed City]
 33700 Gaius the Mighty [Archdragon Peak]
 33800 Quintus the Monstrous [Grand Archives]
+33900 Burial Knight [Cemetery of Ash]
+34000 Undead Hexer [Undead Settlement]
+34100 Roaming Sorcerer [Road of Sacrifices]
+99999 ### Enemies ###
 100000 Bonfire
 107000 Skeleton [Catacombs of Carthus]
 107001 Skeleton - Scimitar [Catacombs of Carthus]
@@ -225,21 +231,21 @@
 107007 Skeleton - Scimitar [Catacombs of Carthus]
 107008 Skeleton - Falchion [Catacombs of Carthus]
 107009 Skeleton - Bow [Catacombs of Carthus]
-107010 Skeleton - Wolnir [Catacombs of Carthus]
-107011 Skeleton - Wolnir [Catacombs of Carthus]
-107012 Skeleton - Wolnir [Catacombs of Carthus]
-107013 Skeleton - Scimitar [Catacombs of Carthus]
+107010 Skeleton - Scimitar - Wolnir [Catacombs of Carthus]
+107011 Skeleton - Falchion - Wolnir [Catacombs of Carthus]
+107012 Skeleton - Scimitar - Wolnir [Catacombs of Carthus]
+107013 Skeleton - Scimitar - Headless [Catacombs of Carthus]
 107014 Skeleton - Scimitar [Catacombs of Carthus]
 107015 Skeleton - Ball [Catacombs of Carthus]
 107016 Skeleton - Firebomb [Catacombs of Carthus]
 107017 Skeleton - Ball [Catacombs of Carthus]
 107020 Skeleton - Ball [Catacombs of Carthus]
-107100 Skeleton - Scimitar [Undead Settlement]
-107101 Skeleton - Scimitar [Undead Settlement]
-107102 Skeleton - Scimitar [Undead Settlement]
-107110 Skeleton - Falchion [Undead Settlement]
-107111 Skeleton - Falchion [Undead Settlement]
-107112 Skeleton - Falchion [Undead Settlement]
+107100 Overgrown Skeleton - Scimitar [Undead Settlement]
+107101 Overgrown Skeleton - Scimitar [Undead Settlement]
+107102 Overgrown Skeleton - Scimitar [Undead Settlement]
+107110 Overgrown Skeleton - Falchion [Undead Settlement]
+107111 Overgrown Skeleton - Falchion [Undead Settlement]
+107112 Overgrown Skeleton - Falchion [Undead Settlement]
 107201 Skeleton - Falchion [Smouldering Lake]
 107202 Skeleton - Falchion [Smouldering Lake]
 107203 Skeleton - Bow [Smouldering Lake]
@@ -257,7 +263,6 @@
 107314 Skeleton [Ringed City]
 109000 Pus of Man [High Wall of Lothric]
 109001 Pus of Man [High Wall of Lothric]
-109002 Pus of Man - Oceiros [High Wall of Lothric]
 109100 Pus of Man [Lothric Castle]
 109110 Pus of Man [Lothric Castle]
 109200 Pus of Man [Grand Archives]
@@ -265,19 +270,19 @@
 109300 Pus of Man [Grand Archives]
 110000 Hollow Soldier - Sword [High Wall of Lothric]
 110001 Hollow Soldier - Sword [High Wall of Lothric]
-110010 Hollow Soldier - Passive [High Wall of Lothric]
-110011 Hollow Soldier - Passive [High Wall of Lothric]
-110012 Hollow Soldier - Passive [High Wall of Lothric]
-110013 Hollow Soldier - Passive [High Wall of Lothric]
+110010 Hollow Soldier - Naked [High Wall of Lothric]
+110011 Hollow Soldier - Linen [High Wall of Lothric]
+110012 Hollow Soldier - White Linen [High Wall of Lothric]
+110013 Hollow Soldier - Waistcoat [High Wall of Lothric]
 110020 Hollow Soldier - Sword and Shield [High Wall of Lothric]
 110021 Hollow Soldier - Sword and Shield [High Wall of Lothric]
 110030 Hollow Soldier - Lantern [High Wall of Lothric]
 110040 Hollow Soldier - Crossbow [High Wall of Lothric]
 110050 Hollow Soldier - Spear and Shield [High Wall of Lothric]
-110070 Hollow Soldier [High Wall of Lothric]
-110080 Hollow Assassin [High Wall of Lothric]
-110090 Hollow [Undead Settlement]
-110099 Hollow Soldier [Fireless Shrine]
+110070 Hollow Soldier - Naked [High Wall of Lothric]
+110080 Hollow Soldier - Assassin [High Wall of Lothric]
+110090 Hollow Soldier - Naked [Undead Settlement]
+110099 Hollow Soldier - Naked [Fireless Shrine]
 110100 Hollow Soldier - Sword [Lothric Castle]
 110110 Hollow Soldier - Sword [Lothric Castle]
 110111 Hollow Soldier - Sword [Lothric Castle]
@@ -288,7 +293,7 @@
 110140 Hollow Soldier - Crossbow [Lothric Castle]
 110150 Hollow Soldier - Spear and Shield [Lothric Castle]
 110170 Hollow Soldier - Sword [Lothric Castle]
-110180 Hollow Assassin [Lothric Castle]
+110180 Hollow Soldier - Assassin [Lothric Castle]
 110200 Hollow Soldier - Sword [Grand Archives]
 110210 Hollow Soldier - Sword [Grand Archives]
 110211 Hollow Soldier - Sword [Grand Archives]
@@ -299,7 +304,7 @@
 110240 Hollow Soldier - Crossbow [Grand Archives]
 110250 Hollow Soldier - Spear and Shield [Grand Archives]
 110270 Hollow Soldier - Sword [Grand Archives]
-110280 Hollow Assassin [Grand Archives]
+110280 Hollow Soldier - Assassin [Grand Archives]
 110300 Hollow Soldier - Sword [Ringed City]
 110301 Hollow Soldier - Sword [Ringed City]
 110400 Hollow Soldier - Sword [Farron Keep]
@@ -309,7 +314,7 @@
 110440 Hollow Soldier - Crossbow [Farron Keep]
 110450 Hollow Soldier - Spear and Shield [Farron Keep]
 110470 Hollow Soldier - Sword [Farron Keep]
-110480 Hollow Assassin [Farron Keep]
+110480 Hollow Soldier - Assassin [Farron Keep]
 110500 Large Hollow Soldier - Greataxe [High Wall of Lothric]
 110510 Large Hollow Soldier - Halberd [High Wall of Lothric]
 110600 Large Hollow Soldier - Greataxe [Lothric Castle]
@@ -338,23 +343,23 @@
 117114 Carthus Swordsman - Greatsword [Smouldering Lake]
 117120 Carthus Swordsman - Bow [Smouldering Lake]
 117121 Carthus Swordsman - Bow [Smouldering Lake]
-117122 Carthus Swordsman - Bow [Smouldering Lake]
+117122 Carthus Swordsman - Bow - Wolnir [Smouldering Lake]
 118000 Carthus Swordsman - Shotel [Catacombs of Carthus]
 118001 Carthus Swordsman - Shotel [Catacombs of Carthus]
-118010 Carthus Swordsman - Shotel [Catacombs of Carthus]
-118011 Carthus Swordsman - Shotel [Catacombs of Carthus]
-118012 Carthus Swordsman - Shotel - Wolnir [Catacombs of Carthus]
+118010 Carthus Swordsman - Twin Shotel [Catacombs of Carthus]
+118011 Carthus Swordsman - Twin Shotel [Catacombs of Carthus]
+118012 Carthus Swordsman - Twin Shotel - Wolnir [Catacombs of Carthus]
 118100 Carthus Swordsman - Shotel [Smouldering Lake]
 118101 Carthus Swordsman - Shotel [Smouldering Lake]
-118110 Carthus Swordsman - Shotel [Smouldering Lake]
-118111 Carthus Swordsman - Shotel [Smouldering Lake]
-118112 Carthus Swordsman - Shotel [Smouldering Lake]
+118110 Carthus Swordsman - Twin Shotel [Smouldering Lake]
+118111 Carthus Swordsman - Twin Shotel [Smouldering Lake]
+118112 Carthus Swordsman - Twin Shotel - Wolnir [Smouldering Lake]
 119000 Cathedral Knight - Mace [Cathedral of the Deep]
 119001 Cathedral Knight - Mace - Band of Darkness+1 [Cathedral of the Deep]
 119002 Cathedral Knight - Mace - Band of Darkness+3 [Cathedral of the Deep]
 119010 Cathedral Knight - Greatsword [Cathedral of the Deep]
 119011 Cathedral Knight - Greatsword - Band of Darkness+2 [Cathedral of the Deep]
-119020 Cathedral Knight - Mace [Cathedral of the Deep]
+119020 Cathedral Knight - Crossbow [Cathedral of the Deep]
 119030 Cathedral Knight - Mace - Deacons of the Deep [Cathedral of the Deep]
 119040 Cathedral Knight - Greatsword - Deacons of the Deep [Cathedral of the Deep]
 119100 Cathedral Knight - Greatsword [Lothric Castle]
@@ -362,19 +367,19 @@
 119111 Cathedral Knight - Greatsword [Lothric Castle]
 119120 Cathedral Knight - Mace - Dragonscale Ring+3 [Consumed King's Garden]
 120000 Hollow Slave - Axe [Cathedral of the Deep]
-120010 Hollow Slave - Axe [Cathedral of the Deep]
+120010 Hollow Slave - Pick [Cathedral of the Deep]
 120020 Hollow Slave - Flamberge [Cathedral of the Deep]
 120100 Hollow Slave - Axe [Grand Archives]
-120110 Hollow Slave - Axe [Grand Archives]
+120110 Hollow Slave - Pick [Grand Archives]
 120120 Hollow Slave - Flamberge [Grand Archives]
 120200 Hollow Slave - Axe [Undead Settlement]
-120210 Hollow Slave - Axe [Undead Settlement]
+120210 Hollow Slave - Pick [Undead Settlement]
 120220 Hollow Slave - Flamberge [Undead Settlement]
 120300 Hollow Slave - Axe [Lothric Castle]
-120310 Hollow Slave - Axe [Lothric Castle]
+120310 Hollow Slave - Pick [Lothric Castle]
 120500 Hollow Slave - Axe [Dreg Heap]
 120501 Hollow Slave - Axe [Dreg Heap]
-120510 Hollow Slave - Axe [Dreg Heap]
+120510 Hollow Slave - Pick [Dreg Heap]
 120511 Hollow Slave - Flamberge [Dreg Heap]
 120520 Hollow Slave - Flamberge [Dreg Heap]
 120521 Hollow Slave - Flamberge [Dreg Heap]
@@ -385,31 +390,31 @@
 121010 Ghru - Curved Sword [Farron Keep]
 121011 Ghru - Curved Sword [Farron Keep]
 121019 Ghru - Curved Sword [Road of Sacrifices]
-121020 Ghru - Dagger [Farron Keep]
-121021 Ghru - Dagger [Farron Keep]
-121029 Ghru - Dagger [Road of Sacrifices]
-121030 Mad Ghru [Smouldering Lake]
-121040 Mad Ghru [Farron Keep]
+121020 Ghru - Dagger and Talisman [Farron Keep]
+121021 Ghru - Dagger and Talisman [Farron Keep]
+121029 Ghru - Dagger and Talisman [Road of Sacrifices]
+121030 Ghru - Mad and Horned [Farron Keep]
+121040 Ghru - Mad with Beard [Farron Keep]
 121100 Smouldering Ghru - Spear [Smouldering Lake]
 121110 Smouldering Ghru - Curved Sword [Smouldering Lake]
 121111 Smouldering Ghru - Curved Sword - Hostile [Smouldering Lake]
-121120 Smouldering Ghru - Dagger [Smouldering Lake]
-121130 Smouldering Mad Ghru [Smouldering Lake]
-121140 Smouldering Mad Ghru [Smouldering Lake]
+121120 Smouldering Ghru - Dagger and Talisman [Smouldering Lake]
+121130 Smouldering Ghru - Mad and Horned [Smouldering Lake]
+121140 Smouldering Ghru - Mad with Beard [Smouldering Lake]
 122000 Infested Corpse [Cathedral of the Deep]
-122010 Infested Corpse [Cathedral of the Deep]
+122010 Infested Corpse - Chest Beast [Cathedral of the Deep]
 122100 Infested Corpse [Irithyll Dungeon]
 122101 Infested Corpse - Heretic Ring+1 [Irithyll Dungeon]
 122102 Infested Corpse - Heretic Ring+2 [Irithyll Dungeon]
 122103 Infested Corpse - Heretic Ring+3 [Irithyll Dungeon]
-122110 Infested Corpse [Irithyll Dungeon]
-123000 Cathedral Evangelist [Undead Settlement]
-123010 Cathedral Evangelist [Undead Settlement]
-123090 Cathedral Evangelist
-123091 Cathedral Evangelist
-123100 Cathedral Evangelist [Cathedral of the Deep]
-123200 Cathedral Evangelist [Road of Sacrifices]
-123300 Cathedral Evangelist [Anor Londo/Lothric Castle]
+122110 Infested Corpse - Chest Beast [Irithyll Dungeon]
+123000 Cathedral Evangelist - Tome [Undead Settlement]
+123010 Cathedral Evangelist - No Tome [Undead Settlement]
+123090 Cathedral Evangelist - Tome
+123091 Cathedral Evangelist - Tome
+123100 Cathedral Evangelist - Tome [Cathedral of the Deep]
+123200 Cathedral Evangelist - Tome [Road of Sacrifices]
+123300 Cathedral Evangelist - Tome [Anor Londo/Lothric Castle]
 124000 Peasant Hollow - Axe [Undead Settlement]
 124009 Peasant Hollow - Axe [Cursed Greatwood]
 124010 Peasant Hollow - Lantern [Undead Settlement]
@@ -422,45 +427,45 @@
 124039 Peasant Hollow - Mallet [Cursed Greatwood]
 124040 Peasant Hollow - Hoe [Undead Settlement]
 124049 Peasant Hollow - Hoe [Cursed Greatwood]
-124100 Jailer Hollow
-124110 Jailer Hollow
-124111 Jailer Hollow
-124120 Jailer Hollow
-124130 Jailer Hollow
-124140 Jailer Hollow
+124100 Jailer Hollow - Axe
+124110 Jailer Hollow - Lantern
+124111 Jailer Hollow - Lantern
+124120 Jailer Hollow - Sickle
+124130 Jailer Hollow - Mallet
+124140 Jailer Hollow - Hoe
 124150 Jailer Hollow
 125000 Cathedral Grave Warden [Cathedral of the Deep]
-125100 Cathedral Grave Warden [Unturned Graves]
-126000 Hollow Manservant - Saw [Undead Settlement]
-126001 Hollow Manservant - Pot [Undead Settlement]
-126010 Hollow Manservant - Pot #2 [Undead Settlement]
-126101 Hollow Manservant - Pot #3 [Road of Sacrifices]
-128000 Lothric Knight - Sword and Shield [High Wall of Lothric]
-128003 Lothric Knight - Sword and Shield [High Wall of Lothric] - Red-eyed
-128004 Lothric Knight - Sword and Shield [High Wall of Lothric] - Red-eyed
-128010 Lothric Knight - Spear and Shield [High Wall of Lothric]
-128013 Lothric Knight - Spear and Shield [High Wall of Lothric] - Red-eyed
-128020 Lothric Knight - Sword and Shield - Knight's Ring+3 [High Wall of Lothric]
-128100 Lothric Knight - Sword and Shield [Lothric Castle]
-128101 Lothric Knight - Sword and Shield [Lothric Castle] - Red-eyed
-128102 Lothric Knight - Sword and Shield - Jester Ring+3 [Lothric Castle]
-128110 Lothric Knight - Spear and Shield [Lothric Castle]
-128111 Lothric Knight - Spear and Shield [Lothric Castle] - Red-eyed
-128112 Lothric Knight - Spear and Shield - Jester Ring+1 [Lothric Castle]
-128113 Lothric Knight - Spear and Shield - Jester Ring+2 [Lothric Castle]
-128120 Lothric Knight - Greatsword [Lothric Castle]
-128121 Lothric Knight - Greatsword [Lothric Castle] - Red-eyed
-128201 Lothric Knight - Sword and Shield [Grand Archives]
-128203 Lothric Knight - Sword and Shield [Grand Archives] - Red-eyed
-128211 Lothric Knight - Spear and Shield [Grand Archives]
-128213 Lothric Knight - Spear and Shield [Grand Archives] - Red-eyed
-128221 Lothric Knight - Greatsword [Grand Archives]
-128223 Lothric Knight - Greatsword [Grand Archives] - Red-eyed
-128300 Overgrown Lothric Knight - Sword and Shield [Dreg Heap]
-128301 Overgrown Lothric Knight - Sword and Shield - Band of Stone+2 [Dreg Heap]
-128310 Overgrown Lothric Knight - Sword and Shield [Dreg Heap] - Red-eyed
-128311 Overgrown Lothric Knight - Greatshield [Dreg Heap]
-128312 Overgrown Lothric Knight - Greatshield [Dreg Heap] - Red-eyed
+125100 Cathedral Grave Warden [Untended Graves]
+126000 Hollow Manservant - Saw with Board [Undead Settlement]
+126001 Hollow Manservant - Saw with Cage [Undead Settlement]
+126010 Hollow Manservant - Pot with Board [Undead Settlement]
+126101 Hollow Manservant - Pot with Board [Road of Sacrifices]
+128000 Lothric Knight - Sword [High Wall of Lothric]
+128003 Lothric Knight - Sword - Exposed Face [High Wall of Lothric] - Red-eyed
+128004 Lothric Knight - Sword - Exposed Face [High Wall of Lothric] - Red-eyed
+128010 Lothric Knight - Spear [High Wall of Lothric]
+128013 Lothric Knight - Spear - Exposed Face [High Wall of Lothric] - Red-eyed
+128020 Lothric Knight - Sword - Knight's Ring+3 [High Wall of Lothric]
+128100 Lothric Knight - Sword [Lothric Castle]
+128101 Lothric Knight - Sword [Lothric Castle] - Red-eyed
+128102 Lothric Knight - Sword - Jester Ring+3 [Lothric Castle]
+128110 Lothric Knight - Spear [Lothric Castle]
+128111 Lothric Knight - Spear [Lothric Castle] - Red-eyed
+128112 Lothric Knight - Spear - Jester Ring+1 [Lothric Castle]
+128113 Lothric Knight - Spear - Jester Ring+2 [Lothric Castle]
+128120 Lothric Knight - Sword [Lothric Castle]
+128121 Lothric Knight - Sword [Lothric Castle] - Red-eyed
+128201 Lothric Knight - Sword [Grand Archives]
+128203 Lothric Knight - Sword - Exposed Face [Grand Archives] - Red-eyed
+128211 Lothric Knight - Spear [Grand Archives]
+128213 Lothric Knight - Spear - Exposed Face [Grand Archives] - Red-eyed
+128221 Lothric Knight - Sword [Grand Archives]
+128223 Lothric Knight - Sword - Exposed Face [Grand Archives] - Red-eyed
+128300 Overgrown Lothric Knight - Sword [Dreg Heap]
+128301 Overgrown Lothric Knight - Sword - Band of Stone+2 [Dreg Heap]
+128310 Overgrown Lothric Knight - Spear [Dreg Heap] - Red-eyed
+128311 Overgrown Lothric Knight - War Banner [Dreg Heap]
+128312 Overgrown Lothric Knight - War Banner [Dreg Heap] - Red-eyed
 128321 Overgrown Lothric Knight - Greatsword [Dreg Heap]
 128322 Overgrown Lothric Knight - Greatsword - Band of Stone+1 [Dreg Heap]
 128323 Overgrown Lothric Knight - Greatsword - Band of Stone+3 [Dreg Heap]
@@ -491,6 +496,8 @@
 130210 Black Knight - Greataxe [Undead Settlement]
 130211 Black Knight - Greataxe - Physician Ring+2 [Undead Settlement]
 130212 Black Knight - Greataxe - Physician Ring+3 [Undead Settlement]
+130220 Black Knight - Greataxe - Red-eyed [Undead Settlement]
+130230 Black Knight - Greatsword - Red-eyed [Undead Settlement]
 130610 Black Knight - Greatsword [Farron Keep]
 130611 Black Knight - Greatsword [Farron Keep] - Hostile
 130620 Black Knight - Greataxe [Farron Keep]
@@ -547,17 +554,22 @@
 138001 Serpent-man Summoner - Thunder Stoneplate Ring+1 [Archdragon Peak]
 138002 Serpent-man Summoner - Thunder Stoneplate Ring+2 [Archdragon Peak]
 138003 Serpent-man Summoner - Thunder Stoneplate Ring+3 [Archdragon Peak]
+138010 Serpent-man Summoner [High Wall of Lothric]
 139000 Serpent-man - Dagger [Archdragon Peak]
 139010 Serpent-man - Hatchet [Archdragon Peak]
-139020 Serpent-man - Hatchet [Archdragon Peak]
-139030 Serpent-man - Hatchet [Archdragon Peak]
+139020 Serpent-man - Axe [Archdragon Peak]
+139030 Serpent-man - Double-bit Hatchet [Archdragon Peak]
 139050 Serpent-man - Hatchet [Consumed King's Garden]
-139060 Serpent-man - Hatchet [High Wall of Lothric]
-139100 Giant Serpent-man [Archdragon Peak]
-139101 Giant Serpent-man - Covetous Silver Serpent Ring+3 [Archdragon Peak]
-139110 Giant Serpent-man [Archdragon Peak]
-139111 Giant Serpent-man - Covetous Silver Serpent Ring+1 [Archdragon Peak]
-139112 Giant Serpent-man - Covetous Silver Serpent Ring+2 [Archdragon Peak]
+139060 Serpent-man - Dagger [High Wall of Lothric]
+139070 Serpent-man - Axe [High Wall of Lothric]
+139080 Serpent-man - Double-bit Hatchet  [High Wall of Lothric]
+139100 Giant Serpent-man - Chainaxe [Archdragon Peak]
+139101 Giant Serpent-man - Chainaxe - Covetous Silver Serpent Ring+3 [Archdragon Peak]
+139110 Giant Serpent-man - Greataxe [Archdragon Peak]
+139111 Giant Serpent-man - Greataxe - Covetous Silver Serpent Ring+1 [Archdragon Peak]
+139112 Giant Serpent-man - Greataxe - Covetous Silver Serpent Ring+2 [Archdragon Peak]
+139120 Giant Serpent-man - Chainaxe [High Wall of Lothric]
+139130 Giant Serpent-man - Greataxe [High Wall of Lothric]
 140000 Fire Keeper [Firelink Shrine]
 140010 Fire Keeper [Firelink Shrine]
 141000 Silver Knight - Sword and Shield [Anor Londo]
@@ -574,21 +586,22 @@
 141102 Silver Knight - Sword and Shield - Hunter's Ring+2 [Irithyll]
 141103 Silver Knight - Sword and Shield - Hunter's Ring+3 [Irithyll]
 141120 Silver Knight - Sword and Shield [Anor Londo]
-143000 Undead Cleric [Cemetery of Ash]
-143010 Undead Cleric [Cemetery of Ash]
-143020 Undead Cleric [Cemetery of Ash]
-143030 Undead Cleric [Cemetery of Ash]
-143040 Undead Cleric [Cemetery of Ash]
-143050 Undead Cleric [Cemetery of Ash]
-143060 Undead Cleric [Cemetery of Ash]
-143100 Undead Cleric [Untended Graves]
-143110 Undead Cleric [Untended Graves]
-143120 Undead Cleric [Untended Graves]
-143130 Undead Cleric [Untended Graves]
-143140 Undead Cleric [Untended Graves]
-143150 Undead Cleric [Untended Graves]
-143160 Undead Cleric [Untended Graves]
-143170 Undead Cleric [Untended Graves]
+143000 Undead Cleric 1 [Cemetery of Ash]
+143010 Undead Cleric 2 [Cemetery of Ash]
+143020 Undead Cleric 3 [Cemetery of Ash]
+143030 Undead Cleric 4 [Cemetery of Ash]
+143040 Undead Cleric 5 [Cemetery of Ash]
+143050 Undead Cleric 6 [Cemetery of Ash]
+143060 Undead Cleric 7 [Cemetery of Ash]
+143100 Undead Cleric 1 [Untended Graves]
+143110 Undead Cleric 2 [Untended Graves]
+143120 Undead Cleric 3 [Untended Graves]
+143130 Undead Cleric 4 [Untended Graves]
+143140 Undead Cleric 5 [Untended Graves]
+143150 Undead Cleric 6 [Untended Graves]
+143160 Undead Cleric 7 [Untended Graves]
+143170 Undead Cleric 8 [Untended Graves]
+143200 Undead Cleric [Dummy]
 144000 Devout Bomber #1 [Cathedral of the Deep]
 144001 Devout Bomber #1 [Cathedral of the Deep]
 144002 Devout Bomber #1 [Cathedral of the Deep]
@@ -689,8 +702,8 @@
 204011 Monstrosity of Sin - Chloranthy Ring+1 [Profaned Capital]
 204012 Monstrosity of Sin - Chloranthy Ring+2 [Profaned Capital]
 204013 Monstrosity of Sin - Chloranthy Ring+3 [Profaned Capital]
-206000 Infested Corpse [Full]
-206100 Infested Corpse [Full]
+206000 Writhing Infested Corpse
+206100 Writhing Infested Corpse
 207000 Wretch
 207001 Wretch
 207010 Wretch - Spear
@@ -700,8 +713,8 @@
 207022 Wretch - Dagger - Speckled Stoneplate Ring+1 [Irithyll Dungeon]
 207023 Wretch - Dagger - Speckled Stoneplate Ring+2 [Irithyll Dungeon]
 207024 Wretch - Dagger - Speckled Stoneplate Ring+3 [Irithyll Dungeon]
-208000 Undead Dog
-208100 Undead Dog
+208000 Pregnant Undead Dog
+208100 Pregnant Undead Dog
 209000 [Boss] Oceiros, the Consumed King
 209010 [Boss] Oceiros, the Consumed King [Heat Up]
 210000 Sewer Centipede [Irithyll]
@@ -775,6 +788,7 @@
 216010 Londor Pilgrim
 216020 Stone-humped Hag
 216030 Pilgrim Dummy
+216040 Pilgrim
 216100 Londor Pilgrim
 217000 Company Captain Yorshka
 218000 Grub - Yellowfinger Heysel
@@ -889,14 +903,15 @@
 309000 Caged Hollow [Undead Settlement]
 309010 Caged Hollow
 309100 Caged Hollow
-310000 Giant Crystal Lizard
-310200 Giant Crystal Lizard [Cathedral of the Deep]
-310320 Giant Crystal Lizard
-310400 Giant Crystal Lizard [Farron Keep]
-310500 Giant Crystal Lizard [Cemetery of Ash]
-310600 Giant Crystal Lizard [Untended Graves]
-310601 Giant Crystal Lizard - Life Ring+3 [Untended Graves]
-310610 Giant Crystal Lizard [Untended Graves]
+310000 Ravenous Crystal Lizard
+310200 Ravenous Crystal Lizard [Cathedral of the Deep]
+310320 Ravenous Crystal Lizard
+310400 Ravenous Crystal Lizard [Farron Keep]
+310500 Ravenous Crystal Lizard [Cemetery of Ash]
+310600 Ravenous Crystal Lizard [Untended Graves]
+310601 Ravenous Crystal Lizard - Life Ring+3 [Untended Graves]
+310610 Ravenous Crystal Lizard [Untended Graves]
+310700 Ravenous Crystal Lizard - Generic
 311000 Deep Acursed
 311100 Deep Acursed
 311200 Deep Acursed
@@ -925,10 +940,10 @@
 316011 Dragonslayer Armour - Ring of Steel Protection+1 [The Ringed City]
 316012 Dragonslayer Armour - Ring of Steel Protection+2 [The Ringed City]
 316013 Dragonslayer Armour - Ring of Steel Protection+3 [The Ringed City]
-317000 Darkwraith
-317100 Darkwraith
-317101 Darkwraith
-317102 Darkwraith
+317000 Darkwraith [Farron Keep]
+317100 Darkwraith [Farron Keep]
+317101 Darkwraith [Farron Keep]
+317102 Darkwraith [Farron Keep]
 317110 Darkwraith - Farron Ring+1 [Farron Keep]
 317111 Darkwraith - Farron Ring+2 [Farron Keep]
 317112 Darkwraith - Farron Ring+3 [Farron Keep]
@@ -955,9 +970,9 @@
 502202 [Boss] Demon Prince - Dummy Entity [Orb]
 502203 [Boss] Demon Prince - Dummy Entity [Orb]
 503000 [Boss] King of the Storm
-511000 [Boss] Iudex Gundyr
+511000 [Boss] Corrupted Gundyr
 511100 [Boss] Champion Gundyr
-512000 [Boss] Iudex Gundyr - Pus of Man
+512000 [Boss] Corrupted Gundyr - Pus of Man
 514000 [Boss] Pontiff Sulyvahn
 514010 [Boss] Pontiff Sulyvahn [Spirit Clone]
 515000 [Boss] Aldrich, Devourer of Gods
@@ -1147,12 +1162,12 @@
 623025 Murkman [Dreg Heap]
 623032 Murkman [Dreg Heap]
 623034 Murkman [Dreg Heap]
-623100 Murkman [Dreg Heap]
-623101 Murkman [Dreg Heap]
-623102 Murkman [Dreg Heap]
-623103 Murkman [Dreg Heap]
-623104 Murkman [Dreg Heap]
-623105 Murkman [Dreg Heap]
+623100 Crawling Murkman [Dreg Heap]
+623101 Crawling Murkman [Dreg Heap]
+623102 Crawling Murkman [Dreg Heap]
+623103 Crawling Murkman [Dreg Heap]
+623104 Crawling Murkman [Dreg Heap]
+623105 Crawling Murkman [Dreg Heap]
 623120 Crawling Murkman [Dreg Heap]
 623122 Crawling Murkman [Dreg Heap]
 623123 Crawling Murkman [Dreg Heap]
@@ -1180,21 +1195,21 @@
 626121 Ringed Knight - Skull Ring+1 [Filianore's Rest]
 626122 Ringed Knight - Skull Ring+2 [Filianore's Rest]
 626123 Ringed Knight - Skull Ring+3 [Filianore's Rest]
-627000 Lothric Thief
-627001 Lothric Thief
-627002 Lothric Thief
-627003 Lothric Thief
-627010 Lothric Thief
-627020 Lothric Thief
-627021 Lothric Thief
-627030 Lothric Thief
-627040 Lothric Thief
-627041 Lothric Thief
-627042 Lothric Thief
-627043 Lothric Thief
-627050 Lothric Thief
-627052 Lothric Thief
-627090 Lothric Thief
+627000 Hollow Vagabond
+627001 Hollow Vagabond
+627002 Hollow Vagabond
+627003 Hollow Vagabond
+627010 Hollow Vagabond
+627020 Hollow Vagabond
+627021 Hollow Vagabond
+627030 Hollow Vagabond
+627040 Hollow Vagabond
+627041 Hollow Vagabond
+627042 Hollow Vagabond
+627043 Hollow Vagabond
+627050 Hollow Vagabond
+627052 Hollow Vagabond
+627090 Hollow Vagabond
 628000 Judicator
 628010 Judicator
 628020 Judicator
@@ -1233,8 +1248,9 @@
 633110 Small Locust
 633111 Small Locust
 633112 Small Locust
-700000 Humanity
-800000 ■ ■ ■ ■ ■ For products up here ■ ■ ■ ■. ■.
+719999 ### Trial of Perseverance ###
+720000 Wave HP
+800000 ### Unused ###
 890000 Adjustment base character for the time being
 890001 (during testing) player assumption _ Level 1
 890100 Player assumed _ Level 100 (during testing)

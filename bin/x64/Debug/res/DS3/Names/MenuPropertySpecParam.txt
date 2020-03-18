@@ -10,6 +10,10 @@
 120 Required souls
 121 Soul value
 200 Item Type
+201 STR Scaling
+202 DEX Scaling
+203 INT Scaling
+204 FTH Scaling
 205 FP cost
 300 Weapon category
 301 Attack type
@@ -29,17 +33,29 @@
 322 Critical
 330 Poison
 331 Bleed
+332 Sacred
+333 Curse
 334 Frost
 340 Physical Absorption
 341 Magic Absorption
 342 Fire Absorption
 343 Lightning Absorption
 344 Dark Absorption
+345 Physical Defense
+346 Magic Defense
+347 Fire Defense
+348 Lightning Defense
+349 Dark Defense
 350 Stability
+351 Stability Value
 360 STR Requirement
 361 DEX Requirement
 362 INT Requirement
 363 FTH Requirement
+365 STR Requirement Value
+366 DEX Requirement Value
+367 INT Requirement Value
+368 FTH Requirement Value
 370 STR Scaling
 371 DEX Scaling
 372 INT Scaling

@@ -160,7 +160,7 @@
     <default>True</default>
   </entry>
   <entry>
-    <name>Is Bool</name>
+    <name>Is Drop</name>
     <type>b8</type>
     <default>True</default>
   </entry>
@@ -185,7 +185,7 @@
     <size>3</size>
   </entry>
   <entry>
-    <name>Cost Value</name>
+    <name>Shop Price</name>
     <type>s32</type>
     <default>-1</default>
   </entry>

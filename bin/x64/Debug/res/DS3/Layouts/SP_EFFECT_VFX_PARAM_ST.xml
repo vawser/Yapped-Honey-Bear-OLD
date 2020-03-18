@@ -1,5 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="SoulParamID" type="u8">
+    <item value="0" name="None" />
+	<item value="1" name="Bright Blue" />
+    <item value="2" name="Red Orange" />
+    <item value="3" name="Green Yellow" />
+    <item value="4" name="Purple" />
+    <item value="5" name="Moss Green" />
+    <item value="6" name="Blue White" />
+    <item value="7" name="Dark Blue" />
+    <item value="8" name="Cobalt Blue" />
+    <item value="9" name="None" />
+    <item value="10" name="White" />
+    <item value="11" name="White Outline" />
+    <item value="12" name="None" />
+    <item value="13" name="[Dark] Bright Blue" />
+    <item value="14" name="[Dark] Red Orange" />
+    <item value="15" name="[Dark] Green Yellow" />
+    <item value="16" name="[Dark] Purple" />
+    <item value="17" name="[Dark] Moss Green" />
+    <item value="18" name="[Dark] Blue White" />
+    <item value="19" name="[Dark] Dark Blue" />
+    <item value="20" name="[Dark] Cobalt Blue" />
+    <item value="21" name="None" />
+    <item value="22" name="White" />
+    <item value="23" name="White Outline" />
+    
+  </enum>
   <entry>
     <name>Middle FFX ID</name>
     <type>s32</type>
@@ -184,6 +211,7 @@
     <name>Effect VFX Type 1</name>
     <type>u8</type>
     <default>0</default>
+    <enum>SoulParamID</enum>
   </entry>
   <entry>
     <name>Body Protector Type</name>

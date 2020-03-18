@@ -54,6 +54,7 @@
     <item value="0" name="Consumable" />
 	<item value="1" name="Key Item" />
 	<item value="2" name="Material" />
+    <item value="5" name="Spell" />
   </enum>
   
   <entry>
@@ -72,7 +73,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Fragment Number</name>
+    <name>Base Price</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -447,17 +448,17 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>VagrantItemLotId</name>
+    <name>Vagrant Item Lot ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>VagrantBonusEneDropItemLotId</name>
+    <name>Vagrant (Enemy) Item Lot ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>vagrantItemeneDropItemLotId</name>
+    <name>Vagrant (Enemy) Item Lot ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -477,7 +478,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Is Ember Statys Active</name>
+    <name>Is Ember Stays Active</name>
     <type>b8</type>
     <default>True</default>
   </entry>
@@ -502,7 +503,7 @@
     <default>False</default>
   </entry>
   <entry>
-    <name>Unk4</name>
+    <name>Is Enchant Left</name>
     <type>b8</type>
     <default>False</default>
   </entry>

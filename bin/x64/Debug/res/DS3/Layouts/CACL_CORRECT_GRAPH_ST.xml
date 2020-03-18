@@ -76,22 +76,22 @@
     <default>1</default>
   </entry>
   <entry>
-    <name>Initial Inclination Soul</name>
+    <name>Levelling Cost - Initial Cost</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Adjustment Value</name>
+    <name>Levelling Cost - Initial Offset</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Boundry Inclination Soul</name>
+    <name>Levelling Cost - Cost Increase</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Boundry Value</name>
+    <name>Levelling Cost - Increase Interval</name>
     <type>f32</type>
     <default>0</default>
   </entry>

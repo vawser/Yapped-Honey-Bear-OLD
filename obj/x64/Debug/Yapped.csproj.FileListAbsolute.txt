@@ -16,3 +16,4 @@ C:\Users\Xylozi\source\repos\Yapped\obj\x64\Debug\Yapped.exe
 C:\Users\Xylozi\source\repos\Yapped\obj\x64\Debug\Yapped.pdb
 C:\Users\Xylozi\source\repos\Yapped\obj\x64\Debug\Yapped.csprojAssemblyReference.cache
 C:\Users\Xylozi\source\repos\Yapped\obj\x64\Debug\Yapped.FormMassDuplicate.resources
+C:\Users\Xylozi\source\repos\Yapped\obj\x64\Debug\Yapped.FormMassEdit.resources

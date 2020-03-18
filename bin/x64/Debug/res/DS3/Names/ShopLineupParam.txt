@@ -29,8 +29,6 @@
 21211 [Watchdogs of Farron] Wolf Knight Gauntlets
 21212 [Watchdogs of Farron] Wolf Knight Leggings
 21213 [Watchdogs of Farron] Ring of the Resolute
-21215 [Watchdogs of Farron] Greatshield of Artorias
-21216 [Watchdogs of Farron] Greatsword of Artorias
 21400 [Aldrich Faithful] Archdeacon's Great Staff
 21401 [Aldrich Faithful] Archdeacon's Longstaff
 21402 [Aldrich Faithful] Dark Gem
@@ -43,6 +41,7 @@
 21409 [Aldrich Faithful] Dark Bead
 21410 [Aldrich Faithful] Ring of the Faithful
 21411 [Aldrich Faithful] Surging Deep
+21412 [Aldrich Faithful] Abyssal Fragment
 21600 [Warrior of Sunlight] Sunlight Shield
 21601 [Warrior of Sunlight] Sunlight Straight Sword
 21602 [Warrior of Sunlight] Lightning Gem
@@ -54,6 +53,7 @@
 21608 [Warrior of Sunlight] Iron Bracelets
 21609 [Warrior of Sunlight] Iron Leggings
 21610 [Warrior of Sunlight] Ring of the Devout
+21611 [Warrior of Sunlight] Holy Fragment
 21800 [Mound-makers] Bloodlust
 21801 [Mound-makers] Warmth
 21802 [Mound-makers] Sharp Gem
@@ -86,8 +86,6 @@
 22202 [Rosaria's Fingers] Holy Gem
 22203 [Rosaria's Fingers] Lucky Gem
 22204 [Rosaria's Fingers] Twinkling Titanite
-22205 [Rosaria's Fingers] Hornet Ring
-22206 [Rosaria's Fingers] Wretched Pendant
 22207 [Rosaria's Fingers] Helm of Thorns
 22208 [Rosaria's Fingers] Armor of Thorns
 22209 [Rosaria's Fingers] Gauntlets of Thorns
@@ -109,7 +107,6 @@
 22500 [Vinheim Scholars] Young Dragon Ring
 22501 [Vinheim Scholars] Slumbering Dragoncrest Ring
 22502 [Vinheim Scholars] Lingering Dragoncrest Ring
-22504 [Vinheim Scholars] Blueblood Sword
 22505 [Vinheim Scholars] Court Sorcerer's Staff
 22506 [Vinheim Scholars] Unleash Magic
 22507 [Vinheim Scholars] Soul Stream
@@ -119,18 +116,16 @@
 22511 [Vinheim Scholars] Twinkling Titanite
 22512 [Vinheim Scholars] Clandestine Coat
 22513 [Vinheim Scholars] Blue Flame
-22514 [Vinheim Scholars] Crystal Ring Shield
+22515 [Vinheim Scholars] Crystal Fragment
 22600 [Pilgrims of Dark] Karla's Pointed Hat
 22601 [Pilgrims of Dark] Karla's Coat
 22602 [Pilgrims of Dark] Karla's Gloves
 22603 [Pilgrims of Dark] Karla's Trosuers
-22604 [Pilgrims of Dark] Ring of the Evil Eye
 22605 [Pilgrims of Dark] Rare Ring of Humanity
 22606 [Pilgrims of Dark] Dark Clutch Ring
 22607 [Pilgrims of Dark] Needle of Eternal Agony
 22608 [Pilgrims of Dark] Abyssal Blade
 22609 [Pilgrims of Dark] Manus Catalyst
-22610 [Pilgrims of Dark] Talisman of Beasts
 22611 [Pilgrims of Dark] Heretic's Staff
 22612 [Pilgrims of Dark] Heretic's Warstaff
 22613 [Pilgrims of Dark] Climax
@@ -138,8 +133,8 @@
 22615 [Pilgrims of Dark] Whisper of Despair
 22616 [Pilgrims of Dark] Titanite Scale
 22617 [Pilgrims of Dark] Dark Gem
-22618 [Pilgrims of Dark] Wretched Pendant
-22619 [Pilgrims of Dark] Scythe of Want
+22620 [Pilgrims of Dark] Accursed Ring
+22621 [Pilgrims of Dark] Abyssal Fragment
 22700 [Dragon Remnants] Farron Ring
 22701 [Dragon Remnants] Hawkwood's Shield
 22702 [Dragon Remnants] Dragon Bone Smasher
@@ -158,17 +153,19 @@
 22716 [Dragon Remnants] Black Dragon Armor
 22717 [Dragon Remnants] Black Dragon Gauntlets
 22718 [Dragon Remnants] Black Dragon Leggings
-30000 [Ludleth - Gundyr] Gundyr's Halberd
-30001 [Ludleth - Gundyr] Prisoner's Chain
-30002 [Ludleth - Gundyr] Hands of God
+30000 [Ludleth - Champion Gundyr] Gundyr's Halberd
+30001 [Ludleth - Champion Gundyr] Prisoner's Chain
+30002 [Ludleth - Champion Gundyr] Wretched Pendant
 30020 [Ludleth - Dancer] Dancer's Enchanted Swords
 30021 [Ludleth - Dancer] Soothing Sunlight
+30022 [Ludleth - Dancer] Ring of the Evil Eye
 30030 [Ludleth - Crystal Sage] Crystal Sage's Rapier
 30031 [Ludleth - Crystal Sage] Crystal Hail
 30032 [Ludleth - Crystal Sage] Sage's Stiletto
 30033 [Ludleth - Crystal Sage] Scholar's Bow
 30040 [Ludleth - Abyss Watcher] Farron Greatsword
 30041 [Ludleth - Abyss Watcher] Wolf Knight's Greatsword
+30042 [Ludleth - Abyss Watcher] Hornet Ring
 30050 [Ludleth - Oceiros] Moonlight Greatsword
 30051 [Ludleth - Oceiros] White Dragon Breath
 30053 [Ludleth - Oceiros] Crystal Storm
@@ -180,18 +177,20 @@
 30070 [Ludleth - Old Demon King] Old King's Great Hammer
 30071 [Ludleth - Old Demon King] Demon King's Greataxe
 30072 [Ludleth - Old Demon King] Quelaag's Fury Sword
+30073 [Ludleth - Old Demon King] Immolation
 30080 [Ludleth - Dragonslayer] Dragonslayer Greataxe
 30081 [Ludleth - Dragonslayer] Dragonslayer Greatshield
 30082 [Ludleth - Dragonslayer] Dragon Bone Smasher
 30090 [Ludleth - Nameless King] Dragonslayer Swordspear
 30091 [Ludleth - Nameless King] Storm Curved Sword
+30092 [Ludleth - Nameless King] Hands of God
 30110 [Ludleth - Sulyvahn] Greatsword of Judgment
 30111 [Ludleth - Sulyvahn] Profaned Greatsword
 30112 [Ludleth - Sulyvahn] Orbs of Judgment
 30120 [Ludleth - Aldrich] Darkmoon Longbow
 30121 [Ludleth - Aldrich] Lifehunt Scythe
-30122 [Ludleth - Aldrich] Darkmoon Ritual Staff
 30123 [Ludleth - Aldrich] Sword of Avowal
+30124 [Ludleth - Aldrich] Talisman of Beasts
 30130 [Ludleth - Wolnir] Wolnir's Holy Sword
 30131 [Ludleth - Wolnir] Black Serpent
 30132 [Ludleth - Wolnir] Mournful Flames
@@ -203,14 +202,16 @@
 30143 [Ludleth - Greatwood] Greatwood Club
 30153 [Ludleth - Rosaria] Bountiful Sunlight
 30154 [Ludleth - Rosaria] Longstaff of Rosaria
+30155 [Ludleth - Rosaria] Divine Arrow
 30160 [Ludleth - Deacons] Cleric's Candlestick
 30161 [Ludleth - Deacons] Deep Ring
 30162 [Ludleth - Deacons] Whisper of Despair
 30163 [Ludleth - Deacons] Dreg Torrent
-30170 [Ludleth - Lothric Twins] Lorian's Greatsword
-30171 [Ludleth - Lothric Twins] Lothric's Holy Sword
-30172 [Ludleth - Lothric Twins] Lothric's Scythe
-30173 [Ludleth - Lothric Twins] Prince's Shield
+30170 [Ludleth - Twin Princes] Lorian's Greatsword
+30171 [Ludleth - Twin Princes] Lothric's Holy Sword
+30172 [Ludleth - Twin Princes] Lothric's Scythe
+30173 [Ludleth - Twin Princes] Prince's Shield
+30174 [Ludleth - Twin Princes] Lothric's Holy Spear
 30180 [Ludleth - Yhorm] Yhorm's Great Machete
 30181 [Ludleth - Yhorm] Yhorm's Greatshield
 30190 [Ludleth - Soul of Cinder] Firelink Greatsword
@@ -240,6 +241,20 @@
 30251 [Ludleth - Midir] Old Moonlight
 30252 [Ludleth - Midir] Abyssal Flame
 30253 [Ludleth - Midir] Obsidian Greatsword
+30270 [Ludleth - Corrupted Gundyr] Writhing Hammer
+30271 [Ludleth - Corrupted Gundyr] Cursed Ring of Evasion
+30272 [Ludleth - Corrupted Gundyr] Cursed Ring of Vengeance
+30273 [Ludleth - Corrupted Gundyr] Cursed Ring of Deflection
+30274 [Ludleth - Corrupted Gundyr] Cursed Ring of Confusion
+30290 [Ludleth - Ancient Wyvern] Dragon King Greataxe
+30291 [Ludleth - Ancient Wyvern] Dragon Greatsword
+30292 [Ludleth - Ancient Wyvern] Immortal Dragon Greatshield
+30293 [Ludleth - Ancient Wyvern] Ancient Dragon Halberd
+30294 [Ludleth - Ancient Wyvern] Dragon Bone Fist
+30310 [Ludleth - Triad] Dragonslayer Spear
+30311 [Ludleth - Triad] Ciaran's Tracers
+30312 [Ludleth - Triad] Smough's Great Hammer
+30313 [Ludleth - Triad] Leo Ring
 32000 [Primordial Forging - Boss] Cleric's Candlestick
 32001 [Primordial Forging - Boss] Gael's Greatsword
 32002 [Primordial Forging - Boss] Sword of Avowal
@@ -277,9 +292,6 @@
 32035 [Primordial Forging - Boss] Longstaff of Rosaria
 32036 [Primordial Forging - Boss] Golden Ritual Spear
 32037 [Primordial Forging - Boss] Caitha's Chime
-32038 [Primordial Forging - Boss] Darkmoon Ritual Staff
-32039 [Primordial Forging - Boss] Lord's Chime
-32040 [Primordial Forging - Boss] Logan's Staff
 32041 [Primordial Forging - Boss] Darkmoon Longbow
 32042 [Primordial Forging - Boss] Repeating Crossbow
 32043 [Primordial Forging - Boss] Dancer's Enchanted Swords
@@ -359,7 +371,7 @@
 32204 [Primordial Forging - Unique] Murky Hand Scythe
 32205 [Primordial Forging - Unique] Sunlight Straight Sword
 32206 [Primordial Forging - Unique] Irithyll Straight Sword
-32207 [Primordial Forging - Unique] Lothric Candlestick
+32207 [Primordial Forging - Unique] Priest's Candlestick
 32208 [Primordial Forging - Unique] Morion Blade
 32209 [Primordial Forging - Unique] Executioner's Greatsword
 32210 [Primordial Forging - Unique] Anri's Straight Sword
@@ -475,9 +487,6 @@
 32323 [Primordial Forging - Unique] Twinspears of the Forlorn
 32324 [Primordial Forging - Unique] Sanguinus
 32325 [Primordial Forging - Unique] Pyromancer's Parting Flame
-32326 [Primordial Forging - Unique] Holy Flame
-32327 [Primordial Forging - Unique] Sorcerous Flame
-32328 [Primordial Forging - Unique] Fool's Flame
 32329 [Primordial Forging - Unique] Flynn's Bow
 32330 [Primordial Forging - Unique] Blind
 32331 [Primordial Forging - Unique] Blueblood Sword
@@ -524,6 +533,9 @@
 32374 [Primordial Forging - Unique] Beast Claw
 32375 [Primordial Forging - Unique] Rakuyo
 32376 [Primordial Forging - Unique] Smouldering Blade
+32377 [Primordial Forging - Unique] Holy Flame
+32378 [Primordial Forging - Unique] Sorcerous Flame
+32379 [Primordial Forging - Unique] Fool's Flame
 32400 [Primordial Forging - Titanite] Lothric Knight Sword
 32401 [Primordial Forging - Titanite] Dozer Axe
 32402 [Primordial Forging - Titanite] Guillotine Axe
@@ -547,7 +559,7 @@
 32421 [Primordial Forging - Titanite] Beasthunter Saif
 32422 [Primordial Forging - Titanite] Hunter Axe
 32423 [Primordial Forging - Titanite] Tonitrus
-32424 [Primordial Forging - Titanite] Cart Wheel
+32424 [Primordial Forging - Titanite] Breaking Wheel
 32425 [Primordial Forging - Titanite] Dagger
 32426 [Primordial Forging - Titanite] Bandit's Knife
 32427 [Primordial Forging - Titanite] Parrying Dagger
@@ -622,8 +634,8 @@
 32496 [Primordial Forging - Titanite] Mendicant's Staff
 32497 [Primordial Forging - Titanite] Heretic's Staff
 32498 [Primordial Forging - Titanite] Cleric's Sacred Chime
-32499 [Primordial Forging - Titanite] Priest's Chime
-32500 [Primordial Forging - Titanite] Canvas Talisman
+32499 [Primordial Forging - Titanite] Fallen Priest's Chime
+32500 [Primordial Forging - Titanite] Corrupted Talisman
 32501 [Primordial Forging - Titanite] Saint's Talisman
 32502 [Primordial Forging - Titanite] Murky Longstaff
 32503 [Primordial Forging - Titanite] Short Bow
@@ -707,11 +719,11 @@
 32581 [Primordial Forging - Titanite] Smouldering Shield
 32582 [Primordial Forging - Titanite] Rotten Talisman
 32583 [Primordial Forging - Titanite] Smouldering Talisman
-32584 [Primordial Forging - Titanite] Ladle
+32584 [Primordial Forging - Titanite] Handmaid's Ladle
 33000 [Primordial Forging - Spell] Farron Dart
-33001 [Primordial Forging - Spell] Great Farron Dart
+33001 [Primordial Forging - Spell] Scattered Farron Dart
 33002 [Primordial Forging - Spell] Soul Arrow
-33003 [Primordial Forging - Spell] Great Soul Arrow
+33003 [Primordial Forging - Spell] Scattered Soul Arrow
 33004 [Primordial Forging - Spell] Shockwave
 33005 [Primordial Forging - Spell] Deep Soul
 33006 [Primordial Forging - Spell] Great Deep Soul
@@ -848,6 +860,12 @@
 33138 [Primordial Forging - Spell] Earthfall
 33139 [Primordial Forging - Spell] Devouring Swarm
 33140 [Primordial Forging - Spell] Cascading Deep
+33141 [Primordial Forging - Spell] Immolation
+33142 [Primordial Forging - Spell] Vow of Agony
+33143 [Primordial Forging - Spell] Angelic Barrage
+33144 [Primordial Forging - Spell] Divine Arrow
+33145 [Primordial Forging - Spell] Lothric's Holy Spear
+33146 [Primordial Forging - Spell] Proof of a Pact
 34000 [Primordial Forging - Ring] Life Ring
 34006 [Primordial Forging - Ring] Chloranthy Ring
 34012 [Primordial Forging - Ring] Havel's Ring
@@ -1112,6 +1130,10 @@
 34898 [Primordial Forging - Ring] Fire Clutch Ring+3
 34899 [Primordial Forging - Ring] Dark Clutch Ring+3
 34900 [Primordial Forging - Ring] Tomb Ring
+34901 [Primordial Forging - Ring] Accursed Ring
+34902 [Primordial Forging - Ring] Fool's Sigil
+34903 [Primordial Forging - Ring] Rattling Finger
+34904 [Primordial Forging - Ring] Murky Finger
 35000 [Primordial Forging - Armor] Fallen Knight Helm
 35001 [Primordial Forging - Armor] Fallen Knight Armor
 35002 [Primordial Forging - Armor] Fallen Knight Gauntlets
@@ -1592,6 +1614,7 @@
 35479 [Primordial Forging - Armor] Demon Cleric Mask
 35480 [Primordial Forging - Armor] Crab Helmet
 35481 [Primordial Forging - Armor] Corvian Knight Helmet
+35482 [Primordial Forging - Armor] Ludleth's Crown
 36000 [Bonfire - Dreamcatcher's Ashes] Titanite Shard
 36001 [Bonfire - Grave Warden's Ashes] Large Titanite Shard
 36002 [Bonfire - Easterner's Ashes] Titanite Chunk
@@ -1615,14 +1638,12 @@
 36020 [Bonfire - Dreamcatcher's Ashes] Holy Gem
 36021 [Bonfire - Dreamcatcher's Ashes] Sharp Gem
 36022 [Bonfire - Dreamcatcher's Ashes] Blunt Gem
-36023 [Bonfire - Soul of Cinder] Primordial Titanite
 36024 [Bonfire - Lothric] Divine Blessing
 36025 [Bonfire - Lothric] Hidden Blessing
 36028 [Bonfire - Dreamcatcher's Ashes] Infusing Essence
 36029 [Bonfire - Dreamcatcher's Ashes] Degrading Essence
 36030 [Bonfire - Mortician's Ashes] Brightbug
 36035 [Bonfire - Paladin's Ashes] Blood of Might
-36036 [Bonfire - Paladin's Ashes] Beastly Flesh
 36038 [Bonfire - Default] Repair Powder
 36039 [Bonfire - Default] Green Blossom
 36040 [Bonfire - Default] Bloodred Moss Clump
@@ -1707,7 +1728,15 @@
 36131 [Bonfire - Excrement-covered Ashes] Poison Bolt
 36132 [Bonfire - Excrement-covered Ashes] Frost Bolt
 36133 [Bonfire - Dragon Chaser's Ashes] Draconic Bolt
-37000 [Firekeeper - Memories] Dream of Iudex Gundyr
+36134 [Bonfire - Excrement-covered Ashes] Frozen Pine Resin
+36135 [Bonfire - Lothric] Prismatic Slab
+36136 [Bonfire - Crystal Sage] Crystal Fragment
+36137 [Bonfire - Wolnir] Abyssal Fragment
+36138 [Bonfire - Deacons] Holy Fragment
+36139 [Bonfire - Primordial Forging] Primordial Titanite
+36140 [Bonfire - Primordial Forging] Primordial Essence
+36141 Ring of Betrothal
+37000 [Firekeeper - Memories] Dream of Corrupted Gundyr
 37001 [Firekeeper - Memories] Dream of Vordt
 37002 [Firekeeper - Memories] Dream of the Rotted Greatwood
 37003 [Firekeeper - Memories] Dream of the Crystal Sage
@@ -1727,11 +1756,11 @@
 37017 [Firekeeper - Memories] Dream of the Twin Princes
 37018 [Firekeeper - Memories] Dream of Cinder
 37019 [Firekeeper - Memories] Dream of Sister Friede
-37020 [Firekeeper - Memories] Dream of Champion's Gravetender
+37020 [Firekeeper - Memories] Dream of the Triad
 37021 [Firekeeper - Memories] Dream of the Demon Prince
 37022 [Firekeeper - Memories] Dream of Darkeater Midir
 37023 [Firekeeper - Memories] Dream of Slave Knight Gael
-37100 [Firekeeper - Memories] Nightmare of Iudex Gundyr
+37100 [Firekeeper - Memories] Nightmare of Corrupted Gundyr
 37101 [Firekeeper - Memories] Nightmare of Vordt
 37102 [Firekeeper - Memories] Nightmare of the Rotted Greatwood
 37103 [Firekeeper - Memories] Nightmare of the Crystal Sage
@@ -1751,7 +1780,7 @@
 37117 [Firekeeper - Memories] Nightmare of the Twin Princes
 37118 [Firekeeper - Memories] Nightmare of Cinder
 37119 [Firekeeper - Memories] Nightmare of Sister Friede
-37120 [Firekeeper - Memories] Nightmare of Champion's Gravetender
+37120 [Firekeeper - Memories] Nightmare of the Triad
 37121 [Firekeeper - Memories] Nightmare of the Demon Prince
 37122 [Firekeeper - Memories] Nightmare of Darkeater Midir
 37123 [Firekeeper - Memories] Nightmare of Slave Knight Gael
@@ -1762,10 +1791,22 @@
 40004 [Yuria] Untrue Dark Ring
 40005 [Yuria] Purging Stone
 40006 [Yuria] Poison Throwing Knife
+40007 [Yuria] Affinity
+40008 [Yuria] Abyssal Edge
+40009 [Yuria] Black Fire Orb
+40010 [Yuria] Gnaw
+40011 [Yuria] Vow of Silence
+40012 [Yuria] Dark Blade
+40013 [Yuria] Dead Again
 50000 [Yoel] Soul Arrow
 50001 [Yoel] Magic Weapon
 50002 [Yoel] Magic Shield
 50003 [Yoel] Deep Soul
+50004 [Yoel] Dark Edge
+50005 [Yoel] Black Flame
+50006 [Yoel] Deep Protection
+50007 [Yoel] Deep Barb
+50008 [Yoel] Nibble
 50100 [Yoel] Soul Greatsword
 100000 [Andre] Dagger
 100001 [Andre] Bandit's Knife
@@ -1878,18 +1919,12 @@
 110001 [Shrine Handmaid] Chain Armor
 110002 [Shrine Handmaid] Leather Gauntlets
 110003 [Shrine Handmaid] Chain Leggings
+110004 [Shrine Handmaid] Devil's Trumpet
+110005 [Shrine Handmaid] Moonflower
+110006 [Shrine Handmaid] Henbane
 110008 [Shrine Handmaid] White Sign Soapstone
 110009 [Shrine Handmaid] Dried Finger
 110010 [Shrine Handmaid] Tower Key
-110012 [Shrine Handmaid] Nibble
-110013 [Shrine Handmaid] Deep Barb
-110015 [Shrine Handmaid] Farron Dart
-110016 [Shrine Handmaid] Soul Arrow
-110017 [Shrine Handmaid] Heal Aid
-110018 [Shrine Handmaid] Sorcerer's Staff
-110019 [Shrine Handmaid] Talisman
-110020 [Shrine Handmaid] Pyromancy Flame
-110021 [Shrine Handmaid] Fireball
 110022 [Shrine Handmaid] Fire Stone
 110023 [Shrine Handmaid] Magic Stone
 110024 [Shrine Handmaid] Lightning Stone
@@ -1899,6 +1934,12 @@
 110028 [Shrine Handmaid] Frost Stone
 110029 [Shrine Handmaid] Enchanted Stone
 110030 [Shrine Handmaid] Blessed Stone
+110040 [Shrine Handmaid] Sorcerer's Staff
+110041 [Shrine Handmaid] Talisman
+110042 [Shrine Handmaid] Pyromancy Flame
+110043 [Shrine Handmaid] Heretic Staff
+110044 [Shrine Handmaid] Corrupted Talisman
+110045 [Shrine Handmaid] Black Flame
 110056 [Shrine Handmaid - Mortician's Ashes] Grave Key
 110100 [Shrine Handmaid - Dreamchaser Ashes] Leather Armor
 110101 [Shrine Handmaid - Dreamchaser Ashes] Leather Gloves
@@ -2013,6 +2054,10 @@
 111561 [Shrine Handmaid - Lapp] Lapp's Armor
 111562 [Shrine Handmaid - Lapp] Lapp's Gauntlets
 111563 [Shrine Handmaid - Lapp] Lapp's Leggings
+111570 [Shrine Handmaid - Triad] Porcelain Mask
+111571 [Shrine Handmaid - Triad] Lord's Blade Robe
+111572 [Shrine Handmaid - Triad] Lord's Blade Gloves
+111573 [Shrine Handmaid - Triad] Lord's Blade Waistcloth
 111600 [Shrine Handmaid - Sister Friede] Ordained Hood
 111601 [Shrine Handmaid - Sister Friede] Ordained Dress
 111602 [Shrine Handmaid - Sister Friede] Ordained Trousers
@@ -2027,10 +2072,22 @@
 112004 [Ashes - Yuria] Untrue Dark Ring
 112005 [Ashes - Yuria] Purging Stone
 112006 [Ashes - Yuria] Poison Throwing Knife
+112007 [Ashes - Yuria] Affinity
+112008 [Ashes - Yuria] Abyssal Edge
+112009 [Ashes - Yuria] Black Fire Orb
+112010 [Ashes - Yuria] Gnaw
+112011 [Ashes - Yuria] Vow of Silence
+112012 [Ashes - Yuria] Dark Blade
+112013 [Ashes - Yuria] Dead Again
 112500 [Ashes - Yoel] Soul Arrow
 112501 [Ashes - Yoel] Magic Weapon
 112502 [Ashes - Yoel] Magic Shield
 112503 [Ashes - Yoel] Deep Soul
+112504 [Ashes - Yoel] Dark Edge
+112505 [Ashes - Yoel] Black Flame
+112506 [Ashes - Yoel] Deep Protection
+112507 [Ashes - Yoel] Deep Barb
+112508 [Ashes - Yoel] Nibble
 112600 [Ashes - Yoel] Soul Greatsword
 113000 [Ashes - Greirat] Bandit's Knife
 113001 [Ashes - Greirat] Long Sword
@@ -2056,7 +2113,7 @@
 113101 [Ashes - Greirat - Undead Settlement] Zweihander
 113102 [Ashes - Greirat - Undead Settlement] Warpick
 113103 [Ashes - Greirat - Undead Settlement] Glaive
-113104 [Ashes - Greirat - Undead Settlement] Priest's Chime
+113104 [Ashes - Greirat - Undead Settlement] Fallen Priest's Chime
 113105 [Ashes - Greirat - Undead Settlement] Short Bow
 113106 [Ashes - Greirat - Undead Settlement] Target Shield
 113107 [Ashes - Greirat - Undead Settlement] Knight Shield
@@ -2095,7 +2152,7 @@
 113300 [Ashes - Greirat - Irithyll] Lightning Urn
 114100 [Ashes - Orbeck] Farron Dart
 114101 [Ashes - Orbeck] Soul Arrow
-114102 [Ashes - Orbeck] Great Soul Arrow
+114102 [Ashes - Orbeck] Scattered Soul Arrow
 114103 [Ashes - Orbeck] Shockwave
 114104 [Ashes - Orbeck] Soul Focus
 114105 [Ashes - Orbeck] Magic Weapon
@@ -2105,7 +2162,7 @@
 114109 [Ashes - Orbeck] Spook
 114110 [Ashes - Orbeck] Aural Decoy
 114200 [Ashes - Orbeck] Pestilent Mist
-114300 [Ashes - Orbeck] Great Farron Dart
+114300 [Ashes - Orbeck] Scattered Farron Dart
 114301 [Ashes - Orbeck] Cast Light
 114302 [Ashes - Orbeck] Farron Hail
 114303 [Ashes - Orbeck] Twisted Wall of Light
@@ -2157,6 +2214,7 @@
 117101 [Ashes - Irina] Replenishment
 117102 [Ashes - Irina] Caressing Tears
 117103 [Ashes - Irina] Homeward
+117104 [Ashes - Irina] Heal Aid
 117200 [Ashes - Irina] Med Heal
 117201 [Ashes - Irina] Tears of Denial
 117202 [Ashes - Irina] Force
@@ -2241,7 +2299,7 @@
 120101 [Greirat - Undead Settlement] Zweihander
 120102 [Greirat - Undead Settlement] Warpick
 120103 [Greirat - Undead Settlement] Glaive
-120104 [Greirat - Undead Settlement] Priest's Chime
+120104 [Greirat - Undead Settlement] Fallen Priest's Chime
 120105 [Greirat - Undead Settlement] Short Bow
 120106 [Greirat - Undead Settlement] Target Shield
 120107 [Greirat - Undead Settlement] Knight Shield
@@ -2288,7 +2346,7 @@
 130008 [Orbeck - Crystal Scroll] Venerable Sage's Boots
 130100 [Orbeck] Farron Dart
 130101 [Orbeck] Soul Arrow
-130102 [Orbeck] Great Soul Arrow
+130102 [Orbeck] Scattered Soul Arrow
 130103 [Orbeck] Shockwave
 130104 [Orbeck] Soul Focus
 130105 [Orbeck] Magic Weapon
@@ -2298,7 +2356,7 @@
 130109 [Orbeck] Spook
 130110 [Orbeck] Aural Decoy
 130200 [Orbeck - Any Scroll] Pestilent Mist
-130300 [Orbeck - Sage's Scroll] Great Farron Dart
+130300 [Orbeck - Sage's Scroll] Scattered Farron Dart
 130301 [Orbeck - Sage's Scroll] Farron Hail
 130400 [Orbeck - Logan's Scroll] Homing Soulmass
 130401 [Orbeck - Logan's Scroll] Soul Spear
@@ -2350,6 +2408,7 @@
 160101 [Irina] Replenishment
 160102 [Irina] Caressing Tears
 160103 [Irina] Homeward
+160104 [Irina] Heal Aid
 160200 [Irina - Carim] Med Heal
 160201 [Irina - Carim] Tears of Denial
 160202 [Irina - Carim] Force

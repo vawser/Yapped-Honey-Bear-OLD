@@ -433,7 +433,7 @@
 2000500 Dagger - Backstab
 2000505 Dagger - Backstab (Hornet Ring)
 2000510 Dagger - Riposte
-2000515 Dagger - Riposte (Hornet Ring)
+2000515 Dagger - Riposte (Hornet Ring) - Sub
 2000516 Dagger - Riposte (Hornet Ring)
 2000520 Dagger - 1H Roll Attack
 2000530 Dagger - 2H Roll Attack
@@ -548,7 +548,7 @@
 2300505 Straight Sword - Backstab (Hornet Ring)
 2300506 Straight Sword - Backstab (Hornet Ring)
 2300510 Straight Sword - Riposte
-2300515 Straight Sword - Riposte (Hornet Ring)
+2300515 Straight Sword - Riposte (Hornet Ring) - Sub
 2300516 Straight Sword - Riposte (Hornet Ring)
 2300520 Straight Sword - 1H Roll Attack
 2300530 Straight Sword - 2H Roll Attack
@@ -620,7 +620,17 @@
 2351707 Drake Sword - Unleash Dragon
 2352700 Blueblood Sword - Crystal Shower
 2352701 Blueblood Sword - Crystal Shower
-2353700 Balder Side Sword - Shield Splitter
+2353100 Penetrating Sword/BSS - 1H Heavy #1
+2353105 Penetrating Sword/BSS - 1H Heavy #1 Max
+2353110 Penetrating Sword/BSS - 1H Heavy #2
+2353115 Penetrating Sword/BSS - 1H Heavy #2 Max
+2353300 Penetrating Sword/BSS - 2H Heavy #1
+2353305 Penetrating Sword/BSS - 2H Heavy #1 Max
+2353310 Penetrating Sword/BSS - 2H Heavy #2
+2353315 Penetrating Sword/BSS - 2H Heavy #2 Max
+2353700 Penetrating Sword/BSS - Shield Splitter
+2354700 Firelink Sword - Ember
+2354705 Firelink Sword - Ember
 2390620 Gotthard Twinswords
 2390621 Gotthard Twinswords
 2390630 Gotthard Twinswords
@@ -681,8 +691,8 @@
 2500500 Bastard Sword - Backstab
 2500505 Bastard Sword - Backstab (Hornet Ring)
 2500510 Bastard Sword - Riposte
-2500515 Bastard Sword - Riposte (Hornet Ring) #1
-2500516 Bastard Sword - Riposte (Hornet Ring) #2
+2500515 Bastard Sword - Riposte (Hornet Ring) - Sub
+2500516 Bastard Sword - Riposte (Hornet Ring)
 2500520 Bastard Sword - 1H Roll Attack
 2500530 Bastard Sword - 2H Roll Attack
 2500540 Bastard Sword - 1H Backstep
@@ -690,9 +700,9 @@
 2500600 Bastard Sword - Parry
 2500610 Bastard Sword - Backstab Transition
 2500615 Bastard Sword - Missed Backstab Transition
-2500700 Bastard Sword
-2500710 Bastard Sword
-2500720 Bastard Sword
+2500700 Bastard Sword - Stance
+2500710 Bastard Sword - Stance
+2500720 Bastard Sword - Stance
 2502000 Flamberge - 1H Light #1
 2502010 Flamberge - 1H Light #2
 2502020 Flamberge - 1H Light #3
@@ -721,8 +731,8 @@
 2502540 Flamberge - 1H Backstep
 2502580 Flamberge - 2H Backstep
 2502615 Flamberge
-2502700 Flamberge
-2502710 Flamberge
+2502700 Flamberge - Stance
+2502710 Flamberge - Stance
 2503100 Hollowslayer Greatsword - 1H Heavy #1
 2503105 Hollowslayer Greatsword - 1H Heavy #1 Max
 2503110 Hollowslayer Greatsword - 1H Heavy #2
@@ -748,13 +758,13 @@
 2508105 Wolf Knight's Greatsword - 1H Heavy #1 Max
 2508300 Wolf Knight's Greatsword - 2H Heavy #1
 2508305 Wolf Knight's Greatsword - 2H Heavy #1 Max
-2508700 Wolf Knight's Greatsword
-2508701 Wolf Knight's Greatsword
-2508710 Wolf Knight's Greatsword
-2508711 Wolf Knight's Greatsword
-2510700 Greatsword of Judgment
-2510710 Greatsword of Judgment
-2510715 Greatsword of Judgment [Bullet]
+2508700 Wolf Knight's Greatsword - Weapon Art
+2508701 Wolf Knight's Greatsword - Weapon Art
+2508710 Wolf Knight's Greatsword - Weapon Art
+2508711 Wolf Knight's Greatsword - Weapon Art
+2510700 Greatsword of Judgment - Weapon Art
+2510710 Greatsword of Judgment - Weapon Art
+2510715 Greatsword of Judgment - Weapon Art [Bullet]
 2511700 Twin Princes' Greatsword
 2511705 Twin Princes' Greatsword [Bullet]
 2511710 Twin Princes' Greatsword
@@ -776,8 +786,8 @@
 2513316 Moonlight Greatsword [Bullet]
 2513700 Moonlight Greatsword
 2513705 Moonlight Greatsword [Bullet]
-2514700 Firelink Greatsword
-2514705 Firelink Greatsword [Bullet]
+2514700 Firelink Greatsword - Ember
+2514705 Firelink Greatsword - Ember [Bullet]
 2515730 Storm Ruler [Bullet]
 2515731 Storm Ruler [Bullet]
 2515732 Storm Ruler [Bullet]
@@ -816,7 +826,7 @@
 2516500 Executioner's Greatsword - Backstab
 2516505 Executioner's Greatsword - Backstab (Hornet Ring)
 2516510 Executioner's Greatsword - Riposte
-2516515 Executioner's Greatsword - Riposte (Hornet Ring)
+2516515 Executioner's Greatsword - Riposte (Hornet Ring) - Sub
 2516516 Executioner's Greatsword - Riposte (Hornet Ring)
 2516520 Executioner's Greatsword
 2516530 Executioner's Greatsword
@@ -871,7 +881,7 @@
 2519500 Gael's Greatsword - Backstab
 2519505 Gael's Greatsword - Backstab (Hornet Ring)
 2519510 Gael's Greatsword - Riposte
-2519515 Gael's Greatsword - Riposte (Hornet Ring)
+2519515 Gael's Greatsword - Riposte (Hornet Ring) - Sub
 2519516 Gael's Greatsword - Riposte (Hornet Ring)
 2519520 Gael's Greatsword
 2519530 Gael's Greatsword
@@ -896,6 +906,9 @@
 2525720 Great Lord Greatsword - Flame of the Great Lord
 2525725 Great Lord Greatsword - Flame of the Great Lord
 2525726 Great Lord Greatsword - Flame of the Great Lord
+2527700 Obsidian Greatsword - Abyssal Fire
+2527705 Obsidian Greatsword - Abyssal Fire
+2527706 Obsidian Greatsword - Abyssal Fire - Marker
 2600000 Greatsword - 1H Light #1
 2600001 Greatsword - 1H Light #1 Range
 2600010 Greatsword - 1H Light #2
@@ -928,14 +941,14 @@
 2600450 Greatsword - Parry
 2600470 Greatsword - Large Throw
 2600490 Greatsword - Falling Throw
-2600500 Greatsword - Backstab
+2600500 Greatsword - Backstab - Sub
 2600501 Greatsword - Backstab
-2600505 Greatsword - Backstab (Hornet Ring)
+2600505 Greatsword - Backstab (Hornet Ring) - Sub
 2600506 Greatsword - Backstab (Hornet Ring)
-2600510 Greatsword - Riposte
+2600510 Greatsword - Riposte - Sub
 2600511 Greatsword - Riposte
-2600515 Greatsword - Riposte (Hornet Ring)
-2600516 Greatsword - Riposte (Hornet Ring)
+2600515 Greatsword - Riposte (Hornet Ring) - Sub
+2600516 Greatsword - Riposte (Hornet Ring) - Sub
 2600517 Greatsword - Riposte (Hornet Ring)
 2600520 Greatsword - 1H Roll Attack
 2600530 Greatsword - 2H Roll Attack
@@ -1028,14 +1041,14 @@
 2610450 Fume Ultra Greatsword
 2610470 Fume Ultra Greatsword
 2610490 Fume Ultra Greatsword
-2610500 Fume Ultra Greatsword - Backstab
+2610500 Fume Ultra Greatsword - Backstab - Sub
 2610501 Fume Ultra Greatsword - Backstab
-2610505 Fume Ultra Greatsword - Backstab (Hornet Ring)
+2610505 Fume Ultra Greatsword - Backstab (Hornet Ring) - Sub
 2610506 Fume Ultra Greatsword - Backstab (Hornet Ring)
-2610510 Fume Ultra Greatsword - Riposte
+2610510 Fume Ultra Greatsword - Riposte - Sub
 2610511 Fume Ultra Greatsword - Riposte
-2610515 Fume Ultra Greatsword - Riposte (Hornet Ring)
-2610516 Fume Ultra Greatsword - Riposte (Hornet Ring)
+2610515 Fume Ultra Greatsword - Riposte (Hornet Ring) - Sub
+2610516 Fume Ultra Greatsword - Riposte (Hornet Ring) - Sub
 2610517 Fume Ultra Greatsword - Riposte (Hornet Ring)
 2610520 Fume Ultra Greatsword
 2610530 Fume Ultra Greatsword
@@ -1085,14 +1098,14 @@
 2614404 Cathedral Knight Greatsword
 2614470 Cathedral Knight Greatsword
 2614490 Cathedral Knight Greatsword
-2614500 Cathedral Knight Greatsword - Backstab
+2614500 Cathedral Knight Greatsword - Backstab - Sub
 2614501 Cathedral Knight Greatsword - Backstab
-2614505 Cathedral Knight Greatsword - Backstab (Hornet Ring)
+2614505 Cathedral Knight Greatsword - Backstab (Hornet Ring) - Sub
 2614506 Cathedral Knight Greatsword - Backstab (Hornet Ring)
-2614510 Cathedral Knight Greatsword - Riposte
+2614510 Cathedral Knight Greatsword - Riposte - Sub
 2614511 Cathedral Knight Greatsword - Riposte
-2614515 Cathedral Knight Greatsword - Riposte (Hornet Ring)
-2614516 Cathedral Knight Greatsword - Riposte (Hornet Ring)
+2614515 Cathedral Knight Greatsword - Riposte (Hornet Ring) - Sub
+2614516 Cathedral Knight Greatsword - Riposte (Hornet Ring) - Sub
 2614517 Cathedral Knight Greatsword - Riposte (Hornet Ring)
 2614520 Cathedral Knight Greatsword
 2614530 Cathedral Knight Greatsword
@@ -1183,7 +1196,7 @@
 2700500 Rapier - Backstab
 2700505 Rapier - Backstab (Hornet Ring)
 2700510 Rapier - Riposte
-2700515 Rapier - Riposte (Hornet Ring)
+2700515 Rapier - Riposte (Hornet Ring) - Sub
 2700516 Rapier - Riposte (Hornet Ring)
 2700520 Rapier - 1H Roll Attack
 2700530 Rapier - 2H Roll Attack
@@ -1264,7 +1277,7 @@
 2800500 Falchion - Backstab
 2800505 Falchion - Backstab (Hornet Ring)
 2800510 Falchion - Riposte
-2800515 Falchion - Riposte (Hornet Ring)
+2800515 Falchion - Riposte (Hornet Ring) - Sub
 2800516 Falchion - Riposte (Hornet Ring)
 2800520 Falchion - 1H Roll Attack
 2800530 Falchion - 2H Roll Attack
@@ -1294,7 +1307,7 @@
 2806500 Dancer's Enchanted Swords - Backstab
 2806505 Dancer's Enchanted Swords - Backstab (Hornet Ring)
 2806510 Dancer's Enchanted Swords - Riposte
-2806515 Dancer's Enchanted Swords - Riposte (Hornet Ring)
+2806515 Dancer's Enchanted Swords - Riposte (Hornet Ring) - Sub
 2806516 Dancer's Enchanted Swords - Riposte (Hornet Ring)
 2806520 Dancer's Enchanted Swords - 1H Roll Attack
 2806540 Dancer's Enchanted Swords - 1H Backstep
@@ -1460,9 +1473,9 @@
 2902305 Black Blade - 2H Heavy #1 Max
 2902310 Black Blade - 2H Heavy #2
 2902315 Black Blade - 2H Heavy #2 Max
-2903700 Bloodlust
-2903701 Bloodlust
-2903702 Bloodlust
+2903700 Bloodlust - Bloodlust
+2903701 Bloodlust - Bloodlust
+2903702 Bloodlust - Bloodlust
 2904000 Washing Pole
 2904001 Washing Pole
 2904100 Washing Pole
@@ -1518,6 +1531,9 @@
 2905580 Darkdrift
 2905700 Darkdrift
 2905701 Darkdrift
+2906700 Bewitched Alonne Sword - Seppuku
+2906701 Bewitched Alonne Sword - Seppuku
+2906702 Bewitched Alonne Sword - Seppuku
 2931700 Staff of Serpents - Expel Lightning
 2931705 Staff of Serpents - Expel Lightning
 2931706 Staff of Serpents - Expel Lightning
@@ -1576,14 +1592,14 @@
 3000450 Axe - Parry
 3000470 Axe - Large Throw
 3000490 Axe - Falling Throw
-3000500 Axe - Backstab
+3000500 Axe - Backstab - Sub
 3000501 Axe - Backstab
-3000505 Axe - Backstab (Hornet Ring)
+3000505 Axe - Backstab (Hornet Ring) - Sub
 3000506 Axe - Backstab (Hornet Ring)
-3000510 Axe - Riposte
+3000510 Axe - Riposte - Sub
 3000511 Axe - Riposte
-3000515 Axe - Riposte (Hornet Ring)
-3000516 Axe - Riposte (Hornet Ring)
+3000515 Axe - Riposte (Hornet Ring) - Sub
+3000516 Axe - Riposte (Hornet Ring) - Sub
 3000517 Axe - Riposte (Hornet Ring)
 3000520 Axe - 1H Roll Attack
 3000530 Axe - 2H Roll Attack
@@ -1678,14 +1694,14 @@
 3030404 Butcher Knife
 3030470 Butcher Knife
 3030490 Butcher Knife - Falling Throw
-3030500 Butcher Knife - Backstab
+3030500 Butcher Knife - Backstab - Sub
 3030501 Butcher Knife - Backstab
-3030505 Butcher Knife - Backstab (Hornet Ring)
+3030505 Butcher Knife - Backstab (Hornet Ring) - Sub
 3030506 Butcher Knife - Backstab (Hornet Ring)
-3030510 Butcher Knife - Riposte
+3030510 Butcher Knife - Riposte - Sub
 3030511 Butcher Knife - Riposte
-3030515 Butcher Knife - Riposte (Hornet Ring)
-3030516 Butcher Knife - Riposte (Hornet Ring)
+3030515 Butcher Knife - Riposte (Hornet Ring) - Sub
+3030516 Butcher Knife - Riposte (Hornet Ring) - Sub
 3030517 Butcher Knife - Riposte (Hornet Ring)
 3030520 Butcher Knife - 1H Roll Attack
 3030530 Butcher Knife - 2H Roll Attack
@@ -1724,14 +1740,14 @@
 3050404 Eleonora
 3050470 Eleonora
 3050490 Eleonora
-3050500 Eleonora - Backstab
+3050500 Eleonora - Backstab - Sub
 3050501 Eleonora - Backstab
-3050505 Eleonora - Backstab (Hornet Ring)
+3050505 Eleonora - Backstab (Hornet Ring) - Sub
 3050506 Eleonora - Backstab (Hornet Ring)
-3050510 Eleonora - Riposte
+3050510 Eleonora - Riposte - Sub
 3050511 Eleonora - Riposte
-3050515 Eleonora - Riposte (Hornet Ring)
-3050516 Eleonora - Riposte (Hornet Ring)
+3050515 Eleonora - Riposte (Hornet Ring) - Sub
+3050516 Eleonora - Riposte (Hornet Ring) - Sub
 3050517 Eleonora - Riposte (Hornet Ring)
 3050520 Eleonora
 3050530 Eleonora
@@ -1812,14 +1828,14 @@
 3200450 Greataxe - Parry
 3200470 Greataxe - Large Throw
 3200490 Greataxe - Falling Throw
-3200500 Greataxe - Backstab
+3200500 Greataxe - Backstab - Sub
 3200501 Greataxe - Backstab
-3200505 Greataxe - Backstab (Hornet Ring)
+3200505 Greataxe - Backstab (Hornet Ring) - Sub
 3200506 Greataxe - Backstab (Hornet Ring)
-3200510 Greataxe - Riposte
+3200510 Greataxe - Riposte - Sub
 3200511 Greataxe - Riposte
-3200515 Greataxe - Riposte (Hornet Ring)
-3200516 Greataxe - Riposte (Hornet Ring)
+3200515 Greataxe - Riposte (Hornet Ring) - Sub
+3200516 Greataxe - Riposte (Hornet Ring) - Sub
 3200517 Greataxe - Riposte (Hornet Ring)
 3200520 Greataxe - 1H Roll Attack
 3200530 Greataxe - 2H Roll Attack
@@ -1956,14 +1972,14 @@
 3213450 Great Machete
 3213470 Great Machete
 3213490 Great Machete
-3213500 Great Machete - Backstab
+3213500 Great Machete - Backstab - Sub
 3213501 Great Machete - Backstab
-3213505 Great Machete - Backstab (Hornet Ring)
+3213505 Great Machete - Backstab (Hornet Ring) - Sub
 3213506 Great Machete - Backstab (Hornet Ring)
-3213510 Great Machete - Riposte
+3213510 Great Machete - Riposte - Sub
 3213511 Great Machete - Riposte
-3213515 Great Machete - Riposte (Hornet Ring)
-3213516 Great Machete - Riposte (Hornet Ring)
+3213515 Great Machete - Riposte (Hornet Ring) - Sub
+3213516 Great Machete - Riposte (Hornet Ring) - Sub
 3213517 Great Machete - Riposte (Hornet Ring)
 3213520 Great Machete
 3213530 Great Machete
@@ -1993,8 +2009,50 @@
 3215705 Dragon King Greataxe - Unleash Dragon
 3215706 Dragon King Greataxe - Unleash Dragon
 3215707 Dragon King Greataxe - Unleash Dragon
+3216000 Crypt Blacksword - 1H Light #1
+3216001 Crypt Blacksword - 1H Light #1
+3216010 Crypt Blacksword - 1H Light #2
+3216020 Crypt Blacksword - 1H Light #3
+3216100 Crypt Blacksword - 1H Heavy #1
+3216101 Crypt Blacksword - 1H Heavy #1
+3216105 Crypt Blacksword - 1H Heavy #1 Max
+3216110 Crypt Blacksword - 1H Heavy #2
+3216115 Crypt Blacksword - 1H Heavy #2 Max
+3216200 Crypt Blacksword - 2H Light #1
+3216210 Crypt Blacksword - 2H Light #2
+3216220 Crypt Blacksword - 2H Light #3
+3216300 Crypt Blacksword - 2H Heavy #1
+3216301 Crypt Blacksword - 2H Heavy #1
+3216305 Crypt Blacksword - 2H Heavy #1 Max
+3216310 Crypt Blacksword - 2H Heavy #2
+3216315 Crypt Blacksword - 2H Heavy #2 Max
+3216520 Crypt Blacksword - 1H Roll Attack
+3216530 Crypt Blacksword - 2H Roll Attack
+3216540 Crypt Blacksword - 1H Backstep
+3216580 Crypt Blacksword - 2H Backstep
 3216700 Crypt Blacksword - Undead Wrath
 3216710 Crypt Blacksword - Undead Wrath [HitBullet]
+3217000 King's Ultra Greatsword - 1H Light #1
+3217001 King's Ultra Greatsword - 1H Light #1
+3217010 King's Ultra Greatsword - 1H Light #2
+3217020 King's Ultra Greatsword - 1H Light #3
+3217100 King's Ultra Greatsword - 1H Heavy #1
+3217101 King's Ultra Greatsword - 1H Heavy #1
+3217105 King's Ultra Greatsword - 1H Heavy #1 Max
+3217110 King's Ultra Greatsword - 1H Heavy #2
+3217115 King's Ultra Greatsword - 1H Heavy #2 Max
+3217200 King's Ultra Greatsword - 2H Light #1
+3217210 King's Ultra Greatsword - 2H Light #2
+3217220 King's Ultra Greatsword - 2H Light #3
+3217300 King's Ultra Greatsword - 2H Heavy #1
+3217301 King's Ultra Greatsword - 2H Heavy #1
+3217305 King's Ultra Greatsword - 2H Heavy #1 Max
+3217310 King's Ultra Greatsword - 2H Heavy #2
+3217315 King's Ultra Greatsword - 2H Heavy #2 Max
+3217520 King's Ultra Greatsword - 1H Roll Attack
+3217530 King's Ultra Greatsword - 2H Roll Attack
+3217540 King's Ultra Greatsword - 1H Backstep
+3217580 King's Ultra Greatsword - 2H Backstep
 3300000 Hammer - 1H Light #1
 3300001 Hammer
 3300010 Hammer - 1H Light #2
@@ -2026,14 +2084,14 @@
 3300450 Hammer - Parry
 3300470 Hammer - Large Throw
 3300490 Hammer - Falling Throw
-3300500 Hammer - Backstab
+3300500 Hammer - Backstab - Sub
 3300501 Hammer - Backstab
-3300505 Hammer - Backstab (Hornet Ring)
+3300505 Hammer - Backstab (Hornet Ring) - Sub
 3300506 Hammer - Backstab (Hornet Ring)
-3300510 Hammer - Riposte
+3300510 Hammer - Riposte - Sub
 3300511 Hammer - Riposte
-3300515 Hammer - Riposte (Hornet Ring)
-3300516 Hammer - Riposte (Hornet Ring)
+3300515 Hammer - Riposte (Hornet Ring) - Sub
+3300516 Hammer - Riposte (Hornet Ring) - Sub
 3300517 Hammer - Riposte (Hornet Ring)
 3300520 Hammer - 1H Roll Attack
 3300530 Hammer - 2H Roll Attack
@@ -2086,14 +2144,14 @@
 3301402 Warpick
 3301404 Warpick
 3301490 Warpick - Falling Throw
-3301500 Warpick - Backstab
+3301500 Warpick - Backstab - Sub
 3301501 Warpick - Backstab
-3301505 Warpick - Backstab (Hornet Ring)
+3301505 Warpick - Backstab (Hornet Ring) - Sub
 3301506 Warpick - Backstab (Hornet Ring)
-3301510 Warpick - Riposte
+3301510 Warpick - Riposte - Sub
 3301511 Warpick - Riposte
-3301515 Warpick - Riposte (Hornet Ring)
-3301516 Warpick - Riposte (Hornet Ring)
+3301515 Warpick - Riposte (Hornet Ring) - Sub
+3301516 Warpick - Riposte (Hornet Ring) - Sub
 3301517 Warpick - Riposte (Hornet Ring)
 3301520 Warpick - 1H Roll Attack
 3301530 Warpick - 2H Roll Attack
@@ -2188,14 +2246,14 @@
 3500450 Great Mace - Parry
 3500470 Great Mace - Large Throw
 3500490 Great Mace - Falling Throw
-3500500 Great Mace - Backstab
+3500500 Great Mace - Backstab - Sub
 3500501 Great Mace - Backstab
-3500505 Great Mace - Backstab (Hornet Ring)
+3500505 Great Mace - Backstab (Hornet Ring) - Sub
 3500506 Great Mace - Backstab (Hornet Ring)
-3500510 Great Mace - Riposte
+3500510 Great Mace - Riposte - Sub
 3500511 Great Mace - Riposte
-3500515 Great Mace - Riposte (Hornet Ring)
-3500516 Great Mace - Riposte (Hornet Ring)
+3500515 Great Mace - Riposte (Hornet Ring) - Sub
+3500516 Great Mace - Riposte (Hornet Ring) - Sub
 3500517 Great Mace - Riposte (Hornet Ring)
 3500520 Great Mace - 1H Roll Attack
 3500530 Great Mace - 2H Roll Attack
@@ -2262,6 +2320,12 @@
 3513700 Bloodletter - Bloodlust
 3513701 Bloodletter - Bloodlust
 3513702 Bloodletter - Bloodlust
+3514700 Sacred Chime Hammer - Beckon the Deep
+3514705 Sacred Chime Hammer - Beckon the Deep
+3515710 Giant Crab Arm - Bubblebeam
+3515715 Giant Crab Arm - Bubblebeam
+3516700 Elder Ghru Tree - Vengeful Spirits
+3516705 Elder Ghru Tree - Vengeful Spirits
 3520000 Pickaxe
 3520001 Pickaxe
 3520010 Pickaxe
@@ -2345,7 +2409,7 @@
 3600500 Spear - Backstab
 3600505 Spear - Backstab (Hornet Ring)
 3600510 Spear - Riposte
-3600515 Spear - Riposte (Hornet Ring)
+3600515 Spear - Riposte (Hornet Ring) - Sub
 3600516 Spear - Riposte (Hornet Ring)
 3600520 Spear - 1H Roll Attack
 3600530 Spear - 2H Roll Attack
@@ -2464,6 +2528,10 @@
 3608810 Pike
 3608820 Pike
 3608830 Pike
+3609800 Phosophrescent Pole
+3609810 Phosophrescent Pole
+3609820 Phosophrescent Pole
+3609830 Phosophrescent Pole
 3610000 Greatlance
 3610001 Greatlance
 3610010 Greatlance
@@ -2542,6 +2610,8 @@
 3640310 Yorshka's Spear
 3640315 Yorshka's Spear
 3640700 Yorshka's Spear
+3641700 Firelink Spear - Ember
+3641705 Firelink Spear - Ember
 3650700 Gargoyle Flame Spear
 3650705 Gargoyle Flame Spear
 3650800 Gargoyle Flame Spear
@@ -3228,6 +3298,16 @@
 4208751 Hands of God - Flurry of Fists
 4208760 Hands of God - Flurry of Fists
 4208761 Hands of God - Flurry of Fists
+4209700 Crab Claw - Crabby
+4209701 Crab Claw - Crabby
+4209702 Crab Claw - Crabby
+4209703 Crab Claw - Crabby
+4209704 Crab Claw - Crabby
+4209705 Crab Claw - Crabby
+4209750 Crab Claw - Crabby
+4209751 Crab Claw - Crabby
+4209760 Crab Claw - Crabby
+4209761 Crab Claw - Crabby
 4300000 Whip - 1H Light #1
 4300010 Whip - 1H Light #2
 4300020 Whip - 1H Light #3
@@ -3893,16 +3973,38 @@
 5305731 Demon's Scar
 5305732 Demon's Scar
 5305800 Demon's Scar
+5306100 Ciaran's Tracers - 1H Heavy #1
+5306105 Ciaran's Tracers - 1H Heavy #1 Max
+5306110 Ciaran's Tracers - 1H Heavy #2
+5306115 Ciaran's Tracers - 1H Heavy #2 Max
+5306300 Ciaran's Tracers - 2H Heavy #1
+5306305 Ciaran's Tracers - 2H Heavy #1 Max
+5306310 Ciaran's Tracers - 2H Heavy #2
+5306315 Ciaran's Tracers - 2H Heavy #2 Max
+5306410 Ciaran's Tracers - 1H Kick
+5306420 Ciaran's Tracers - 2H Kick
+5306620 Ciaran's Tracers
+5306621 Ciaran's Tracers
+5306630 Ciaran's Tracers
+5306631 Ciaran's Tracers
+5306640 Ciaran's Tracers
+5306641 Ciaran's Tracers
+5306740 Ciaran's Tracers
+5306741 Ciaran's Tracers
+5306742 Ciaran's Tracers
+5306743 Ciaran's Tracers
+5306744 Ciaran's Tracers
+5306745 Ciaran's Tracers
+5306750 Ciaran's Tracers
+5306751 Ciaran's Tracers
+5306760 Ciaran's Tracers
+5306761 Ciaran's Tracers
 11200000 [Sorcery] Farron Dart
-11210000 [Sorcery] Great Farron Dart
+11210000 [Sorcery] Scattered Farron Dart
 11300000 [Sorcery] Soul Arrow
-11301000 [Sorcery] Great Soul Arrow
+11301000 [Sorcery] Scattered Soul Arrow
 11302000 [Sorcery] Shockwave
-11302001 [Sorcery] Shockwave - Ascended
 11303000 [Sorcery] Soul Geyser
-11303001 [Sorcery] Soul Geyser - Ascended
-11303100 [Sorcery] Soul Geyser [HitBullet]
-11303101 [Sorcery] Soul Geyser - Ascended [HitBullet]
 11304000 [Sorcery] Homing Soulmass
 11304100 [Sorcery] Homing Soulmass [HitBullet]
 11305000 [Sorcery] Homing Crystal Soulmass
@@ -3925,55 +4027,48 @@
 11373300 [Sorcery] Crystal Hail
 11373400 [Sorcery] Crystal Hail [BulletEmitter]
 11373500 [Sorcery] Crystal Hail [BulletEmitter HitBullet]
-11374000 [Sorcery] Soul Greatsword
-11374100 [Sorcery] Soul Greatsword
-11375000 [Sorcery] Farron Flashsword
-11375001 [Sorcery] Farron Flashsword - Ascended
-11375100 [Sorcery] Farron Flashsword
-11375101 [Sorcery] Farron Flashsword - Ascended
+11374000 [Sorcery] Soul Greatsword - Right
+11374100 [Sorcery] Soul Greatsword - Left
+11374200 [Sorcery] Soul Greatsword - Right - Ascended
+11374210 [Sorcery] Soul Greatsword - Left - Ascended
+11375000 [Sorcery] Farron Flashsword - Right
+11375100 [Sorcery] Farron Flashsword - Left
+11375200 [Sorcery] Farron Flashsword - Right - Ascended
+11375210 [Sorcery] Farron Flashsword - Left - Ascended
 11376000 [Sorcery] Old Moonlight
 11376001 [Sorcery] Old Moonlight [HitBullet]
-11376010 [Sorcery] Old Moonlight - Sword
-11376011 [Sorcery] Old Moonlight - Sword - Ascended
-11376020 [Sorcery] Old Moonlight - Sword
-11376021 [Sorcery] Old Moonlight - Sword - Ascended
+11376010 [Sorcery] Old Moonlight - Sword - Right
+11376020 [Sorcery] Old Moonlight - Sword - Left
 11376100 [Sorcery] Old Moonlight - Charged
 11376101 [Sorcery] Old Moonlight - Charged [HitBullet]
+11376110 [Sorcery] Old Moonlight - Sword - Right - Ascended
+11376120 [Sorcery] Old Moonlight - Sword - Left - Ascended
 11603000 [Sorcery] Affinity
 11603100 [Sorcery] Affinity [HitBullet]
 11604000 [Sorcery] Great Soul Dregs
-11604010 [Sorcery] Great Soul Dregs [BulletEmitter]
-11604020 [Sorcery] Great Soul Dregs [EmittedBullet]
-11613000 [Sorcery] Abyssal Edge
-11613001 [Sorcery] Abyssal Edge - Ascended
-11613100 [Sorcery] Abyssal Edge
-11613101 [Sorcery] Abyssal Edge - Ascended
+11613000 [Sorcery] Abyssal Edge - Right
+11613100 [Sorcery] Abyssal Edge - Left
+11613200 [Sorcery] Abyssal Edge - Right - Ascended
+11613210 [Sorcery] Abyssal Edge - Left - Ascended
 11620000 [Sorcery] Soul Stream
-11620001 [Sorcery] Soul Stream - Ascended
 11620100 [Sorcery] Soul Stream [BulletEmitter]
-11620101 [Sorcery] Soul Stream - Ascended [BulletEmitter]
 11620200 [Sorcery] Soul Stream
-11620201 [Sorcery] Soul Stream - Ascended
 11620300 [Sorcery] Soul Stream
-11620301 [Sorcery] Soul Stream - Ascended
 11651000 [Sorcery] Twisted Wall of Light
 11651100 [Sorcery] Twisted Wall of Light
 11740000 [Sorcery] Pestilent Mist
 11740100 [Sorcery] Pestilent Mist [HitBullet]
-11740110 [Sorcery] Pestilent Mist - Ascended
 11740200 [Sorcery] Snap Freeze
-11742000 [Sorcery] Light Hail
-11742100 [Sorcery] Light Hail [BulletEmitter]
-11742200 [Sorcery] Light Hail [HitBullet]
-11742300 [Sorcery] Light Hail
-11742400 [Sorcery] Light Hail [BulletEmitter]
-11742500 [Sorcery] Light Hail [HitBullet]
 12400000 [Pyromancy] Fireball
-12400100 [Pyromancy] Fireball [HitBullet]
-12400110 [Pyromancy] Fireball - Lava
+12400100 [Pyromancy] Fireball [Hit]
+12400201 [Pyromancy] Fireball [Hit] - Ascended
+12400202 [Pyromancy] Fireball [Hit] - Ascended
+12400203 [Pyromancy] Fireball [Hit] - Ascended
 12402000 [Pyromancy] Fire Orb
-12402100 [Pyromancy] Fire Orb [HitBullet]
-12402110 [Pyromancy] Fire Orb - Lava
+12402100 [Pyromancy] Fire Orb [Hit]
+12402201 [Pyromancy] Fire Orb [Hit] - Ascended
+12402202 [Pyromancy] Fire Orb [Hit] - Ascended
+12402203 [Pyromancy] Fire Orb [Hit] - Ascended
 12403000 [Pyromancy] Firestorm
 12403100 [Pyromancy] Firestorm [HitBullet]
 12403200 [Pyromancy] Firestorm [HitBullet]
@@ -3983,27 +4078,17 @@
 12403600 [Pyromancy] Firestorm [HitBullet]
 12405000 [Pyromancy] Fire Surge
 12407000 [Pyromancy] Black Serpent
+12407010 [Pyromancy] Black Serpent [EmittedBullet]
 12407100 [Pyromancy] Black Serpent [HitBullet]
-12407200 [Pyromancy] Black Serpent [HitBullet]
-12407300 [Pyromancy] Black Serpent [HitBullet]
-12407400 [Pyromancy] Black Serpent [HitBullet]
-12407500 [Pyromancy] Black Serpent [HitBullet]
-12407600 [Pyromancy] Black Serpent [HitBullet]
-12407700 [Pyromancy] Black Serpent [HitBullet]
-12407800 [Pyromancy] Black Serpent [HitBullet]
-12407900 [Pyromancy] Black Serpent [HitBullet]
 12411000 [Pyromancy] Great Combustion
-12411001 [Pyromancy] Great Combustion - Ascended
 12411100 [Pyromancy] Great Combustion [HitBullet]
-12411101 [Pyromancy] Great Combustion - Ascended [HitBullet]
 12411200 [Pyromancy] Great Combustion [HitBullet]
-12411201 [Pyromancy] Great Combustion - Ascended [HitBullet]
+12411300 [Pyromancy] Great Combustion - Ascended
+12411301 [Pyromancy] Great Combustion [HitBullet] - Ascended
+12411302 [Pyromancy] Great Combustion [HitBullet] - Ascended
 12420000 [Pyromancy] Poison Mist
-12420001 [Pyromancy] Poison Mist - Ascended
 12421000 [Pyromancy] Toxic Mist
-12421001 [Pyromancy] Toxic Mist - Ascended
 12422000 [Pyromancy] Acid Surge
-12422001 [Pyromancy] Acid Surge - Ascended
 12430000 [Pyromancy] Iron Flesh
 12436000 [Pyromancy] Rapport
 12450000 [Pyromancy] Great Chaos Fire Orb
@@ -4019,13 +4104,12 @@
 12451600 [Pyromancy] Chaos Storm [HitBullet]
 12451700 [Pyromancy] Chaos Storm [HitBullet]
 12452000 [Pyromancy] Fire Whip
-12452001 [Pyromancy] Fire Whip - Ascended
 12453000 [Pyromancy] Black Flame
-12453001 [Pyromancy] Black Flame - Ascended
 12453100 [Pyromancy] Black Flame [HitBullet]
-12453101 [Pyromancy] Black Flame [HitBullet] - Ascended
 12453200 [Pyromancy] Black Flame [HitBullet]
-12453201 [Pyromancy] Black Flame [HitBullet] - Ascended
+12453300 [Pyromancy] Black Flame - Ascended
+12453301 [Pyromancy] Black Flame [HitBullet] - Ascended
+12453302 [Pyromancy] Black Flame [HitBullet] - Ascended
 12455000 [Pyromancy] Profaned Flame
 12455100 [Pyromancy] Profaned Flame [HitBullet]
 12455200 [Pyromancy] Profaned Flame [HitBullet]
@@ -4034,31 +4118,38 @@
 12456200 [Pyromancy] Chaos Bed Vestiges [unlinked]
 12456210 [Pyromancy] Chaos Bed Vestiges [BulletEmitter]
 12456212 [Pyromancy] Chaos Bed Vestiges - Lava
+12456300 [Pyromancy] Chaos Bed Vestiges - Ascended
 12457000 [Pyromancy] Floating Chaos
 12457010 [Pyromancy] Floating Chaos [unlinked]
 12457100 [Pyromancy] Floating Chaos [BulletEmitter]
 12457110 [Pyromancy] Floating Chaos [EmittedBullet]
 12458000 [Pyromancy] Flame Fan
-12458001 [Pyromancy] Flame Fan - Ascended
 12458100 [Pyromancy] Flame Fan
-12458101 [Pyromancy] Flame Fan - Ascended
 12458200 [Pyromancy] Flame Fan
 12458210 [Pyromancy] Flame Fan
 12470000 [Pyromancy] Warmth
+12470001 [Pyromancy] Warmth - Ascended
 12600000 [Pyromancy] Dark Orb [unused]
 12600100 [Pyromancy] Dark Orb [unused] [HitBullet]
 12610000 [Pyromancy] Black Fire Orb
 12610100 [Pyromancy] Black Fire Orb [HitBullet]
+12610200 [Pyromancy] Black Fire Orb [HitBullet]
+12610300 [Pyromancy] Black Fire Orb - Lava [HitBullet]
 12620000 [Pyromancy] Bursting Fireball
 12620100 [Pyromancy] Bursting Fireballl [HitBullet]
 12620200 [Pyromancy] Bursting Fireballl [HitBullet]
-12620210 [Pyromancy] Bursting Fireballl - Lava
+12620303 [Pyromancy] Bursting Fireballl [HitBullet]
+12620304 [Pyromancy] Bursting Fireballl [HitBullet]
+12620305 [Pyromancy] Bursting Fireballl [HitBullet]
 12630000 [Pyromancy] Boulder Heave
 12630100 [Pyromancy] Boulder Heave [HitBullet]
+12630200 [Pyromancy] Boulder Heave - Ascended
+12630201 [Pyromancy] Boulder Heave [HitBullet] - Ascended
 12660000 [Pyromancy] Seething Chaos
 12660010 [Pyromancy] Seething Chaos [HitBullet]
 12660020 [Pyromancy] Seething Chaos [HitBullet]
 12660030 [Pyromancy] Seething Chaos [HitBullet]
+12660104 [Pyromancy] Seething Chaos [HitBullet] - Ascended
 13490000 [Miracle] Heal Aid
 13500000 [Miracle] Heal
 13500100 [Miracle] Heal [HitBullet]
@@ -4074,17 +4165,19 @@
 13509000 [Miracle] Lightning Arrow
 13513000 [Miracle] Morbid Temptation [unused]
 13530000 [Miracle] Force
-13530001 [Miracle] Force - Ascended
 13531000 [Miracle] Wrath of the Gods
 13532000 [Miracle] Emit Force
 13532100 [Miracle] Emit Force [HitBullet]
 13550000 [Miracle] Lightning Spear [Ranged]
+13550001 [Miracle] Lightning Spear [Ranged] - Ascended
 13550010 [Miracle] Lightning Spear
 13550100 [Miracle] Lightning Spear [Proximity]
 13551000 [Miracle] Great Lightning Spear [Ranged]
+13551001 [Miracle] Great Lightning Spear [Ranged] - Ascended
 13551010 [Miracle] Great Lightning Spear
 13551100 [Miracle] Great Lightning Spear [Proximity]
 13552000 [Miracle] Sunlight Spear [Ranged]
+13552001 [Miracle] Sunlight Spear [Ranged] - Ascended
 13552010 [Miracle] Sunlight Spear
 13552100 [Miracle] Sunlight Spear [Proximity]
 13553000 [Miracle] Lightning Storm
@@ -4106,7 +4199,6 @@
 13557010 [Miracle] Projected Heal [HitBullet]
 13581000 [Miracle] Vow of Silence
 13710000 [Miracle] Lightning Stake
-13710001 [Miracle] Lightning Stake - Ascended
 13710100 [Miracle] Lightning Stake [HitBullet]
 13710200 [Miracle] Lightning Stake [HitBullet]
 13710310 [Miracle] Lightning Stake [HitBullet]
@@ -4117,14 +4209,8 @@
 13720300 [Miracle] Divine Pillars of Light [HitBullet]
 13720400 [Miracle] Divine Pillars of Light
 13720500 [Miracle] Divine Pillars of Light
-13725000 [Miracle] Divine Upheavel
-13725100 [Miracle] Divine Upheavel [HitBullet]
-13725200 [Miracle] Divine Upheavel [HitBullet]
-13725300 [Miracle] Divine Upheavel [HitBullet]
 13730000 [Miracle] Lifehunt Scythe
 13730005 [Miracle] Lifehunt Scythe
-13730100 [Miracle] Lifehunt Scythe - Ascended
-13730105 [Miracle] Lifehunt Scythe - Ascended
 13730200 [Miracle] Lifehunt Scythe - 3
 13730205 [Miracle] Lifehunt Scythe - 3
 13730300 [Miracle] Lifehunt Scythe - 4
@@ -4135,19 +4221,17 @@
 14000000 Blessing of Rosaria
 14000001 Blessing of Rosaria
 14000010 Holy Wrath
+14910000 Stone Greatsword - Tranquil Walk of Peace - Self
+14910010 Stone Greatsword - Tranquil Walk of Peace - Enemy
+14911000 Channeler's Trident - Channeler's Boon - Self
+14911010 Channeler's Trident - Channeler's Boon - Enemy
 14999999 ### Spells ###
 15002000 [Sorcery] Soul Wave
-15003000 [Sorcery] Dark Edge
-15003001 [Sorcery] Dark Edge - Ascended
-15003010 [Sorcery] Dark Edge
-15003011 [Sorcery] Dark Edge - Ascended
+15003000 [Sorcery] Dark Edge - Right
+15003010 [Sorcery] Dark Edge - Left
+15003200 [Sorcery] Dark Edge - Right - Ascended
+15003210 [Sorcery] Dark Edge - Left - Ascended
 15004000 [Miracle] Halo
-15004001 [Miracle] Halo - Ascended
-15004010 [Miracle] Halo [HitBullet]
-15004011 [Miracle] Halo [HitBullet] - Ascended
-15004020 [Miracle] Halo [HitBullet]
-15004021 [Miracle] Halo [HitBullet] - Ascended
-15005000 [Miracle] Ravenous Gnawing
 15006000 [Sorcery] Crystal Storm
 15006100 [Sorcery] Crystal Storm [HitBullet]
 15006200 [Sorcery] Crystal Storm [HitBullet]
@@ -4155,18 +4239,8 @@
 15006500 [Sorcery] Crystal Storm
 15006600 [Sorcery] Crystal Storm [HitBullet]
 15008000 [Pyromancy] Cataclysm
-15008100 [Pyromancy] Cataclysm [BulletEmitter]
-15008200 [Pyromancy] Cataclysm - Great Chaos Fire Orb
-15008210 [Pyromancy] Cataclysm - Great Chaos Fire Orb [HitBullet]
-15008220 [Pyromancy] Cataclysm - Great Chaos Fire Orb [HitBullet]
-15008230 [Pyromancy] Cataclysm - Great Chaos Fire Orb [HitBullet]
-15010000 [Miracle] Voracious Gnawing
-18120000 [Pyromancy] Seeds of Chaos
-18120001 [Pyromancy] Seeds of Chaos [HitBullet]
-18130000 [Miracle] Lightning Bolt
+15008010 [Pyromancy] Cataclysm - Great Chaos Fire Orb
 18140000 [Miracle] Heavenly Thunder
-18140100 [Miracle] Heavenly Thunder [BulletEmitter]
-18140200 [Miracle] Heavenly Thunder [BulletEmitter HitBullet]
 18160000 [Miracle] Nibble
 18200000 [Pyromancy] Dark Inferno
 18200100 [Pyromancy] Dark Inferno [BulletEmitter]
@@ -4187,7 +4261,6 @@
 18230111 [Pyromancy] Recollection [Bullet] - HitBullet
 18240000 [Sorcery] Whisper of Despair
 18280000 [Sorcery] Blinding Light
-18280001 [Sorcery] Blinding Light - Ascended
 18290000 [Sorcery] Deep Barb
 18300000 [Sorcery] Surging Deep
 18310000 [Sorcery] Dark Bead
@@ -4217,16 +4290,17 @@
 18400000 [Pyromancy] Lingering Chaos
 18401000 [Sorcery] Climax
 18401001 [Sorcery] Climax - Ascended
-18402000 [Pyromancy] Mournful Flames
+18402000 [Pyromancy] Mournful Flames - Fireball
+18402010 [Pyromancy] Mournful Flames [EmittedBullet]
+18402100 [Pyromancy] Mournful Flames - Serpent
 18403000 [Miracle] Devouring Swarm
 18403010 [Miracle] Devouring Swarm
 18403100 [Miracle] Devouring Swarm [BulletEmitter]
 18403110 [Miracle] Devouring Swarm [Bullet]
 18404000 [Pyromancy] Earthfall
-18404100 [Pyromancy] Earthfall [BulletEmitter]
-18404200 [Pyromancy] Earthfall [HitBullet]
-18405000 [Pyromancy] Wretch Earth
-18405100 [Pyromancy] Wretch Earth [HitBullet]
+18404010 [Pyromancy] Earthfall [HitBullet]
+18405000 [Pyromancy] Heave Earth
+18405100 [Pyromancy] Heave Earth [HitBullet]
 18406000 [Pyromancy] Earthquake
 18406100 [Pyromancy] Earthquake [HitBullet]
 18406200 [Pyromancy] Earthquake [HitBullet]
@@ -4247,15 +4321,23 @@
 19503000 Izalith Staff - Primordial Flame
 19503001 Izalith Staff - Primordial Flame [HitBullet]
 19503002 Izalith Staff - Primordial Flame [HitBullet]
-19504003 Darkmoon Ritual Staff - Darkmoon Volley
+19504003 Golden Ritual Spear - Darkmoon Volley
 19505000 Man-grub's Staff - Holy Arrow
 19509000 Consumed King's Staff - Pestilent Mist
 19509100 Consumed King's Staff - Pestilent Mist
 19511000 Sunlight Talisman - Shower of Sunlight
-19511001 Sunlight Talisman - Shower of Sunlight [HitBullet]
-19511002 Sunlight Talisman - Shower of Sunlight [HitBullet]
 19512000 Lord's Chime - Lord's Bellow
 19513000 Caitha's Chime - Caitha's Affliction
 19517000 Rotten Talisman - Poison Spores
 19518000 Smouldering Talisman - Immolate
 19530000 Frigid Valley Mask - Frost Aura
+19540000 [Pyromancy] Immolation
+19544010 [Miracle] Vow of Agony
+19545000 [Miracle] Angelic Barrage
+19545100 [Miracle] Angelic Barrage [Hit]
+19546000 [Miracle] Infected Spit
+19547000 [Miracle] Lothric's Holy Spear
+19548000 [Miracle] Divine Arrow
+19548001 [Miracle] Divine Arrow - Ascended
+19549000 [Miracle] Proof of a Pact
+19550000 [Miracle] Ghostly Assault

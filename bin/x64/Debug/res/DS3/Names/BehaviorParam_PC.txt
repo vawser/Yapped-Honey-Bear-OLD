@@ -49,11 +49,30 @@
 21510 Sacred Flame
 100000 Dragon Form
 100010 Dragon Form
-200000 Cursed Ring of Deflection
-200010 Cursed Ring of Confusion
-200020 Ring of Londor
-200030 Wretched Pendant
-200040 Frigid Valley Mask
+199999 ### General ###
+200000 Darkness
+299999 ### Spells ###
+399999 ### Rings ###
+400000 Cursed Ring of Deflection
+400001 Cursed Ring of Confusion
+400002 Wretched Pendant
+499999 ### Armor ###
+500000 Poison - Head
+500001 Poison - Body
+500002 Poison - Hands
+500003 Poison - Legs
+500100 Bleed - Head
+500101 Bleed - Body
+500102 Bleed - Hands
+500103 Bleed - Legs
+500200 Frost - Head
+500201 Frost - Body
+500202 Frost - Hands
+500203 Frost - Legs
+500300 Curse - Head
+500301 Curse - Body
+500302 Curse - Hands
+500303 Curse - Legs
 13730000 [Miracle] Lifehunt Scythe
 13730005 [Miracle] Lifehunt Scythe
 13730100 [Miracle] Lifehunt Scythe - Ascended
@@ -507,13 +526,28 @@
 102330736 Ringed Knight Straight Sword - Weapon Art
 102330740 Ringed Knight Straight Sword - Weapon Art
 102330745 Ringed Knight Straight Sword - Weapon Art
-102340700 Cleric's Candlestick - Weapon Art
+102340700 Cleric's Candlestick - Guiding Light
+102340701 Cleric's Candlestick - Guiding Light - Right
+102340702 Cleric's Candlestick - Guiding Light - Left
+102341700 Blue Flame - Steady Chant
+102341701 Blue Flame - Steady Chant - Right
+102341702 Blue Flame - Steady Chant - Left
 102350730 Lothric Candlestick - Holy Wrath
 102350735 Lothric Candlestick - Holy Wrath
 102351700 Drake Sword - Unleash Dragon
 102351705 Drake Sword - Unleash Dragon
 102352700 Blueblood Sword - Crystal Shower
-102353700 Balder Side Sword - Shield Splitter
+102353100 Penetrating Sword/BSS - 1H Heavy #1
+102353105 Penetrating Sword/BSS - 1H Heavy #1 Max
+102353110 Penetrating Sword/BSS - 1H Heavy #2
+102353115 Penetrating Sword/BSS - 1H Heavy #2 Max
+102353300 Penetrating Sword/BSS - 2H Heavy #1
+102353305 Penetrating Sword/BSS - 2H Heavy #1 Max
+102353310 Penetrating Sword/BSS - 2H Heavy #2
+102353315 Penetrating Sword/BSS - 2H Heavy #2 Max
+102353700 Penetrating Sword/BSS - Shield Splitter
+102354700 Firelink Sword - Ember
+102354705 Firelink Sword - Ember
 102390620 Gotthard Twinswords
 102390621 Gotthard Twinswords
 102390630 Gotthard Twinswords
@@ -671,8 +705,8 @@
 102513316 Moonlight Greatsword
 102513700 Moonlight Greatsword
 102513705 Moonlight Greatsword
-102514700 Firelink Greatsword
-102514705 Firelink Greatsword
+102514700 Firelink Greatsword - Ember
+102514705 Firelink Greatsword - Ember
 102515730 Storm Ruler
 102515731 Storm Ruler
 102515732 Storm Ruler
@@ -797,6 +831,8 @@
 102525720 Great Lord Greatsword - Flame of the Great Lord
 102525725 Great Lord Greatsword - Flame of the Great Lord
 102526700 Sunlight Greatsword - Oath of Sunlight
+102527700 Obsidian Greatsword - Abyssal Fire
+102527705 Obsidian Greatsword - Abyssal Fire
 102600000 Greatsword - 1H Light #1
 102600001 Greatsword - 1H Light #1 Range
 102600010 Greatsword - 1H Light #2
@@ -1404,6 +1440,9 @@
 102905580 Darkdrift
 102905700 Darkdrift
 102905701 Darkdrift
+102906700 Bewitched Alonne Sword - Seppuku
+102906701 Bewitched Alonne Sword - Seppuku
+102906702 Bewitched Alonne Sword - Seppuku
 102930700 Murky Warstaff - Weapon Art
 102930710 Murky Warstaff - Weapon Art
 102930720 Murky Warstaff - Weapon Art
@@ -1979,8 +2018,48 @@
 103214720 Witchtree Limb - Spin Bash
 103215700 Dragon King Greataxe - Unleash Dragon
 103215705 Dragon King Greataxe - Unleash Dragon
+103216000 Crypt Blacksword - 1H Light #1
+103216001 Crypt Blacksword - 1H Light #1
+103216010 Crypt Blacksword - 1H Light #2
+103216020 Crypt Blacksword - 1H Light #3
+103216100 Crypt Blacksword - 1H Heavy #1
+103216101 Crypt Blacksword - 1H Heavy #1
+103216105 Crypt Blacksword - 1H Heavy #1 Max
+103216110 Crypt Blacksword - 1H Heavy #2
+103216115 Crypt Blacksword - 1H Heavy #2 Max
+103216200 Crypt Blacksword - 2H Light #1
+103216210 Crypt Blacksword - 2H Light #2
+103216220 Crypt Blacksword - 2H Light #3
+103216300 Crypt Blacksword - 2H Heavy #1
+103216305 Crypt Blacksword - 2H Heavy #1 Max
+103216310 Crypt Blacksword - 2H Heavy #2
+103216315 Crypt Blacksword - 2H Heavy #2 Max
+103216520 Crypt Blacksword - 1H Roll Attack
+103216530 Crypt Blacksword - 2H Roll Attack
+103216540 Crypt Blacksword - 1H Backstep
+103216580 Crypt Blacksword - 2H Backstep
 103216700 Crypt Blacksword - Undead Wrath
 103216705 Crypt Blacksword - Undead Wrath
+103217000 King's Ultra Greatsword - 1H Light #1
+103217001 King's Ultra Greatsword - 1H Light #1
+103217010 King's Ultra Greatsword - 1H Light #2
+103217020 King's Ultra Greatsword - 1H Light #3
+103217100 King's Ultra Greatsword - 1H Heavy #1
+103217101 King's Ultra Greatsword - 1H Heavy #1
+103217105 King's Ultra Greatsword - 1H Heavy #1 Max
+103217110 King's Ultra Greatsword - 1H Heavy #2
+103217115 King's Ultra Greatsword - 1H Heavy #2 Max
+103217200 King's Ultra Greatsword - 2H Light #1
+103217210 King's Ultra Greatsword - 2H Light #2
+103217220 King's Ultra Greatsword - 2H Light #3
+103217300 King's Ultra Greatsword - 2H Heavy #1
+103217305 King's Ultra Greatsword - 2H Heavy #1 Max
+103217310 King's Ultra Greatsword - 2H Heavy #2
+103217315 King's Ultra Greatsword - 2H Heavy #2 Max
+103217520 King's Ultra Greatsword - 1H Roll Attack
+103217530 King's Ultra Greatsword - 2H Roll Attack
+103217540 King's Ultra Greatsword - 1H Backstep
+103217580 King's Ultra Greatsword - 2H Backstep
 103300000 Hammer - 1H Light #1
 103300001 Hammer
 103300010 Hammer - 1H Light #2
@@ -2085,6 +2164,8 @@
 103301530 Warpick - 2H Roll Attack
 103301540 Warpick - 1H Backstep
 103301580 Warpick - 2H Backstep
+103301700 Warpick - Steady Chant - Right
+103301701 Warpick - Steady Chant - Left
 103302000 Club - 1H Light #1
 103302010 Club - 1H Light #2
 103302020 Club - 1H Light #3
@@ -2232,6 +2313,12 @@
 103513700 Bloodletter - Bloodlust
 103513701 Bloodletter - Bloodlust
 103513702 Bloodletter - Bloodlust
+103514700 Sacred Chime Hammer - Beckon the Deep
+103514705 Sacred Chime Hammer - Beckon the Deep
+103515710 Giant Crab Arm - Bubblebeam
+103515715 Giant Crab Arm - Bubblebeam
+103516700 Elder Ghru Tree - Vengeful Spirits
+103516705 Elder Ghru Tree - Vengeful Spirits
 103520000 Pickaxe - 1H Light #1
 103520001 Pickaxe
 103520010 Pickaxe - 1H Light #2
@@ -2431,6 +2518,10 @@
 103608810 Pike
 103608820 Pike
 103608830 Pike
+103609800 Phosophrescent Pole
+103609810 Phosophrescent Pole
+103609820 Phosophrescent Pole
+103609830 Phosophrescent Pole
 103610000 Greatlance
 103610001 Greatlance
 103610010 Greatlance
@@ -2481,6 +2572,10 @@
 103611700 Dragonslayer Swordspear
 103611705 Dragonslayer Swordspear
 103612700 Channeler's Trident - Channeler's Boon
+103613700 Golden Ritual Spear - Darkmoon Volley
+103613701 Golden Ritual Spear - Darkmoon Volley
+103614700 Pilgrim's Spontoon - Chant for the Depths - Right
+103614701 Pilgrim's Spontoon - Chant for the Depths - Left
 103620700 Spear
 103620800 Spear
 103620810 Spear
@@ -2508,6 +2603,8 @@
 103640310 Yorshka's Spear
 103640315 Yorshka's Spear
 103640700 Yorshka's Spear
+103641700 Firelink Spear - Ember
+103641705 Firelink Spear - Ember
 103650700 Gargoyle Flame Spear
 103650705 Gargoyle Flame Spear
 103650800 Gargoyle Flame Spear
@@ -2932,18 +3029,21 @@
 104100501 Spell Tool
 104100502 Spell Tool
 104100610 Spell Tool
+104100700 Spell Tool - Steady Chant - Right
+104100701 Spell Tool - Steady Chant - Left
 104100920 Spell Tool
 104100921 Spell Tool
-104101000 Catalyst - 1H Light
-104101030 Catalyst
-104101100 Catalyst - 1H Heavy
-104101200 Catalyst - 2H Light
-104101230 Catalyst
-104101300 Catalyst - 2H Heavy
-104101400 Catalyst - Left Hand
-104101430 Catalyst - 1H Guard
-104101440 Catalyst - 2H Guard
-104101700 Catalyst - Poison Spores
+104101000 Staff - 1H Light
+104101030 Staff
+104101100 Staff - 1H Heavy
+104101200 Staff - 2H Light
+104101230 Staff
+104101300 Staff - 2H Heavy
+104101400 Staff - Left Hand
+104101430 Staff - 1H Guard
+104101440 Staff - 2H Guard
+104101700 Staff - Steady Chant - Right
+104101701 Staff - Steady Chant - Left
 104102000 Talisman - 1H Light
 104102030 Talisman
 104102100 Talisman - 1H Heavy
@@ -3039,7 +3139,6 @@
 104121700 Consumed King's Staff - Pestilent Mist
 104122700 Tin Banishment Catalyst - Banish
 104123700 Sunlight Talisman - Shower of Sunlight
-104124700 Lord's Chime - Lord's Bellow
 104125700 Caitha's Chime - Caitha's Affliction
 104126700 Crystal Chime - Crystallization
 104127700 Insanity Catalyst - Insanity
@@ -3047,6 +3146,9 @@
 104129700 Rotten Talisman - Poison Spores
 104130700 Smouldering Talisman - Immolate
 104130701 Smouldering Talisman - Immolate - Behavior
+104131700 Storyteller's Staff - Poison Spores
+104132700 Catalyst - Chant from the Depths - Right
+104132701 Catalyst - Chant from the Depths - Left
 104200000 Caestus - 1H Light #1
 104200010 Caestus - 1H Light #2
 104200020 Caestus - 1H Light #3
@@ -3060,10 +3162,11 @@
 104200230 Caestus - 2H Jump
 104200240 Caestus - 2H Fall Loop
 104200250 Caestus - 2H Fall Landing
-104200400 Caestus - Left Hand
-104200402 Caestus - Left Hand
-104200404 Caestus - Left Hand
+104200400 Caestus - Left - 1H Light #1
+104200402 Caestus - Left - 1H Light #2
+104200404 Caestus - Left - 1H Light #3
 104200410 Caestus - 1H Kick
+104200411 Caestus - 1H Kick - Bullet
 104200430 Caestus - 1H Guard
 104200450 Caestus - Parry
 104200470 Caestus - Large Throw
@@ -3170,12 +3273,12 @@
 104202520 Claw - 1H Roll Attack
 104202540 Claw - 1H Backstep
 104202600 Claw - Parry
-104202620 Claw
-104202621 Claw
-104202630 Claw
-104202631 Claw
-104202640 Claw
-104202641 Claw
+104202620 Claw - Flurry - Right #1
+104202621 Claw - Flurry - Left #1
+104202630 Claw - Flurry - Right #2
+104202631 Claw - Flurry - Left #2
+104202640 Claw - Flurry - Right #3
+104202641 Claw - Flurry - Left #3
 104202744 Claw - Weapon Art
 104202745 Claw - Weapon Art
 104202746 Claw - Weapon Art
@@ -3298,6 +3401,16 @@
 104208751 Hands of God - Flurry of Fists
 104208760 Hands of God - Flurry of Fists
 104208761 Hands of God - Flurry of Fists
+104209700 Crab Claw - Crabby
+104209701 Crab Claw - Crabby
+104209702 Crab Claw - Crabby
+104209703 Crab Claw - Crabby
+104209704 Crab Claw - Crabby
+104209705 Crab Claw - Crabby
+104209750 Crab Claw - Crabby
+104209751 Crab Claw - Crabby
+104209760 Crab Claw - Crabby
+104209761 Crab Claw - Crabby
 104300000 Whip - 1H Light #1
 104300010 Whip - 1H Light #2
 104300020 Whip - 1H Light #3
@@ -3364,8 +3477,9 @@
 104302530 Rose of Ariandel
 104302540 Rose of Ariandel
 104302580 Rose of Ariandel
-104302700 Rose of Ariandel
-104302701 Rose of Ariandel
+104302700 Rose of Ariandel - Awakening
+104302701 Rose of Ariandel - Awakening
+104302702 Rose of Ariandel - Awakening - Bullet
 104400000 Bow - 1H Light
 104400100 Bow - 1H Heavy
 104400200 Bow - 2H Light
@@ -4047,6 +4161,32 @@
 105305720 Demon's Scar
 105305730 Demon's Scar
 105305800 Demon's Scar
+105306100 Ciaran's Tracers - 1H Heavy #1
+105306105 Ciaran's Tracers - 1H Heavy #1 Max
+105306110 Ciaran's Tracers - 1H Heavy #2
+105306115 Ciaran's Tracers - 1H Heavy #2 Max
+105306300 Ciaran's Tracers - 2H Heavy #1
+105306305 Ciaran's Tracers - 2H Heavy #1 Max
+105306310 Ciaran's Tracers - 2H Heavy #2
+105306315 Ciaran's Tracers - 2H Heavy #2 Max
+105306410 Ciaran's Tracers - 1H Kick
+105306420 Ciaran's Tracers - 2H Kick
+105306620 Ciaran's Tracers
+105306621 Ciaran's Tracers
+105306630 Ciaran's Tracers
+105306631 Ciaran's Tracers
+105306640 Ciaran's Tracers
+105306641 Ciaran's Tracers
+105306740 Ciaran's Tracers
+105306741 Ciaran's Tracers
+105306742 Ciaran's Tracers
+105306743 Ciaran's Tracers
+105306744 Ciaran's Tracers
+105306745 Ciaran's Tracers
+105306750 Ciaran's Tracers
+105306751 Ciaran's Tracers
+105306760 Ciaran's Tracers
+105306761 Ciaran's Tracers
 201000001 ### Arrows ###
 201008300 Lightning Arrow
 201008310 Lightning Arrow
@@ -4076,23 +4216,25 @@
 201010350 Frost Arrow
 201010360 Frost Arrow
 201099999 ### Spells ###
-201374000 Soul Greatsword
-201374100 Soul Greatsword
-201375000 Farron Flashsword
-201375001 Farron Flashsword - Ascended
-201375100 Farron Flashsword
-201375101 Farron Flashsword - Ascended
-201376010 Old Moonlight
-201376011 Old Moonlight - Ascended
-201376020 Old Moonlight
-201376021 Old Moonlight - Ascended
-201613000 Abyssal Edge
-201613001 Abyssal Edge - Ascended
-201613100 Abyssal Edge
-201613101 Abyssal Edge - Ascended
-202458000 Flame Fan
-202458001 Flame Fan - Ascended
-202458100 Flame Fan
-202458101 Flame Fan - Ascended
-202458200 Dark Edge
-202458210 Dark Edge
+201374000 Soul Greatsword - Right
+201374100 Soul Greatsword - Left
+201374200 Soul Greatsword - Right - Ascended
+201374210 Soul Greatsword - Left - Ascended
+201375000 Farron Flashsword - Right
+201375100 Farron Flashsword - Left
+201375200 Farron Flashsword - Right - Ascended
+201375210 Farron Flashsword - Left - Ascended
+201376010 Old Moonlight - Right
+201376020 Old Moonlight - Left
+201376110 Old Moonlight - Right - Ascended
+201376120 Old Moonlight - Left - Ascended
+201613000 Abyssal Edge - Right
+201613100 Abyssal Edge - Left
+201613200 Abyssal Edge - Right - Ascended
+201613210 Abyssal Edge - Left - Ascended
+202458000 Flame Fan - Right
+202458100 Flame Fan - Left
+202458200 Dark Edge - Right
+202458210 Dark Edge - Left
+202458300 Dark Edge - Right - Ascended
+202458310 Dark Edge - Left - Ascended

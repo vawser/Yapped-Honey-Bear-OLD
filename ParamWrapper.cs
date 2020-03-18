@@ -20,14 +20,13 @@ namespace Yapped
 
         public ParamWrapper(string name, PARAM param, PARAM.Layout layout, string description)
         {
-            /*
             if(layout.Size != param.DetectedSize)
             {
                 Console.WriteLine(name);
                 Console.WriteLine(layout.Size);
                 Console.WriteLine(param.DetectedSize);
                 Console.WriteLine(param.DetectedSize-layout.Size);
-            }*/
+            }
 
             if (layout == null || layout.Size != param.DetectedSize)
             {

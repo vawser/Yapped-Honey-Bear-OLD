@@ -47,18 +47,43 @@
 9320 M38 (right)
 9321 M38 (left)
 9330 M33 Poison swamp forest fire Jigitai
+9356 Read Engraving
 9400 Messenger Tombstone (not ignited)
 9401 Messenger Tombstone (already ignited) * Text difference
 9410 Messenger Tombstone (not ignited)
 9411 Messenger Tombstone (already ignited) * Text difference
 9997 Find out (Ojo 1 saloon)
 9999 Inspect (for City/bridge warp obj)
-20000 [Cinders] Smouldering Lake -> Irithyll - Warp
-20001 [Cinders] Undead Settlement -> Catacombs - Warp
-20002 [Cinders] Undead Settlement -> Farron Keep - Warp
-20003 [Cinders] High Wall of Lothric -> Archdragon Peak - Warp
-20004 [Cinders] Advance Journey
-20005 [Cinders] Offer Cinders
+20000 Warp to Irithyll Dungeon
+20001 Warp to Catacombs of Carthus
+20002 Warp to Farron Keep
+20003 Warp to Archdragon Peak
+20004 Begin next journey?
+20006 Warp to Irithyll
+20007 Warp to the Dreg Heap
+20008 Warp to Untended Graves
+20009 Commune
+20010 Warp to High Wall of Lothric
+20011 Warp to Irithyll of the Boreal Valley
+20012 Warp to the Undead Settlement
+20013 Warp to Irithyll Dungeon
+20014 Warp to the Catacombs of Carthus
+20015 Warp to the Painted World
+20016 Warp to the Dreg Heap
+30000 Accept Curse of Gluttony
+30001 Accept Curse of Vulnerability
+30002 Accept Curse of Vitality
+30003 Accept Curse of Wrath
+30004 Accept Curse of Pride
+30010 Break Curse of Gluttony
+30011 Break Curse of Vulnerability
+30012 Break Curse of Vitality
+30013 Break Curse of Wrath
+30014 Break Curse of Pride
+40000 Trial of Perseverance
+40001 Trial of Glory
+40010 Start Trial
+40020 End Trial
 3000250 For the treasure corpse that broke from the vase
 3001800 Entering the wall of light (Ojo 1 Full Armor Beast)
 3001830 Entering the wall of light (Ojo 1 dragon)

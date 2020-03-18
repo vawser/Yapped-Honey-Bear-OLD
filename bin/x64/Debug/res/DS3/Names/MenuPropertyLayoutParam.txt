@@ -43,7 +43,6 @@
 2041 Bleed
 2042 Poison
 2043 Frost
-2044 Curse
 2045 Strength Scaling
 2046 Dexterity Scaling
 2047 Intelligence Scaling

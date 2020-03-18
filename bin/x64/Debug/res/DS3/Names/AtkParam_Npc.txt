@@ -66,6 +66,27 @@
 5210 Curse Hands - Grand Archives
 5220 Curse Hands - Grand Archives
 5300 Arrows, disused city
+5800 Catacombs of Carthus - Bolt Trap - Volley
+5801 Catacombs of Carthus - Bolt Trap - Volley
+5802 Catacombs of Carthus - Bolt Trap - Volley
+5803 Catacombs of Carthus - Bolt Trap - Volley
+5804 Catacombs of Carthus - Bolt Trap - Volley
+5805 Catacombs of Carthus - Bolt Trap - Volley
+5806 Catacombs of Carthus - Bolt Trap - Volley
+5830 Catacombs of Carthus - Skeleton Ball
+5831 Catacombs of Carthus - Skeleton Ball
+5832 Catacombs of Carthus - Skeleton Ball
+5833 Catacombs of Carthus - Skeleton Ball
+5834 Catacombs of Carthus - Skeleton Ball
+5835 Catacombs of Carthus - Skeleton Ball
+5836 Catacombs of Carthus - Skeleton Ball
+5840 Catacombs of Carthus - Affinity Pot
+5841 Catacombs of Carthus - Affinity Pot
+5842 Catacombs of Carthus - Affinity Pot
+5843 Catacombs of Carthus - Affinity Pot
+5844 Catacombs of Carthus - Affinity Pot
+5845 Catacombs of Carthus - Affinity Pot
+5846 Catacombs of Carthus - Affinity Pot
 6000 Return of poison blood for human type
 7000 FDP Proto explosive Tal
 9900 FDP proto-Oil jar
@@ -2508,6 +2529,7 @@
 5110712 [Gundyr] heat up attack: Throwing damage _ slams ③
 5110713 [Gundyr] heat up attack: Throw damage _ Finish
 5110900 [Gundyr] heat up caries breath
+5110910 [Gundyr] Corrupted Tear [Hit]
 5120010 [Snake Spirit] Frontal melee attack _ head knocked back against
 5120011 [Snake Spirit] Frontal melee attack _ head lateral shaking
 5120012 [Snake Spirit] Frontal melee Attack _ head + neck knocked back against
@@ -2975,42 +2997,46 @@
 5252710 [Prince Lothric]
 5252720 [Prince Lothric]
 5252730 [Prince Lothric]
-5260100 [Yhorm the Giant] First step, two-handed combo
-5260110 [Yhorm the Giant] Second Step (back)
-5260120 [Yhorm the Giant] Second step (right side)
-5260130 [Yhorm the Giant] The second step (back) from the standby combo two hands slams
-5260140 [Yhorm the Giant] One-handed slams
-5260150 [Yhorm the Giant] Second stage slams one hand
-5260160 [Yhorm the Giant] Left from one-handed slams
-5260170 [Yhorm the Giant] Saigi right from one-handed slams
-5260180 [Yhorm the Giant] Attack behind
-5260190 [Yhorm the Giant] Turned
-5260200 [Yhorm the Giant] Move attack
-5260210 [Yhorm the Giant] Nagi Combo First Stage
-5260220 [Yhorm the Giant] Additional cut-up
-5260230 [Yhorm the Giant] Front Vertical Whack 1
-5260240 [Yhorm the Giant] Front longitudinal whack (reverse)
-5260250 [Yhorm the Giant] Front longitudinal whack (reverse)
-5260260 [Yhorm the Giant] Rampage rush: Saigi right → Left
-5260261 [Yhorm the Giant] Rampage rush: Saigi Left → Right
-5260262 [Yhorm the Giant] Wild Rush: Swing Down
-5260263 [Yhorm the Giant] Wild rush: Beat Down
-5260270 [Yhorm the Giant] Jump Hammer
-5260280 [Yhorm the Giant]
-5260281 [Yhorm the Giant]
-5260290 [Yhorm the Giant]
-5260291 [Yhorm the Giant]
-5260300 [Yhorm the Giant]
-5260310 [Yhorm the Giant]
-5260311 [Yhorm the Giant]
-5260312 [Yhorm the Giant]
-5260313 [Yhorm the Giant]
-5260400 [Yhorm the Giant] Weapon Swing Wind pressure (general purpose)
-5260410 [Yhorm the Giant]
-5260500 [Yhorm the Giant] Hu explosion
-5260510 [Yhorm the Giant]
-5260600 [Yhorm the Giant]
-5260601 [Yhorm the Giant]
+5260100 [Yhorm the Giant] Machete - Smash Down
+5260110 [Yhorm the Giant] Machete - Smash Down - Follow-up Behind
+5260120 [Yhorm the Giant] Machete - Smash Down - Follow-up Swipe Behind
+5260130 [Yhorm the Giant] Machete - Smash Down - To the Side
+5260140 [Yhorm the Giant] Machete - Strike
+5260150 [Yhorm the Giant] Machete - Strike - Follow-up Strike
+5260160 [Yhorm the Giant] Machete - Strike - Follow-up Swipe
+5260170 [Yhorm the Giant] Machete - Strike Across
+5260180 [Yhorm the Giant] Machete - Strike
+5260190 [Yhorm the Giant] Machete - Swipe
+5260200 [Yhorm the Giant] Machete - Moving Strike
+5260210 [Yhorm the Giant] Machete - Moving Strike - Follow-up Swipe
+5260220 [Yhorm the Giant] Machete - Moving Strike - Follow-up Swipe
+5260230 [Yhorm the Giant] Machete - Vertical Strike
+5260240 [Yhorm the Giant] Machete - Vertical Strike - Follow-up Swipe
+5260250 [Yhorm the Giant] Machete - Vertical Strike - Follow-up Vertical Strike
+5260260 [Yhorm the Giant] Machete - Rampage Rush - Right to Left
+5260261 [Yhorm the Giant] Machete - Rampage Rush - Chain - Left to Right
+5260262 [Yhorm the Giant] Machete - Rampage Rush - Chain - Strike Down
+5260263 [Yhorm the Giant] Machete - Rampage Rush - Chain - Strike Down
+5260270 [Yhorm the Giant] Machete - Jump and Punch
+5260272 [Yhorm the Giant] Machete - Jump and Punch - Fire Wave
+5260280 [Yhorm the Giant] Machete - Quick Slash
+5260281 [Yhorm the Giant] Machete - Quick Slash - Chain - Smash Down
+5260290 [Yhorm the Giant] Machete - Forward Push Upwards
+5260291 [Yhorm the Giant] Machete - Forward Push Upwards - Chain
+5260300 [Yhorm the Giant] Machete - Forward Push Upwards - Follow-up - Smash Down
+5260310 [Yhorm the Giant] Roar
+5260311 [Yhorm the Giant] Roar - Chain - Small Radius
+5260312 [Yhorm the Giant] Roar - Chain - Full Radius
+5260313 [Yhorm the Giant] Roar - Bullet (Old)
+5260316 [Yhorm the Giant] Fire Boulder
+5260400 [Yhorm the Giant] Weapon Swing - Shockwave
+5260410 [Yhorm the Giant] Weapon Swing - Shockwave - Heatup
+5260420 [Yhorm the Giant] Weapon Swing - Fire Shockwave
+5260422 [Yhorm the Giant] Weapon Swing - Fire Shockwave - Flame Patch
+5260500 [Yhorm the Giant] Explosion - Heatup
+5260510 [Yhorm the Giant] Explosion - Heatup
+5260600 [Yhorm the Giant] Explosion - Heatup - Bullet
+5260601 [Yhorm the Giant] Explosion - Heatup - Bullet
 5270000 [Dancer of the Boreal Valley] 3000 The butt
 5270010 [Dancer of the Boreal Valley] 3001 Saigi from falling butt
 5270020 [Dancer of the Boreal Valley] 3002 right hand slams from fallen butt

@@ -12,12 +12,13 @@
 100 [Dagger] Quickstep
 101 [Dagger] Blind Spot
 102 [Dagger] Unleash Dragon (Tailbone Short Sword)
-103 [Dagger] Guiding Light (Scholar's Candlestick)
+103 [Dagger] Guiding Light (Cleric's Candlestick)
 104 [Dagger] Blind Spot
 105 [Dagger] Shield Splitter (Mail Breaker)
 106 [Dagger] Stance
 107 [Dagger] Crystal Blade
 108 [Dagger] Quickstep (Murky Hand Scythe)
+109 [Dagger] Shield Splitter (Penetrating Sword)
 200 [Straight Sword] Stance
 201 [Straight Sword] Stomp
 202 [Straight Sword] Guiding Light
@@ -52,6 +53,7 @@
 318 [Greatsword] Beckon Storm
 319 [Greatsword] Moonlight Vortex
 320 [Greatsword] Flame of the Great Lord
+321 [Greatsword] Abyssal Outburst
 400 [Ultra Greatsword] Stomp
 401 [Ultra Greatsword] Parry
 402 [Ultra Greatsword] Charge
@@ -115,6 +117,7 @@
 1104 [Hammer] Breathe Fire
 1105 [Hammer] Ignite
 1106 [Hammer] Bloodlust
+1107 [Hammer] Handmaid's Tale
 1200 [Great Hammer] Perseverance
 1201 [Great Hammer] Molten Perseverance
 1202 [Great Hammer] Kindled Flurry
@@ -127,9 +130,9 @@
 1209 [Great Hammer] Spew Fire
 1210 [Great Hammer] Holy Wrath
 1211 [Great Hammer] Bloodlust
-1212 [Great Hammer] Ghru Spirits
+1212 [Great Hammer] Vengeful Spirits
 1213 [Great Hammer] Bubblebeam
-1214 [Great Hammer] Abyssal Howl
+1214 [Great Hammer] Beckon the Deep
 1300 [Spear] Charge
 1301 [Spear] Falling Bolt
 1302 [Spear] Pacify

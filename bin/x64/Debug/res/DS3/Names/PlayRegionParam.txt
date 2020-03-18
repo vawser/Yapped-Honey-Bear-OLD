@@ -71,26 +71,26 @@
 370011 Irithyll of the Boreal Valley
 370012 Irithyll of the Boreal Valley
 370013 Irithyll of the Boreal Valley
-380000 Irithyll Dungeon
-380001 Irithyll Dungeon
-380002 Irithyll Dungeon
-380003 Irithyll Dungeon
-380010 Irithyll Dungeon
-380011 Irithyll Dungeon
-380012 Irithyll Dungeon
-380013 Irithyll Dungeon
-380014 Irithyll Dungeon
-380015 Irithyll Dungeon
-380016 Irithyll Dungeon
-380020 Irithyll Dungeon
-380021 Irithyll Dungeon
-390000 Profaned Capital
-390001 Profaned Capital
-390002 Profaned Capital
-390003 Profaned Capital
-390004 Profaned Capital
-390005 Profaned Capital
-390006 Profaned Capital
+380000 Catacombs of Carthus
+380001 Catacombs of Carthus
+380002 Catacombs of Carthus
+380003 Catacombs of Carthus
+380010 Catacombs of Carthus
+380011 Catacombs of Carthus
+380012 Catacombs of Carthus
+380013 Catacombs of Carthus
+380014 Catacombs of Carthus
+380015 Catacombs of Carthus
+380016 Catacombs of Carthus
+380020 Catacombs of Carthus
+380021 Catacombs of Carthus
+390000 Irithyll Dungeon
+390001 Irithyll Dungeon
+390002 Irithyll Dungeon
+390003 Irithyll Dungeon
+390004 Irithyll Dungeon
+390005 Irithyll Dungeon
+390006 Irithyll Dungeon
 400000 Cemetery of Ash
 400001 Cemetery of Ash
 400002 Cemetery of Ash
@@ -99,9 +99,9 @@
 400101 Cemetery of Ash
 400102 Cemetery of Ash
 400110 Cemetery of Ash
-410000 Flameless Shrine
-410001 Flameless Shrine
-410002 Flameless Shrine
+410000 Kiln of the First Flame
+410001 Kiln of the First Flame
+410002 Kiln of the First Flame
 450000 Ariandel
 450001 Ariandel
 450002 Ariandel

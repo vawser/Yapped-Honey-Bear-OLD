@@ -6,7 +6,7 @@
 	<item value="2" name="Pyromancy" />
   </enum>
   <enum name="CastAnimation" type="u8">
-    <item value="0" name="0 - Quick Soul Arrow [0.5] (1.0)" />
+    <item value="0" name="0 - Quick Soul Arrow [0.5]" />
 	<item value="1" name="1 - Magic Weapon [1.0]" />
 	<item value="2" name="2 - Hidden Body [1.0]" />
     <item value="3" name="3 - Unused" />
@@ -25,10 +25,10 @@
     <item value="16" name="16 - Unused" />
     <item value="17" name="17 - Magic Shield [1.17]" />
     <item value="18" name="18 - Emit Force [1.33]" />
-    <item value="19" name="19 - Lightning Spear [0.43] (1.72)" />
+    <item value="19" name="19 - Lightning Spear [0.43]" />
     <item value="20" name="20 - Cast Light [1.33]" />
     <item value="21" name="21 - Unused" />
-    <item value="22" name="22 - Very Slow Soul Arrow [1.67] (3.34)" />
+    <item value="22" name="22 - Very Slow Soul Arrow [1.67]" />
     <item value="23" name="23 - Fire Surge [0.67]" />
     <item value="24" name="24 - Fire Whip [0.67]" />
     <item value="25" name="25 - Soul Greatsword [0.67]" />
@@ -204,52 +204,132 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>VowType0</name>
+    <name>Unk1</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>VowType1</name>
+    <name>Enable Spell Enhance</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>VowType2</name>
+    <name>Enable Spell Enhance</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>VowType3</name>
+    <name>Unk2</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>VowType4</name>
+    <name>Unk3</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>VowType5</name>
+    <name>Unk4</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>VowType6</name>
+    <name>Unk5</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>VowType7</name>
+    <name>Unk6</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Enable Multi</name>
+    <name>Unk7</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Enable Multi Only</name>
+    <name>Unk8</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk9</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk10</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk11</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk12</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk13</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Unk14</name>
+    <type>b8</type>
+    <default>False</default>
+  </entry>
+  <entry>
+    <name>Vow Type 0</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 1</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 2</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 3</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 4</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 5</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 6</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 7</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Vow Type 8</name>
+    <type>b8</type>
+    <default>True</default>
+  </entry>
+  <entry>
+    <name>Enable Multiplayer Only</name>
     <type>b8</type>
     <default>False</default>
   </entry>
@@ -266,100 +346,20 @@
   <entry>
     <name>Enable Live</name>
     <type>b8</type>
-    <default>False</default>
+    <default>True</default>
   </entry>
   <entry>
     <name>Enable Gray</name>
     <type>b8</type>
-    <default>False</default>
+    <default>True</default>
   </entry>
   <entry>
     <name>Enable White</name>
     <type>b8</type>
-    <default>False</default>
+    <default>True</default>
   </entry>
   <entry>
     <name>Enable Black</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>Disable Offline</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>Cast Resonance Magic</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>Unk1</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>Unk2</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>Unk3</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>Unk4</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>Unk5</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>Unk6</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>VowType8</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>VowType9</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>VowType10</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>VowType11</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>VowType12</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>VowType13</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>VowType14</name>
-    <type>b8</type>
-    <default>True</default>
-  </entry>
-  <entry>
-    <name>VowType15</name>
     <type>b8</type>
     <default>True</default>
   </entry>

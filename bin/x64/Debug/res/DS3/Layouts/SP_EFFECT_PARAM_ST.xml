@@ -150,6 +150,7 @@
     <item value="188" name="188 - Blade of the Darkmoon" />
     <item value="189" name="189 - Spear of the Church" />
     <item value="190" name="190 - Watchdog of Farron" />
+    <item value="191" name="191 - Watchdog of Farron" />
     <item value="192" name="192 - Unknown" />
     <item value="193" name="193 - Modify Effect Duration" />
     <item value="194" name="194 - CompareWith203" />
@@ -327,6 +328,7 @@
   </enum>
   <enum name="IconID" type="s32">
     <item value="-1" name="None" />
+    <item value="0" name="None" />
     <item value="10004" name="Dried Finger" />
     <item value="10005" name="Shadowy Hollow" />
     <item value="10006" name="Open Red Eye" />
@@ -1507,8 +1509,8 @@ Enemies - Requires State Info 152</description>
     <default>1</default>
   </entry>
   <entry>
-    <name>Defence +: Dark [E]</name>
-    <type>f32</type>
+    <name>Defence +: Dark</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -1558,28 +1560,28 @@ Enemies - Requires State Info 152</description>
     <default>1</default>
   </entry>
   <entry>
-    <name>Poison Change % [E]</name>
-    <type>f32</type>
+    <name>Resist: Poison +</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Toxic Change % [E]</name>
-    <type>f32</type>
+    <name>Resist: Toxic +</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Bleed Change % [E]</name>
-    <type>f32</type>
+    <name>Resist: Bleed +</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Curse Change % [E]</name>
-    <type>f32</type>
+    <name>Resist: Curse +</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Frost Change % [E]</name>
-    <type>f32</type>
+    <name>Resist: Frost +</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
   <entry>

@@ -403,22 +403,6 @@
 3408 [Unique] Blunt +8
 3409 [Unique] Blunt +9
 3410 [Unique] Blunt +10
-4000 [Normal] Spell Tool +0
-4001 [Normal] Spell Tool +1
-4002 [Normal] Spell Tool +2
-4003 [Normal] Spell Tool +3
-4004 [Normal] Spell Tool +4
-4005 [Normal] Spell Tool +5
-4006 [Normal] Spell Tool +6
-4007 [Normal] Spell Tool +7
-4008 [Normal] Spell Tool +8
-4009 [Normal] Spell Tool +9
-4010 [Normal] Spell Tool +10
-4011 [Normal] Spell Tool +11
-4012 [Normal] Spell Tool +12
-4013 [Normal] Spell Tool +13
-4014 [Normal] Spell Tool +14
-4015 [Normal] Spell Tool +15
 5000 [Unique] Spell Tool +0
 5001 [Unique] Spell Tool +1
 5002 [Unique] Spell Tool +2
@@ -430,6 +414,171 @@
 5008 [Unique] Spell Tool +8
 5009 [Unique] Spell Tool +9
 5010 [Unique] Spell Tool +10
+6000 [Hybrid] Stock +0
+6001 [Hybrid] Stock +1
+6002 [Hybrid] Stock +2
+6003 [Hybrid] Stock +3
+6004 [Hybrid] Stock +4
+6005 [Hybrid] Stock +5
+6006 [Hybrid] Stock +6
+6007 [Hybrid] Stock +7
+6008 [Hybrid] Stock +8
+6009 [Hybrid] Stock +9
+6010 [Hybrid] Stock +10
+6100 [Hybrid] Lethal +0
+6101 [Hybrid] Lethal +1
+6102 [Hybrid] Lethal +2
+6103 [Hybrid] Lethal +3
+6104 [Hybrid] Lethal +4
+6105 [Hybrid] Lethal +5
+6106 [Hybrid] Lethal +6
+6107 [Hybrid] Lethal +7
+6108 [Hybrid] Lethal +8
+6109 [Hybrid] Lethal +9
+6110 [Hybrid] Lethal +10
+6200 [Hybrid] Curse +0
+6201 [Hybrid] Curse +1
+6202 [Hybrid] Curse +2
+6203 [Hybrid] Curse +3
+6204 [Hybrid] Curse +4
+6205 [Hybrid] Curse +5
+6206 [Hybrid] Curse +6
+6207 [Hybrid] Curse +7
+6208 [Hybrid] Curse +8
+6209 [Hybrid] Curse +9
+6210 [Hybrid] Curse +10
+6300 [Hybrid] Poison +0
+6301 [Hybrid] Poison +1
+6302 [Hybrid] Poison +2
+6303 [Hybrid] Poison +3
+6304 [Hybrid] Poison +4
+6305 [Hybrid] Poison +5
+6306 [Hybrid] Poison +6
+6307 [Hybrid] Poison +7
+6308 [Hybrid] Poison +8
+6309 [Hybrid] Poison +9
+6310 [Hybrid] Poison +10
+6400 [Hybrid] Bleed +0
+6401 [Hybrid] Bleed +1
+6402 [Hybrid] Bleed +2
+6403 [Hybrid] Bleed +3
+6404 [Hybrid] Bleed +4
+6405 [Hybrid] Bleed +5
+6406 [Hybrid] Bleed +6
+6407 [Hybrid] Bleed +7
+6408 [Hybrid] Bleed +8
+6409 [Hybrid] Bleed +9
+6410 [Hybrid] Bleed +10
+6500 [Hybrid] Frost +0
+6501 [Hybrid] Frost +1
+6502 [Hybrid] Frost +2
+6503 [Hybrid] Frost +3
+6504 [Hybrid] Frost +4
+6505 [Hybrid] Frost +5
+6506 [Hybrid] Frost +6
+6507 [Hybrid] Frost +7
+6508 [Hybrid] Frost +8
+6509 [Hybrid] Frost +9
+6510 [Hybrid] Frost +10
+6600 [Hybrid] Magic +0
+6601 [Hybrid] Magic +1
+6602 [Hybrid] Magic +2
+6603 [Hybrid] Magic +3
+6604 [Hybrid] Magic +4
+6605 [Hybrid] Magic +5
+6606 [Hybrid] Magic +6
+6607 [Hybrid] Magic +7
+6608 [Hybrid] Magic +8
+6609 [Hybrid] Magic +9
+6610 [Hybrid] Magic +10
+6700 [Hybrid] Fire +0
+6701 [Hybrid] Fire +1
+6702 [Hybrid] Fire +2
+6703 [Hybrid] Fire +3
+6704 [Hybrid] Fire +4
+6705 [Hybrid] Fire +5
+6706 [Hybrid] Fire +6
+6707 [Hybrid] Fire +7
+6708 [Hybrid] Fire +8
+6709 [Hybrid] Fire +9
+6710 [Hybrid] Fire +10
+6800 [Hybrid] Lightning +0
+6801 [Hybrid] Lightning +1
+6802 [Hybrid] Lightning +2
+6803 [Hybrid] Lightning +3
+6804 [Hybrid] Lightning +4
+6805 [Hybrid] Lightning +5
+6806 [Hybrid] Lightning +6
+6807 [Hybrid] Lightning +7
+6808 [Hybrid] Lightning +8
+6809 [Hybrid] Lightning +9
+6810 [Hybrid] Lightning +10
+6900 [Hybrid] Dark +0
+6901 [Hybrid] Dark +1
+6902 [Hybrid] Dark +2
+6903 [Hybrid] Dark +3
+6904 [Hybrid] Dark +4
+6905 [Hybrid] Dark +5
+6906 [Hybrid] Dark +6
+6907 [Hybrid] Dark +7
+6908 [Hybrid] Dark +8
+6909 [Hybrid] Dark +9
+6910 [Hybrid] Dark +10
+7000 [Hybrid] Lucky +0
+7001 [Hybrid] Lucky +1
+7002 [Hybrid] Lucky +2
+7003 [Hybrid] Lucky +3
+7004 [Hybrid] Lucky +4
+7005 [Hybrid] Lucky +5
+7006 [Hybrid] Lucky +6
+7007 [Hybrid] Lucky +7
+7008 [Hybrid] Lucky +8
+7009 [Hybrid] Lucky +9
+7010 [Hybrid] Lucky +10
+7100 [Hybrid] Enchanted +0
+7101 [Hybrid] Enchanted +1
+7102 [Hybrid] Enchanted +2
+7103 [Hybrid] Enchanted +3
+7104 [Hybrid] Enchanted +4
+7105 [Hybrid] Enchanted +5
+7106 [Hybrid] Enchanted +6
+7107 [Hybrid] Enchanted +7
+7108 [Hybrid] Enchanted +8
+7109 [Hybrid] Enchanted +9
+7110 [Hybrid] Enchanted +10
+7200 [Hybrid] Holy +0
+7201 [Hybrid] Holy +1
+7202 [Hybrid] Holy +2
+7203 [Hybrid] Holy +3
+7204 [Hybrid] Holy +4
+7205 [Hybrid] Holy +5
+7206 [Hybrid] Holy +6
+7207 [Hybrid] Holy +7
+7208 [Hybrid] Holy +8
+7209 [Hybrid] Holy +9
+7210 [Hybrid] Holy +10
+7300 [Hybrid] Sharp +0
+7301 [Hybrid] Sharp +1
+7302 [Hybrid] Sharp +2
+7303 [Hybrid] Sharp +3
+7304 [Hybrid] Sharp +4
+7305 [Hybrid] Sharp +5
+7306 [Hybrid] Sharp +6
+7307 [Hybrid] Sharp +7
+7308 [Hybrid] Sharp +8
+7309 [Hybrid] Sharp +9
+7310 [Hybrid] Sharp +10
+7400 [Hybrid] Blunt +0
+7401 [Hybrid] Blunt +1
+7402 [Hybrid] Blunt +2
+7403 [Hybrid] Blunt +3
+7404 [Hybrid] Blunt +4
+7405 [Hybrid] Blunt +5
+7406 [Hybrid] Blunt +6
+7407 [Hybrid] Blunt +7
+7408 [Hybrid] Blunt +8
+7409 [Hybrid] Blunt +9
+7410 [Hybrid] Blunt +10
 8000 [Shield] Normal +0
 8001 [Shield] Normal +1
 8002 [Shield] Normal +2
@@ -458,12 +607,12 @@
 8203 [Shield] Unique +3
 8204 [Shield] Unique +4
 8205 [Shield] Unique +5
-8300 [Shield] [Unique] Infused +0
-8301 [Shield] [Unique] Infused +1
-8302 [Shield] [Unique] Infused +2
-8303 [Shield] [Unique] Infused +3
-8304 [Shield] [Unique] Infused +4
-8305 [Shield] [Unique] Infused +5
+8300 [Shield] Unique - Infused +0
+8301 [Shield] Unique - Infused +1
+8302 [Shield] Unique - Infused +2
+8303 [Shield] Unique - Infused +3
+8304 [Shield] Unique - Infused +4
+8305 [Shield] Unique - Infused +5
 8400 [Shield] Boss +0
 8401 [Shield] Boss +1
 8402 [Shield] Boss +2
@@ -488,4 +637,20 @@
 8703 [Shield] Dragon - Infused +3
 8704 [Shield] Dragon - Infused +4
 8705 [Shield] Dragon - Infused +5
+9000 Handmaid's Ladle +0
+9001 Handmaid's Ladle +1
+9002 Handmaid's Ladle +2
+9003 Handmaid's Ladle +3
+9004 Handmaid's Ladle +4
+9005 Handmaid's Ladle +5
+9006 Handmaid's Ladle +6
+9007 Handmaid's Ladle +7
+9008 Handmaid's Ladle +8
+9009 Handmaid's Ladle +9
+9010 Handmaid's Ladle +10
+9011 Handmaid's Ladle +11
+9012 Handmaid's Ladle +12
+9013 Handmaid's Ladle +13
+9014 Handmaid's Ladle +14
+9015 Handmaid's Ladle +15
 20000 No Reinforcement

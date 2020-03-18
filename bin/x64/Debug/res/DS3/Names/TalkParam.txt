@@ -16,6 +16,8 @@
 10000703 Now I'll be equipped to infuse special gems.
 10000704 Praise the gods, eh. Time to put this brawn to use!
 10000800 My, my... The coal of that peaceable giant.
+12004000 Fire Keeper - Form Betrothal
+12004010 Fire Keeper - Flirt
 22000000 It's a blade of God. -- 神の姿に刃するものよ
 22000001 My name is Gwindlin. -- 我が名はグウィンドリン
 22000002 Thy profane shall never be forgiven. -- 汝の不敬は、決して許されるものではない
@@ -42,3 +44,5 @@
 22001100 That's good. -- それもよい
 22001101 But then we intersect. -- だが、ならば我らは交わらぬ
 22001102 Leave here and do thy work. -- ここを去り、汝のつとめを果たすがよい
+25004000 Karla - Flirt
+25005000 Karla - Form Betrothal

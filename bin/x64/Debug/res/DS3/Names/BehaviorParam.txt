@@ -73,8 +73,43 @@
 5200 Ojo 3 Exploding Ghosts of caries
 5210 Curse Hands - Grand Archives
 5220 Curse Hands - Grand Archives
+5310 Ballista
+5311 Ballista
+5312 Ballista
+5313 Ballista
+5314 Ballista
+5315 Ballista
+5316 Ballista
 5800 Waste City Bow and arrow
 5801 Waste City Bow and arrow
+5810 Catacombs of Carthus - Bolt Trap - Volley 1
+5811 Catacombs of Carthus - Bolt Trap - Volley 1
+5812 Catacombs of Carthus - Bolt Trap - Volley 1
+5813 Catacombs of Carthus - Bolt Trap - Volley 1
+5814 Catacombs of Carthus - Bolt Trap - Volley 1
+5815 Catacombs of Carthus - Bolt Trap - Volley 1
+5816 Catacombs of Carthus - Bolt Trap - Volley 1
+5820 Catacombs of Carthus - Bolt Trap - Volley 2
+5821 Catacombs of Carthus - Bolt Trap - Volley 2
+5822 Catacombs of Carthus - Bolt Trap - Volley 2
+5823 Catacombs of Carthus - Bolt Trap - Volley 2
+5824 Catacombs of Carthus - Bolt Trap - Volley 2
+5825 Catacombs of Carthus - Bolt Trap - Volley 2
+5826 Catacombs of Carthus - Bolt Trap - Volley 2
+5830 Catacombs of Carthus - Skeleton Ball
+5831 Catacombs of Carthus - Skeleton Ball
+5832 Catacombs of Carthus - Skeleton Ball
+5833 Catacombs of Carthus - Skeleton Ball
+5834 Catacombs of Carthus - Skeleton Ball
+5835 Catacombs of Carthus - Skeleton Ball
+5836 Catacombs of Carthus - Skeleton Ball
+5840 Catacombs of Carthus - Affinity Pot
+5841 Catacombs of Carthus - Affinity Pot
+5842 Catacombs of Carthus - Affinity Pot
+5843 Catacombs of Carthus - Affinity Pot
+5844 Catacombs of Carthus - Affinity Pot
+5845 Catacombs of Carthus - Affinity Pot
+5846 Catacombs of Carthus - Affinity Pot
 5900 Dungeon Objects _ Magic
 7000 Exploding Tal
 9900 FDP proto-oil jar (throwing)
@@ -852,31 +887,31 @@
 213200010 [Crystal Sage] -
 213200030 [Crystal Sage] -
 213200040 [Crystal Sage] -
-213200050 [Crystal Sage] -
-213200100 [Crystal Sage] - Crystal Spear
-213200110 [Crystal Sage] - Crystal Soulmass
-213200111 [Crystal Sage] -
-213200112 [Crystal Sage] -
-213200130 [Crystal Sage] - Ally Buff
-213200140 [Crystal Sage] - Quick Magic Line (launch)
-213200141 [Crystal Sage] - Quick Magic Line (search)
-213200142 [Crystal Sage] - Quick Magic Line (impact)
-213200143 [Crystal Sage] - Quick Magic Line (remainder)
-213200150 [Crystal Sage] - Crystal Bullets (parent)
-213200151 [Crystal Sage] - Crystal Bullets (cleanup)
-213200152 [Crystal Sage] - Crystal Bullets (child)
-213200153 [Crystal Sage] - Falling Crystal Bullets (explosion)
-213200155 [Crystal Sage] - Crystal Bullets (parent)
-213200160 [Crystal Sage] - Proximity explosion (parent)
-213200161 [Crystal Sage] - Proximity explosion (child)
-213200170 [Crystal Sage] - Crystal Wall (PC follower)
+213200050 [Crystal Sage] - Bullet
+213200100 [Crystal Sage] - Rapier Slash
+213200110 [Crystal Sage] - Rapier Thrust
+213200111 [Crystal Sage] - Rapier Thrust - Critical
+213200112 [Crystal Sage] - Rapier Thrust - Bullet
+213200130 [Crystal Sage] - Rapier Slash
+213200140 [Crystal Sage] - Quick Crystal Line - Launch
+213200141 [Crystal Sage] - Quick Crystal Line - Search
+213200142 [Crystal Sage] - Quick Crystal Line - Impact
+213200143 [Crystal Sage] - Quick Crystal Line - Remains
+213200150 [Crystal Sage] - Crystal Hail - Launch
+213200151 [Crystal Sage] - Crystal Hail - Cleanup
+213200152 [Crystal Sage] - Crystal Hail - Child
+213200153 [Crystal Sage] - Crystal Hail - Explosion
+213200155 [Crystal Sage] - Crystal Hail
+213200160 [Crystal Sage] - Explosion - Parent
+213200161 [Crystal Sage] - Explosion - Child
+213200170 [Crystal Sage] - Crystal Wall - Follow Player
 213200180 [Crystal Sage] -
-213200190 [Crystal Sage] - Crystal Storm Dancing Signs
-213200191 [Crystal Sage] - Crystal Storm dancing Crystal Storm
-213200192 [Crystal Sage] - The storm of Crystals danced
-213200193 [Crystal Sage] - Shock wave of crystal storm dancing
-213200194 [Crystal Sage] - Crystal Storm Dancing signs (short distance)
-213200195 [Crystal Sage] - Crystal Storm dancing sign (target directly above)
+213200190 [Crystal Sage] - Crystal Storm - Bullet
+213200191 [Crystal Sage] - Crystal Storm - Bullet
+213200192 [Crystal Sage] - Crystal Storm - Bullet
+213200193 [Crystal Sage] - Crystal Storm - Shockwave
+213200194 [Crystal Sage] - Crystal Storm - Short
+213200195 [Crystal Sage] - Crystal Storm - Above
 213200300 [Crystal Sage] - Butt: Throwing Start
 213200310 [Crystal Sage] - 2 Consecutive payments: 1 payment
 213200311 [Crystal Sage] - 2 Consecutive payments: Payment 2
@@ -2621,56 +2656,58 @@
 250300850 [King of the Storm] Right foot
 250300860 [King of the Storm] Left foot
 250300900 [King of the Storm]
-251100010 [Gundyr] Combo ① (shake off)
-251100020 [Gundyr] rushes Combo ② (Saigi)
+251100010 [Gundyr] Strike Forward
+251100020 [Gundyr] Sweep
 251100030 [Gundyr] Jump Attack
-251100040 [Gundyr] Punch (Hook at close range)
-251100050 [Gundyr] Triple Combo ① (Saigi from left hand)
-251100060 [Gundyr] Triple Combo ② (tackle)
-251100070 [Gundyr] Triple Combo ③ (TS)
-251100080 [Gundyr] Melee Combo ① (thrust attack)
-251100090 [Gundyr] Melee Combo ② (jump-up attack) 1_
-251100091 [Gundyr] Melee Combo ② (jumping up attack) 2_
-251100100 [Gundyr] Backward attack
-251100110 [Gundyr] throwing Transition Attack ① _ grabs
-251100120 [Gundyr] Lateral Step Sword
-251100130 [Gundyr] Melee Combo B ① (thrust)
-251100140 [Gundyr] Melee Combo B ②-1 (thrust)
-251100150 [Gundyr] Melee Combo B ②-2 (slams)
-251100160 [Gundyr]
-251100161 [Gundyr]
-251100170 [Gundyr]
-251100180 [Gundyr]
-251100181 [Gundyr]
-251100182 [Gundyr]
-251100190 [Gundyr]
-251100191 [Gundyr]
-251100200 [Gundyr] Heat-up transition attack
-251100210 [Gundyr]
-251100290 [Gundyr]
-251100300 [Gundyr] Heat up combo a ① (piercing)
-251100310 [Gundyr] heat up attack: Combo a ② (bouncing up)
-251100330 [Gundyr] heat up attack: Combo B ② (return Saigi)
-251100340 [Gundyr] heat up attack: Combo B ③ (left hand slams)
-251100350 [Gundyr] heat up attack: Combo C ① (right hand jump ⇒ thrusting)
-251100351 [Gundyr] heat up attack: Combo C ① (right hand jump ⇒ Piercing) _ Left hand judgment
-251100360 [Gundyr] heat up attack: Combo C ② (left hand Saigi)
-251100380 [Gundyr] heat up attack: Rear attack ② (right hand Saigi, range)
-251100391 [Gundyr] heat up attack: ⇒ slams _ range with tail & left body
-251100400 [Gundyr] Heat-up attack: Transition attack to throw ①
-251100420 [Gundyr] heat up attack: Walk/Tail Attack _ Swing
-251100430 [Gundyr] heat up attack: Medium/Long Distance/Saigi _ arm
-251100431 [Gundyr] heat up attack: Medium/Long Distance/Saigi _ slashing
-251100441 [Gundyr] heat up attack: Melee attack _ Snake Spirit Arm
-251100450 [Gundyr]
-251100451 [Gundyr]
-251100500 [Gundyr]
+251100040 [Gundyr] Punch
+251100050 [Gundyr] Triple Combo: Sweep
+251100060 [Gundyr] Triple Combo: Tackle
+251100070 [Gundyr] Triple Combo: Lunge
+251100080 [Gundyr] Melee Combo: Thrust
+251100090 [Gundyr] Melee Combo: Vertical Strike
+251100091 [Gundyr] Melee Combo: Backward Strike
+251100100 [Gundyr] Kick
+251100110 [Gundyr] Grab
+251100120 [Gundyr] Forward Step Swipe
+251100130 [Gundyr] Melee Combo: Thrust
+251100140 [Gundyr] Melee Combo: Thrust
+251100150 [Gundyr] Melee Combo: Strike
+251100160 [Gundyr] Charge
+251100161 [Gundyr] Charge - Swipe
+251100170 [Gundyr] Knock Up
+251100180 [Gundyr] Slam Feet - Initial
+251100181 [Gundyr] Slam Feet - Spreading
+251100182 [Gundyr] Slam Feet - Max
+251100190 [Gundyr] Kick
+251100191 [Gundyr] Kick
+251100200 [Gundyr] Punch - Heat-up Transition
+251100210 [Gundyr] Tackle - Heat-up Transition
+251100290 [Gundyr] Sweep - Heat-up Transition
+251100300 [Gundyr - Pus of Man] Heat up combo a ① (piercing)
+251100310 [Gundyr - Pus of Man] heat up attack: Combo a ② (bouncing up)
+251100330 [Gundyr - Pus of Man] heat up attack: Combo B ② (return Saigi)
+251100340 [Gundyr - Pus of Man] heat up attack: Combo B ③ (left hand slams)
+251100350 [Gundyr - Pus of Man] heat up attack: Combo C ① (right hand jump ⇒ thrusting)
+251100351 [Gundyr - Pus of Man] heat up attack: Combo C ① (right hand jump ⇒ Piercing) _ Left hand judgment
+251100360 [Gundyr - Pus of Man] heat up attack: Combo C ② (left hand Saigi)
+251100380 [Gundyr - Pus of Man] heat up attack: Rear attack ② (right hand Saigi, range)
+251100391 [Gundyr - Pus of Man] heat up attack: ⇒ slams _ range with tail & left body
+251100400 [Gundyr - Pus of Man] Heat-up attack: Transition attack to throw ①
+251100420 [Gundyr - Pus of Man] heat up attack: Walk/Tail Attack _ Swing
+251100430 [Gundyr - Pus of Man] heat up attack: Medium/Long Distance/Saigi _ arm
+251100431 [Gundyr - Pus of Man] heat up attack: Medium/Long Distance/Saigi _ slashing
+251100441 [Gundyr - Pus of Man] heat up attack: Melee attack _ Snake Spirit Arm
+251100450 [Gundyr - Pus of Man]
+251100451 [Gundyr - Pus of Man]
+251100500 [Gundyr] Jump Attack - Bullet
 251100600 [Gundyr]
 251100700 [Gundyr] throwing
 251100710 [Gundyr] heats up attack: throwing _ slams ①
 251100711 [Gundyr] heats up attack: throwing _ slams ②
 251100712 [Gundyr] heats up attack: throwing _ slams ③
 251100713 [Gundyr] heat up attack: Throw _ Finish
+251100800 [Gundyr] Corrupted Fist - Bullet
+251100801 [Gundyr] Corrupted Bite - Bullet
 251200010 [Snake Spirit] Frontal melee attack _ head knocked back against
 251200011 [Snake Spirit] Frontal melee attack _ head lateral shaking
 251200012 [Snake Spirit] Frontal melee Attack _ head + neck knocked back against
@@ -3195,41 +3232,44 @@
 252520719 [Prince Lothric]
 252520720 [Prince Lothric]
 252520730 [Prince Lothric]
-252600100 [Yhorm the Giant] First step, two-handed combo
-252600110 [Yhorm the Giant] Second Step (back)
-252600120 [Yhorm the Giant] Second step (right side)
-252600130 [Yhorm the Giant] The second step (back) from the standby combo two hands slams
-252600140 [Yhorm the Giant] One-handed slams
-252600150 [Yhorm the Giant] Second stage slams one hand
-252600160 [Yhorm the Giant] Left from one-handed slams
-252600170 [Yhorm the Giant] Saigi right from one-handed slams
-252600180 [Yhorm the Giant] Attack behind
-252600190 [Yhorm the Giant] Turned
-252600200 [Yhorm the Giant] Move attack
-252600210 [Yhorm the Giant] Nagi Combo First Stage
-252600220 [Yhorm the Giant] Additional cut-up
-252600230 [Yhorm the Giant] Front Vertical Whack 1
-252600240 [Yhorm the Giant] Front longitudinal whack (reverse)
-252600250 [Yhorm the Giant] Front longitudinal whack (reverse)
-252600260 [Yhorm the Giant] Rampage rush: Saigi right → Left
-252600261 [Yhorm the Giant] Rampage rush: Saigi Left → Right
-252600262 [Yhorm the Giant] Wild Rush: Swing Down
-252600263 [Yhorm the Giant] Wild rush: Beat Down
-252600270 [Yhorm the Giant] Jump Hammer
-252600280 [Yhorm the Giant]
-252600281 [Yhorm the Giant]
-252600290 [Yhorm the Giant]
-252600291 [Yhorm the Giant]
-252600300 [Yhorm the Giant]
-252600310 [Yhorm the Giant]
-252600311 [Yhorm the Giant]
-252600312 [Yhorm the Giant]
-252600313 [Yhorm the Giant]
-252600400 [Yhorm the Giant] Weapon Swing Wind pressure (general purpose)
-252600410 [Yhorm the Giant]
-252600500 [Yhorm the Giant] Hu explosion
-252600510 [Yhorm the Giant]
-252600600 [Yhorm the Giant]
+252600100 [Yhorm the Giant] Machete - Smash Down
+252600110 [Yhorm the Giant] Machete - Smash Down - Follow-up Behind
+252600120 [Yhorm the Giant] Machete - Smash Down - Follow-up Swipe Behind
+252600130 [Yhorm the Giant] Machete - Smash Down - To the Side
+252600140 [Yhorm the Giant] Machete - Strike
+252600150 [Yhorm the Giant] Machete - Strike - Follow-up Strike
+252600160 [Yhorm the Giant] Machete - Strike - Follow-up Swipe
+252600170 [Yhorm the Giant] Machete - Strike Across
+252600180 [Yhorm the Giant] Machete - Strike
+252600190 [Yhorm the Giant] Machete - Swipe
+252600200 [Yhorm the Giant] Machete - Moving Strike
+252600210 [Yhorm the Giant] Machete - Moving Strike - Follow-up Swipe
+252600220 [Yhorm the Giant] Machete - Moving Strike - Follow-up Swipe
+252600230 [Yhorm the Giant] Machete - Vertical Strike
+252600240 [Yhorm the Giant] Machete - Vertical Strike - Follow-up Swipe
+252600250 [Yhorm the Giant] Machete - Vertical Strike - Follow-up Vertical Strike
+252600260 [Yhorm the Giant] Machete - Rampage Rush - Right to Left
+252600261 [Yhorm the Giant] Machete - Rampage Rush - Chain - Left to Right
+252600262 [Yhorm the Giant] Machete - Rampage Rush - Chain - Strike Down
+252600263 [Yhorm the Giant] Machete - Rampage Rush - Chain - Strike Down
+252600270 [Yhorm the Giant] Machete - Jump and Punch
+252600271 [Yhorm the Giant] Machete - Jump and Punch - Bullet
+252600280 [Yhorm the Giant] Machete - Quick Slash
+252600281 [Yhorm the Giant] Machete - Quick Slash - Chain - Smash Down
+252600290 [Yhorm the Giant] Machete - Forward Push Upwards
+252600291 [Yhorm the Giant] Machete - Forward Push Upwards - Chain
+252600300 [Yhorm the Giant] Machete - Forward Push Upwards - Follow-up - Smash Down
+252600310 [Yhorm the Giant] Roar
+252600311 [Yhorm the Giant] Roar - Chain - Small Radius
+252600312 [Yhorm the Giant] Roar - Chain - Full Radius
+252600313 [Yhorm the Giant] Roar - Bullet (Old)
+252600314 [Yhorm the Giant] Roar - Bullet
+252600400 [Yhorm the Giant] Weapon Swing - Shockwave
+252600410 [Yhorm the Giant] Weapon Swing - Shockwave - Heatup
+252600420 [Yhorm the Giant] Weapon Swing - Shockwave - Bullet
+252600500 [Yhorm the Giant] Explosion - Heatup
+252600510 [Yhorm the Giant] Explosion - Heatup
+252600600 [Yhorm the Giant] Explosion - Heatup - Bullet
 252700000 [Dancer of the Boreal Valley] 3000 The butt
 252700010 [Dancer of the Boreal Valley] 3001 Saigi from falling butt
 252700020 [Dancer of the Boreal Valley] 3002 right hand slams from fallen butt

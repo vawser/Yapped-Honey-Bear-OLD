@@ -96,6 +96,7 @@
 340 Charcoal Pine Bundle
 341 Gold Pine Bundle
 343 Rotten Pine Resin
+344 Frozen Pine Resin
 350 Homeward Bone
 351 Coiled Sword Fragment
 366 Wolf's Blood Swordgrass
@@ -159,6 +160,9 @@
 524 Help me! Carving
 650 Ritual Spear Fragment
 651 Divine Spear Fragment
+700 Soul of Corrupted Gundyr
+701 Soul of the Ancient Dragon
+702 Soul of the Triad
 712 Soul of Champion Gundyr
 714 Soul of the Dancer
 715 Soul of a Crystal Sage
@@ -190,7 +194,11 @@
 1010 Dragon Scale
 1020 Titanite Scale
 1030 Twinkling Titanite
+1050 Prismatic Slab
 1060 Fire Seed
+1070 Crystal Fragment
+1080 Abyssal Fragment
+1090 Holy Fragment
 1100 Heavy Gem
 1110 Sharp Gem
 1120 Raw Gem
@@ -207,7 +215,9 @@
 1230 Divine Gem
 1240 Hollow Gem
 1250 Shriving Stone
+2000 Ring of Betrothal
 2001 Lift Chamber Key
+2002 Lordvessel
 2005 Small Doll
 2007 Jailbreaker's Key
 2008 Jailer's Key Ring
@@ -283,15 +293,14 @@
 2166 Memoirs of a Shield Maiden
 2167 Champion's Tome
 2168 Blood of Might
-2169 Beastly Flesh
 2170 Ceaseless Dung Pie
 2171 Death and You
 2172 Primordial Coal
-2173 Primordial Scroll
 2200 Infusing Essence
 2201 Degrading Essence
 3000 Cinder
 3001 Primordial Titanite
+3002 Primordial Essence
 3004 Tarnished Coin
 3005 Tarnished Silver Coin
 3006 Fire Stone
@@ -330,7 +339,7 @@
 4017 Devil's Trumpet
 4018 Moonflower
 4019 Henbane
-5000 Dream of Iudex Gundyr
+5000 Dream of Corrupted Gundyr
 5001 Dream of Vordt
 5002 Dream of Rotted Greatwood
 5003 Dream of the Crystal Sage
@@ -354,7 +363,7 @@
 5021 Dream of the Demon Prince
 5022 Dream of Darkeater Midir
 5023 Dream of Slave Knight Gael
-5100 Nightmare of Iudex Gundyr
+5100 Nightmare of Corrupted Gundyr
 5101 Nightmare of Vordt
 5102 Nightmare of Rotted Greatwood
 5103 Nightmare of the Crystal Sage
@@ -515,9 +524,10 @@
 2708000 Recollection
 2709000 Mournful Flames
 2710000 Earthfall
-2711000 Wretch Earth
+2711000 Heave Earth
 2712000 Earthquake
 2713000 Rockflesh
+2714000 Immolation
 3399999 ### Miracles ###
 3490000 Heal Aid
 3500000 Heal
@@ -529,13 +539,12 @@
 3507000 Bountiful Light
 3508000 Caressing Tears
 3509000 Lightning Arrow
-3513000 Morbid Temptation
 3520000 Tears of Denial
 3521000 Homeward
 3530000 Force
 3531000 Wrath of the Gods
 3532000 Emit Force
-3540000 Seek Guidance
+3540000 Heavenly Relief
 3550000 Lightning Spear
 3551000 Great Lightning Spear
 3552000 Sunlight Spear
@@ -555,15 +564,18 @@
 3710000 Lightning Stake
 3720000 Divine Pillars of Light
 3730000 Lifehunt Scythe
-3750000 Dorris Swarm
 3760000 Blessed Weapon
 3770000 Deep Protection
 3780000 Atonement
-3800000 Lightning Bolt
-3801000 Sparks
 3802000 Heavenly Thunder
 3803000 Halo
 3805000 Perseverance
 3806000 Inner Fervor
 3807000 Nibble
 3810000 Devouring Swarm
+3811000 Vow of Agony
+3812000 Angelic Barrage
+3813000 Divine Arrow
+3814000 Lothric's Holy Spear
+3815000 Proof of a Pact
+3816000 Ghostly Assault

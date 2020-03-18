@@ -968,7 +968,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Is Backstab</name>
+    <name>HKS Value - Checked by env 334</name>
     <type>u8</type>
     <default>0</default>
   </entry>

@@ -630,7 +630,17 @@
 99912080 Chaos Servants
 99912081 Chaos Servants - Fire Aura
 99912090 Tomb Ghost
-99913000 Nightmare
+99913000 Echoes of the Past
+99913010 Rattling Finger - Body - Type 1
+99913011 Rattling Finger - Head - Type 1
+99913020 Rattling Finger - Body - Type 2
+99913021 Rattling Finger - Head - Type 2
+99913030 Rattling Finger - Body - Type 3
+99913031 Rattling Finger - Head - Type 3
+99913040 Rattling Finger - Body - Type 4
+99913041 Rattling Finger - Head - Type 4
+99913100 Murky Finger - Body
+99913101 Murky Finger - Head
 99914000 Curse Aura
 99914001 Curse Aura
 99915000 Curse Burst
@@ -649,4 +659,14 @@
 99931000 Immolate Aura
 99932000 Heal Burst
 99933000 Repel
-99934000 Frigid Valley Mask
+99934000 Armor - Poison Aura
+99934010 Armor - Bleed Aura
+99934020 Armor - Frost Aura
+99934030 Armor - Curse Aura
+99935000 Bewitched Alonne Sword - Right
+99935001 Bewitched Alonne Sword - Left
+99936000 Darkness
+99937000 Nightmare - Red Eyes
+99938000 Infected Spit
+99939000 Bonfire Fade
+99940000 Player - Red Eyes

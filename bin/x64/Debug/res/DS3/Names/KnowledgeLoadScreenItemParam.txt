@@ -146,9 +146,6 @@
 146 Fool's Flame
 147 Chaos Flame
 148 Jester's Talisman
-149 Darkmoon Ritual Staff
-150 Lord's Chime
-151 Logan's Staff
 152 Abyssal Flame
 153 Insanity Catalyst
 154 Talisman of Beasts
@@ -186,9 +183,6 @@
 186 Lizard Hide
 187 Resonating Crystal
 188 Blood of Might
-189 Beastly Flesh
-190 Primordial Coal
-191 Primordial Scroll
 192 Primordial Titanite
 193 Shockwave
 194 Soul Geyser
