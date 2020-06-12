@@ -10,12 +10,13 @@
 21009 [Darkmoon Faithful] Sunless Armor
 21010 [Darkmoon Faithful] Sunless Gauntlets
 21011 [Darkmoon Faithful] Sunless Leggings
-21012 [Darkmoon Faithful] Ring of the Dutiful
+21012 [Darkmoon Faithful] Darkmoon Elixir
 21013 [Darkmoon Faithful] Priscilla's Scythe
 21014 [Darkmoon Faithful] Crown of the Dark Sun
 21015 [Darkmoon Faithful] Moonlight Robe
 21016 [Darkmoon Faithful] Moonlight Gloves
 21017 [Darkmoon Faithful] Moonlight Waistcloth
+21018 [Darkmoon Faithful] Yorshka's Spear
 21200 [Watchdogs of Farron] Old Wolf Curved Sword
 21201 [Watchdogs of Farron] Wolf Knight's Greatshield
 21202 [Watchdogs of Farron] Wolf Ring
@@ -28,31 +29,27 @@
 21210 [Watchdogs of Farron] Wolf Knight Armor
 21211 [Watchdogs of Farron] Wolf Knight Gauntlets
 21212 [Watchdogs of Farron] Wolf Knight Leggings
-21213 [Watchdogs of Farron] Ring of the Resolute
+21213 [Watchdogs of Farron] Earthen Elixir
 21400 [Aldrich Faithful] Archdeacon's Great Staff
 21401 [Aldrich Faithful] Archdeacon's Longstaff
 21402 [Aldrich Faithful] Dark Gem
 21403 [Aldrich Faithful] Twinkling Titanite
-21404 [Aldrich Faithful] Numbness
-21405 [Aldrich Faithful] Great Soul Dregs
 21406 [Aldrich Faithful] Archdeacon White Crown
 21407 [Aldrich Faithful] Archdeacon Holy Garb
 21408 [Aldrich Faithful] Archdeacon Skirt
 21409 [Aldrich Faithful] Dark Bead
-21410 [Aldrich Faithful] Ring of the Faithful
-21411 [Aldrich Faithful] Surging Deep
+21410 [Aldrich Faithful] Abyssal Elixir
 21412 [Aldrich Faithful] Abyssal Fragment
 21600 [Warrior of Sunlight] Sunlight Shield
 21601 [Warrior of Sunlight] Sunlight Straight Sword
 21602 [Warrior of Sunlight] Lightning Gem
 21603 [Warrior of Sunlight] Titanite Scale
-21604 [Warrior of Sunlight] Inner Fervor
 21605 [Warrior of Sunlight] Heavenly Thunder
 21606 [Warrior of Sunlight] Iron Helm
 21607 [Warrior of Sunlight] Armor of the Sun
 21608 [Warrior of Sunlight] Iron Bracelets
 21609 [Warrior of Sunlight] Iron Leggings
-21610 [Warrior of Sunlight] Ring of the Devout
+21610 [Warrior of Sunlight] Sunlight Elixir
 21611 [Warrior of Sunlight] Holy Fragment
 21800 [Mound-makers] Bloodlust
 21801 [Mound-makers] Warmth
@@ -66,31 +63,28 @@
 21809 [Mound-makers] Sunset Armor
 21810 [Mound-makers] Sunset Gauntlets
 21811 [Mound-makers] Sunset Leggings
-21812 [Mound-makers] Ring of the Fanatic
-22000 [Chaos Servants] Earthquake
-22001 [Chaos Servants] Seething Chaos
-22002 [Chaos Servants] Fire Seed
+21812 [Mound-makers] Maddening Elixir
+22000 [Chaos Servants] Lingering Chaos
 22003 [Chaos Servants] Fire Gem
-22004 [Chaos Servants] Lingering Chaos
-22005 [Chaos Servants] Cataclysm
 22006 [Chaos Servants] Charred Bone
 22007 [Chaos Servants] Old Sage's Blindfold
 22008 [Chaos Servants] Cornyx's Garb
 22009 [Chaos Servants] Cornyx's Wrap
 22010 [Chaos Servants] Cornyx's Skirt
-22011 [Chaos Servants] Ring of Demons
+22011 [Chaos Servants] Demonic Elixir
 22013 [Chaos Servants] Soul of a Demon
 22014 [Chaos Servants] Soul of a Stray Demon
+22015 [Chaos Servants] Demonic Claw
+22016 [Chaos Servants] Demonic Skull
 22200 [Rosaria's Fingers] Obscuring Ring
 22201 [Rosaria's Fingers] Man-grub's Staff
-22202 [Rosaria's Fingers] Holy Gem
 22203 [Rosaria's Fingers] Lucky Gem
 22204 [Rosaria's Fingers] Twinkling Titanite
 22207 [Rosaria's Fingers] Helm of Thorns
 22208 [Rosaria's Fingers] Armor of Thorns
 22209 [Rosaria's Fingers] Gauntlets of Thorns
 22210 [Rosaria's Fingers] Leggings of Thorns
-22211 [Rosaria's Fingers] Ring of Rosaria
+22211 [Rosaria's Fingers] Bloody Elixir
 22212 [Rosaria's Fingers] Rosaria's Soul
 22400 [Spears of the Church] Young Grass Dew
 22401 [Spears of the Church] Divine Spear Fragment
@@ -103,20 +97,22 @@
 22408 [Spears of the Church] Shira's Armor
 22409 [Spears of the Church] Shira's Gloves
 22410 [Spears of the Church] Shira's Trousers
-22411 [Spears of the Church] Ring of the Blessed
+22411 [Spears of the Church] Holy Elixir
 22500 [Vinheim Scholars] Young Dragon Ring
 22501 [Vinheim Scholars] Slumbering Dragoncrest Ring
 22502 [Vinheim Scholars] Lingering Dragoncrest Ring
 22505 [Vinheim Scholars] Court Sorcerer's Staff
-22506 [Vinheim Scholars] Unleash Magic
-22507 [Vinheim Scholars] Soul Stream
-22508 [Vinheim Scholars] Pestilent Mist
 22509 [Vinheim Scholars] Magic Gem
 22510 [Vinheim Scholars] Enchanted Gem
 22511 [Vinheim Scholars] Twinkling Titanite
 22512 [Vinheim Scholars] Clandestine Coat
 22513 [Vinheim Scholars] Blue Flame
-22515 [Vinheim Scholars] Crystal Fragment
+22514 [Vinheim Scholars] Chameleon
+22515 [Vinheim Scholars] Crystal Ring Shield
+22516 [Vinheim Scholars] Six-Eyed Helm of the Channelers
+22517 [Vinheim Scholars] Robe of the Channelers
+22518 [Vinheim Scholars] Gauntlets of the Channelers
+22519 [Vinheim Scholars] Waistcloth of the Channelers
 22600 [Pilgrims of Dark] Karla's Pointed Hat
 22601 [Pilgrims of Dark] Karla's Coat
 22602 [Pilgrims of Dark] Karla's Gloves
@@ -124,25 +120,20 @@
 22605 [Pilgrims of Dark] Rare Ring of Humanity
 22606 [Pilgrims of Dark] Dark Clutch Ring
 22607 [Pilgrims of Dark] Needle of Eternal Agony
-22608 [Pilgrims of Dark] Abyssal Blade
-22609 [Pilgrims of Dark] Manus Catalyst
 22611 [Pilgrims of Dark] Heretic's Staff
 22612 [Pilgrims of Dark] Heretic's Warstaff
-22613 [Pilgrims of Dark] Climax
-22614 [Pilgrims of Dark] Dark Bead
 22615 [Pilgrims of Dark] Whisper of Despair
 22616 [Pilgrims of Dark] Titanite Scale
 22617 [Pilgrims of Dark] Dark Gem
-22620 [Pilgrims of Dark] Accursed Ring
-22621 [Pilgrims of Dark] Abyssal Fragment
+22620 [Pilgrims of Dark] Accursed Elixir
 22700 [Dragon Remnants] Farron Ring
 22701 [Dragon Remnants] Hawkwood's Shield
 22702 [Dragon Remnants] Dragon Bone Smasher
 22703 [Dragon Remnants] Tailbone Club
 22704 [Dragon Remnants] Drake Fist
 22705 [Dragon Remnants] Dragonkin Shield
-22706 [Dragon Remnants] Twinkling Dragon Head Stone
-22707 [Dragon Remnants] Twinkling Dragon Torso Stone
+22706 [Dragon Remnants] Stone of Draconic Fire
+22707 [Dragon Remnants] Stone of Draconic Might
 22708 [Dragon Remnants] Dragon Head Stone
 22709 [Dragon Remnants] Dragon Torso Stone
 22710 [Dragon Remnants] Lethal Gem
@@ -153,1468 +144,1657 @@
 22716 [Dragon Remnants] Black Dragon Armor
 22717 [Dragon Remnants] Black Dragon Gauntlets
 22718 [Dragon Remnants] Black Dragon Leggings
-30000 [Ludleth - Champion Gundyr] Gundyr's Halberd
-30001 [Ludleth - Champion Gundyr] Prisoner's Chain
-30002 [Ludleth - Champion Gundyr] Wretched Pendant
-30020 [Ludleth - Dancer] Dancer's Enchanted Swords
-30021 [Ludleth - Dancer] Soothing Sunlight
-30022 [Ludleth - Dancer] Ring of the Evil Eye
+22800 [Way of White] Quicksilver Helm
+22801 [Way of White] Quicksilver Armor
+22802 [Way of White] Quicksilver Gauntlets
+22803 [Way of White] Quicksilver Leggings
+22804 [Way of White] Holy Gem
+22805 [Way of White] Twinkling Titanite
+22806 [Way of White] Divine Blessing
+22807 [Way of White] Hidden Blessing
+22808 [Way of White] Projected Heal
+22809 [Way of White] Heavenly Relief
+30000 [Ludleth - Corrupted Gundyr] Writhing Hammer
+30001 [Ludleth - Corrupted Gundyr] Cursed Ring of Evasion
+30002 [Ludleth - Corrupted Gundyr] Cursed Ring of Vengeance
+30003 [Ludleth - Corrupted Gundyr] Cursed Ring of Deflection
+30004 [Ludleth - Corrupted Gundyr] Cursed Ring of Confusion
+30010 [Ludleth - Vordt] Vordt's Great Hammer
+30011 [Ludleth - Vordt] Pontiff's Left Eye
+30012 [Ludleth - Vordt] Snap Freeze
+30013 [Ludleth - Vordt] Frozen Weapon
+30020 [Ludleth - Greatwood] Arstor's Spear
+30021 [Ludleth - Greatwood] Hammer of the Great Tree
+30022 [Ludleth - Greatwood] Greatwood Remnants
+30023 [Ludleth - Greatwood] Greatwood Club
+30024 [Ludleth - Greatwood] Pungent Blade
 30030 [Ludleth - Crystal Sage] Crystal Sage's Rapier
 30031 [Ludleth - Crystal Sage] Crystal Hail
 30032 [Ludleth - Crystal Sage] Sage's Stiletto
 30033 [Ludleth - Crystal Sage] Scholar's Bow
-30040 [Ludleth - Abyss Watcher] Farron Greatsword
-30041 [Ludleth - Abyss Watcher] Wolf Knight's Greatsword
-30042 [Ludleth - Abyss Watcher] Hornet Ring
-30050 [Ludleth - Oceiros] Moonlight Greatsword
-30051 [Ludleth - Oceiros] White Dragon Breath
-30053 [Ludleth - Oceiros] Crystal Storm
-30054 [Ludleth - Oceiros] Moonlight Butterfly Horn
-30055 [Ludleth - Oceiros] Consumed King's Staff
-30060 [Ludleth - Vordt] Vordt's Great Hammer
-30061 [Ludleth - Vordt] Pontiff's Left Eye
-30062 [Ludleth - Vordt] Snap Freeze
+30040 [Ludleth - Deacons] Cleric's Candlestick
+30041 [Ludleth - Deacons] Deep Ring
+30042 [Ludleth - Deacons] Whisper of Despair
+30043 [Ludleth - Deacons] Dreg Torrent
+30044 [Ludleth - Deacons] Pulsating Blade
+30050 [Ludleth - Abyss Watcher] Farron Greatsword
+30051 [Ludleth - Abyss Watcher] Wolf Knight's Greatsword
+30052 [Ludleth - Abyss Watcher] Hornet Ring
+30060 [Ludleth - High Lord Wolnir] Wolnir's Holy Sword
+30061 [Ludleth - High Lord Wolnir] Black Serpent
+30062 [Ludleth - High Lord Wolnir] Mournful Flames
+30063 [Ludleth - High Lord Wolnir] Gravelord Sword
+30064 [Ludleth - High Lord Wolnir] Crypt Blacksword
+30065 [Ludleth - High Lord Wolnir] Black Fire Vestiges
 30070 [Ludleth - Old Demon King] Old King's Great Hammer
 30071 [Ludleth - Old Demon King] Demon King's Greataxe
 30072 [Ludleth - Old Demon King] Quelaag's Fury Sword
-30073 [Ludleth - Old Demon King] Immolation
-30080 [Ludleth - Dragonslayer] Dragonslayer Greataxe
-30081 [Ludleth - Dragonslayer] Dragonslayer Greatshield
-30082 [Ludleth - Dragonslayer] Dragon Bone Smasher
-30090 [Ludleth - Nameless King] Dragonslayer Swordspear
-30091 [Ludleth - Nameless King] Storm Curved Sword
-30092 [Ludleth - Nameless King] Hands of God
-30110 [Ludleth - Sulyvahn] Greatsword of Judgment
-30111 [Ludleth - Sulyvahn] Profaned Greatsword
-30112 [Ludleth - Sulyvahn] Orbs of Judgment
-30120 [Ludleth - Aldrich] Darkmoon Longbow
-30121 [Ludleth - Aldrich] Lifehunt Scythe
-30123 [Ludleth - Aldrich] Sword of Avowal
-30124 [Ludleth - Aldrich] Talisman of Beasts
-30130 [Ludleth - Wolnir] Wolnir's Holy Sword
-30131 [Ludleth - Wolnir] Black Serpent
-30132 [Ludleth - Wolnir] Mournful Flames
-30133 [Ludleth - Wolnir] Abyssal Blade
-30134 [Ludleth - Wolnir] Gravelord Sword
-30140 [Ludleth - Greatwood] Arstor's Spear
-30141 [Ludleth - Greatwood] Hammer of the Great Tree
-30142 [Ludleth - Greatwood] Greatwood Remnants
-30143 [Ludleth - Greatwood] Greatwood Club
-30153 [Ludleth - Rosaria] Bountiful Sunlight
-30154 [Ludleth - Rosaria] Longstaff of Rosaria
-30155 [Ludleth - Rosaria] Divine Arrow
-30160 [Ludleth - Deacons] Cleric's Candlestick
-30161 [Ludleth - Deacons] Deep Ring
-30162 [Ludleth - Deacons] Whisper of Despair
-30163 [Ludleth - Deacons] Dreg Torrent
+30073 [Ludleth - Old Demon King] Rockflesh
+30074 [Ludleth - Old Demon King] Immolation
+30080 [Ludleth - Ponitff Sulyvahn] Greatsword of Judgment
+30081 [Ludleth - Ponitff Sulyvahn] Profaned Greatsword
+30082 [Ludleth - Ponitff Sulyvahn] Orbs of Judgment
+30083 [Ludleth - Ponitff Sulyvahn] Soul Wave
+30090 [Ludleth - Aldrich] Darkmoon Longbow
+30091 [Ludleth - Aldrich] Lifehunt Scythe
+30092 [Ludleth - Aldrich] Sword of Avowal
+30100 [Ludleth - Yhorm the Giant] Yhorm's Great Machete
+30101 [Ludleth - Yhorm the Giant] Yhorm's Greatshield
+30110 [Ludleth - Dancer] Dancer's Enchanted Swords
+30111 [Ludleth - Dancer] Soothing Sunlight
+30120 [Ludleth - Oceiros] Moonlight Greatsword
+30121 [Ludleth - Oceiros] White Dragon Breath
+30122 [Ludleth - Oceiros] Crystal Storm
+30123 [Ludleth - Oceiros] Moonlight Butterfly Horn
+30124 [Ludleth - Oceiros] Consumed King's Staff
+30130 [Ludleth - Dragonslayer Armour] Dragonslayer Greataxe
+30131 [Ludleth - Dragonslayer Armour] Dragonslayer Greatshield
+30132 [Ludleth - Dragonslayer Armour] Perseverance
+30140 [Ludleth - Ancient Wyvern] Dragon King Greataxe
+30141 [Ludleth - Ancient Wyvern] Dragon Greatsword
+30143 [Ludleth - Ancient Wyvern] Ancient Dragon Halberd
+30144 [Ludleth - Ancient Wyvern] Dragon Bone Fist
+30150 [Ludleth - Nameless King] Dragonslayer Swordspear
+30151 [Ludleth - Nameless King] Storm Curved Sword
+30152 [Ludleth - Nameless King] Sunlight Spear
+30153 [Ludleth - Nameless King] Lightning Storm
+30160 [Ludleth - Champion Gundyr] Gundyr's Halberd
+30161 [Ludleth - Champion Gundyr] Prisoner's Chain
+30163 [Ludleth - Champion Gundyr] Atonement
 30170 [Ludleth - Twin Princes] Lorian's Greatsword
 30171 [Ludleth - Twin Princes] Lothric's Holy Sword
 30172 [Ludleth - Twin Princes] Lothric's Scythe
 30173 [Ludleth - Twin Princes] Prince's Shield
 30174 [Ludleth - Twin Princes] Lothric's Holy Spear
-30180 [Ludleth - Yhorm] Yhorm's Great Machete
-30181 [Ludleth - Yhorm] Yhorm's Greatshield
-30190 [Ludleth - Soul of Cinder] Firelink Greatsword
-30191 [Ludleth - Soul of Cinder] Firelink Dagger
-30192 [Ludleth - Soul of Cinder] Firelink Spear
-30193 [Ludleth - Soul of Cinder] Firelink Sword
-30194 [Ludleth - Soul of Cinder] Firelink Rapier
-30195 [Ludleth - Soul of Cinder] Great Lord Greatsword
-30200 [Ludleth - Demon] Demon's Great Hammer
-30201 [Ludleth - Demon] Demon's Fist
-30202 [Ludleth - Demon] Demon's Machete
-30210 [Ludleth - Stray Demon] Boulder Heave
-30211 [Ludleth - Stray Demon] Smelter Hammer
-30212 [Ludleth - Stray Demon] Demon's Great Axe
-30213 [Ludleth - Stray Demon] Ash Demon Hammer
-30220 [Ludleth - Freide] Friede's Great Scythe
-30221 [Ludleth - Freide] Rose of Ariandel
-30223 [Ludleth - Freide] Blizzard
-30230 [Ludleth - Gael] Gael's Greatsword
-30231 [Ludleth - Gael] Repeating Crossbow
-30232 [Ludleth - Gael] Halo
-30233 [Ludleth - Gael] Manus Catalyst
-30240 [Ludleth - Demon Princes] Demon's Scar
-30241 [Ludleth - Demon Princes] Chaos Flame
-30242 [Ludleth - Demon Princes] Chaos Bed Vestiges
-30250 [Ludleth - Midir] Frayed Blade
-30251 [Ludleth - Midir] Old Moonlight
-30252 [Ludleth - Midir] Abyssal Flame
-30253 [Ludleth - Midir] Obsidian Greatsword
-30270 [Ludleth - Corrupted Gundyr] Writhing Hammer
-30271 [Ludleth - Corrupted Gundyr] Cursed Ring of Evasion
-30272 [Ludleth - Corrupted Gundyr] Cursed Ring of Vengeance
-30273 [Ludleth - Corrupted Gundyr] Cursed Ring of Deflection
-30274 [Ludleth - Corrupted Gundyr] Cursed Ring of Confusion
-30290 [Ludleth - Ancient Wyvern] Dragon King Greataxe
-30291 [Ludleth - Ancient Wyvern] Dragon Greatsword
-30292 [Ludleth - Ancient Wyvern] Immortal Dragon Greatshield
-30293 [Ludleth - Ancient Wyvern] Ancient Dragon Halberd
-30294 [Ludleth - Ancient Wyvern] Dragon Bone Fist
-30310 [Ludleth - Triad] Dragonslayer Spear
-30311 [Ludleth - Triad] Ciaran's Tracers
-30312 [Ludleth - Triad] Smough's Great Hammer
-30313 [Ludleth - Triad] Leo Ring
-32000 [Primordial Forging - Boss] Cleric's Candlestick
-32001 [Primordial Forging - Boss] Gael's Greatsword
-32002 [Primordial Forging - Boss] Sword of Avowal
-32003 [Primordial Forging - Boss] Crystal Sage's Rapier
-32004 [Primordial Forging - Boss] Storm Curved Sword
-32005 [Primordial Forging - Boss] Demon's Scar
-32006 [Primordial Forging - Boss] Frayed Blade
-32008 [Primordial Forging - Boss] Greatsword of Judgment
-32009 [Primordial Forging - Boss] Profaned Greatsword
-32010 [Primordial Forging - Boss] Farron Greatsword
-32011 [Primordial Forging - Boss] Yhorm's Great Machete
-32012 [Primordial Forging - Boss] Lorian's Greatsword
-32013 [Primordial Forging - Boss] Twin Princes' Greatsword
-32014 [Primordial Forging - Boss] Lothric's Holy Sword
-32015 [Primordial Forging - Boss] Wolnir's Holy Sword
-32016 [Primordial Forging - Boss] Wolf Knight's Greatsword
-32017 [Primordial Forging - Boss] Hollowslayer Greatsword
-32018 [Primordial Forging - Boss] Moonlight Greatsword
-32019 [Primordial Forging - Boss] Firelink Greatsword
-32020 [Primordial Forging - Boss] Storm Ruler
-32021 [Primordial Forging - Boss] Dragonslayer Greataxe
-32022 [Primordial Forging - Boss] Demon's Greataxe
-32023 [Primordial Forging - Boss] Vordt's Great Hammer
-32024 [Primordial Forging - Boss] Old King's Great Hammer
-32025 [Primordial Forging - Boss] Heysel Pick
-32026 [Primordial Forging - Boss] Hammer of the Great Tree
-32027 [Primordial Forging - Boss] Dragonslayer Swordspear
-32028 [Primordial Forging - Boss] Arstor's Spear
-32029 [Primordial Forging - Boss] Gundyr's Halberd
-32030 [Primordial Forging - Boss] Lothric's Scythe
-32031 [Primordial Forging - Boss] Immolation Tinder
-32032 [Primordial Forging - Boss] Friede's Great Scythe
-32033 [Primordial Forging - Boss] Demon's Fist
-32034 [Primordial Forging - Boss] Rose of Ariandel
-32035 [Primordial Forging - Boss] Longstaff of Rosaria
-32036 [Primordial Forging - Boss] Golden Ritual Spear
-32037 [Primordial Forging - Boss] Caitha's Chime
-32041 [Primordial Forging - Boss] Darkmoon Longbow
-32042 [Primordial Forging - Boss] Repeating Crossbow
-32043 [Primordial Forging - Boss] Dancer's Enchanted Swords
-32044 [Primordial Forging - Boss] Prince's Shield
-32045 [Primordial Forging - Boss] Shield of Want
-32046 [Primordial Forging - Boss] Dragonslayer Greatshield
-32047 [Primordial Forging - Boss] Yhorm's Greatshield
-32048 [Primordial Forging - Boss] Curse Ward Greatshield
-32049 [Primordial Forging - Boss] Firelink Dagger
-32050 [Primordial Forging - Boss] Firelink Spear
-32051 [Primordial Forging - Boss] Firelink Sword
-32052 [Primordial Forging - Boss] Firelink Rapier
-32053 [Primordial Forging - Boss] Greatwood Club
-32054 [Primordial Forging - Boss] Pursuer's Ultra Greatsword
-32055 [Primordial Forging - Boss] Moonlight Sword
-32056 [Primordial Forging - Boss] Burial Blade
-32057 [Primordial Forging - Boss] Burial Scythe
-32058 [Primordial Forging - Boss] Blades of Mercy
-32059 [Primordial Forging - Boss] Chaos Flame
-32060 [Primordial Forging - Boss] Abyssal Flame
-32061 [Primordial Forging - Boss] Demon's Axe
-32062 [Primordial Forging - Boss] Bramd
-32063 [Primordial Forging - Boss] Marvelous Zweihander
-32065 [Primordial Forging - Boss] Demon's Great Axe
-32066 [Primordial Forging - Boss] Demon's Great Hammer
-32067 [Primordial Forging - Boss] Demon's Machete
-32068 [Primordial Forging - Boss] Demon's Spear
-32069 [Primordial Forging - Boss] Abyssal Blade
-32070 [Primordial Forging - Boss] Golem Axe
-32071 [Primordial Forging - Boss] Gravelord Curved Sword
-32072 [Primordial Forging - Boss] Great Lord Greatsword
-32073 [Primordial Forging - Boss] Greatshield of Artorias
-32074 [Primordial Forging - Boss] Greatsword of Artorias
-32075 [Primordial Forging - Boss] Tin Banishment Catalyst
-32076 [Primordial Forging - Boss] Titanite Catch Pole
-32077 [Primordial Forging - Boss] Priscilla's Scythe
-32078 [Primordial Forging - Boss] Moonlight Butterfly Horn
-32079 [Primordial Forging - Boss] Quelaag's Fury Sword
-32080 [Primordial Forging - Boss] Manus Catalyst
-32081 [Primordial Forging - Boss] Bulwark Shield
-32082 [Primordial Forging - Boss] Scholar's Bow
-32083 [Primordial Forging - Boss] Consumed King's Staff
-32084 [Primordial Forging - Boss] Scythe of Want
-32085 [Primordial Forging - Boss] King's Ultra Greatsword
-32086 [Primordial Forging - Boss] Dragonrider Halberd
-32087 [Primordial Forging - Boss] Bewitched Alonne Sword
-32088 [Primordial Forging - Boss] Ash Demon Hammer
-32089 [Primordial Forging - Boss] Crypt Blacksword
-32090 [Primordial Forging - Boss] Smelter Sword
-32091 [Primordial Forging - Boss] Smelter Hammer
-32100 [Primordial Forging - Dragon] Tailbone Short Sword
-32101 [Primordial Forging - Dragon] Dragon Tooth
-32102 [Primordial Forging - Dragon] Tailbone Spear
-32103 [Primordial Forging - Dragon] Ancient Dragon Halberd
-32104 [Primordial Forging - Dragon] Staff of Serpents
-32105 [Primordial Forging - Dragon] Havel's Greatshield
-32106 [Primordial Forging - Dragon] Ancient Dragon Greatshield
-32107 [Primordial Forging - Dragon] Dragonhead Shield
-32108 [Primordial Forging - Dragon] Dragonhead Greatshield
-32109 [Primordial Forging - Dragon] Immortal Dragon Greatshield
-32111 [Primordial Forging - Dragon] Drake Fist
-32113 [Primordial Forging - Dragon] Tailbone Club
-32114 [Primordial Forging - Dragon] Black Dragon Greataxe
-32115 [Primordial Forging - Dragon] Black Dragon Greatsword
-32116 [Primordial Forging - Dragon] Black Dragon Sword
-32117 [Primordial Forging - Dragon] Black Dragon Shield
-32118 [Primordial Forging - Dragon] Dragon Bone Fist
-32119 [Primordial Forging - Dragon] Dragon Greatsword
-32120 [Primordial Forging - Dragon] Dragon King Greataxe
-32121 [Primordial Forging - Dragon] Drake Sword
-32122 [Primordial Forging - Dragon] Obsidian Greatsword
-32123 [Primordial Forging - Dragon] Dragonkin Shield
-32200 [Primordial Forging - Unique] Engraved Dagger
-32201 [Primordial Forging - Unique] Scholar's Candlestick
-32202 [Primordial Forging - Unique] Handmaid's Dagger
-32203 [Primordial Forging - Unique] Aquamarine Dagger
-32204 [Primordial Forging - Unique] Murky Hand Scythe
-32205 [Primordial Forging - Unique] Sunlight Straight Sword
-32206 [Primordial Forging - Unique] Irithyll Straight Sword
-32207 [Primordial Forging - Unique] Priest's Candlestick
-32208 [Primordial Forging - Unique] Morion Blade
-32209 [Primordial Forging - Unique] Executioner's Greatsword
-32210 [Primordial Forging - Unique] Anri's Straight Sword
-32211 [Primordial Forging - Unique] Onyx Blade
-32212 [Primordial Forging - Unique] Ringed Knight Straight Sword
-32213 [Primordial Forging - Unique] Ricard's Rapier
-32214 [Primordial Forging - Unique] Irithyll Rapier
-32215 [Primordial Forging - Unique] Bone Rapier
-32216 [Primordial Forging - Unique] Pontiff Knight Curved Sword
-32217 [Primordial Forging - Unique] Painting Guardian's Curved Sword
-32218 [Primordial Forging - Unique] Crescent Moon Sword
-32219 [Primordial Forging - Unique] Chaos Blade
-32220 [Primordial Forging - Unique] Black Blade
-32221 [Primordial Forging - Unique] Bloodlust
-32222 [Primordial Forging - Unique] Darkdrift
-32223 [Primordial Forging - Unique] Irithyll Greatsword
-32224 [Primordial Forging - Unique] Black Knight Greatsword
-32225 [Primordial Forging - Unique] Dark Sword
-32226 [Primordial Forging - Unique] Black Knight Sword
-32227 [Primordial Forging - Unique] Drakeblood Greatsword
-32228 [Primordial Forging - Unique] Fume Ultra Greatsword
-32229 [Primordial Forging - Unique] Old Wolf Curved Sword
-32230 [Primordial Forging - Unique] Harald Curved Greatsword
-32231 [Primordial Forging - Unique] Crescent Axe
-32232 [Primordial Forging - Unique] Butcher Knife
-32233 [Primordial Forging - Unique] Dragonslayer's Axe
-32234 [Primordial Forging - Unique] Eleonora
-32235 [Primordial Forging - Unique] Millwood Battle Axe
-32236 [Primordial Forging - Unique] Earth Seeker
-32237 [Primordial Forging - Unique] Gargoyle Flame Hammer
-32238 [Primordial Forging - Unique] Writhing Hammer
-32239 [Primordial Forging - Unique] Smough's Great Hammer
-32240 [Primordial Forging - Unique] Blacksmith Hammer
-32241 [Primordial Forging - Unique] Morne's Great Hammer
-32242 [Primordial Forging - Unique] Quakestone Hammer
-32243 [Primordial Forging - Unique] Ledo's Great Hammer
-32244 [Primordial Forging - Unique] Gargoyle Flame Spear
-32245 [Primordial Forging - Unique] Branding Iron
-32246 [Primordial Forging - Unique] Saint Bident
-32247 [Primordial Forging - Unique] Yorshka's Spear
-32248 [Primordial Forging - Unique] Dragonslayer Spear
-32249 [Primordial Forging - Unique] Ringed Knight Spear
-32250 [Primordial Forging - Unique] Crucifix of the Mad King
-32251 [Primordial Forging - Unique] Black Knight Greataxe
-32252 [Primordial Forging - Unique] Pontiff Knight Great Scythe
-32253 [Primordial Forging - Unique] Black Knight Glaive
-32254 [Primordial Forging - Unique] Splitleaf Greatsword
-32255 [Primordial Forging - Unique] Manikin Claws
-32256 [Primordial Forging - Unique] Dark Hand
-32257 [Primordial Forging - Unique] Crow Talons
-32258 [Primordial Forging - Unique] Censuring Palm
-32259 [Primordial Forging - Unique] Witch's Locks
-32260 [Primordial Forging - Unique] Witchtree Limb
-32261 [Primordial Forging - Unique] Murky Warstaff
-32262 [Primordial Forging - Unique] Archdeacon's Longstaff
-32263 [Primordial Forging - Unique] Witch's Staff
-32264 [Primordial Forging - Unique] Man-grub's Staff
-32265 [Primordial Forging - Unique] Archdeacon's Great Staff
-32266 [Primordial Forging - Unique] Yorshka's Chime
-32267 [Primordial Forging - Unique] Sage's Crystal Staff
-32268 [Primordial Forging - Unique] Court Sorcerer's Staff
-32269 [Primordial Forging - Unique] Witchtree Branch
-32270 [Primordial Forging - Unique] Izalith Staff
-32271 [Primordial Forging - Unique] Saint-tree Bellvine
-32272 [Primordial Forging - Unique] Crystal Chime
-32273 [Primordial Forging - Unique] Sunlight Talisman
-32274 [Primordial Forging - Unique] Sunless Talisman
-32275 [Primordial Forging - Unique] White Hair Talisman
-32276 [Primordial Forging - Unique] Sacred Chime of Filianore
-32277 [Primordial Forging - Unique] Preacher's Right Arm
-32278 [Primordial Forging - Unique] Jester's Talisman
-32279 [Primordial Forging - Unique] Dragonslayer Greatbow
-32280 [Primordial Forging - Unique] Arbalest
-32281 [Primordial Forging - Unique] Dragonrider Bow
-32282 [Primordial Forging - Unique] Avelyn
-32283 [Primordial Forging - Unique] White Birch Bow
-32284 [Primordial Forging - Unique] Onislayer Greatbow
-32285 [Primordial Forging - Unique] Black Bow of Pharis
-32286 [Primordial Forging - Unique] Millwood Greatbow
-32287 [Primordial Forging - Unique] Ciaran's Tracers
-32288 [Primordial Forging - Unique] Valorheart
-32289 [Primordial Forging - Unique] Crow Quills
-32290 [Primordial Forging - Unique] Ringed Knight Paired Greatswords
-32291 [Primordial Forging - Unique] Sacred Bloom Shield
-32292 [Primordial Forging - Unique] Pontiff Knight Shield
-32293 [Primordial Forging - Unique] Black Knight Shield
-32294 [Primordial Forging - Unique] Silver Knight Shield
-32295 [Primordial Forging - Unique] Crest Shield
-32296 [Primordial Forging - Unique] Dragon Crest Shield
-32297 [Primordial Forging - Unique] Grass Crest Shield
-32298 [Primordial Forging - Unique] Golden Wing Crest Shield
-32299 [Primordial Forging - Unique] Spirit Tree Crest Shield
-32300 [Primordial Forging - Unique] Ethereal Oak Shield
-32301 [Primordial Forging - Unique] Moaning Shield
-32302 [Primordial Forging - Unique] Wolf Knight's Greatshield
-32303 [Primordial Forging - Unique] Greatshield of Glory
-32304 [Primordial Forging - Unique] Irithyll Lance
-32305 [Primordial Forging - Unique] Fume Sword
-32306 [Primordial Forging - Unique] Abyssal Greatsword
-32307 [Primordial Forging - Unique] Pontiff Knight Greatsword
-32308 [Primordial Forging - Unique] Irithyll Pick
-32309 [Primordial Forging - Unique] Irithyll Mace
-32310 [Primordial Forging - Unique] Sunlight Greatsword
-32311 [Primordial Forging - Unique] Loch Shield
-32312 [Primordial Forging - Unique] Velka's Rapier
-32315 [Primordial Forging - Unique] Nil Blade
-32317 [Primordial Forging - Unique] Bloodletter
-32318 [Primordial Forging - Unique] Locust Arm
-32319 [Primordial Forging - Unique] Boom Hammer
-32320 [Primordial Forging - Unique] Chikage
-32321 [Primordial Forging - Unique] Church Pick
-32322 [Primordial Forging - Unique] Kirkhammer
-32323 [Primordial Forging - Unique] Twinspears of the Forlorn
-32324 [Primordial Forging - Unique] Sanguinus
-32325 [Primordial Forging - Unique] Pyromancer's Parting Flame
-32329 [Primordial Forging - Unique] Flynn's Bow
-32330 [Primordial Forging - Unique] Blind
-32331 [Primordial Forging - Unique] Blueblood Sword
-32332 [Primordial Forging - Unique] Channeler's Trident
-32333 [Primordial Forging - Unique] Crystalline Shield
-32334 [Primordial Forging - Unique] Crystal Straight Sword
-32336 [Primordial Forging - Unique] Dragon Bone Smasher
-32337 [Primordial Forging - Unique] Gargoyle Shield
-32338 [Primordial Forging - Unique] Sage's Stiletto
-32339 [Primordial Forging - Unique] Giant Shield
-32340 [Primordial Forging - Unique] Giant's Halberd
-32341 [Primordial Forging - Unique] Grant
-32343 [Primordial Forging - Unique] Hands of God
-32344 [Primordial Forging - Unique] Rune Sword
-32345 [Primordial Forging - Unique] Scraping Spear
-32346 [Primordial Forging - Unique] Silver Knight Spear
-32347 [Primordial Forging - Unique] Silver Knight Straight Sword
-32348 [Primordial Forging - Unique] Talisman of Beasts
-32349 [Primordial Forging - Unique] Insanity Catalyst
-32350 [Primordial Forging - Unique] Istraselle
-32351 [Primordial Forging - Unique] Kris Blade
-32352 [Primordial Forging - Unique] Makoto
-32353 [Primordial Forging - Unique] Morion Great Blade
-32354 [Primordial Forging - Unique] Needle of Eternal Agony
-32355 [Primordial Forging - Unique] Penetrating Sword
-32356 [Primordial Forging - Unique] Phosophrescent Pole
-32357 [Primordial Forging - Unique] Spiral Greatsword
-32358 [Primordial Forging - Unique] Adjudicator's Shield
-32359 [Primordial Forging - Unique] Rune Shield
-32360 [Primordial Forging - Unique] Quicksilver Shield
-32361 [Primordial Forging - Unique] Crystal Shield
-32362 [Primordial Forging - Unique] Sanctus
-32363 [Primordial Forging - Unique] Velka's Talisman
-32364 [Primordial Forging - Unique] Bone Scythe
-32365 [Primordial Forging - Unique] Key to the Embedded
-32366 [Primordial Forging - Unique] Pilgrim's Spontoon
-32367 [Primordial Forging - Unique] Sacred Chime Hammer
-32368 [Primordial Forging - Unique] Scythe of Nahr Alma
-32369 [Primordial Forging - Unique] Crab Claw
-32370 [Primordial Forging - Unique] Elder Ghru Tree
-32371 [Primordial Forging - Unique] Giant Crab Arm
-32372 [Primordial Forging - Unique] Blue Flame
-32373 [Primordial Forging - Unique] Rampart Golem Lance
-32374 [Primordial Forging - Unique] Beast Claw
-32375 [Primordial Forging - Unique] Rakuyo
-32376 [Primordial Forging - Unique] Smouldering Blade
-32377 [Primordial Forging - Unique] Holy Flame
-32378 [Primordial Forging - Unique] Sorcerous Flame
-32379 [Primordial Forging - Unique] Fool's Flame
-32400 [Primordial Forging - Titanite] Lothric Knight Sword
-32401 [Primordial Forging - Titanite] Dozer Axe
-32402 [Primordial Forging - Titanite] Guillotine Axe
-32403 [Primordial Forging - Titanite] Astora Straight Sword
-32405 [Primordial Forging - Titanite] Astora Greatsword
-32406 [Primordial Forging - Titanite] Lothric Knight Greatsword
-32407 [Primordial Forging - Titanite] Cathedral Knight Greatsword
-32408 [Primordial Forging - Titanite] Missionary Axe
-32409 [Primordial Forging - Titanite] Notched Whip
-32410 [Primordial Forging - Titanite] Spotted Whip
-32411 [Primordial Forging - Titanite] Corvian Longstaff
-32412 [Primordial Forging - Titanite] Heretic's Warstaff
-32413 [Primordial Forging - Titanite] Knight's Crossbow
-32414 [Primordial Forging - Titanite] Onikiri and Ubadachi
-32415 [Primordial Forging - Titanite] Drang Twinspears
-32416 [Primordial Forging - Titanite] Giant Door Shield
-32417 [Primordial Forging - Titanite] Drang Hammers
-32418 [Primordial Forging - Titanite] Hallowed Sword
-32419 [Primordial Forging - Titanite] Hallowed Greatsword
-32420 [Primordial Forging - Titanite] Beast Cutter
-32421 [Primordial Forging - Titanite] Beasthunter Saif
-32422 [Primordial Forging - Titanite] Hunter Axe
-32423 [Primordial Forging - Titanite] Tonitrus
-32424 [Primordial Forging - Titanite] Breaking Wheel
-32425 [Primordial Forging - Titanite] Dagger
-32426 [Primordial Forging - Titanite] Bandit's Knife
-32427 [Primordial Forging - Titanite] Parrying Dagger
-32428 [Primordial Forging - Titanite] Rotten Ghru Dagger
-32429 [Primordial Forging - Titanite] Harpe
-32430 [Primordial Forging - Titanite] Corvian Greatknife
-32431 [Primordial Forging - Titanite] Shortsword
-32432 [Primordial Forging - Titanite] Longsword
-32433 [Primordial Forging - Titanite] Broadsword
-32434 [Primordial Forging - Titanite] Broken Straight Sword
-32435 [Primordial Forging - Titanite] Rotten Ghru Curved Sword
-32436 [Primordial Forging - Titanite] Barbed Straight Sword
-32437 [Primordial Forging - Titanite] Estoc
-32438 [Primordial Forging - Titanite] Mail Breaker
-32439 [Primordial Forging - Titanite] Rapier
-32440 [Primordial Forging - Titanite] Shotel
-32441 [Primordial Forging - Titanite] Scimitar
-32442 [Primordial Forging - Titanite] Falchion
-32443 [Primordial Forging - Titanite] Carthus Curved Sword
-32444 [Primordial Forging - Titanite] Carthus Curved Greatsword
-32445 [Primordial Forging - Titanite] Carthus Shotel
-32446 [Primordial Forging - Titanite] Follower Sabre
-32447 [Primordial Forging - Titanite] Uchigatana
-32448 [Primordial Forging - Titanite] Washing Pole
-32449 [Primordial Forging - Titanite] Bastard Sword
-32450 [Primordial Forging - Titanite] Claymore
-32451 [Primordial Forging - Titanite] Zweihander
-32452 [Primordial Forging - Titanite] Greatsword
-32453 [Primordial Forging - Titanite] Murakumo
-32454 [Primordial Forging - Titanite] Flamberge
-32455 [Primordial Forging - Titanite] Hand Axe
-32456 [Primordial Forging - Titanite] Battle Axe
-32457 [Primordial Forging - Titanite] Brigand Axe
-32458 [Primordial Forging - Titanite] Greataxe
-32459 [Primordial Forging - Titanite] Thrall Axe
-32460 [Primordial Forging - Titanite] Man Serpent Hatchet
-32461 [Primordial Forging - Titanite] Club
-32462 [Primordial Forging - Titanite] Mace
-32463 [Primordial Forging - Titanite] Morning Star
-32464 [Primordial Forging - Titanite] Reinforced Club
-32465 [Primordial Forging - Titanite] Large Club
-32466 [Primordial Forging - Titanite] Great Club
-32467 [Primordial Forging - Titanite] Great Mace
-32468 [Primordial Forging - Titanite] Great Wooden Hammer
-32469 [Primordial Forging - Titanite] Warpick
-32470 [Primordial Forging - Titanite] Pickaxe
-32471 [Primordial Forging - Titanite] Spiked Mace
-32472 [Primordial Forging - Titanite] Spear
-32473 [Primordial Forging - Titanite] Winged Spear
-32474 [Primordial Forging - Titanite] Partizan
-32475 [Primordial Forging - Titanite] Greatlance
-32476 [Primordial Forging - Titanite] Lothric Knight Long Spear
-32477 [Primordial Forging - Titanite] Four-Pronged Plow
-32478 [Primordial Forging - Titanite] Rotten Ghru Spear
-32479 [Primordial Forging - Titanite] Pike
-32480 [Primordial Forging - Titanite] Follower Javelin
-32481 [Primordial Forging - Titanite] Lothric War Banner
-32482 [Primordial Forging - Titanite] Great Scythe
-32483 [Primordial Forging - Titanite] Lucerne
-32484 [Primordial Forging - Titanite] Glaive
-32485 [Primordial Forging - Titanite] Halberd
-32486 [Primordial Forging - Titanite] Great Corvian Scythe
-32487 [Primordial Forging - Titanite] Winged Knight Halberd
-32488 [Primordial Forging - Titanite] Red Hilted Halberd
-32489 [Primordial Forging - Titanite] Claw
-32490 [Primordial Forging - Titanite] Caestus
-32491 [Primordial Forging - Titanite] Whip
-32492 [Primordial Forging - Titanite] Quarterstaff
-32493 [Primordial Forging - Titanite] Talisman
-32494 [Primordial Forging - Titanite] Sorcerer's Staff
-32495 [Primordial Forging - Titanite] Storyteller's Staff
-32496 [Primordial Forging - Titanite] Mendicant's Staff
-32497 [Primordial Forging - Titanite] Heretic's Staff
-32498 [Primordial Forging - Titanite] Cleric's Sacred Chime
-32499 [Primordial Forging - Titanite] Fallen Priest's Chime
-32500 [Primordial Forging - Titanite] Corrupted Talisman
-32501 [Primordial Forging - Titanite] Saint's Talisman
-32502 [Primordial Forging - Titanite] Murky Longstaff
-32503 [Primordial Forging - Titanite] Short Bow
-32504 [Primordial Forging - Titanite] Composite Bow
-32505 [Primordial Forging - Titanite] Birch Crossbow
-32506 [Primordial Forging - Titanite] Longbow
-32507 [Primordial Forging - Titanite] Oak Crossbow
-32508 [Primordial Forging - Titanite] Sniper Crossbow
-32509 [Primordial Forging - Titanite] Sellsword Twinblades
-32510 [Primordial Forging - Titanite] Warden Twinblades
-32511 [Primordial Forging - Titanite] Great Machete
-32512 [Primordial Forging - Titanite] Small Leather Shield
-32513 [Primordial Forging - Titanite] Gotthard Twinswords
-32514 [Primordial Forging - Titanite] Large Leather Shield
-32515 [Primordial Forging - Titanite] Hawkwood's Shield
-32516 [Primordial Forging - Titanite] Iron Round Shield
-32517 [Primordial Forging - Titanite] Wooden Shield
-32518 [Primordial Forging - Titanite] Kite Shield
-32519 [Primordial Forging - Titanite] Ghru Rotshield
-32520 [Primordial Forging - Titanite] Target Shield
-32521 [Primordial Forging - Titanite] Elkhorn Round Shield
-32522 [Primordial Forging - Titanite] Warrior's Round Shield
-32523 [Primordial Forging - Titanite] Caduceus Round Shield
-32524 [Primordial Forging - Titanite] Red and White Round Shield
-32525 [Primordial Forging - Titanite] Plank Shield
-32526 [Primordial Forging - Titanite] Leather Shield
-32527 [Primordial Forging - Titanite] Crimson Parma
-32528 [Primordial Forging - Titanite] Eastern Iron Shield
-32529 [Primordial Forging - Titanite] Llewellyn Shield
-32530 [Primordial Forging - Titanite] Cleric's Parma
-32531 [Primordial Forging - Titanite] Golden Falcon Shield
-32532 [Primordial Forging - Titanite] Follower Shield
-32533 [Primordial Forging - Titanite] Lothric Knight Shield
-32534 [Primordial Forging - Titanite] Knight Shield
-32535 [Primordial Forging - Titanite] Carthus Shield
-32536 [Primordial Forging - Titanite] Spiked Shield
-32537 [Primordial Forging - Titanite] Pierce Shield
-32538 [Primordial Forging - Titanite] East-West Shield
-32539 [Primordial Forging - Titanite] Sunlight Shield
-32540 [Primordial Forging - Titanite] Spider Shield
-32541 [Primordial Forging - Titanite] Sunset Shield
-32542 [Primordial Forging - Titanite] Blue Wooden Shield
-32543 [Primordial Forging - Titanite] Silver Eagle Kite Shield
-32544 [Primordial Forging - Titanite] Stone Parma
-32545 [Primordial Forging - Titanite] Porcine Shield
-32546 [Primordial Forging - Titanite] Wargod Wooden Shield
-32547 [Primordial Forging - Titanite] Lothric Knight Greatshield
-32548 [Primordial Forging - Titanite] Cathedral Knight Greatshield
-32549 [Primordial Forging - Titanite] Black Iron Greatshield
-32550 [Primordial Forging - Titanite] Twin Dragon Greatshield
-32551 [Primordial Forging - Titanite] Bonewheel Shield
-32552 [Primordial Forging - Titanite] Stone Greatshield
-32553 [Primordial Forging - Titanite] Torch
-32554 [Primordial Forging - Titanite] Machete
-32555 [Primordial Forging - Titanite] Wooden Mallet
-32556 [Primordial Forging - Titanite] Buckler
-32557 [Primordial Forging - Titanite] Round Shield
-32558 [Primordial Forging - Titanite] Brigand Twindaggers
-32559 [Primordial Forging - Titanite] Winged Knight Twinaxes
-32560 [Primordial Forging - Titanite] Pyromancy Flame
-32561 [Primordial Forging - Titanite] Black Flame
-32562 [Primordial Forging - Titanite] Balder Straight Sword
-32563 [Primordial Forging - Titanite] Server
-32564 [Primordial Forging - Titanite] Stone Greatsword
-32565 [Primordial Forging - Titanite] Man Serpent Greatsword
-32566 [Primordial Forging - Titanite] Meat Cleaver
-32567 [Primordial Forging - Titanite] Exile Greatsword
-32568 [Primordial Forging - Titanite] Follower Torch
-32569 [Primordial Forging - Titanite] Hunter's Log
-32570 [Primordial Forging - Titanite] Serpentine Twindaggers
-32571 [Primordial Forging - Titanite] Shiv
-32572 [Primordial Forging - Titanite] Serpentine Hatchet
-32573 [Primordial Forging - Titanite] Serpentine Axe
-32574 [Primordial Forging - Titanite] Thrall Harpe
-32575 [Primordial Forging - Titanite] Smouldering Curved Sword
-32576 [Primordial Forging - Titanite] Smouldering Dagger
-32577 [Primordial Forging - Titanite] Smouldering Spear
-32578 [Primordial Forging - Titanite] Thrall Pick
-32579 [Primordial Forging - Titanite] Worker Machete
-32580 [Primordial Forging - Titanite] Shield of the Hunted
-32581 [Primordial Forging - Titanite] Smouldering Shield
-32582 [Primordial Forging - Titanite] Rotten Talisman
-32583 [Primordial Forging - Titanite] Smouldering Talisman
-32584 [Primordial Forging - Titanite] Handmaid's Ladle
-33000 [Primordial Forging - Spell] Farron Dart
-33001 [Primordial Forging - Spell] Scattered Farron Dart
-33002 [Primordial Forging - Spell] Soul Arrow
-33003 [Primordial Forging - Spell] Scattered Soul Arrow
-33004 [Primordial Forging - Spell] Shockwave
-33005 [Primordial Forging - Spell] Deep Soul
-33006 [Primordial Forging - Spell] Great Deep Soul
-33007 [Primordial Forging - Spell] Hidden Weapon
-33008 [Primordial Forging - Spell] Cast Light
-33009 [Primordial Forging - Spell] Spook
-33010 [Primordial Forging - Spell] Chameleon
-33011 [Primordial Forging - Spell] Aural Decoy
-33012 [Primordial Forging - Spell] Farron Hail
-33013 [Primordial Forging - Spell] Farron Flashsword
-33014 [Primordial Forging - Spell] Snap Freeze
-33015 [Primordial Forging - Spell] Dark Edge
-33016 [Primordial Forging - Spell] Deep Barb
-33017 [Primordial Forging - Spell] Dark Bead
-33018 [Primordial Forging - Spell] Fireball
-33019 [Primordial Forging - Spell] Fire Orb
-33020 [Primordial Forging - Spell] Fire Surge
-33021 [Primordial Forging - Spell] Poison Mist
-33022 [Primordial Forging - Spell] Fire Whip
-33023 [Primordial Forging - Spell] Flame Fan
-33024 [Primordial Forging - Spell] Profuse Sweat
-33025 [Primordial Forging - Spell] Bursting Fireball
-33027 [Primordial Forging - Spell] Heal Aid
-33028 [Primordial Forging - Spell] Heal
-33029 [Primordial Forging - Spell] Replenishment
-33030 [Primordial Forging - Spell] Lightning Arrow
-33031 [Primordial Forging - Spell] Homeward
-33032 [Primordial Forging - Spell] Force
-33033 [Primordial Forging - Spell] Heavenly Relief
-33034 [Primordial Forging - Spell] Lightning Spear
-33035 [Primordial Forging - Spell] Way of White Corona
-33036 [Primordial Forging - Spell] Dead Again
-33037 [Primordial Forging - Spell] Atonement
-33038 [Primordial Forging - Spell] Nibble
-33039 [Primordial Forging - Spell] Homing Soulmass
-33040 [Primordial Forging - Spell] Soul Spear
-33041 [Primordial Forging - Spell] Magic Weapon
-33042 [Primordial Forging - Spell] Great Magic Weapon
-33043 [Primordial Forging - Spell] Frozen Weapon
-33044 [Primordial Forging - Spell] Magic Shield
-33045 [Primordial Forging - Spell] Hidden Body
-33046 [Primordial Forging - Spell] Repair
-33047 [Primordial Forging - Spell] Crystal Hail
-33048 [Primordial Forging - Spell] Soul Greatsword
-33049 [Primordial Forging - Spell] Abyssal Edge
-33050 [Primordial Forging - Spell] Twisted Wall of Light
-33051 [Primordial Forging - Spell] Pestilent Mist
-33052 [Primordial Forging - Spell] Soul Wave
-33053 [Primordial Forging - Spell] Blizzard
-33054 [Primordial Forging - Spell] Soul Focus
-33055 [Primordial Forging - Spell] Blinding Light
-33056 [Primordial Forging - Spell] Whisper of Despair
-33057 [Primordial Forging - Spell] Repel
-33058 [Primordial Forging - Spell] Numbness
-33059 [Primordial Forging - Spell] Yearning Dregs
-33060 [Primordial Forging - Spell] Writhing Deep
-33061 [Primordial Forging - Spell] Firestorm
-33062 [Primordial Forging - Spell] Toxic Mist
-33063 [Primordial Forging - Spell] Iron Flesh
-33064 [Primordial Forging - Spell] Flash Sweat
-33065 [Primordial Forging - Spell] Carthus Flame Arc
-33066 [Primordial Forging - Spell] Great Combustion
-33067 [Primordial Forging - Spell] Great Chaos Fire Orb
-33068 [Primordial Forging - Spell] Chaos Storm
-33069 [Primordial Forging - Spell] Black Flame
-33070 [Primordial Forging - Spell] Profaned Flame
-33071 [Primordial Forging - Spell] Black Fire Orb
-33072 [Primordial Forging - Spell] Boulder Heave
-33073 [Primordial Forging - Spell] Sacred Flame
-33074 [Primordial Forging - Spell] Carthus Beacon
-33075 [Primordial Forging - Spell] Seething Chaos
-33076 [Primordial Forging - Spell] Lingering Chaos
-33077 [Primordial Forging - Spell] Dark Dance
-33078 [Primordial Forging - Spell] Earthquake
-33079 [Primordial Forging - Spell] Med Heal
-33080 [Primordial Forging - Spell] Great Heal
-33081 [Primordial Forging - Spell] Bountiful Light
-33082 [Primordial Forging - Spell] Caressing Tears
-33083 [Primordial Forging - Spell] Emit Force
-33084 [Primordial Forging - Spell] Great Lightning Spear
-33085 [Primordial Forging - Spell] Lightning Storm
-33086 [Primordial Forging - Spell] Gnaw
-33087 [Primordial Forging - Spell] Projected Heal
-33088 [Primordial Forging - Spell] Magic Barrier
-33089 [Primordial Forging - Spell] Lightning Blade
-33090 [Primordial Forging - Spell] Darkmoon Blade
-33091 [Primordial Forging - Spell] Dark Blade
-33092 [Primordial Forging - Spell] Lightning Stake
-33093 [Primordial Forging - Spell] Divine Pillars of Light
-33094 [Primordial Forging - Spell] Lifehunt Scythe
-33095 [Primordial Forging - Spell] Blessed Weapon
-33096 [Primordial Forging - Spell] Deep Protection
-33097 [Primordial Forging - Spell] Perseverance
-33098 [Primordial Forging - Spell] Inner Fervor
-33099 [Primordial Forging - Spell] Soul Geyser
-33100 [Primordial Forging - Spell] Homing Crystal Soulmass
-33101 [Primordial Forging - Spell] Crystal Soul Spear
-33102 [Primordial Forging - Spell] Crystal Magic Weapon
-33103 [Primordial Forging - Spell] Great Magic Shield
-33104 [Primordial Forging - Spell] White Dragon Breath
-33105 [Primordial Forging - Spell] Old Moonlight
-33106 [Primordial Forging - Spell] Affinity
-33107 [Primordial Forging - Spell] Great Soul Dregs
-33108 [Primordial Forging - Spell] Soul Stream
-33109 [Primordial Forging - Spell] Crystal Storm
-33110 [Primordial Forging - Spell] Unleash Magic
-33111 [Primordial Forging - Spell] Climax
-33112 [Primordial Forging - Spell] Black Serpent
-33113 [Primordial Forging - Spell] Acid Surge
-33114 [Primordial Forging - Spell] Rapport
-33115 [Primordial Forging - Spell] Power Within
-33116 [Primordial Forging - Spell] Chaos Bed Vestiges
-33117 [Primordial Forging - Spell] Floating Chaos
-33118 [Primordial Forging - Spell] Warmth
-33119 [Primordial Forging - Spell] Cataclysm
-33120 [Primordial Forging - Spell] Recollection
-33121 [Primordial Forging - Spell] Wretch Earth
-33122 [Primordial Forging - Spell] Rockflesh
-33123 [Primordial Forging - Spell] Soothing Sunlight
-33124 [Primordial Forging - Spell] Bountiful Sunlight
-33125 [Primordial Forging - Spell] Tears of Denial
-33126 [Primordial Forging - Spell] Wrath of the Gods
-33127 [Primordial Forging - Spell] Sunlight Spear
-33128 [Primordial Forging - Spell] Dorhys' Gnawing
-33129 [Primordial Forging - Spell] Great Magic Barrier
-33130 [Primordial Forging - Spell] Sacred Oath
-33131 [Primordial Forging - Spell] Vow of Silence
-33132 [Primordial Forging - Spell] Heavenly Thunder
-33133 [Primordial Forging - Spell] Halo
-33134 [Primordial Forging - Spell] Mournful Flames
-33135 [Primordial Forging - Spell] Orbs of Judgment
-33136 [Primordial Forging - Spell] Surging Deep
-33137 [Primordial Forging - Spell] Dreg Torrent
-33138 [Primordial Forging - Spell] Earthfall
-33139 [Primordial Forging - Spell] Devouring Swarm
-33140 [Primordial Forging - Spell] Cascading Deep
-33141 [Primordial Forging - Spell] Immolation
-33142 [Primordial Forging - Spell] Vow of Agony
-33143 [Primordial Forging - Spell] Angelic Barrage
-33144 [Primordial Forging - Spell] Divine Arrow
-33145 [Primordial Forging - Spell] Lothric's Holy Spear
-33146 [Primordial Forging - Spell] Proof of a Pact
-34000 [Primordial Forging - Ring] Life Ring
-34006 [Primordial Forging - Ring] Chloranthy Ring
-34012 [Primordial Forging - Ring] Havel's Ring
-34018 [Primordial Forging - Ring] Ring of Favor
-34024 [Primordial Forging - Ring] Ring of Steel Protection
-34030 [Primordial Forging - Ring] Flame Stoneplate Ring
-34036 [Primordial Forging - Ring] Thunder Stoneplate Ring
-34042 [Primordial Forging - Ring] Magic Stoneplate Ring
-34048 [Primordial Forging - Ring] Sun Princess Ring
-34054 [Primordial Forging - Ring] Silvercat Ring
-34060 [Primordial Forging - Ring] Skull Ring
-34066 [Primordial Forging - Ring] Dark Stoneplate Ring
-34072 [Primordial Forging - Ring] Untrue White Ring
-34078 [Primordial Forging - Ring] Carthus Milkring
-34084 [Primordial Forging - Ring] Knight's Ring
-34090 [Primordial Forging - Ring] Hunter's Ring
-34096 [Primordial Forging - Ring] Knight Slayer's Ring
-34102 [Primordial Forging - Ring] Speckled Stoneplate Ring
-34108 [Primordial Forging - Ring] Magic Clutch Ring
-34114 [Primordial Forging - Ring] Lightning Clutch Ring
-34120 [Primordial Forging - Ring] Fire Clutch Ring
-34126 [Primordial Forging - Ring] Dark Clutch Ring
-34132 [Primordial Forging - Ring] Flynn's Ring
-34138 [Primordial Forging - Ring] Prisoner's Chain
-34144 [Primordial Forging - Ring] Bloodbite Ring
-34150 [Primordial Forging - Ring] Untrue Dark Ring
-34156 [Primordial Forging - Ring] Obscuring Ring
-34162 [Primordial Forging - Ring] Ring of the Evil Eye
-34168 [Primordial Forging - Ring] Ring of Calamity
-34174 [Primordial Forging - Ring] Poisonbite Ring
-34180 [Primordial Forging - Ring] Farron Ring
-34186 [Primordial Forging - Ring] Aldrich's Ruby
-34192 [Primordial Forging - Ring] Aldrich's Sapphire
-34198 [Primordial Forging - Ring] Lloyd's Sword Ring
-34204 [Primordial Forging - Ring] Lloyd's Shield Ring
-34210 [Primordial Forging - Ring] Cursebite Ring
-34216 [Primordial Forging - Ring] Estus Ring
-34222 [Primordial Forging - Ring] Ashen Estus Ring
-34228 [Primordial Forging - Ring] Horsehoof Ring
-34234 [Primordial Forging - Ring] Carthus Bloodring
-34240 [Primordial Forging - Ring] Reversal Ring
-34246 [Primordial Forging - Ring] Pontiff's Right Eye
-34252 [Primordial Forging - Ring] Fleshbite Ring
-34258 [Primordial Forging - Ring] Pontiff's Left Eye
-34264 [Primordial Forging - Ring] Dragonscale Ring
-34270 [Primordial Forging - Ring] Chillbite Ring
-34276 [Primordial Forging - Ring] Ring of Londor
-34284 [Primordial Forging - Ring] Wood Grain Ring
-34290 [Primordial Forging - Ring] Spirit Amethyst
-34296 [Primordial Forging - Ring] Unholy Remains
-34308 [Primordial Forging - Ring] Wretched Pendant
-34314 [Primordial Forging - Ring] Symbol of the Penitent
-34320 [Primordial Forging - Ring] Scholar Ring
-34332 [Primordial Forging - Ring] Runic Seal
-34338 [Primordial Forging - Ring] Priestess Ring
-34344 [Primordial Forging - Ring] Tome of Sunlight
-34350 [Primordial Forging - Ring] Red Tearstone Ring
-34356 [Primordial Forging - Ring] Greatwood Remnants
-34362 [Primordial Forging - Ring] Blue Tearstone Ring
-34368 [Primordial Forging - Ring] Charred Bone
-34374 [Primordial Forging - Ring] Wolf Ring
-34380 [Primordial Forging - Ring] Leo Ring
-34386 [Primordial Forging - Ring] Green Tearstone Ring
-34398 [Primordial Forging - Ring] Ring of Sacrifice
-34404 [Primordial Forging - Ring] Violet Tearstone Ring
-34410 [Primordial Forging - Ring] Young Dragon Ring
-34434 [Primordial Forging - Ring] Demonsbane Ring
-34440 [Primordial Forging - Ring] Great Swamp Ring
-34446 [Primordial Forging - Ring] Crypt Ring
-34452 [Primordial Forging - Ring] Blight Ring
-34458 [Primordial Forging - Ring] Hallowed Ring
-34464 [Primordial Forging - Ring] Ring of Wisdom
-34482 [Primordial Forging - Ring] Morne's Ring
-34518 [Primordial Forging - Ring] Lingering Dragoncrest Ring
-34548 [Primordial Forging - Ring] Sage Ring
-34554 [Primordial Forging - Ring] Ring of Retaliation
-34560 [Primordial Forging - Ring] Ring of Reprisal
-34566 [Primordial Forging - Ring] Ring of Spite
-34572 [Primordial Forging - Ring] Ring of Retribution
-34578 [Primordial Forging - Ring] Saint's Ring
-34584 [Primordial Forging - Ring] Deep Ring
-34590 [Primordial Forging - Ring] Ring of Vengeance
-34596 [Primordial Forging - Ring] Bulwark Ring
-34602 [Primordial Forging - Ring] Slumbering Dragoncrest Ring
-34608 [Primordial Forging - Ring] Dusk Crown Ring
-34614 [Primordial Forging - Ring] Mercenary Ring
-34620 [Primordial Forging - Ring] Heretic Ring
-34626 [Primordial Forging - Ring] Merchant Ring
-34632 [Primordial Forging - Ring] Physician Ring
-34638 [Primordial Forging - Ring] Bellowing Dragoncrest Ring
-34644 [Primordial Forging - Ring] Jester Ring
-34650 [Primordial Forging - Ring] Arcane Trinket
-34656 [Primordial Forging - Ring] Londor Tincture
-34668 [Primordial Forging - Ring] Witch's Ring
-34680 [Primordial Forging - Ring] Enchanted Quiver
-34686 [Primordial Forging - Ring] Old Pygmy Brooch
-34692 [Primordial Forging - Ring] Redeye Ring
-34698 [Primordial Forging - Ring] Darkmoon Ring
-34704 [Primordial Forging - Ring] Ring of the Sun's First Born
-34710 [Primordial Forging - Ring] Hawk Ring
-34716 [Primordial Forging - Ring] Hornet Ring
-34722 [Primordial Forging - Ring] Covetous Gold Serpent Ring
-34728 [Primordial Forging - Ring] Covetous Silver Serpent Ring
-34729 [Primordial Forging - Ring] Ring of Woe
-34730 [Primordial Forging - Ring] Ring of Adversity
-34731 [Primordial Forging - Ring] Ring of Catastrophe
-34732 [Primordial Forging - Ring] Black Tearstone Ring
-34733 [Primordial Forging - Ring] Beastial Band
-34734 [Primordial Forging - Ring] Band of Stone
-34735 [Primordial Forging - Ring] Band of Magic
-34736 [Primordial Forging - Ring] Band of Flame
-34737 [Primordial Forging - Ring] Band of Sparks
-34738 [Primordial Forging - Ring] Band of Darkness
-34739 [Primordial Forging - Ring] Cursed Ring of Evasion
-34740 [Primordial Forging - Ring] Cursed Ring of Vengeance
-34741 [Primordial Forging - Ring] Cursed Ring of Deflection
-34742 [Primordial Forging - Ring] Cursed Ring of Confusion
-34743 [Primordial Forging - Ring] Elden Ring
-34748 [Primordial Forging - Ring] Rare Ring of Humanity
-34749 [Primordial Forging - Ring] Ring of the Exalted
-34750 [Primordial Forging - Ring] Ring of the Dutiful
-34751 [Primordial Forging - Ring] Ring of the Blessed
-34752 [Primordial Forging - Ring] Ring of the Resolute
-34753 [Primordial Forging - Ring] Ring of the Faithful
-34754 [Primordial Forging - Ring] Ring of the Devout
-34755 [Primordial Forging - Ring] Ring of the Fanatic
-34756 [Primordial Forging - Ring] Ring of Rosaria
-34757 [Primordial Forging - Ring] Ring of Demons
-34760 [Primordial Forging - Ring] Life Ring+1
-34761 [Primordial Forging - Ring] Havel's Ring+1
-34762 [Primordial Forging - Ring] Ring of Favor+1
-34763 [Primordial Forging - Ring] Ring of Wisdom+1
-34764 [Primordial Forging - Ring] Chloranthy Ring+1
-34765 [Primordial Forging - Ring] Wood Grain Ring+1
-34766 [Primordial Forging - Ring] Wolf Ring+1
-34767 [Primordial Forging - Ring] Hawk Ring+1
-34768 [Primordial Forging - Ring] Knight Slayer's Ring+1
-34769 [Primordial Forging - Ring] Farron Ring+1
-34770 [Primordial Forging - Ring] Dragonscale Ring+1
-34771 [Primordial Forging - Ring] Horsehoof Ring+1
-34772 [Primordial Forging - Ring] Symbol of the Penitent+1
-34773 [Primordial Forging - Ring] Knight's Ring+1
-34774 [Primordial Forging - Ring] Hunter's Ring+1
-34775 [Primordial Forging - Ring] Scholar Ring+1
-34776 [Primordial Forging - Ring] Priestess Ring+1
-34777 [Primordial Forging - Ring] Mercenary Ring+1
-34778 [Primordial Forging - Ring] Heretic Ring+1
-34779 [Primordial Forging - Ring] Merchant Ring+1
-34780 [Primordial Forging - Ring] Physician Ring+1
-34781 [Primordial Forging - Ring] Jester Ring+1
-34782 [Primordial Forging - Ring] Dusk Crown Ring+1
-34783 [Primordial Forging - Ring] Tome of Sunlight+1
-34784 [Primordial Forging - Ring] Charred Bone+1
-34785 [Primordial Forging - Ring] Lingering Dragoncrest Ring+1
-34786 [Primordial Forging - Ring] Sage Ring+1
-34787 [Primordial Forging - Ring] Ring of Steel Protection+1
-34788 [Primordial Forging - Ring] Flame Stoneplate Ring+1
-34789 [Primordial Forging - Ring] Thunder Stoneplate Ring+1
-34790 [Primordial Forging - Ring] Magic Stoneplate Ring+1
-34791 [Primordial Forging - Ring] Dark Stoneplate Ring+1
-34792 [Primordial Forging - Ring] Speckled Stoneplate Ring+1
-34793 [Primordial Forging - Ring] Band of Stone+1
-34794 [Primordial Forging - Ring] Band of Magic+1
-34795 [Primordial Forging - Ring] Band of Flame+1
-34796 [Primordial Forging - Ring] Band of Sparks+1
-34797 [Primordial Forging - Ring] Band of Darkness+1
-34798 [Primordial Forging - Ring] Covetous Gold Serpent Ring+1
-34799 [Primordial Forging - Ring] Covetous Silver Serpent Ring+1
-34800 [Primordial Forging - Ring] Skull Ring+1
-34801 [Primordial Forging - Ring] Magic Clutch Ring+1
-34802 [Primordial Forging - Ring] Lightning Clutch Ring+1
-34803 [Primordial Forging - Ring] Fire Clutch Ring+1
-34804 [Primordial Forging - Ring] Dark Clutch Ring+1
-34810 [Primordial Forging - Ring] Life Ring+2
-34811 [Primordial Forging - Ring] Havel's Ring+2
-34812 [Primordial Forging - Ring] Ring of Favor+2
-34813 [Primordial Forging - Ring] Ring of Wisdom+2
-34814 [Primordial Forging - Ring] Chloranthy Ring+2
-34815 [Primordial Forging - Ring] Wood Grain Ring+2
-34816 [Primordial Forging - Ring] Wolf Ring+2
-34817 [Primordial Forging - Ring] Hawk Ring+2
-34818 [Primordial Forging - Ring] Knight Slayer's Ring+2
-34819 [Primordial Forging - Ring] Farron Ring+2
-34820 [Primordial Forging - Ring] Dragonscale Ring+2
-34821 [Primordial Forging - Ring] Horsehoof Ring+2
-34822 [Primordial Forging - Ring] Symbol of the Penitent+2
-34823 [Primordial Forging - Ring] Knight's Ring+2
-34824 [Primordial Forging - Ring] Hunter's Ring+2
-34825 [Primordial Forging - Ring] Scholar Ring+2
-34826 [Primordial Forging - Ring] Priestess Ring+2
-34827 [Primordial Forging - Ring] Mercenary Ring+2
-34828 [Primordial Forging - Ring] Heretic Ring+2
-34829 [Primordial Forging - Ring] Merchant Ring+2
-34830 [Primordial Forging - Ring] Physician Ring+2
-34831 [Primordial Forging - Ring] Jester Ring+2
-34832 [Primordial Forging - Ring] Dusk Crown Ring+2
-34833 [Primordial Forging - Ring] Tome of Sunlight+2
-34834 [Primordial Forging - Ring] Charred Bone+2
-34835 [Primordial Forging - Ring] Lingering Dragoncrest Ring+2
-34836 [Primordial Forging - Ring] Sage Ring+2
-34837 [Primordial Forging - Ring] Ring of Steel Protection+2
-34838 [Primordial Forging - Ring] Flame Stoneplate Ring+2
-34839 [Primordial Forging - Ring] Thunder Stoneplate Ring+2
-34840 [Primordial Forging - Ring] Magic Stoneplate Ring+2
-34841 [Primordial Forging - Ring] Dark Stoneplate Ring+2
-34842 [Primordial Forging - Ring] Speckled Stoneplate Ring+2
-34843 [Primordial Forging - Ring] Band of Stone+2
-34844 [Primordial Forging - Ring] Band of Magic+2
-34845 [Primordial Forging - Ring] Band of Flame+2
-34846 [Primordial Forging - Ring] Band of Sparks+2
-34847 [Primordial Forging - Ring] Band of Darkness+2
-34848 [Primordial Forging - Ring] Covetous Gold Serpent Ring+2
-34849 [Primordial Forging - Ring] Covetous Silver Serpent Ring+2
-34850 [Primordial Forging - Ring] Skull Ring+2
-34851 [Primordial Forging - Ring] Magic Clutch Ring+2
-34852 [Primordial Forging - Ring] Lightning Clutch Ring+2
-34853 [Primordial Forging - Ring] Fire Clutch Ring+2
-34854 [Primordial Forging - Ring] Dark Clutch Ring+2
-34855 [Primordial Forging - Ring] Life Ring+3
-34856 [Primordial Forging - Ring] Havel's Ring+3
-34857 [Primordial Forging - Ring] Ring of Favor+3
-34858 [Primordial Forging - Ring] Ring of Wisdom+3
-34859 [Primordial Forging - Ring] Chloranthy Ring+3
-34860 [Primordial Forging - Ring] Wood Grain Ring+3
-34861 [Primordial Forging - Ring] Wolf Ring+3
-34862 [Primordial Forging - Ring] Hawk Ring+3
-34863 [Primordial Forging - Ring] Knight Slayer's Ring+3
-34864 [Primordial Forging - Ring] Farron Ring+3
-34865 [Primordial Forging - Ring] Dragonscale Ring+3
-34866 [Primordial Forging - Ring] Horsehoof Ring+3
-34867 [Primordial Forging - Ring] Symbol of the Penitent+3
-34868 [Primordial Forging - Ring] Knight's Ring+3
-34869 [Primordial Forging - Ring] Hunter's Ring+3
-34870 [Primordial Forging - Ring] Scholar Ring+3
-34871 [Primordial Forging - Ring] Priestess Ring+3
-34872 [Primordial Forging - Ring] Mercenary Ring+3
-34873 [Primordial Forging - Ring] Heretic Ring+3
-34874 [Primordial Forging - Ring] Merchant Ring+3
-34875 [Primordial Forging - Ring] Physician Ring+3
-34876 [Primordial Forging - Ring] Jester Ring+3
-34877 [Primordial Forging - Ring] Dusk Crown Ring+3
-34878 [Primordial Forging - Ring] Tome of Sunlight+3
-34879 [Primordial Forging - Ring] Charred Bone+3
-34880 [Primordial Forging - Ring] Lingering Dragoncrest Ring+3
-34881 [Primordial Forging - Ring] Sage Ring+3
-34882 [Primordial Forging - Ring] Ring of Steel Protection+3
-34883 [Primordial Forging - Ring] Flame Stoneplate Ring+3
-34884 [Primordial Forging - Ring] Thunder Stoneplate Ring+3
-34885 [Primordial Forging - Ring] Magic Stoneplate Ring+3
-34886 [Primordial Forging - Ring] Dark Stoneplate Ring+3
-34887 [Primordial Forging - Ring] Speckled Stoneplate Ring+3
-34888 [Primordial Forging - Ring] Band of Stone+3
-34889 [Primordial Forging - Ring] Band of Magic+3
-34890 [Primordial Forging - Ring] Band of Flame+3
-34891 [Primordial Forging - Ring] Band of Sparks+3
-34892 [Primordial Forging - Ring] Band of Darkness+3
-34893 [Primordial Forging - Ring] Covetous Gold Serpent Ring+3
-34894 [Primordial Forging - Ring] Covetous Silver Serpent Ring+3
-34895 [Primordial Forging - Ring] Skull Ring+3
-34896 [Primordial Forging - Ring] Magic Clutch Ring+3
-34897 [Primordial Forging - Ring] Lightning Clutch Ring+3
-34898 [Primordial Forging - Ring] Fire Clutch Ring+3
-34899 [Primordial Forging - Ring] Dark Clutch Ring+3
-34900 [Primordial Forging - Ring] Tomb Ring
-34901 [Primordial Forging - Ring] Accursed Ring
-34902 [Primordial Forging - Ring] Fool's Sigil
-34903 [Primordial Forging - Ring] Rattling Finger
-34904 [Primordial Forging - Ring] Murky Finger
-35000 [Primordial Forging - Armor] Fallen Knight Helm
-35001 [Primordial Forging - Armor] Fallen Knight Armor
-35002 [Primordial Forging - Armor] Fallen Knight Gauntlets
-35003 [Primordial Forging - Armor] Fallen Knight Trousers
-35004 [Primordial Forging - Armor] Knight Helm
-35005 [Primordial Forging - Armor] Knight Armor
-35006 [Primordial Forging - Armor] Knight Gauntlets
-35007 [Primordial Forging - Armor] Knight Leggings
-35008 [Primordial Forging - Armor] Vilhelm's Helm
-35009 [Primordial Forging - Armor] Vilhelm's Armor
-35010 [Primordial Forging - Armor] Vilhelm's Gauntlets
-35011 [Primordial Forging - Armor] Vilhelm's Leggings
-35012 [Primordial Forging - Armor] Firelink Helm
-35013 [Primordial Forging - Armor] Firelink Armor
-35014 [Primordial Forging - Armor] Firelink Gauntlets
-35015 [Primordial Forging - Armor] Firelink Leggings
-35016 [Primordial Forging - Armor] Sellsword Helm
-35017 [Primordial Forging - Armor] Sellsword Armor
-35018 [Primordial Forging - Armor] Sellsword Gauntlet
-35019 [Primordial Forging - Armor] Sellsword Trousers
-35020 [Primordial Forging - Armor] Herald Helm
-35021 [Primordial Forging - Armor] Herald Armor
-35022 [Primordial Forging - Armor] Herald Gloves
-35023 [Primordial Forging - Armor] Herald Trousers
-35024 [Primordial Forging - Armor] Sunless Veil
-35025 [Primordial Forging - Armor] Sunless Armor
-35026 [Primordial Forging - Armor] Sunless Gauntlets
-35027 [Primordial Forging - Armor] Sunless Leggings
-35028 [Primordial Forging - Armor] Black Hand Hat
-35029 [Primordial Forging - Armor] Black Hand Armor
-35030 [Primordial Forging - Armor] Assassin Gloves
-35031 [Primordial Forging - Armor] Assassin Trousers
-35032 [Primordial Forging - Armor] Assassin Hood
-35033 [Primordial Forging - Armor] Assassin Armor
-35034 [Primordial Forging - Armor] Xanthous Crown
-35035 [Primordial Forging - Armor] Xanthous Overcoat
-35036 [Primordial Forging - Armor] Xanthous Gloves
-35037 [Primordial Forging - Armor] Xanthous Trousers
-35038 [Primordial Forging - Armor] Northern Helm
-35039 [Primordial Forging - Armor] Northern Armor
-35040 [Primordial Forging - Armor] Northern Gloves
-35041 [Primordial Forging - Armor] Northern Trousers
-35042 [Primordial Forging - Armor] Morne's Helm
-35043 [Primordial Forging - Armor] Morne's Armor
-35044 [Primordial Forging - Armor] Morne's Gauntlets
-35045 [Primordial Forging - Armor] Morne's Leggings
-35046 [Primordial Forging - Armor] Silver Mask
-35047 [Primordial Forging - Armor] Leonhard's Garb
-35048 [Primordial Forging - Armor] Leonhard's Gauntlets
-35049 [Primordial Forging - Armor] Leonhard's Trousers
-35050 [Primordial Forging - Armor] Sneering Mask
-35051 [Primordial Forging - Armor] Pale Shade Robe
-35052 [Primordial Forging - Armor] Pale Shade Gloves
-35053 [Primordial Forging - Armor] Pale Shade Trousers
-35054 [Primordial Forging - Armor] Sunset Helm
-35055 [Primordial Forging - Armor] Sunset Armor
-35056 [Primordial Forging - Armor] Sunset Gauntlets
-35057 [Primordial Forging - Armor] Sunset Leggings
-35058 [Primordial Forging - Armor] Old Sage's Blindfold
-35059 [Primordial Forging - Armor] Cornyx's Garb
-35060 [Primordial Forging - Armor] Cornyx's Wrap
-35061 [Primordial Forging - Armor] Cornyx's Skirt
-35062 [Primordial Forging - Armor] Executioner Helm
-35063 [Primordial Forging - Armor] Executioner Armor
-35064 [Primordial Forging - Armor] Executioner Gauntlets
-35065 [Primordial Forging - Armor] Executioner Leggings
-35066 [Primordial Forging - Armor] Billed Mask
-35067 [Primordial Forging - Armor] Black Dress
-35068 [Primordial Forging - Armor] Black Gauntlets
-35069 [Primordial Forging - Armor] Black Leggings
-35070 [Primordial Forging - Armor] Pyromancer Crown
-35071 [Primordial Forging - Armor] Pyromancer Garb
-35072 [Primordial Forging - Armor] Pyromancer Wrap
-35073 [Primordial Forging - Armor] Pyromancer Trousers
-35074 [Primordial Forging - Armor] Antiquated Plain Garb
-35075 [Primordial Forging - Armor] Violet Wrappings
-35076 [Primordial Forging - Armor] Antiquated Loincloth
-35077 [Primordial Forging - Armor] Court Sorcerer Hood
-35078 [Primordial Forging - Armor] Court Sorcerer Robe
-35079 [Primordial Forging - Armor] Court Sorcerer Gloves
-35080 [Primordial Forging - Armor] Court Sorcerer Trousers
-35081 [Primordial Forging - Armor] Shira's Crown
-35082 [Primordial Forging - Armor] Shira's Armor
-35083 [Primordial Forging - Armor] Shira's Gloves
-35084 [Primordial Forging - Armor] Shira's Trousers
-35085 [Primordial Forging - Armor] Sorcerer Hood
-35086 [Primordial Forging - Armor] Sorcerer Robe
-35087 [Primordial Forging - Armor] Sorcerer Gloves
-35088 [Primordial Forging - Armor] Sorcerer Trousers
-35089 [Primordial Forging - Armor] Clandestine Coat
-35090 [Primordial Forging - Armor] Cleric Hat
-35091 [Primordial Forging - Armor] Cleric Blue Robe
-35092 [Primordial Forging - Armor] Cleric Gloves
-35093 [Primordial Forging - Armor] Cleric Trousers
-35094 [Primordial Forging - Armor] Lapp's Helm
-35095 [Primordial Forging - Armor] Lapp's Armor
-35096 [Primordial Forging - Armor] Lapp's Gauntlets
-35097 [Primordial Forging - Armor] Lapp's Leggings
-35098 [Primordial Forging - Armor] Grotto Hat
-35099 [Primordial Forging - Armor] Grotto Robe
-35100 [Primordial Forging - Armor] Grotto Wrap
-35101 [Primordial Forging - Armor] Grotto Trousers
-35102 [Primordial Forging - Armor] Steel Soldier Helm
-35103 [Primordial Forging - Armor] Deserter Armor
-35104 [Primordial Forging - Armor] Deserter Trousers
-35105 [Primordial Forging - Armor] Thief Mask
-35106 [Primordial Forging - Armor] Sage's Big Hat
-35107 [Primordial Forging - Armor] Aristocrat's Mask
-35108 [Primordial Forging - Armor] Jailer Robe
-35109 [Primordial Forging - Armor] Jailer Gloves
-35110 [Primordial Forging - Armor] Jailer Trousers
-35111 [Primordial Forging - Armor] Saint's Veil
-35112 [Primordial Forging - Armor] Saint's Dress
-35113 [Primordial Forging - Armor] Footman's Hood
-35114 [Primordial Forging - Armor] Footman's Overcoat
-35115 [Primordial Forging - Armor] Footman's Bracelet
-35116 [Primordial Forging - Armor] Footman's Trousers
-35117 [Primordial Forging - Armor] Grave Warden Hood
-35118 [Primordial Forging - Armor] Grave Warden Robe
-35119 [Primordial Forging - Armor] Grave Warden Wrap
-35120 [Primordial Forging - Armor] Grave Warden Skirt
-35121 [Primordial Forging - Armor] Worker Hat
-35122 [Primordial Forging - Armor] Worker Garb
-35123 [Primordial Forging - Armor] Worker Gloves
-35124 [Primordial Forging - Armor] Worker Trousers
-35125 [Primordial Forging - Armor] Thrall Hood
-35126 [Primordial Forging - Armor] Evangelist Hat
-35127 [Primordial Forging - Armor] Evangelist Robe
-35128 [Primordial Forging - Armor] Evangelist Gloves
-35129 [Primordial Forging - Armor] Evangelist Trousers
-35130 [Primordial Forging - Armor] Scholar's Shed Skin
-35131 [Primordial Forging - Armor] Scholar's Robe
-35132 [Primordial Forging - Armor] Winged Knight Helm
-35133 [Primordial Forging - Armor] Winged Knight Armor
-35134 [Primordial Forging - Armor] Winged Knight Gauntlets
-35135 [Primordial Forging - Armor] Winged Knight Leggings
-35136 [Primordial Forging - Armor] Cathedral Knight Helm
-35137 [Primordial Forging - Armor] Cathedral Knight Armor
-35138 [Primordial Forging - Armor] Cathedral Knight Gauntlets
-35139 [Primordial Forging - Armor] Cathedral Knight Leggings
-35140 [Primordial Forging - Armor] Lothric Knight Helm
-35141 [Primordial Forging - Armor] Lothric Knight Armor
-35142 [Primordial Forging - Armor] Lothric Knight Gauntlets
-35143 [Primordial Forging - Armor] Lothric Knight Leggings
-35144 [Primordial Forging - Armor] Outrider Knight Helm
-35145 [Primordial Forging - Armor] Outrider Knight Armor
-35146 [Primordial Forging - Armor] Outrider Knight Gauntlets
-35147 [Primordial Forging - Armor] Outrider Knight Leggings
-35148 [Primordial Forging - Armor] Black Knight Helm
-35149 [Primordial Forging - Armor] Black Knight Armor
-35150 [Primordial Forging - Armor] Black Knight Gauntlets
-35151 [Primordial Forging - Armor] Black Knight Leggings
-35152 [Primordial Forging - Armor] Dark Mask
-35153 [Primordial Forging - Armor] Dark Armor
-35154 [Primordial Forging - Armor] Dark Gauntlets
-35155 [Primordial Forging - Armor] Dark Leggings
-35156 [Primordial Forging - Armor] Exile Mask
-35157 [Primordial Forging - Armor] Exile Armor
-35158 [Primordial Forging - Armor] Exile Gauntlets
-35159 [Primordial Forging - Armor] Exile Leggings
-35160 [Primordial Forging - Armor] Slave Knight Hood
-35161 [Primordial Forging - Armor] Slave Knight Armor
-35162 [Primordial Forging - Armor] Slave Knight Gauntlets
-35163 [Primordial Forging - Armor] Slave Knight Leggings
-35164 [Primordial Forging - Armor] Pontiff Knight Crown
-35165 [Primordial Forging - Armor] Pontiff Knight Armor
-35166 [Primordial Forging - Armor] Pontiff Knight Gauntlets
-35167 [Primordial Forging - Armor] Pontiff Knight Leggings
-35168 [Primordial Forging - Armor] Ordained Hood
-35169 [Primordial Forging - Armor] Ordained Dress
-35170 [Primordial Forging - Armor] Ordained Trousers
-35171 [Primordial Forging - Armor] Golden Crown
-35172 [Primordial Forging - Armor] Dragonscale Armor
-35173 [Primordial Forging - Armor] Golden Bracelets
-35174 [Primordial Forging - Armor] Dragonscale Waistcloth
-35175 [Primordial Forging - Armor] Wolnir's Crown
-35176 [Primordial Forging - Armor] Undead Legion Helm
-35177 [Primordial Forging - Armor] Undead Legion Armor
-35178 [Primordial Forging - Armor] Undead Legion Gauntlet
-35179 [Primordial Forging - Armor] Undead Legion Leggings
-35180 [Primordial Forging - Armor] Follower Helm
-35181 [Primordial Forging - Armor] Follower Armor
-35182 [Primordial Forging - Armor] Follower Gloves
-35183 [Primordial Forging - Armor] Follower Boots
-35184 [Primordial Forging - Armor] Man Serpent's Mask
-35185 [Primordial Forging - Armor] Man Serpent's Robes
-35186 [Primordial Forging - Armor] Fire Witch Helm
-35187 [Primordial Forging - Armor] Fire Witch Armor
-35188 [Primordial Forging - Armor] Fire Witch Gauntlets
-35189 [Primordial Forging - Armor] Fire Witch Leggings
-35190 [Primordial Forging - Armor] Millwood Knight Helm
-35191 [Primordial Forging - Armor] Millwood Knight Armor
-35192 [Primordial Forging - Armor] Millwood Knight Gauntlets
-35193 [Primordial Forging - Armor] Millwood Knight Leggings
-35194 [Primordial Forging - Armor] Lorian's Helm
-35195 [Primordial Forging - Armor] Lorian's Armor
-35196 [Primordial Forging - Armor] Lorian's Gauntlets
-35197 [Primordial Forging - Armor] Lorian's Leggings
-35198 [Primordial Forging - Armor] Hood of Prayer
-35199 [Primordial Forging - Armor] Robe of Prayer
-35200 [Primordial Forging - Armor] Skirt of Prayer
-35201 [Primordial Forging - Armor] Giant's Crown
-35202 [Primordial Forging - Armor] Giant's Armor
-35203 [Primordial Forging - Armor] Giant's Gauntlets
-35204 [Primordial Forging - Armor] Giant's Leggings
-35205 [Primordial Forging - Armor] Dancer's Crown
-35206 [Primordial Forging - Armor] Dancer's Armor
-35207 [Primordial Forging - Armor] Dancer's Gauntlets
-35208 [Primordial Forging - Armor] Dancer's Leggings
-35209 [Primordial Forging - Armor] Ringed Knight Hood
-35210 [Primordial Forging - Armor] Ringed Knight Armor
-35211 [Primordial Forging - Armor] Ringed Knight Gauntlets
-35212 [Primordial Forging - Armor] Ringed Knight Leggings
-35213 [Primordial Forging - Armor] Gundyr's Helm
-35214 [Primordial Forging - Armor] Gundyr's Armor
-35215 [Primordial Forging - Armor] Gundyr's Gauntlets
-35216 [Primordial Forging - Armor] Gundyr's Leggings
-35217 [Primordial Forging - Armor] Harald Legion Helm
-35218 [Primordial Forging - Armor] Harald Legion Armor
-35219 [Primordial Forging - Armor] Harald Legion Gauntlets
-35220 [Primordial Forging - Armor] Harald Legion Leggings
-35221 [Primordial Forging - Armor] Archdeacon White Crown
-35222 [Primordial Forging - Armor] Archdeacon Holy Garb
-35223 [Primordial Forging - Armor] Archdeacon Skirt
-35224 [Primordial Forging - Armor] Deacon Robe
-35225 [Primordial Forging - Armor] Deacon Skirt
-35226 [Primordial Forging - Armor] Iron Dragonslayer Helm
-35227 [Primordial Forging - Armor] Iron Dragonslayer Armor
-35228 [Primordial Forging - Armor] Iron Dragonslayer Gauntlets
-35229 [Primordial Forging - Armor] Iron Dragonslayer Leggings
-35230 [Primordial Forging - Armor] Fire Keeper Mask
-35231 [Primordial Forging - Armor] Fire Keeper Robe
-35232 [Primordial Forging - Armor] Fire Keeper Gloves
-35233 [Primordial Forging - Armor] Fire Keeper Skirt
-35234 [Primordial Forging - Armor] White Preacher Head
-35235 [Primordial Forging - Armor] Chain Helm
-35236 [Primordial Forging - Armor] Chain Armor
-35237 [Primordial Forging - Armor] Leather Gauntlets
-35238 [Primordial Forging - Armor] Chain Leggings
-35239 [Primordial Forging - Armor] Nameless Knight Helm
-35240 [Primordial Forging - Armor] Nameless Knight Armor
-35241 [Primordial Forging - Armor] Nameless Knight Gauntlets
-35242 [Primordial Forging - Armor] Nameless Knight Leggings
-35243 [Primordial Forging - Armor] Elite Knight Helm
-35244 [Primordial Forging - Armor] Elite Knight Armor
-35245 [Primordial Forging - Armor] Elite Knight Gauntlets
-35246 [Primordial Forging - Armor] Elite Knight Leggings
-35247 [Primordial Forging - Armor] Faraam Helm
-35248 [Primordial Forging - Armor] Faraam Armor
-35249 [Primordial Forging - Armor] Faraam Gauntlets
-35250 [Primordial Forging - Armor] Faraam Boots
-35251 [Primordial Forging - Armor] Catarina Helm
-35252 [Primordial Forging - Armor] Catarina Armor
-35253 [Primordial Forging - Armor] Catarina Gauntlets
-35254 [Primordial Forging - Armor] Catarina Leggings
-35255 [Primordial Forging - Armor] Standard Helm
-35256 [Primordial Forging - Armor] Hard Leather Armor
-35257 [Primordial Forging - Armor] Hard Leather Gauntlets
-35258 [Primordial Forging - Armor] Hard Leather Boots
-35259 [Primordial Forging - Armor] Havel's Helm
-35260 [Primordial Forging - Armor] Havel's Armor
-35261 [Primordial Forging - Armor] Havel's Gauntlets
-35262 [Primordial Forging - Armor] Havel's Leggings
-35263 [Primordial Forging - Armor] Brigand Hood
-35264 [Primordial Forging - Armor] Brigand Armor
-35265 [Primordial Forging - Armor] Brigand Gauntlets
-35266 [Primordial Forging - Armor] Brigand Trousers
-35267 [Primordial Forging - Armor] Pharis's Hat
-35268 [Primordial Forging - Armor] Leather Armor
-35269 [Primordial Forging - Armor] Leather Gloves
-35270 [Primordial Forging - Armor] Leather Boots
-35271 [Primordial Forging - Armor] Ragged Mask
-35272 [Primordial Forging - Armor] Master's Attire
-35273 [Primordial Forging - Armor] Master's Gloves
-35274 [Primordial Forging - Armor] Loincloth
-35275 [Primordial Forging - Armor] Old Sorcerer Hat
-35276 [Primordial Forging - Armor] Old Sorcerer Coat
-35277 [Primordial Forging - Armor] Old Sorcerer Gauntlets
-35278 [Primordial Forging - Armor] Old Sorcerer Boots
-35279 [Primordial Forging - Armor] Conjurator Hood
-35280 [Primordial Forging - Armor] Conjurator Robe
-35281 [Primordial Forging - Armor] Conjurator Manchettes
-35282 [Primordial Forging - Armor] Conjurator Boots
-35283 [Primordial Forging - Armor] Black Leather Armor
-35284 [Primordial Forging - Armor] Black Leather Gloves
-35285 [Primordial Forging - Armor] Black Leather Boots
-35286 [Primordial Forging - Armor] Symbol of Avarice
-35287 [Primordial Forging - Armor] Creighton's Steel Mask
-35288 [Primordial Forging - Armor] Mirrah Chain Mail
-35289 [Primordial Forging - Armor] Mirrah Chain Gloves
-35290 [Primordial Forging - Armor] Mirrah Chain Leggings
-35291 [Primordial Forging - Armor] Maiden Hood
-35292 [Primordial Forging - Armor] Maiden Robe
-35293 [Primordial Forging - Armor] Maiden Gloves
-35294 [Primordial Forging - Armor] Maiden Skirt
-35295 [Primordial Forging - Armor] Alva Helm
-35296 [Primordial Forging - Armor] Alva Armor
-35297 [Primordial Forging - Armor] Alva Gauntlets
-35298 [Primordial Forging - Armor] Alva Leggings
-35299 [Primordial Forging - Armor] Ruin Helm
-35300 [Primordial Forging - Armor] Ruin Armor
-35301 [Primordial Forging - Armor] Ruin Gauntlets
-35302 [Primordial Forging - Armor] Ruin Leggings
-35303 [Primordial Forging - Armor] Shadow Mask
-35304 [Primordial Forging - Armor] Shadow Garb
-35305 [Primordial Forging - Armor] Shadow Gauntlets
-35306 [Primordial Forging - Armor] Shadow Leggings
-35307 [Primordial Forging - Armor] Desert Pyromancer Hood
-35308 [Primordial Forging - Armor] Desert Pyromancer Garb
-35309 [Primordial Forging - Armor] Desert Pyromancer Gloves
-35310 [Primordial Forging - Armor] Desert Pyromancer Skirt
-35311 [Primordial Forging - Armor] Eastern Helm
-35312 [Primordial Forging - Armor] Eastern Armor
-35313 [Primordial Forging - Armor] Eastern Gauntlets
-35314 [Primordial Forging - Armor] Eastern Leggings
-35315 [Primordial Forging - Armor] Black Witch Hat
-35316 [Primordial Forging - Armor] Black Witch Garb
-35317 [Primordial Forging - Armor] Black Witch Wrappings
-35318 [Primordial Forging - Armor] Black Witch Trousers
-35319 [Primordial Forging - Armor] Helm of Favor
-35320 [Primordial Forging - Armor] Embraced Armor of Favor
-35321 [Primordial Forging - Armor] Gauntlets of Favor
-35322 [Primordial Forging - Armor] Leggings of Favor
-35323 [Primordial Forging - Armor] Black Witch Veil
-35324 [Primordial Forging - Armor] Brass Helm
-35325 [Primordial Forging - Armor] Brass Armor
-35326 [Primordial Forging - Armor] Brass Gauntlets
-35327 [Primordial Forging - Armor] Brass Leggings
-35328 [Primordial Forging - Armor] Blindfold Mask
-35329 [Primordial Forging - Armor] Silver Knight Helm
-35330 [Primordial Forging - Armor] Silver Knight Armor
-35331 [Primordial Forging - Armor] Silver Knight Gauntlets
-35332 [Primordial Forging - Armor] Silver Knight Leggings
-35333 [Primordial Forging - Armor] Lucatiel's Mask
-35334 [Primordial Forging - Armor] Mirrah Vest
-35335 [Primordial Forging - Armor] Mirrah Gloves
-35336 [Primordial Forging - Armor] Mirrah Trousers
-35337 [Primordial Forging - Armor] Iron Helm
-35338 [Primordial Forging - Armor] Armor of the Sun
-35339 [Primordial Forging - Armor] Iron Bracelets
-35340 [Primordial Forging - Armor] Iron Leggings
-35341 [Primordial Forging - Armor] Drakeblood Helm
-35342 [Primordial Forging - Armor] Drakeblood Armor
-35343 [Primordial Forging - Armor] Drakeblood Gauntlets
-35344 [Primordial Forging - Armor] Drakeblood Leggings
-35345 [Primordial Forging - Armor] Drang Armor
-35346 [Primordial Forging - Armor] Drang Gauntlets
-35347 [Primordial Forging - Armor] Drang Shoes
-35348 [Primordial Forging - Armor] Black Iron Helm
-35349 [Primordial Forging - Armor] Black Iron Armor
-35350 [Primordial Forging - Armor] Black Iron Gauntlets
-35351 [Primordial Forging - Armor] Black Iron Leggings
-35352 [Primordial Forging - Armor] Painting Guardian Hood
-35353 [Primordial Forging - Armor] Painting Guardian Gown
-35354 [Primordial Forging - Armor] Painting Guardian Gloves
-35355 [Primordial Forging - Armor] Painting Guardian Waistcloth
-35356 [Primordial Forging - Armor] Wolf Knight Helm
-35357 [Primordial Forging - Armor] Wolf Knight Armor
-35358 [Primordial Forging - Armor] Wolf Knight Gauntlets
-35359 [Primordial Forging - Armor] Wolf Knight Leggings
-35360 [Primordial Forging - Armor] Dragonslayer Helm
-35361 [Primordial Forging - Armor] Dragonslayer Armor
-35362 [Primordial Forging - Armor] Dragonslayer Gauntlets
-35363 [Primordial Forging - Armor] Dragonslayer Leggings
-35364 [Primordial Forging - Armor] Smough's Helm
-35365 [Primordial Forging - Armor] Smough's Armor
-35366 [Primordial Forging - Armor] Smough's Gauntlets
-35367 [Primordial Forging - Armor] Smough's Leggings
-35368 [Primordial Forging - Armor] Hexer's Hood
-35369 [Primordial Forging - Armor] Hexer's Robes
-35370 [Primordial Forging - Armor] Hexer's Gloves
-35371 [Primordial Forging - Armor] Hexer's Boots
-35372 [Primordial Forging - Armor] Helm of Thorns
-35373 [Primordial Forging - Armor] Armor of Thorns
-35374 [Primordial Forging - Armor] Gauntlets of Thorns
-35375 [Primordial Forging - Armor] Leggings of Thorns
-35376 [Primordial Forging - Armor] Varangian Helmet
-35377 [Primordial Forging - Armor] Varangian Armor
-35378 [Primordial Forging - Armor] Varangian Cuffs
-35379 [Primordial Forging - Armor] Varangian Leggings
-35380 [Primordial Forging - Armor] Crown of Dusk
-35381 [Primordial Forging - Armor] Antiquated Dress
-35382 [Primordial Forging - Armor] Antiquated Gloves
-35383 [Primordial Forging - Armor] Antiquated Skirt
-35384 [Primordial Forging - Armor] Karla's Pointed Hat
-35385 [Primordial Forging - Armor] Karla's Coat
-35386 [Primordial Forging - Armor] Karla's Gloves
-35387 [Primordial Forging - Armor] Karla's Trousers
-35388 [Primordial Forging - Armor] Burial Knight Helm
-35389 [Primordial Forging - Armor] Burial Knight Armor
-35390 [Primordial Forging - Armor] Burial Knight Gauntlets
-35391 [Primordial Forging - Armor] Burial Knight Leggings
-35392 [Primordial Forging - Armor] Vileblood Helm
-35393 [Primordial Forging - Armor] Vileblood Armor
-35394 [Primordial Forging - Armor] Vileblood Gauntlets
-35395 [Primordial Forging - Armor] Vileblood Leggings
-35396 [Primordial Forging - Armor] Executioner Gauntlets
-35397 [Primordial Forging - Armor] Iron Keeper Helm
-35398 [Primordial Forging - Armor] Iron Cage
-35399 [Primordial Forging - Armor] Gold Ardeo
-35401 [Primordial Forging - Armor] Gargoyle Helm
-35402 [Primordial Forging - Armor] Pursuer's Helm
-35403 [Primordial Forging - Armor] Pursuer's Armor
-35404 [Primordial Forging - Armor] Pursuer's Gauntlets
-35405 [Primordial Forging - Armor] Pursuer's Leggings
-35407 [Primordial Forging - Armor] Skull Mask
-35408 [Primordial Forging - Armor] Wanderer's Coat
-35409 [Primordial Forging - Armor] Mask of the Father
-35410 [Primordial Forging - Armor] Mask of the Mother
-35411 [Primordial Forging - Armor] Mask of the Child
-35412 [Primordial Forging - Armor] Soldier's Hood
-35413 [Primordial Forging - Armor] Frigid Valley Mask
-35414 [Primordial Forging - Armor] Giant Helm
-35415 [Primordial Forging - Armor] Giant Armor
-35416 [Primordial Forging - Armor] Giant Gauntlets
-35417 [Primordial Forging - Armor] Giant Leggings
-35418 [Primordial Forging - Armor] Black Dragon Helm
-35419 [Primordial Forging - Armor] Black Dragon Armor
-35420 [Primordial Forging - Armor] Black Dragon Gauntlets
-35421 [Primordial Forging - Armor] Black Dragon Leggings
-35422 [Primordial Forging - Armor] Crown of the Great Lord
-35423 [Primordial Forging - Armor] Robe of the Great Lord
-35424 [Primordial Forging - Armor] Bracelet of the Great Lord
-35425 [Primordial Forging - Armor] Anklet of the Great Lord
-35426 [Primordial Forging - Armor] Crown of the Dark Sun
-35427 [Primordial Forging - Armor] Moonlight Robe
-35428 [Primordial Forging - Armor] Moonlight Gloves
-35429 [Primordial Forging - Armor] Moonlight Waistcloth
-35430 [Primordial Forging - Armor] Porcelain Mask
-35431 [Primordial Forging - Armor] Lord's Blade Robe
-35432 [Primordial Forging - Armor] Lord's Blade Gloves
-35433 [Primordial Forging - Armor] Lord's Blade Waistcloth
-35434 [Primordial Forging - Armor] Paladin Helm
-35435 [Primordial Forging - Armor] Paladin Armor
-35436 [Primordial Forging - Armor] Paladin Gauntlets
-35437 [Primordial Forging - Armor] Paladin Leggings
-35438 [Primordial Forging - Armor] Mask of Velka
-35439 [Primordial Forging - Armor] Black Cleric Robe
-35440 [Primordial Forging - Armor] Black Manchettes
-35441 [Primordial Forging - Armor] Black Tights
-35442 [Primordial Forging - Armor] Dragonrider Helm
-35443 [Primordial Forging - Armor] Dragonrider Armor
-35444 [Primordial Forging - Armor] Dragonrider Gauntlets
-35445 [Primordial Forging - Armor] Dragonrider Leggings
-35446 [Primordial Forging - Armor] Ancient King's Mask
-35447 [Primordial Forging - Armor] Ancient King's Breastplate
-35448 [Primordial Forging - Armor] Ancient King's Gauntlets
-35449 [Primordial Forging - Armor] Ancient King's Leggings
-35450 [Primordial Forging - Armor] Binded Hood
-35451 [Primordial Forging - Armor] Binded Cross
-35452 [Primordial Forging - Armor] Binded Gloves
-35453 [Primordial Forging - Armor] Binded Boots
-35454 [Primordial Forging - Armor] Brushwood Helm
-35455 [Primordial Forging - Armor] Brushwood Armor
-35456 [Primordial Forging - Armor] Brushwood Gauntlets
-35457 [Primordial Forging - Armor] Brushwood Leggings
-35458 [Primordial Forging - Armor] Venerable Sage's Hood
-35459 [Primordial Forging - Armor] Venerable Sage's Robe
-35460 [Primordial Forging - Armor] Venerable Sage's Gloves
-35461 [Primordial Forging - Armor] Venerable Sage's Boots
-35462 [Primordial Forging - Armor] Gloom Helm
-35463 [Primordial Forging - Armor] Gloom Armor
-35464 [Primordial Forging - Armor] Gloom Gauntlets
-35465 [Primordial Forging - Armor] Gloom Leggings
-35466 [Primordial Forging - Armor] Penetrator Helm
-35467 [Primordial Forging - Armor] Penetrator Armor
-35468 [Primordial Forging - Armor] Penetrator Gauntlets
-35469 [Primordial Forging - Armor] Penetrator Leggings
-35470 [Primordial Forging - Armor] Quicksilver Helm
-35471 [Primordial Forging - Armor] Quicksilver Armor
-35472 [Primordial Forging - Armor] Quicksilver Gauntlets
-35473 [Primordial Forging - Armor] Quicksilver Leggings
-35474 [Primordial Forging - Armor] Heide Mask
-35475 [Primordial Forging - Armor] Pontiff's Crown
-35476 [Primordial Forging - Armor] Pontiff's Bracelets
-35477 [Primordial Forging - Armor] Giant Slave Helmet
-35478 [Primordial Forging - Armor] Gargoyle Skull
-35479 [Primordial Forging - Armor] Demon Cleric Mask
-35480 [Primordial Forging - Armor] Crab Helmet
-35481 [Primordial Forging - Armor] Corvian Knight Helmet
-35482 [Primordial Forging - Armor] Ludleth's Crown
+30180 [Ludleth - Soul of Cinder] Firelink Greatsword
+30181 [Ludleth - Soul of Cinder] Firelink Dagger
+30182 [Ludleth - Soul of Cinder] Firelink Spear
+30183 [Ludleth - Soul of Cinder] Firelink Sword
+30184 [Ludleth - Soul of Cinder] Firelink Rapier
+30185 [Ludleth - Soul of Cinder] Great Lord Greatsword
+30190 [Ludleth - Sister Freide] Friede's Great Scythe
+30191 [Ludleth - Sister Freide] Rose of Ariandel
+30192 [Ludleth - Sister Freide] Black Flame Arc
+30193 [Ludleth - Sister Freide] Blizzard
+30200 [Ludleth - Lordran Remnants] Dragonslayer Spear
+30201 [Ludleth - Lordran Remnants] Ciaran's Tracers
+30202 [Ludleth - Lordran Remnants] Smough's Great Hammer
+30203 [Ludleth - Lordran Remnants] Leo Ring
+30204 [Ludleth - Lordran Remnants] Greatshield of Artorias
+30205 [Ludleth - Lordran Remnants] Greatsword of Artorias
+30210 [Ludleth - Demon Prince] Demon's Scar
+30211 [Ludleth - Demon Prince] Chaos Flame
+30212 [Ludleth - Demon Prince] Chaos Bed Vestiges
+30213 [Ludleth - Demon Prince] Cataclysm
+30220 [Ludleth - Darkeater Midir] Frayed Blade
+30221 [Ludleth - Darkeater Midir] Old Moonlight
+30222 [Ludleth - Darkeater Midir] Abyssal Flame
+30223 [Ludleth - Darkeater Midir] Obsidian Greatsword
+30224 [Ludleth - Darkeater Midir] Unleash Magic
+30230 [Ludleth - Slave Knight Gael] Gael's Greatsword
+30231 [Ludleth - Slave Knight Gael] Repeating Crossbow
+30232 [Ludleth - Slave Knight Gael] Halo
+30233 [Ludleth - Slave Knight Gael] Overwhelming Power
+30300 [Ludleth - Rosaria] Bountiful Sunlight
+30301 [Ludleth - Rosaria] Longstaff of Rosaria
+30302 [Ludleth - Rosaria] Divine Arrow
+30310 [Ludleth - Demon] Demon's Great Hammer
+30311 [Ludleth - Demon] Demon's Fist
+30312 [Ludleth - Demon] Demon's Machete
+30320 [Ludleth - Stray Demon] Boulder Heave
+30321 [Ludleth - Stray Demon] Demon's Great Axe
+30322 [Ludleth - Stray Demon] Ash Demon Hammer
+32000 [Cheat Shop - Boss] Cleric's Candlestick
+32001 [Cheat Shop - Boss] Gael's Greatsword
+32002 [Cheat Shop - Boss] Sword of Avowal
+32003 [Cheat Shop - Boss] Crystal Sage's Rapier
+32004 [Cheat Shop - Boss] Storm Curved Sword
+32005 [Cheat Shop - Boss] Demon's Scar
+32006 [Cheat Shop - Boss] Frayed Blade
+32008 [Cheat Shop - Boss] Greatsword of Judgment
+32009 [Cheat Shop - Boss] Profaned Greatsword
+32010 [Cheat Shop - Boss] Farron Greatsword
+32011 [Cheat Shop - Boss] Yhorm's Great Machete
+32012 [Cheat Shop - Boss] Lorian's Greatsword
+32013 [Cheat Shop - Boss] Twin Princes' Greatsword
+32014 [Cheat Shop - Boss] Lothric's Holy Sword
+32015 [Cheat Shop - Boss] Wolnir's Holy Sword
+32016 [Cheat Shop - Boss] Wolf Knight's Greatsword
+32017 [Cheat Shop - Boss] Hollowslayer Greatsword
+32018 [Cheat Shop - Boss] Moonlight Greatsword
+32019 [Cheat Shop - Boss] Firelink Greatsword
+32020 [Cheat Shop - Boss] Storm Ruler
+32021 [Cheat Shop - Boss] Dragonslayer Greataxe
+32022 [Cheat Shop - Boss] Demon's Greataxe
+32023 [Cheat Shop - Boss] Vordt's Great Hammer
+32024 [Cheat Shop - Boss] Old King's Great Hammer
+32025 [Cheat Shop - Boss] Heysel Pick
+32026 [Cheat Shop - Boss] Hammer of the Great Tree
+32027 [Cheat Shop - Boss] Dragonslayer Swordspear
+32028 [Cheat Shop - Boss] Arstor's Spear
+32029 [Cheat Shop - Boss] Gundyr's Halberd
+32030 [Cheat Shop - Boss] Lothric's Scythe
+32031 [Cheat Shop - Boss] Immolation Tinder
+32032 [Cheat Shop - Boss] Friede's Great Scythe
+32033 [Cheat Shop - Boss] Demon's Fist
+32034 [Cheat Shop - Boss] Rose of Ariandel
+32035 [Cheat Shop - Boss] Longstaff of Rosaria
+32036 [Cheat Shop - Boss] Golden Ritual Spear
+32037 [Cheat Shop - Boss] Caitha's Chime
+32041 [Cheat Shop - Boss] Darkmoon Longbow
+32042 [Cheat Shop - Boss] Repeating Crossbow
+32043 [Cheat Shop - Boss] Dancer's Enchanted Swords
+32044 [Cheat Shop - Boss] Prince's Shield
+32045 [Cheat Shop - Boss] Shield of Want
+32046 [Cheat Shop - Boss] Dragonslayer Greatshield
+32047 [Cheat Shop - Boss] Yhorm's Greatshield
+32048 [Cheat Shop - Boss] Curse Ward Greatshield
+32049 [Cheat Shop - Boss] Firelink Dagger
+32050 [Cheat Shop - Boss] Firelink Spear
+32051 [Cheat Shop - Boss] Firelink Sword
+32052 [Cheat Shop - Boss] Firelink Rapier
+32053 [Cheat Shop - Boss] Greatwood Club
+32054 [Cheat Shop - Boss] Pursuer's Ultra Greatsword
+32055 [Cheat Shop - Boss] Moonlight Sword
+32056 [Cheat Shop - Boss] Burial Blade
+32057 [Cheat Shop - Boss] Burial Scythe
+32058 [Cheat Shop - Boss] Blades of Mercy
+32059 [Cheat Shop - Boss] Chaos Flame
+32060 [Cheat Shop - Boss] Abyssal Flame
+32061 [Cheat Shop - Boss] Demon's Axe
+32062 [Cheat Shop - Boss] Bramd
+32063 [Cheat Shop - Boss] Marvelous Zweihander
+32065 [Cheat Shop - Boss] Demon's Great Axe
+32066 [Cheat Shop - Boss] Demon's Great Hammer
+32067 [Cheat Shop - Boss] Demon's Machete
+32068 [Cheat Shop - Boss] Demon's Spear
+32069 [Cheat Shop - Boss] Abyssal Blade
+32070 [Cheat Shop - Boss] Golem Axe
+32071 [Cheat Shop - Boss] Gravelord Curved Sword
+32072 [Cheat Shop - Boss] Great Lord Greatsword
+32073 [Cheat Shop - Boss] Greatshield of Artorias
+32074 [Cheat Shop - Boss] Greatsword of Artorias
+32075 [Cheat Shop - Boss] Tin Banishment Catalyst
+32076 [Cheat Shop - Boss] Titanite Catch Pole
+32077 [Cheat Shop - Boss] Priscilla's Scythe
+32078 [Cheat Shop - Boss] Moonlight Butterfly Horn
+32079 [Cheat Shop - Boss] Quelaag's Fury Sword
+32080 [Cheat Shop - Boss] Manus Catalyst
+32081 [Cheat Shop - Boss] Bulwark Shield
+32082 [Cheat Shop - Boss] Scholar's Bow
+32083 [Cheat Shop - Boss] Consumed King's Staff
+32084 [Cheat Shop - Boss] Scythe of Want
+32085 [Cheat Shop - Boss] King's Ultra Greatsword
+32086 [Cheat Shop - Boss] Dragonrider Halberd
+32087 [Cheat Shop - Boss] Bewitched Alonne Sword
+32088 [Cheat Shop - Boss] Ash Demon Hammer
+32089 [Cheat Shop - Boss] Crypt Blacksword
+32090 [Cheat Shop - Boss] Smelter Sword
+32091 [Cheat Shop - Boss] Smelter Hammer
+32092 [Cheat Shop - Boss] King's Mirror
+32093 [Cheat Shop - Boss] Thorned Greatsword
+32100 [Cheat Shop - Dragon] Tailbone Short Sword
+32101 [Cheat Shop - Dragon] Dragon Tooth
+32102 [Cheat Shop - Dragon] Tailbone Spear
+32103 [Cheat Shop - Dragon] Ancient Dragon Halberd
+32104 [Cheat Shop - Dragon] Staff of Serpents
+32105 [Cheat Shop - Dragon] Havel's Greatshield
+32106 [Cheat Shop - Dragon] Ancient Dragon Greatshield
+32107 [Cheat Shop - Dragon] Dragonhead Shield
+32108 [Cheat Shop - Dragon] Dragonhead Greatshield
+32109 [Cheat Shop - Dragon] Immortal Dragon Greatshield
+32111 [Cheat Shop - Dragon] Drake Fist
+32113 [Cheat Shop - Dragon] Tailbone Club
+32114 [Cheat Shop - Dragon] Black Dragon Greataxe
+32115 [Cheat Shop - Dragon] Black Dragon Greatsword
+32116 [Cheat Shop - Dragon] Black Dragon Sword
+32117 [Cheat Shop - Dragon] Black Dragon Shield
+32118 [Cheat Shop - Dragon] Dragon Bone Fist
+32119 [Cheat Shop - Dragon] Dragon Greatsword
+32120 [Cheat Shop - Dragon] Dragon King Greataxe
+32121 [Cheat Shop - Dragon] Drake Sword
+32122 [Cheat Shop - Dragon] Obsidian Greatsword
+32123 [Cheat Shop - Dragon] Dragonkin Shield
+32200 [Cheat Shop - Unique] Engraved Dagger
+32201 [Cheat Shop - Unique] Scholar's Candlestick
+32202 [Cheat Shop - Unique] Handmaid's Dagger
+32203 [Cheat Shop - Unique] Aquamarine Dagger
+32204 [Cheat Shop - Unique] Murky Hand Scythe
+32205 [Cheat Shop - Unique] Sunlight Straight Sword
+32206 [Cheat Shop - Unique] Irithyll Straight Sword
+32207 [Cheat Shop - Unique] Priest's Candlestick
+32208 [Cheat Shop - Unique] Morion Blade
+32209 [Cheat Shop - Unique] Executioner's Greatsword
+32210 [Cheat Shop - Unique] Anri's Straight Sword
+32211 [Cheat Shop - Unique] Onyx Blade
+32212 [Cheat Shop - Unique] Ringed Knight Straight Sword
+32213 [Cheat Shop - Unique] Ricard's Rapier
+32214 [Cheat Shop - Unique] Irithyll Rapier
+32215 [Cheat Shop - Unique] Bone Rapier
+32216 [Cheat Shop - Unique] Pontiff Knight Curved Sword
+32217 [Cheat Shop - Unique] Painting Guardian's Curved Sword
+32218 [Cheat Shop - Unique] Crescent Moon Sword
+32219 [Cheat Shop - Unique] Chaos Blade
+32220 [Cheat Shop - Unique] Black Blade
+32221 [Cheat Shop - Unique] Bloodlust
+32222 [Cheat Shop - Unique] Darkdrift
+32223 [Cheat Shop - Unique] Irithyll Greatsword
+32224 [Cheat Shop - Unique] Black Knight Greatsword
+32225 [Cheat Shop - Unique] Dark Sword
+32226 [Cheat Shop - Unique] Black Knight Sword
+32227 [Cheat Shop - Unique] Drakeblood Greatsword
+32228 [Cheat Shop - Unique] Fume Ultra Greatsword
+32229 [Cheat Shop - Unique] Old Wolf Curved Sword
+32230 [Cheat Shop - Unique] Harald Curved Greatsword
+32231 [Cheat Shop - Unique] Crescent Axe
+32232 [Cheat Shop - Unique] Butcher Knife
+32233 [Cheat Shop - Unique] Dragonslayer's Axe
+32234 [Cheat Shop - Unique] Eleonora
+32235 [Cheat Shop - Unique] Millwood Battle Axe
+32236 [Cheat Shop - Unique] Earth Seeker
+32237 [Cheat Shop - Unique] Gargoyle Flame Hammer
+32238 [Cheat Shop - Unique] Writhing Hammer
+32239 [Cheat Shop - Unique] Smough's Great Hammer
+32240 [Cheat Shop - Unique] Blacksmith Hammer
+32241 [Cheat Shop - Unique] Morne's Great Hammer
+32242 [Cheat Shop - Unique] Quakestone Hammer
+32243 [Cheat Shop - Unique] Ledo's Great Hammer
+32244 [Cheat Shop - Unique] Gargoyle Flame Spear
+32245 [Cheat Shop - Unique] Branding Iron
+32246 [Cheat Shop - Unique] Saint Bident
+32247 [Cheat Shop - Unique] Yorshka's Spear
+32248 [Cheat Shop - Unique] Dragonslayer Spear
+32249 [Cheat Shop - Unique] Ringed Knight Spear
+32250 [Cheat Shop - Unique] Crucifix of the Mad King
+32251 [Cheat Shop - Unique] Black Knight Greataxe
+32252 [Cheat Shop - Unique] Pontiff Knight Great Scythe
+32253 [Cheat Shop - Unique] Black Knight Glaive
+32254 [Cheat Shop - Unique] Splitleaf Greatsword
+32255 [Cheat Shop - Unique] Manikin Claws
+32256 [Cheat Shop - Unique] Dark Hand
+32257 [Cheat Shop - Unique] Crow Talons
+32258 [Cheat Shop - Unique] Censuring Palm
+32259 [Cheat Shop - Unique] Witch's Locks
+32260 [Cheat Shop - Unique] Witchtree Limb
+32261 [Cheat Shop - Unique] Murky Warstaff
+32262 [Cheat Shop - Unique] Archdeacon's Longstaff
+32263 [Cheat Shop - Unique] Witch's Staff
+32264 [Cheat Shop - Unique] Man-grub's Staff
+32265 [Cheat Shop - Unique] Archdeacon's Great Staff
+32266 [Cheat Shop - Unique] Yorshka's Chime
+32267 [Cheat Shop - Unique] Sage's Crystal Staff
+32268 [Cheat Shop - Unique] Court Sorcerer's Staff
+32269 [Cheat Shop - Unique] Witchtree Branch
+32270 [Cheat Shop - Unique] Izalith Staff
+32271 [Cheat Shop - Unique] Saint-tree Bellvine
+32272 [Cheat Shop - Unique] Crystal Chime
+32273 [Cheat Shop - Unique] Sunlight Talisman
+32274 [Cheat Shop - Unique] Sunless Talisman
+32275 [Cheat Shop - Unique] White Hair Talisman
+32276 [Cheat Shop - Unique] Sacred Chime of Filianore
+32277 [Cheat Shop - Unique] Preacher's Right Arm
+32278 [Cheat Shop - Unique] Jester's Talisman
+32279 [Cheat Shop - Unique] Dragonslayer Greatbow
+32280 [Cheat Shop - Unique] Arbalest
+32281 [Cheat Shop - Unique] Dragonrider Bow
+32282 [Cheat Shop - Unique] Avelyn
+32283 [Cheat Shop - Unique] White Birch Bow
+32284 [Cheat Shop - Unique] Onislayer Greatbow
+32285 [Cheat Shop - Unique] Black Bow of Pharis
+32286 [Cheat Shop - Unique] Millwood Greatbow
+32287 [Cheat Shop - Unique] Ciaran's Tracers
+32288 [Cheat Shop - Unique] Valorheart
+32289 [Cheat Shop - Unique] Crow Quills
+32290 [Cheat Shop - Unique] Ringed Knight Paired Greatswords
+32291 [Cheat Shop - Unique] Sacred Bloom Shield
+32292 [Cheat Shop - Unique] Pontiff Knight Shield
+32293 [Cheat Shop - Unique] Black Knight Shield
+32294 [Cheat Shop - Unique] Silver Knight Shield
+32295 [Cheat Shop - Unique] Crest Shield
+32296 [Cheat Shop - Unique] Dragon Crest Shield
+32297 [Cheat Shop - Unique] Grass Crest Shield
+32298 [Cheat Shop - Unique] Golden Wing Crest Shield
+32299 [Cheat Shop - Unique] Spirit Tree Crest Shield
+32300 [Cheat Shop - Unique] Ethereal Oak Shield
+32301 [Cheat Shop - Unique] Moaning Shield
+32302 [Cheat Shop - Unique] Wolf Knight's Greatshield
+32303 [Cheat Shop - Unique] Greatshield of Glory
+32304 [Cheat Shop - Unique] Irithyll Lance
+32305 [Cheat Shop - Unique] Fume Sword
+32306 [Cheat Shop - Unique] Abyssal Greatsword
+32307 [Cheat Shop - Unique] Pontiff Knight Greatsword
+32308 [Cheat Shop - Unique] Irithyll Pick
+32309 [Cheat Shop - Unique] Irithyll Mace
+32310 [Cheat Shop - Unique] Sunlight Greatsword
+32311 [Cheat Shop - Unique] Loch Shield
+32312 [Cheat Shop - Unique] Velka's Rapier
+32315 [Cheat Shop - Unique] Nil Blade
+32317 [Cheat Shop - Unique] Bloodletter
+32318 [Cheat Shop - Unique] Locust Arm
+32319 [Cheat Shop - Unique] Boom Hammer
+32320 [Cheat Shop - Unique] Chikage
+32321 [Cheat Shop - Unique] Church Pick
+32322 [Cheat Shop - Unique] Kirkhammer
+32323 [Cheat Shop - Unique] Twinspears of the Forlorn
+32324 [Cheat Shop - Unique] Sanguinus
+32325 [Cheat Shop - Unique] Pyromancer's Parting Flame
+32329 [Cheat Shop - Unique] Flynn's Bow
+32330 [Cheat Shop - Unique] Blind
+32331 [Cheat Shop - Unique] Blueblood Sword
+32332 [Cheat Shop - Unique] Channeler's Trident
+32333 [Cheat Shop - Unique] Crystalline Shield
+32334 [Cheat Shop - Unique] Crystal Straight Sword
+32336 [Cheat Shop - Unique] Dragon Bone Smasher
+32337 [Cheat Shop - Unique] Gargoyle Shield
+32338 [Cheat Shop - Unique] Sage's Stiletto
+32339 [Cheat Shop - Unique] Giant Shield
+32340 [Cheat Shop - Unique] Giant's Halberd
+32341 [Cheat Shop - Unique] Grant
+32343 [Cheat Shop - Unique] Hands of God
+32344 [Cheat Shop - Unique] Rune Sword
+32345 [Cheat Shop - Unique] Scraping Spear
+32346 [Cheat Shop - Unique] Silver Knight Spear
+32347 [Cheat Shop - Unique] Silver Knight Straight Sword
+32348 [Cheat Shop - Unique] Talisman of Beasts
+32349 [Cheat Shop - Unique] Insanity Catalyst
+32350 [Cheat Shop - Unique] Istraselle
+32351 [Cheat Shop - Unique] Kris Blade
+32352 [Cheat Shop - Unique] Makoto
+32353 [Cheat Shop - Unique] Morion Great Blade
+32354 [Cheat Shop - Unique] Needle of Eternal Agony
+32355 [Cheat Shop - Unique] Penetrating Sword
+32356 [Cheat Shop - Unique] Phosophrescent Pole
+32357 [Cheat Shop - Unique] Spiral Greatsword
+32358 [Cheat Shop - Unique] Adjudicator's Shield
+32359 [Cheat Shop - Unique] Rune Shield
+32360 [Cheat Shop - Unique] Quicksilver Shield
+32361 [Cheat Shop - Unique] Crystal Shield
+32362 [Cheat Shop - Unique] Sanctus
+32363 [Cheat Shop - Unique] Velka's Talisman
+32364 [Cheat Shop - Unique] Bone Scythe
+32365 [Cheat Shop - Unique] Key to the Embedded
+32366 [Cheat Shop - Unique] Pilgrim's Spontoon
+32367 [Cheat Shop - Unique] Sacred Chime Hammer
+32368 [Cheat Shop - Unique] Scythe of Nahr Alma
+32369 [Cheat Shop - Unique] Crab Claw
+32370 [Cheat Shop - Unique] Elder Ghru Tree
+32371 [Cheat Shop - Unique] Giant Crab Arm
+32372 [Cheat Shop - Unique] Blue Flame
+32373 [Cheat Shop - Unique] Rampart Golem Lance
+32374 [Cheat Shop - Unique] Beast Claw
+32375 [Cheat Shop - Unique] Rakuyo
+32376 [Cheat Shop - Unique] Smouldering Blade
+32377 [Cheat Shop - Unique] Holy Flame
+32378 [Cheat Shop - Unique] Sorcerous Flame
+32379 [Cheat Shop - Unique] Fool's Flame
+32400 [Cheat Shop - Titanite] Lothric Knight Sword
+32401 [Cheat Shop - Titanite] Dozer Axe
+32402 [Cheat Shop - Titanite] Guillotine Axe
+32403 [Cheat Shop - Titanite] Astora Straight Sword
+32405 [Cheat Shop - Titanite] Astora Greatsword
+32406 [Cheat Shop - Titanite] Lothric Knight Greatsword
+32407 [Cheat Shop - Titanite] Cathedral Knight Greatsword
+32408 [Cheat Shop - Titanite] Missionary Axe
+32409 [Cheat Shop - Titanite] Notched Whip
+32410 [Cheat Shop - Titanite] Spotted Whip
+32411 [Cheat Shop - Titanite] Corvian Longstaff
+32412 [Cheat Shop - Titanite] Heretic's Warstaff
+32413 [Cheat Shop - Titanite] Knight's Crossbow
+32414 [Cheat Shop - Titanite] Onikiri and Ubadachi
+32415 [Cheat Shop - Titanite] Drang Twinspears
+32416 [Cheat Shop - Titanite] Giant Door Shield
+32417 [Cheat Shop - Titanite] Drang Hammers
+32418 [Cheat Shop - Titanite] Hallowed Sword
+32419 [Cheat Shop - Titanite] Hallowed Greatsword
+32420 [Cheat Shop - Titanite] Beast Cutter
+32421 [Cheat Shop - Titanite] Beasthunter Saif
+32422 [Cheat Shop - Titanite] Hunter Axe
+32423 [Cheat Shop - Titanite] Tonitrus
+32424 [Cheat Shop - Titanite] Breaking Wheel
+32425 [Cheat Shop - Titanite] Dagger
+32426 [Cheat Shop - Titanite] Bandit's Knife
+32427 [Cheat Shop - Titanite] Parrying Dagger
+32428 [Cheat Shop - Titanite] Rotten Ghru Dagger
+32429 [Cheat Shop - Titanite] Harpe
+32430 [Cheat Shop - Titanite] Corvian Greatknife
+32431 [Cheat Shop - Titanite] Shortsword
+32432 [Cheat Shop - Titanite] Longsword
+32433 [Cheat Shop - Titanite] Broadsword
+32434 [Cheat Shop - Titanite] Broken Straight Sword
+32435 [Cheat Shop - Titanite] Rotten Ghru Curved Sword
+32436 [Cheat Shop - Titanite] Barbed Straight Sword
+32437 [Cheat Shop - Titanite] Estoc
+32438 [Cheat Shop - Titanite] Mail Breaker
+32439 [Cheat Shop - Titanite] Rapier
+32440 [Cheat Shop - Titanite] Shotel
+32441 [Cheat Shop - Titanite] Scimitar
+32442 [Cheat Shop - Titanite] Falchion
+32443 [Cheat Shop - Titanite] Carthus Curved Sword
+32444 [Cheat Shop - Titanite] Carthus Curved Greatsword
+32445 [Cheat Shop - Titanite] Carthus Shotel
+32446 [Cheat Shop - Titanite] Follower Sabre
+32447 [Cheat Shop - Titanite] Uchigatana
+32448 [Cheat Shop - Titanite] Washing Pole
+32449 [Cheat Shop - Titanite] Bastard Sword
+32450 [Cheat Shop - Titanite] Claymore
+32451 [Cheat Shop - Titanite] Zweihander
+32452 [Cheat Shop - Titanite] Greatsword
+32453 [Cheat Shop - Titanite] Murakumo
+32454 [Cheat Shop - Titanite] Flamberge
+32455 [Cheat Shop - Titanite] Hand Axe
+32456 [Cheat Shop - Titanite] Battle Axe
+32457 [Cheat Shop - Titanite] Brigand Axe
+32458 [Cheat Shop - Titanite] Greataxe
+32459 [Cheat Shop - Titanite] Thrall Axe
+32460 [Cheat Shop - Titanite] Man Serpent Hatchet
+32461 [Cheat Shop - Titanite] Club
+32462 [Cheat Shop - Titanite] Mace
+32463 [Cheat Shop - Titanite] Morning Star
+32464 [Cheat Shop - Titanite] Reinforced Club
+32465 [Cheat Shop - Titanite] Large Club
+32466 [Cheat Shop - Titanite] Great Club
+32467 [Cheat Shop - Titanite] Great Mace
+32468 [Cheat Shop - Titanite] Great Wooden Hammer
+32469 [Cheat Shop - Titanite] Warpick
+32470 [Cheat Shop - Titanite] Pickaxe
+32471 [Cheat Shop - Titanite] Spiked Mace
+32472 [Cheat Shop - Titanite] Spear
+32473 [Cheat Shop - Titanite] Winged Spear
+32474 [Cheat Shop - Titanite] Partizan
+32475 [Cheat Shop - Titanite] Greatlance
+32476 [Cheat Shop - Titanite] Lothric Knight Long Spear
+32477 [Cheat Shop - Titanite] Four-Pronged Plow
+32478 [Cheat Shop - Titanite] Rotten Ghru Spear
+32479 [Cheat Shop - Titanite] Pike
+32480 [Cheat Shop - Titanite] Follower Javelin
+32481 [Cheat Shop - Titanite] Lothric War Banner
+32482 [Cheat Shop - Titanite] Great Scythe
+32483 [Cheat Shop - Titanite] Lucerne
+32484 [Cheat Shop - Titanite] Glaive
+32485 [Cheat Shop - Titanite] Halberd
+32486 [Cheat Shop - Titanite] Great Corvian Scythe
+32487 [Cheat Shop - Titanite] Winged Knight Halberd
+32488 [Cheat Shop - Titanite] Red Hilted Halberd
+32489 [Cheat Shop - Titanite] Claw
+32490 [Cheat Shop - Titanite] Caestus
+32491 [Cheat Shop - Titanite] Whip
+32492 [Cheat Shop - Titanite] Quarterstaff
+32493 [Cheat Shop - Titanite] Talisman
+32494 [Cheat Shop - Titanite] Sorcerer's Staff
+32495 [Cheat Shop - Titanite] Storyteller's Staff
+32496 [Cheat Shop - Titanite] Mendicant's Staff
+32497 [Cheat Shop - Titanite] Heretic's Staff
+32498 [Cheat Shop - Titanite] Cleric's Sacred Chime
+32499 [Cheat Shop - Titanite] Fallen Priest's Chime
+32500 [Cheat Shop - Titanite] Corrupted Talisman
+32501 [Cheat Shop - Titanite] Saint's Talisman
+32502 [Cheat Shop - Titanite] Murky Longstaff
+32503 [Cheat Shop - Titanite] Short Bow
+32504 [Cheat Shop - Titanite] Composite Bow
+32505 [Cheat Shop - Titanite] Birch Crossbow
+32506 [Cheat Shop - Titanite] Longbow
+32507 [Cheat Shop - Titanite] Oak Crossbow
+32508 [Cheat Shop - Titanite] Sniper Crossbow
+32509 [Cheat Shop - Titanite] Sellsword Twinblades
+32510 [Cheat Shop - Titanite] Warden Twinblades
+32511 [Cheat Shop - Titanite] Great Machete
+32512 [Cheat Shop - Titanite] Small Leather Shield
+32513 [Cheat Shop - Titanite] Gotthard Twinswords
+32514 [Cheat Shop - Titanite] Large Leather Shield
+32515 [Cheat Shop - Titanite] Hawkwood's Shield
+32516 [Cheat Shop - Titanite] Iron Round Shield
+32517 [Cheat Shop - Titanite] Wooden Shield
+32518 [Cheat Shop - Titanite] Kite Shield
+32519 [Cheat Shop - Titanite] Ghru Rotshield
+32520 [Cheat Shop - Titanite] Target Shield
+32521 [Cheat Shop - Titanite] Elkhorn Round Shield
+32522 [Cheat Shop - Titanite] Warrior's Round Shield
+32523 [Cheat Shop - Titanite] Caduceus Round Shield
+32524 [Cheat Shop - Titanite] Red and White Round Shield
+32525 [Cheat Shop - Titanite] Plank Shield
+32526 [Cheat Shop - Titanite] Leather Shield
+32527 [Cheat Shop - Titanite] Crimson Parma
+32528 [Cheat Shop - Titanite] Eastern Iron Shield
+32529 [Cheat Shop - Titanite] Llewellyn Shield
+32530 [Cheat Shop - Titanite] Cleric's Parma
+32531 [Cheat Shop - Titanite] Golden Falcon Shield
+32532 [Cheat Shop - Titanite] Follower Shield
+32533 [Cheat Shop - Titanite] Lothric Knight Shield
+32534 [Cheat Shop - Titanite] Knight Shield
+32535 [Cheat Shop - Titanite] Carthus Shield
+32536 [Cheat Shop - Titanite] Spiked Shield
+32537 [Cheat Shop - Titanite] Pierce Shield
+32538 [Cheat Shop - Titanite] East-West Shield
+32539 [Cheat Shop - Titanite] Sunlight Shield
+32540 [Cheat Shop - Titanite] Spider Shield
+32541 [Cheat Shop - Titanite] Sunset Shield
+32542 [Cheat Shop - Titanite] Blue Wooden Shield
+32543 [Cheat Shop - Titanite] Silver Eagle Kite Shield
+32544 [Cheat Shop - Titanite] Stone Parma
+32545 [Cheat Shop - Titanite] Porcine Shield
+32546 [Cheat Shop - Titanite] Wargod Wooden Shield
+32547 [Cheat Shop - Titanite] Lothric Knight Greatshield
+32548 [Cheat Shop - Titanite] Cathedral Knight Greatshield
+32549 [Cheat Shop - Titanite] Black Iron Greatshield
+32550 [Cheat Shop - Titanite] Twin Dragon Greatshield
+32551 [Cheat Shop - Titanite] Bonewheel Shield
+32552 [Cheat Shop - Titanite] Stone Greatshield
+32553 [Cheat Shop - Titanite] Torch
+32554 [Cheat Shop - Titanite] Machete
+32555 [Cheat Shop - Titanite] Wooden Mallet
+32556 [Cheat Shop - Titanite] Buckler
+32557 [Cheat Shop - Titanite] Round Shield
+32558 [Cheat Shop - Titanite] Brigand Twindaggers
+32559 [Cheat Shop - Titanite] Winged Knight Twinaxes
+32560 [Cheat Shop - Titanite] Pyromancy Flame
+32561 [Cheat Shop - Titanite] Black Flame
+32562 [Cheat Shop - Titanite] Balder Straight Sword
+32563 [Cheat Shop - Titanite] Server
+32564 [Cheat Shop - Titanite] Stone Greatsword
+32565 [Cheat Shop - Titanite] Man Serpent Greatsword
+32566 [Cheat Shop - Titanite] Meat Cleaver
+32567 [Cheat Shop - Titanite] Exile Greatsword
+32568 [Cheat Shop - Titanite] Follower Torch
+32569 [Cheat Shop - Titanite] Hunter's Log
+32570 [Cheat Shop - Titanite] Serpentine Twindaggers
+32571 [Cheat Shop - Titanite] Shiv
+32572 [Cheat Shop - Titanite] Serpentine Hatchet
+32573 [Cheat Shop - Titanite] Serpentine Axe
+32574 [Cheat Shop - Titanite] Thrall Harpe
+32575 [Cheat Shop - Titanite] Smouldering Curved Sword
+32576 [Cheat Shop - Titanite] Smouldering Dagger
+32577 [Cheat Shop - Titanite] Smouldering Spear
+32578 [Cheat Shop - Titanite] Thrall Pick
+32579 [Cheat Shop - Titanite] Worker Machete
+32580 [Cheat Shop - Titanite] Shield of the Hunted
+32581 [Cheat Shop - Titanite] Smouldering Shield
+32582 [Cheat Shop - Titanite] Rotten Talisman
+32583 [Cheat Shop - Titanite] Smouldering Talisman
+32584 [Cheat Shop - Titanite] Handmaid's Ladle
+33000 [Cheat Shop - Spell] Farron Dart
+33001 [Cheat Shop - Spell] Scattered Farron Dart
+33002 [Cheat Shop - Spell] Soul Arrow
+33003 [Cheat Shop - Spell] Scattered Soul Arrow
+33004 [Cheat Shop - Spell] Shockwave
+33005 [Cheat Shop - Spell] Deep Soul
+33006 [Cheat Shop - Spell] Great Deep Soul
+33007 [Cheat Shop - Spell] Hidden Weapon
+33008 [Cheat Shop - Spell] Cast Light
+33009 [Cheat Shop - Spell] Spook
+33010 [Cheat Shop - Spell] Chameleon
+33011 [Cheat Shop - Spell] Aural Decoy
+33012 [Cheat Shop - Spell] Farron Hail
+33013 [Cheat Shop - Spell] Farron Flashsword
+33014 [Cheat Shop - Spell] Snap Freeze
+33015 [Cheat Shop - Spell] Dark Edge
+33016 [Cheat Shop - Spell] Deep Barb
+33017 [Cheat Shop - Spell] Dark Bead
+33018 [Cheat Shop - Spell] Fireball
+33019 [Cheat Shop - Spell] Fire Orb
+33020 [Cheat Shop - Spell] Fire Surge
+33021 [Cheat Shop - Spell] Poison Mist
+33022 [Cheat Shop - Spell] Fire Whip
+33023 [Cheat Shop - Spell] Flame Fan
+33024 [Cheat Shop - Spell] Profuse Sweat
+33025 [Cheat Shop - Spell] Bursting Fireball
+33027 [Cheat Shop - Spell] Heal Aid
+33028 [Cheat Shop - Spell] Heal
+33029 [Cheat Shop - Spell] Replenishment
+33030 [Cheat Shop - Spell] Lightning Arrow
+33031 [Cheat Shop - Spell] Homeward
+33032 [Cheat Shop - Spell] Force
+33033 [Cheat Shop - Spell] Heavenly Relief
+33034 [Cheat Shop - Spell] Lightning Spear
+33035 [Cheat Shop - Spell] Way of White Corona
+33036 [Cheat Shop - Spell] Dead Again
+33037 [Cheat Shop - Spell] Atonement
+33038 [Cheat Shop - Spell] Nibble
+33039 [Cheat Shop - Spell] Homing Soulmass
+33040 [Cheat Shop - Spell] Soul Spear
+33041 [Cheat Shop - Spell] Magic Weapon
+33042 [Cheat Shop - Spell] Great Magic Weapon
+33043 [Cheat Shop - Spell] Frozen Weapon
+33044 [Cheat Shop - Spell] Magic Shield
+33045 [Cheat Shop - Spell] Hidden Body
+33046 [Cheat Shop - Spell] Repair
+33047 [Cheat Shop - Spell] Crystal Hail
+33048 [Cheat Shop - Spell] Soul Greatsword
+33049 [Cheat Shop - Spell] Abyssal Edge
+33050 [Cheat Shop - Spell] Twisted Wall of Light
+33051 [Cheat Shop - Spell] Pestilent Mist
+33052 [Cheat Shop - Spell] Soul Wave
+33053 [Cheat Shop - Spell] Blizzard
+33055 [Cheat Shop - Spell] Blinding Light
+33056 [Cheat Shop - Spell] Whisper of Despair
+33057 [Cheat Shop - Spell] Repel
+33058 [Cheat Shop - Spell] Numbness
+33059 [Cheat Shop - Spell] Yearning Dregs
+33060 [Cheat Shop - Spell] Writhing Deep
+33061 [Cheat Shop - Spell] Firestorm
+33062 [Cheat Shop - Spell] Toxic Mist
+33063 [Cheat Shop - Spell] Iron Flesh
+33064 [Cheat Shop - Spell] Flash Sweat
+33065 [Cheat Shop - Spell] Carthus Flame Arc
+33066 [Cheat Shop - Spell] Great Combustion
+33067 [Cheat Shop - Spell] Great Chaos Fire Orb
+33068 [Cheat Shop - Spell] Chaos Storm
+33069 [Cheat Shop - Spell] Black Flame
+33070 [Cheat Shop - Spell] Profaned Flame
+33071 [Cheat Shop - Spell] Black Fire Orb
+33072 [Cheat Shop - Spell] Boulder Heave
+33073 [Cheat Shop - Spell] Sacred Flame
+33074 [Cheat Shop - Spell] Carthus Beacon
+33075 [Cheat Shop - Spell] Seething Chaos
+33076 [Cheat Shop - Spell] Lingering Chaos
+33077 [Cheat Shop - Spell] Dark Dance
+33078 [Cheat Shop - Spell] Earthquake
+33079 [Cheat Shop - Spell] Med Heal
+33080 [Cheat Shop - Spell] Great Heal
+33081 [Cheat Shop - Spell] Bountiful Light
+33082 [Cheat Shop - Spell] Caressing Tears
+33083 [Cheat Shop - Spell] Emit Force
+33084 [Cheat Shop - Spell] Great Lightning Spear
+33085 [Cheat Shop - Spell] Lightning Storm
+33086 [Cheat Shop - Spell] Gnaw
+33087 [Cheat Shop - Spell] Projected Heal
+33088 [Cheat Shop - Spell] Magic Barrier
+33089 [Cheat Shop - Spell] Lightning Blade
+33090 [Cheat Shop - Spell] Darkmoon Blade
+33091 [Cheat Shop - Spell] Dark Blade
+33092 [Cheat Shop - Spell] Lightning Stake
+33093 [Cheat Shop - Spell] Divine Pillars of Light
+33094 [Cheat Shop - Spell] Lifehunt Scythe
+33095 [Cheat Shop - Spell] Blessed Weapon
+33096 [Cheat Shop - Spell] Deep Protection
+33097 [Cheat Shop - Spell] Perseverance
+33099 [Cheat Shop - Spell] Soul Geyser
+33100 [Cheat Shop - Spell] Homing Crystal Soulmass
+33101 [Cheat Shop - Spell] Crystal Soul Spear
+33102 [Cheat Shop - Spell] Crystal Magic Weapon
+33103 [Cheat Shop - Spell] Great Magic Shield
+33104 [Cheat Shop - Spell] White Dragon Breath
+33105 [Cheat Shop - Spell] Old Moonlight
+33106 [Cheat Shop - Spell] Affinity
+33107 [Cheat Shop - Spell] Great Soul Dregs
+33108 [Cheat Shop - Spell] Soul Stream
+33109 [Cheat Shop - Spell] Crystal Storm
+33110 [Cheat Shop - Spell] Unleash Magic
+33111 [Cheat Shop - Spell] Climax
+33112 [Cheat Shop - Spell] Black Serpent
+33113 [Cheat Shop - Spell] Acid Surge
+33114 [Cheat Shop - Spell] Rapport
+33115 [Cheat Shop - Spell] Power Within
+33116 [Cheat Shop - Spell] Chaos Bed Vestiges
+33117 [Cheat Shop - Spell] Floating Chaos
+33118 [Cheat Shop - Spell] Warmth
+33119 [Cheat Shop - Spell] Cataclysm
+33120 [Cheat Shop - Spell] Recollection
+33121 [Cheat Shop - Spell] Wretch Earth
+33122 [Cheat Shop - Spell] Rockflesh
+33123 [Cheat Shop - Spell] Soothing Sunlight
+33124 [Cheat Shop - Spell] Bountiful Sunlight
+33125 [Cheat Shop - Spell] Tears of Denial
+33126 [Cheat Shop - Spell] Wrath of the Gods
+33127 [Cheat Shop - Spell] Sunlight Spear
+33128 [Cheat Shop - Spell] Dorhys' Gnawing
+33129 [Cheat Shop - Spell] Great Magic Barrier
+33130 [Cheat Shop - Spell] Sacred Oath
+33131 [Cheat Shop - Spell] Vow of Silence
+33132 [Cheat Shop - Spell] Heavenly Thunder
+33133 [Cheat Shop - Spell] Halo
+33134 [Cheat Shop - Spell] Mournful Flames
+33135 [Cheat Shop - Spell] Orbs of Judgment
+33136 [Cheat Shop - Spell] Surging Deep
+33137 [Cheat Shop - Spell] Dreg Torrent
+33138 [Cheat Shop - Spell] Earthfall
+33139 [Cheat Shop - Spell] Devouring Swarm
+33140 [Cheat Shop - Spell] Cascading Deep
+33141 [Cheat Shop - Spell] Immolation
+33142 [Cheat Shop - Spell] Vow of Agony
+33143 [Cheat Shop - Spell] Angelic Barrage
+33144 [Cheat Shop - Spell] Divine Arrow
+33145 [Cheat Shop - Spell] Lothric's Holy Spear
+33146 [Cheat Shop - Spell] Proof of a Pact
+33147 [Cheat Shop - Spell] Pulsating Blade
+33148 [Cheat Shop - Spell] Pungent Blade
+33149 [Cheat Shop - Spell] Black Flame Arc
+33150 [Cheat Shop - Spell] Black Fireball
+33151 [Cheat Shop - Spell] Black Fire Scatter
+33152 [Cheat Shop - Spell] Black Fire Vestiges
+33153 [Cheat Shop - Spell] Fecal Explusion
+33154 [Cheat Shop - Spell] Overwhelming Power
+34000 [Cheat Shop - Ring] Life Ring
+34006 [Cheat Shop - Ring] Chloranthy Ring
+34012 [Cheat Shop - Ring] Havel's Ring
+34018 [Cheat Shop - Ring] Ring of Favor
+34024 [Cheat Shop - Ring] Ring of Steel Protection
+34030 [Cheat Shop - Ring] Flame Stoneplate Ring
+34036 [Cheat Shop - Ring] Thunder Stoneplate Ring
+34042 [Cheat Shop - Ring] Magic Stoneplate Ring
+34048 [Cheat Shop - Ring] Sun Princess Ring
+34054 [Cheat Shop - Ring] Silvercat Ring
+34060 [Cheat Shop - Ring] Skull Ring
+34066 [Cheat Shop - Ring] Dark Stoneplate Ring
+34078 [Cheat Shop - Ring] Carthus Milkring
+34084 [Cheat Shop - Ring] Knight's Ring
+34090 [Cheat Shop - Ring] Hunter's Ring
+34096 [Cheat Shop - Ring] Knight Slayer's Ring
+34102 [Cheat Shop - Ring] Speckled Stoneplate Ring
+34108 [Cheat Shop - Ring] Magic Clutch Ring
+34114 [Cheat Shop - Ring] Lightning Clutch Ring
+34120 [Cheat Shop - Ring] Fire Clutch Ring
+34126 [Cheat Shop - Ring] Dark Clutch Ring
+34132 [Cheat Shop - Ring] Flynn's Ring
+34138 [Cheat Shop - Ring] Prisoner's Chain
+34144 [Cheat Shop - Ring] Bloodbite Ring
+34156 [Cheat Shop - Ring] Obscuring Ring
+34162 [Cheat Shop - Ring] Ring of the Evil Eye
+34168 [Cheat Shop - Ring] Ring of Calamity
+34174 [Cheat Shop - Ring] Poisonbite Ring
+34180 [Cheat Shop - Ring] Farron Ring
+34186 [Cheat Shop - Ring] Aldrich's Ruby
+34192 [Cheat Shop - Ring] Aldrich's Sapphire
+34198 [Cheat Shop - Ring] Lloyd's Sword Ring
+34204 [Cheat Shop - Ring] Lloyd's Shield Ring
+34210 [Cheat Shop - Ring] Cursebite Ring
+34216 [Cheat Shop - Ring] Estus Ring
+34222 [Cheat Shop - Ring] Ashen Estus Ring
+34228 [Cheat Shop - Ring] Horsehoof Ring
+34234 [Cheat Shop - Ring] Carthus Bloodring
+34240 [Cheat Shop - Ring] Reversal Ring
+34246 [Cheat Shop - Ring] Pontiff's Right Eye
+34252 [Cheat Shop - Ring] Fleshbite Ring
+34258 [Cheat Shop - Ring] Pontiff's Left Eye
+34264 [Cheat Shop - Ring] Dragonscale Ring
+34270 [Cheat Shop - Ring] Chillbite Ring
+34276 [Cheat Shop - Ring] Ring of Londor
+34284 [Cheat Shop - Ring] Wood Grain Ring
+34290 [Cheat Shop - Ring] Spirit Amethyst
+34296 [Cheat Shop - Ring] Unholy Remains
+34308 [Cheat Shop - Ring] Wretched Pendant
+34314 [Cheat Shop - Ring] Symbol of the Penitent
+34320 [Cheat Shop - Ring] Scholar Ring
+34332 [Cheat Shop - Ring] Runic Seal
+34338 [Cheat Shop - Ring] Priestess Ring
+34344 [Cheat Shop - Ring] Tome of Sunlight
+34350 [Cheat Shop - Ring] Red Tearstone Ring
+34356 [Cheat Shop - Ring] Greatwood Remnants
+34362 [Cheat Shop - Ring] Blue Tearstone Ring
+34368 [Cheat Shop - Ring] Charred Bone
+34374 [Cheat Shop - Ring] Wolf Ring
+34380 [Cheat Shop - Ring] Leo Ring
+34386 [Cheat Shop - Ring] Green Tearstone Ring
+34398 [Cheat Shop - Ring] Ring of Sacrifice
+34404 [Cheat Shop - Ring] Violet Tearstone Ring
+34410 [Cheat Shop - Ring] Young Dragon Ring
+34434 [Cheat Shop - Ring] Demonsbane Ring
+34440 [Cheat Shop - Ring] Great Swamp Ring
+34446 [Cheat Shop - Ring] Crypt Ring
+34452 [Cheat Shop - Ring] Blight Ring
+34458 [Cheat Shop - Ring] Hallowed Ring
+34464 [Cheat Shop - Ring] Ring of Wisdom
+34482 [Cheat Shop - Ring] Morne's Ring
+34518 [Cheat Shop - Ring] Lingering Dragoncrest Ring
+34548 [Cheat Shop - Ring] Sage Ring
+34554 [Cheat Shop - Ring] Ring of Retaliation
+34560 [Cheat Shop - Ring] Ring of Reprisal
+34566 [Cheat Shop - Ring] Ring of Spite
+34572 [Cheat Shop - Ring] Ring of Retribution
+34578 [Cheat Shop - Ring] Saint's Ring
+34584 [Cheat Shop - Ring] Deep Ring
+34590 [Cheat Shop - Ring] Ring of Vengeance
+34596 [Cheat Shop - Ring] Bulwark Ring
+34602 [Cheat Shop - Ring] Slumbering Dragoncrest Ring
+34608 [Cheat Shop - Ring] Dusk Crown Ring
+34614 [Cheat Shop - Ring] Mercenary Ring
+34620 [Cheat Shop - Ring] Heretic Ring
+34626 [Cheat Shop - Ring] Merchant Ring
+34632 [Cheat Shop - Ring] Physician Ring
+34638 [Cheat Shop - Ring] Bellowing Dragoncrest Ring
+34644 [Cheat Shop - Ring] Jester Ring
+34650 [Cheat Shop - Ring] Arcane Trinket
+34656 [Cheat Shop - Ring] Londor Tincture
+34668 [Cheat Shop - Ring] Witch's Ring
+34680 [Cheat Shop - Ring] Enchanted Quiver
+34686 [Cheat Shop - Ring] Old Pygmy Brooch
+34692 [Cheat Shop - Ring] Redeye Ring
+34698 [Cheat Shop - Ring] Darkmoon Ring
+34704 [Cheat Shop - Ring] Ring of the Sun's First Born
+34710 [Cheat Shop - Ring] Hawk Ring
+34716 [Cheat Shop - Ring] Hornet Ring
+34722 [Cheat Shop - Ring] Covetous Gold Serpent Ring
+34728 [Cheat Shop - Ring] Covetous Silver Serpent Ring
+34729 [Cheat Shop - Ring] Ring of Woe
+34730 [Cheat Shop - Ring] Ring of Adversity
+34731 [Cheat Shop - Ring] Ring of Catastrophe
+34732 [Cheat Shop - Ring] Black Tearstone Ring
+34733 [Cheat Shop - Ring] Beastial Band
+34734 [Cheat Shop - Ring] Band of Stone
+34735 [Cheat Shop - Ring] Band of Magic
+34736 [Cheat Shop - Ring] Band of Flame
+34737 [Cheat Shop - Ring] Band of Sparks
+34738 [Cheat Shop - Ring] Band of Darkness
+34739 [Cheat Shop - Ring] Cursed Ring of Evasion
+34740 [Cheat Shop - Ring] Cursed Ring of Vengeance
+34741 [Cheat Shop - Ring] Cursed Ring of Deflection
+34742 [Cheat Shop - Ring] Cursed Ring of Confusion
+34743 [Cheat Shop - Ring] Elden Ring
+34748 [Cheat Shop - Ring] Rare Ring of Humanity
+34749 [Cheat Shop - Ring] Ring of the Exalted
+34760 [Cheat Shop - Ring] Life Ring+1
+34761 [Cheat Shop - Ring] Havel's Ring+1
+34762 [Cheat Shop - Ring] Ring of Favor+1
+34763 [Cheat Shop - Ring] Ring of Wisdom+1
+34764 [Cheat Shop - Ring] Chloranthy Ring+1
+34765 [Cheat Shop - Ring] Wood Grain Ring+1
+34766 [Cheat Shop - Ring] Wolf Ring+1
+34767 [Cheat Shop - Ring] Hawk Ring+1
+34768 [Cheat Shop - Ring] Knight Slayer's Ring+1
+34769 [Cheat Shop - Ring] Farron Ring+1
+34770 [Cheat Shop - Ring] Dragonscale Ring+1
+34771 [Cheat Shop - Ring] Horsehoof Ring+1
+34772 [Cheat Shop - Ring] Symbol of the Penitent+1
+34773 [Cheat Shop - Ring] Knight's Ring+1
+34774 [Cheat Shop - Ring] Hunter's Ring+1
+34775 [Cheat Shop - Ring] Scholar Ring+1
+34776 [Cheat Shop - Ring] Priestess Ring+1
+34777 [Cheat Shop - Ring] Mercenary Ring+1
+34778 [Cheat Shop - Ring] Heretic Ring+1
+34779 [Cheat Shop - Ring] Merchant Ring+1
+34780 [Cheat Shop - Ring] Physician Ring+1
+34781 [Cheat Shop - Ring] Jester Ring+1
+34782 [Cheat Shop - Ring] Dusk Crown Ring+1
+34783 [Cheat Shop - Ring] Tome of Sunlight+1
+34784 [Cheat Shop - Ring] Charred Bone+1
+34785 [Cheat Shop - Ring] Lingering Dragoncrest Ring+1
+34786 [Cheat Shop - Ring] Sage Ring+1
+34787 [Cheat Shop - Ring] Ring of Steel Protection+1
+34788 [Cheat Shop - Ring] Flame Stoneplate Ring+1
+34789 [Cheat Shop - Ring] Thunder Stoneplate Ring+1
+34790 [Cheat Shop - Ring] Magic Stoneplate Ring+1
+34791 [Cheat Shop - Ring] Dark Stoneplate Ring+1
+34792 [Cheat Shop - Ring] Speckled Stoneplate Ring+1
+34793 [Cheat Shop - Ring] Band of Stone+1
+34794 [Cheat Shop - Ring] Band of Magic+1
+34795 [Cheat Shop - Ring] Band of Flame+1
+34796 [Cheat Shop - Ring] Band of Sparks+1
+34797 [Cheat Shop - Ring] Band of Darkness+1
+34798 [Cheat Shop - Ring] Covetous Gold Serpent Ring+1
+34799 [Cheat Shop - Ring] Covetous Silver Serpent Ring+1
+34800 [Cheat Shop - Ring] Skull Ring+1
+34801 [Cheat Shop - Ring] Magic Clutch Ring+1
+34802 [Cheat Shop - Ring] Lightning Clutch Ring+1
+34803 [Cheat Shop - Ring] Fire Clutch Ring+1
+34804 [Cheat Shop - Ring] Dark Clutch Ring+1
+34810 [Cheat Shop - Ring] Life Ring+2
+34811 [Cheat Shop - Ring] Havel's Ring+2
+34812 [Cheat Shop - Ring] Ring of Favor+2
+34813 [Cheat Shop - Ring] Ring of Wisdom+2
+34814 [Cheat Shop - Ring] Chloranthy Ring+2
+34815 [Cheat Shop - Ring] Wood Grain Ring+2
+34816 [Cheat Shop - Ring] Wolf Ring+2
+34817 [Cheat Shop - Ring] Hawk Ring+2
+34818 [Cheat Shop - Ring] Knight Slayer's Ring+2
+34819 [Cheat Shop - Ring] Farron Ring+2
+34820 [Cheat Shop - Ring] Dragonscale Ring+2
+34821 [Cheat Shop - Ring] Horsehoof Ring+2
+34822 [Cheat Shop - Ring] Symbol of the Penitent+2
+34823 [Cheat Shop - Ring] Knight's Ring+2
+34824 [Cheat Shop - Ring] Hunter's Ring+2
+34825 [Cheat Shop - Ring] Scholar Ring+2
+34826 [Cheat Shop - Ring] Priestess Ring+2
+34827 [Cheat Shop - Ring] Mercenary Ring+2
+34828 [Cheat Shop - Ring] Heretic Ring+2
+34829 [Cheat Shop - Ring] Merchant Ring+2
+34830 [Cheat Shop - Ring] Physician Ring+2
+34831 [Cheat Shop - Ring] Jester Ring+2
+34832 [Cheat Shop - Ring] Dusk Crown Ring+2
+34833 [Cheat Shop - Ring] Tome of Sunlight+2
+34834 [Cheat Shop - Ring] Charred Bone+2
+34835 [Cheat Shop - Ring] Lingering Dragoncrest Ring+2
+34836 [Cheat Shop - Ring] Sage Ring+2
+34837 [Cheat Shop - Ring] Ring of Steel Protection+2
+34838 [Cheat Shop - Ring] Flame Stoneplate Ring+2
+34839 [Cheat Shop - Ring] Thunder Stoneplate Ring+2
+34840 [Cheat Shop - Ring] Magic Stoneplate Ring+2
+34841 [Cheat Shop - Ring] Dark Stoneplate Ring+2
+34842 [Cheat Shop - Ring] Speckled Stoneplate Ring+2
+34843 [Cheat Shop - Ring] Band of Stone+2
+34844 [Cheat Shop - Ring] Band of Magic+2
+34845 [Cheat Shop - Ring] Band of Flame+2
+34846 [Cheat Shop - Ring] Band of Sparks+2
+34847 [Cheat Shop - Ring] Band of Darkness+2
+34848 [Cheat Shop - Ring] Covetous Gold Serpent Ring+2
+34849 [Cheat Shop - Ring] Covetous Silver Serpent Ring+2
+34850 [Cheat Shop - Ring] Skull Ring+2
+34851 [Cheat Shop - Ring] Magic Clutch Ring+2
+34852 [Cheat Shop - Ring] Lightning Clutch Ring+2
+34853 [Cheat Shop - Ring] Fire Clutch Ring+2
+34854 [Cheat Shop - Ring] Dark Clutch Ring+2
+34855 [Cheat Shop - Ring] Life Ring+3
+34856 [Cheat Shop - Ring] Havel's Ring+3
+34857 [Cheat Shop - Ring] Ring of Favor+3
+34858 [Cheat Shop - Ring] Ring of Wisdom+3
+34859 [Cheat Shop - Ring] Chloranthy Ring+3
+34860 [Cheat Shop - Ring] Wood Grain Ring+3
+34861 [Cheat Shop - Ring] Wolf Ring+3
+34862 [Cheat Shop - Ring] Hawk Ring+3
+34863 [Cheat Shop - Ring] Knight Slayer's Ring+3
+34864 [Cheat Shop - Ring] Farron Ring+3
+34865 [Cheat Shop - Ring] Dragonscale Ring+3
+34866 [Cheat Shop - Ring] Horsehoof Ring+3
+34867 [Cheat Shop - Ring] Symbol of the Penitent+3
+34868 [Cheat Shop - Ring] Knight's Ring+3
+34869 [Cheat Shop - Ring] Hunter's Ring+3
+34870 [Cheat Shop - Ring] Scholar Ring+3
+34871 [Cheat Shop - Ring] Priestess Ring+3
+34872 [Cheat Shop - Ring] Mercenary Ring+3
+34873 [Cheat Shop - Ring] Heretic Ring+3
+34874 [Cheat Shop - Ring] Merchant Ring+3
+34875 [Cheat Shop - Ring] Physician Ring+3
+34876 [Cheat Shop - Ring] Jester Ring+3
+34877 [Cheat Shop - Ring] Dusk Crown Ring+3
+34878 [Cheat Shop - Ring] Tome of Sunlight+3
+34879 [Cheat Shop - Ring] Charred Bone+3
+34880 [Cheat Shop - Ring] Lingering Dragoncrest Ring+3
+34881 [Cheat Shop - Ring] Sage Ring+3
+34882 [Cheat Shop - Ring] Ring of Steel Protection+3
+34883 [Cheat Shop - Ring] Flame Stoneplate Ring+3
+34884 [Cheat Shop - Ring] Thunder Stoneplate Ring+3
+34885 [Cheat Shop - Ring] Magic Stoneplate Ring+3
+34886 [Cheat Shop - Ring] Dark Stoneplate Ring+3
+34887 [Cheat Shop - Ring] Speckled Stoneplate Ring+3
+34888 [Cheat Shop - Ring] Band of Stone+3
+34889 [Cheat Shop - Ring] Band of Magic+3
+34890 [Cheat Shop - Ring] Band of Flame+3
+34891 [Cheat Shop - Ring] Band of Sparks+3
+34892 [Cheat Shop - Ring] Band of Darkness+3
+34893 [Cheat Shop - Ring] Covetous Gold Serpent Ring+3
+34894 [Cheat Shop - Ring] Covetous Silver Serpent Ring+3
+34895 [Cheat Shop - Ring] Skull Ring+3
+34896 [Cheat Shop - Ring] Magic Clutch Ring+3
+34897 [Cheat Shop - Ring] Lightning Clutch Ring+3
+34898 [Cheat Shop - Ring] Fire Clutch Ring+3
+34899 [Cheat Shop - Ring] Dark Clutch Ring+3
+34902 [Cheat Shop - Ring] Fool's Sigil
+34905 [Cheat Shop - Ring] Ring of Momentum
+34906 [Cheat Shop - Ring] Ring of Grace
+34907 [Cheat Shop - Ring] Ring of Punishment
+34908 [Cheat Shop - Ring] Dashmaster's String
+34909 [Cheat Shop - Ring] Darkmoon Faithful
+34910 [Cheat Shop - Ring] Watchdogs of Farron
+34911 [Cheat Shop - Ring] Aldrich Faithful
+34912 [Cheat Shop - Ring] Warrior of Sunlight
+34913 [Cheat Shop - Ring] Mound-makers
+34914 [Cheat Shop - Ring] Thieves' Pact
+34915 [Cheat Shop - Ring] Chaos Servant
+34916 [Cheat Shop - Ring] Rosaria's Fingers
+34917 [Cheat Shop - Ring] Spears of the Church
+34918 [Cheat Shop - Ring] Vinheim Scholars
+34919 [Cheat Shop - Ring] Pilgrims of Dark
+34920 [Cheat Shop - Ring] Way of White
+34921 [Cheat Shop - Ring] Dragon Remnants
+34922 [Cheat Shop - Ring] Blue Sentinels
+34923 [Cheat Shop - Ring] Way of Blue
+34924 [Cheat Shop - Ring] Company of Champions
+35000 [Cheat Shop - Armor] Fallen Knight Helm
+35001 [Cheat Shop - Armor] Fallen Knight Armor
+35002 [Cheat Shop - Armor] Fallen Knight Gauntlets
+35003 [Cheat Shop - Armor] Fallen Knight Trousers
+35004 [Cheat Shop - Armor] Knight Helm
+35005 [Cheat Shop - Armor] Knight Armor
+35006 [Cheat Shop - Armor] Knight Gauntlets
+35007 [Cheat Shop - Armor] Knight Leggings
+35008 [Cheat Shop - Armor] Vilhelm's Helm
+35009 [Cheat Shop - Armor] Vilhelm's Armor
+35010 [Cheat Shop - Armor] Vilhelm's Gauntlets
+35011 [Cheat Shop - Armor] Vilhelm's Leggings
+35012 [Cheat Shop - Armor] Firelink Helm
+35013 [Cheat Shop - Armor] Firelink Armor
+35014 [Cheat Shop - Armor] Firelink Gauntlets
+35015 [Cheat Shop - Armor] Firelink Leggings
+35016 [Cheat Shop - Armor] Sellsword Helm
+35017 [Cheat Shop - Armor] Sellsword Armor
+35018 [Cheat Shop - Armor] Sellsword Gauntlet
+35019 [Cheat Shop - Armor] Sellsword Trousers
+35020 [Cheat Shop - Armor] Herald Helm
+35021 [Cheat Shop - Armor] Herald Armor
+35022 [Cheat Shop - Armor] Herald Gloves
+35023 [Cheat Shop - Armor] Herald Trousers
+35024 [Cheat Shop - Armor] Sunless Veil
+35025 [Cheat Shop - Armor] Sunless Armor
+35026 [Cheat Shop - Armor] Sunless Gauntlets
+35027 [Cheat Shop - Armor] Sunless Leggings
+35028 [Cheat Shop - Armor] Black Hand Hat
+35029 [Cheat Shop - Armor] Black Hand Armor
+35030 [Cheat Shop - Armor] Assassin Gloves
+35031 [Cheat Shop - Armor] Assassin Trousers
+35032 [Cheat Shop - Armor] Assassin Hood
+35033 [Cheat Shop - Armor] Assassin Armor
+35034 [Cheat Shop - Armor] Xanthous Crown
+35035 [Cheat Shop - Armor] Xanthous Overcoat
+35036 [Cheat Shop - Armor] Xanthous Gloves
+35037 [Cheat Shop - Armor] Xanthous Trousers
+35038 [Cheat Shop - Armor] Northern Helm
+35039 [Cheat Shop - Armor] Northern Armor
+35040 [Cheat Shop - Armor] Northern Gloves
+35041 [Cheat Shop - Armor] Northern Trousers
+35042 [Cheat Shop - Armor] Morne's Helm
+35043 [Cheat Shop - Armor] Morne's Armor
+35044 [Cheat Shop - Armor] Morne's Gauntlets
+35045 [Cheat Shop - Armor] Morne's Leggings
+35046 [Cheat Shop - Armor] Silver Mask
+35047 [Cheat Shop - Armor] Leonhard's Garb
+35048 [Cheat Shop - Armor] Leonhard's Gauntlets
+35049 [Cheat Shop - Armor] Leonhard's Trousers
+35050 [Cheat Shop - Armor] Sneering Mask
+35051 [Cheat Shop - Armor] Pale Shade Robe
+35052 [Cheat Shop - Armor] Pale Shade Gloves
+35053 [Cheat Shop - Armor] Pale Shade Trousers
+35054 [Cheat Shop - Armor] Sunset Helm
+35055 [Cheat Shop - Armor] Sunset Armor
+35056 [Cheat Shop - Armor] Sunset Gauntlets
+35057 [Cheat Shop - Armor] Sunset Leggings
+35058 [Cheat Shop - Armor] Old Sage's Blindfold
+35059 [Cheat Shop - Armor] Cornyx's Garb
+35060 [Cheat Shop - Armor] Cornyx's Wrap
+35061 [Cheat Shop - Armor] Cornyx's Skirt
+35062 [Cheat Shop - Armor] Executioner Helm
+35063 [Cheat Shop - Armor] Executioner Armor
+35064 [Cheat Shop - Armor] Executioner Gauntlets
+35065 [Cheat Shop - Armor] Executioner Leggings
+35066 [Cheat Shop - Armor] Billed Mask
+35067 [Cheat Shop - Armor] Black Dress
+35068 [Cheat Shop - Armor] Black Gauntlets
+35069 [Cheat Shop - Armor] Black Leggings
+35070 [Cheat Shop - Armor] Pyromancer Crown
+35071 [Cheat Shop - Armor] Pyromancer Garb
+35072 [Cheat Shop - Armor] Pyromancer Wrap
+35073 [Cheat Shop - Armor] Pyromancer Trousers
+35074 [Cheat Shop - Armor] Antiquated Plain Garb
+35075 [Cheat Shop - Armor] Violet Wrappings
+35076 [Cheat Shop - Armor] Antiquated Loincloth
+35077 [Cheat Shop - Armor] Court Sorcerer Hood
+35078 [Cheat Shop - Armor] Court Sorcerer Robe
+35079 [Cheat Shop - Armor] Court Sorcerer Gloves
+35080 [Cheat Shop - Armor] Court Sorcerer Trousers
+35081 [Cheat Shop - Armor] Shira's Crown
+35082 [Cheat Shop - Armor] Shira's Armor
+35083 [Cheat Shop - Armor] Shira's Gloves
+35084 [Cheat Shop - Armor] Shira's Trousers
+35085 [Cheat Shop - Armor] Sorcerer Hood
+35086 [Cheat Shop - Armor] Sorcerer Robe
+35087 [Cheat Shop - Armor] Sorcerer Gloves
+35088 [Cheat Shop - Armor] Sorcerer Trousers
+35089 [Cheat Shop - Armor] Clandestine Coat
+35090 [Cheat Shop - Armor] Cleric Hat
+35091 [Cheat Shop - Armor] Cleric Blue Robe
+35092 [Cheat Shop - Armor] Cleric Gloves
+35093 [Cheat Shop - Armor] Cleric Trousers
+35094 [Cheat Shop - Armor] Lapp's Helm
+35095 [Cheat Shop - Armor] Lapp's Armor
+35096 [Cheat Shop - Armor] Lapp's Gauntlets
+35097 [Cheat Shop - Armor] Lapp's Leggings
+35098 [Cheat Shop - Armor] Grotto Hat
+35099 [Cheat Shop - Armor] Grotto Robe
+35100 [Cheat Shop - Armor] Grotto Wrap
+35101 [Cheat Shop - Armor] Grotto Trousers
+35102 [Cheat Shop - Armor] Steel Soldier Helm
+35103 [Cheat Shop - Armor] Deserter Armor
+35104 [Cheat Shop - Armor] Deserter Trousers
+35105 [Cheat Shop - Armor] Thief Mask
+35106 [Cheat Shop - Armor] Sage's Big Hat
+35107 [Cheat Shop - Armor] Aristocrat's Mask
+35108 [Cheat Shop - Armor] Jailer Robe
+35109 [Cheat Shop - Armor] Jailer Gloves
+35110 [Cheat Shop - Armor] Jailer Trousers
+35111 [Cheat Shop - Armor] Saint's Veil
+35112 [Cheat Shop - Armor] Saint's Dress
+35113 [Cheat Shop - Armor] Footman's Hood
+35114 [Cheat Shop - Armor] Footman's Overcoat
+35115 [Cheat Shop - Armor] Footman's Bracelet
+35116 [Cheat Shop - Armor] Footman's Trousers
+35117 [Cheat Shop - Armor] Grave Warden Hood
+35118 [Cheat Shop - Armor] Grave Warden Robe
+35119 [Cheat Shop - Armor] Grave Warden Wrap
+35120 [Cheat Shop - Armor] Grave Warden Skirt
+35121 [Cheat Shop - Armor] Worker Hat
+35122 [Cheat Shop - Armor] Worker Garb
+35123 [Cheat Shop - Armor] Worker Gloves
+35124 [Cheat Shop - Armor] Worker Trousers
+35125 [Cheat Shop - Armor] Thrall Hood
+35126 [Cheat Shop - Armor] Evangelist Hat
+35127 [Cheat Shop - Armor] Evangelist Robe
+35128 [Cheat Shop - Armor] Evangelist Gloves
+35129 [Cheat Shop - Armor] Evangelist Trousers
+35130 [Cheat Shop - Armor] Scholar's Shed Skin
+35131 [Cheat Shop - Armor] Scholar's Robe
+35132 [Cheat Shop - Armor] Winged Knight Helm
+35133 [Cheat Shop - Armor] Winged Knight Armor
+35134 [Cheat Shop - Armor] Winged Knight Gauntlets
+35135 [Cheat Shop - Armor] Winged Knight Leggings
+35136 [Cheat Shop - Armor] Cathedral Knight Helm
+35137 [Cheat Shop - Armor] Cathedral Knight Armor
+35138 [Cheat Shop - Armor] Cathedral Knight Gauntlets
+35139 [Cheat Shop - Armor] Cathedral Knight Leggings
+35140 [Cheat Shop - Armor] Lothric Knight Helm
+35141 [Cheat Shop - Armor] Lothric Knight Armor
+35142 [Cheat Shop - Armor] Lothric Knight Gauntlets
+35143 [Cheat Shop - Armor] Lothric Knight Leggings
+35144 [Cheat Shop - Armor] Outrider Knight Helm
+35145 [Cheat Shop - Armor] Outrider Knight Armor
+35146 [Cheat Shop - Armor] Outrider Knight Gauntlets
+35147 [Cheat Shop - Armor] Outrider Knight Leggings
+35148 [Cheat Shop - Armor] Black Knight Helm
+35149 [Cheat Shop - Armor] Black Knight Armor
+35150 [Cheat Shop - Armor] Black Knight Gauntlets
+35151 [Cheat Shop - Armor] Black Knight Leggings
+35152 [Cheat Shop - Armor] Dark Mask
+35153 [Cheat Shop - Armor] Dark Armor
+35154 [Cheat Shop - Armor] Dark Gauntlets
+35155 [Cheat Shop - Armor] Dark Leggings
+35156 [Cheat Shop - Armor] Exile Mask
+35157 [Cheat Shop - Armor] Exile Armor
+35158 [Cheat Shop - Armor] Exile Gauntlets
+35159 [Cheat Shop - Armor] Exile Leggings
+35160 [Cheat Shop - Armor] Slave Knight Hood
+35161 [Cheat Shop - Armor] Slave Knight Armor
+35162 [Cheat Shop - Armor] Slave Knight Gauntlets
+35163 [Cheat Shop - Armor] Slave Knight Leggings
+35164 [Cheat Shop - Armor] Pontiff Knight Crown
+35165 [Cheat Shop - Armor] Pontiff Knight Armor
+35166 [Cheat Shop - Armor] Pontiff Knight Gauntlets
+35167 [Cheat Shop - Armor] Pontiff Knight Leggings
+35168 [Cheat Shop - Armor] Ordained Hood
+35169 [Cheat Shop - Armor] Ordained Dress
+35170 [Cheat Shop - Armor] Ordained Trousers
+35171 [Cheat Shop - Armor] Golden Crown
+35172 [Cheat Shop - Armor] Dragonscale Armor
+35173 [Cheat Shop - Armor] Golden Bracelets
+35174 [Cheat Shop - Armor] Dragonscale Waistcloth
+35175 [Cheat Shop - Armor] Wolnir's Crown
+35176 [Cheat Shop - Armor] Undead Legion Helm
+35177 [Cheat Shop - Armor] Undead Legion Armor
+35178 [Cheat Shop - Armor] Undead Legion Gauntlet
+35179 [Cheat Shop - Armor] Undead Legion Leggings
+35180 [Cheat Shop - Armor] Follower Helm
+35181 [Cheat Shop - Armor] Follower Armor
+35182 [Cheat Shop - Armor] Follower Gloves
+35183 [Cheat Shop - Armor] Follower Boots
+35184 [Cheat Shop - Armor] Man Serpent's Mask
+35185 [Cheat Shop - Armor] Man Serpent's Robes
+35186 [Cheat Shop - Armor] Fire Witch Helm
+35187 [Cheat Shop - Armor] Fire Witch Armor
+35188 [Cheat Shop - Armor] Fire Witch Gauntlets
+35189 [Cheat Shop - Armor] Fire Witch Leggings
+35190 [Cheat Shop - Armor] Millwood Knight Helm
+35191 [Cheat Shop - Armor] Millwood Knight Armor
+35192 [Cheat Shop - Armor] Millwood Knight Gauntlets
+35193 [Cheat Shop - Armor] Millwood Knight Leggings
+35194 [Cheat Shop - Armor] Lorian's Helm
+35195 [Cheat Shop - Armor] Lorian's Armor
+35196 [Cheat Shop - Armor] Lorian's Gauntlets
+35197 [Cheat Shop - Armor] Lorian's Leggings
+35198 [Cheat Shop - Armor] Hood of Prayer
+35199 [Cheat Shop - Armor] Robe of Prayer
+35200 [Cheat Shop - Armor] Skirt of Prayer
+35201 [Cheat Shop - Armor] Giant's Crown
+35202 [Cheat Shop - Armor] Giant's Armor
+35203 [Cheat Shop - Armor] Giant's Gauntlets
+35204 [Cheat Shop - Armor] Giant's Leggings
+35205 [Cheat Shop - Armor] Dancer's Crown
+35206 [Cheat Shop - Armor] Dancer's Armor
+35207 [Cheat Shop - Armor] Dancer's Gauntlets
+35208 [Cheat Shop - Armor] Dancer's Leggings
+35209 [Cheat Shop - Armor] Ringed Knight Hood
+35210 [Cheat Shop - Armor] Ringed Knight Armor
+35211 [Cheat Shop - Armor] Ringed Knight Gauntlets
+35212 [Cheat Shop - Armor] Ringed Knight Leggings
+35213 [Cheat Shop - Armor] Gundyr's Helm
+35214 [Cheat Shop - Armor] Gundyr's Armor
+35215 [Cheat Shop - Armor] Gundyr's Gauntlets
+35216 [Cheat Shop - Armor] Gundyr's Leggings
+35217 [Cheat Shop - Armor] Harald Legion Helm
+35218 [Cheat Shop - Armor] Harald Legion Armor
+35219 [Cheat Shop - Armor] Harald Legion Gauntlets
+35220 [Cheat Shop - Armor] Harald Legion Leggings
+35221 [Cheat Shop - Armor] Archdeacon White Crown
+35222 [Cheat Shop - Armor] Archdeacon Holy Garb
+35223 [Cheat Shop - Armor] Archdeacon Skirt
+35224 [Cheat Shop - Armor] Deacon Robe
+35225 [Cheat Shop - Armor] Deacon Skirt
+35226 [Cheat Shop - Armor] Iron Dragonslayer Helm
+35227 [Cheat Shop - Armor] Iron Dragonslayer Armor
+35228 [Cheat Shop - Armor] Iron Dragonslayer Gauntlets
+35229 [Cheat Shop - Armor] Iron Dragonslayer Leggings
+35230 [Cheat Shop - Armor] Fire Keeper Mask
+35231 [Cheat Shop - Armor] Fire Keeper Robe
+35232 [Cheat Shop - Armor] Fire Keeper Gloves
+35233 [Cheat Shop - Armor] Fire Keeper Skirt
+35234 [Cheat Shop - Armor] White Preacher Head
+35235 [Cheat Shop - Armor] Chain Helm
+35236 [Cheat Shop - Armor] Chain Armor
+35237 [Cheat Shop - Armor] Leather Gauntlets
+35238 [Cheat Shop - Armor] Chain Leggings
+35239 [Cheat Shop - Armor] Nameless Knight Helm
+35240 [Cheat Shop - Armor] Nameless Knight Armor
+35241 [Cheat Shop - Armor] Nameless Knight Gauntlets
+35242 [Cheat Shop - Armor] Nameless Knight Leggings
+35243 [Cheat Shop - Armor] Elite Knight Helm
+35244 [Cheat Shop - Armor] Elite Knight Armor
+35245 [Cheat Shop - Armor] Elite Knight Gauntlets
+35246 [Cheat Shop - Armor] Elite Knight Leggings
+35247 [Cheat Shop - Armor] Faraam Helm
+35248 [Cheat Shop - Armor] Faraam Armor
+35249 [Cheat Shop - Armor] Faraam Gauntlets
+35250 [Cheat Shop - Armor] Faraam Boots
+35251 [Cheat Shop - Armor] Catarina Helm
+35252 [Cheat Shop - Armor] Catarina Armor
+35253 [Cheat Shop - Armor] Catarina Gauntlets
+35254 [Cheat Shop - Armor] Catarina Leggings
+35255 [Cheat Shop - Armor] Standard Helm
+35256 [Cheat Shop - Armor] Hard Leather Armor
+35257 [Cheat Shop - Armor] Hard Leather Gauntlets
+35258 [Cheat Shop - Armor] Hard Leather Boots
+35259 [Cheat Shop - Armor] Havel's Helm
+35260 [Cheat Shop - Armor] Havel's Armor
+35261 [Cheat Shop - Armor] Havel's Gauntlets
+35262 [Cheat Shop - Armor] Havel's Leggings
+35263 [Cheat Shop - Armor] Brigand Hood
+35264 [Cheat Shop - Armor] Brigand Armor
+35265 [Cheat Shop - Armor] Brigand Gauntlets
+35266 [Cheat Shop - Armor] Brigand Trousers
+35267 [Cheat Shop - Armor] Pharis's Hat
+35268 [Cheat Shop - Armor] Leather Armor
+35269 [Cheat Shop - Armor] Leather Gloves
+35270 [Cheat Shop - Armor] Leather Boots
+35271 [Cheat Shop - Armor] Ragged Mask
+35272 [Cheat Shop - Armor] Master's Attire
+35273 [Cheat Shop - Armor] Master's Gloves
+35274 [Cheat Shop - Armor] Loincloth
+35275 [Cheat Shop - Armor] Old Sorcerer Hat
+35276 [Cheat Shop - Armor] Old Sorcerer Coat
+35277 [Cheat Shop - Armor] Old Sorcerer Gauntlets
+35278 [Cheat Shop - Armor] Old Sorcerer Boots
+35279 [Cheat Shop - Armor] Conjurator Hood
+35280 [Cheat Shop - Armor] Conjurator Robe
+35281 [Cheat Shop - Armor] Conjurator Manchettes
+35282 [Cheat Shop - Armor] Conjurator Boots
+35283 [Cheat Shop - Armor] Black Leather Armor
+35284 [Cheat Shop - Armor] Black Leather Gloves
+35285 [Cheat Shop - Armor] Black Leather Boots
+35286 [Cheat Shop - Armor] Symbol of Avarice
+35287 [Cheat Shop - Armor] Creighton's Steel Mask
+35288 [Cheat Shop - Armor] Mirrah Chain Mail
+35289 [Cheat Shop - Armor] Mirrah Chain Gloves
+35290 [Cheat Shop - Armor] Mirrah Chain Leggings
+35291 [Cheat Shop - Armor] Maiden Hood
+35292 [Cheat Shop - Armor] Maiden Robe
+35293 [Cheat Shop - Armor] Maiden Gloves
+35294 [Cheat Shop - Armor] Maiden Skirt
+35295 [Cheat Shop - Armor] Alva Helm
+35296 [Cheat Shop - Armor] Alva Armor
+35297 [Cheat Shop - Armor] Alva Gauntlets
+35298 [Cheat Shop - Armor] Alva Leggings
+35299 [Cheat Shop - Armor] Ruin Helm
+35300 [Cheat Shop - Armor] Ruin Armor
+35301 [Cheat Shop - Armor] Ruin Gauntlets
+35302 [Cheat Shop - Armor] Ruin Leggings
+35303 [Cheat Shop - Armor] Shadow Mask
+35304 [Cheat Shop - Armor] Shadow Garb
+35305 [Cheat Shop - Armor] Shadow Gauntlets
+35306 [Cheat Shop - Armor] Shadow Leggings
+35307 [Cheat Shop - Armor] Desert Pyromancer Hood
+35308 [Cheat Shop - Armor] Desert Pyromancer Garb
+35309 [Cheat Shop - Armor] Desert Pyromancer Gloves
+35310 [Cheat Shop - Armor] Desert Pyromancer Skirt
+35311 [Cheat Shop - Armor] Eastern Helm
+35312 [Cheat Shop - Armor] Eastern Armor
+35313 [Cheat Shop - Armor] Eastern Gauntlets
+35314 [Cheat Shop - Armor] Eastern Leggings
+35315 [Cheat Shop - Armor] Black Witch Hat
+35316 [Cheat Shop - Armor] Black Witch Garb
+35317 [Cheat Shop - Armor] Black Witch Wrappings
+35318 [Cheat Shop - Armor] Black Witch Trousers
+35319 [Cheat Shop - Armor] Helm of Favor
+35320 [Cheat Shop - Armor] Embraced Armor of Favor
+35321 [Cheat Shop - Armor] Gauntlets of Favor
+35322 [Cheat Shop - Armor] Leggings of Favor
+35323 [Cheat Shop - Armor] Black Witch Veil
+35324 [Cheat Shop - Armor] Brass Helm
+35325 [Cheat Shop - Armor] Brass Armor
+35326 [Cheat Shop - Armor] Brass Gauntlets
+35327 [Cheat Shop - Armor] Brass Leggings
+35328 [Cheat Shop - Armor] Blindfold Mask
+35329 [Cheat Shop - Armor] Silver Knight Helm
+35330 [Cheat Shop - Armor] Silver Knight Armor
+35331 [Cheat Shop - Armor] Silver Knight Gauntlets
+35332 [Cheat Shop - Armor] Silver Knight Leggings
+35333 [Cheat Shop - Armor] Lucatiel's Mask
+35334 [Cheat Shop - Armor] Mirrah Vest
+35335 [Cheat Shop - Armor] Mirrah Gloves
+35336 [Cheat Shop - Armor] Mirrah Trousers
+35337 [Cheat Shop - Armor] Iron Helm
+35338 [Cheat Shop - Armor] Armor of the Sun
+35339 [Cheat Shop - Armor] Iron Bracelets
+35340 [Cheat Shop - Armor] Iron Leggings
+35341 [Cheat Shop - Armor] Drakeblood Helm
+35342 [Cheat Shop - Armor] Drakeblood Armor
+35343 [Cheat Shop - Armor] Drakeblood Gauntlets
+35344 [Cheat Shop - Armor] Drakeblood Leggings
+35345 [Cheat Shop - Armor] Drang Armor
+35346 [Cheat Shop - Armor] Drang Gauntlets
+35347 [Cheat Shop - Armor] Drang Shoes
+35348 [Cheat Shop - Armor] Black Iron Helm
+35349 [Cheat Shop - Armor] Black Iron Armor
+35350 [Cheat Shop - Armor] Black Iron Gauntlets
+35351 [Cheat Shop - Armor] Black Iron Leggings
+35352 [Cheat Shop - Armor] Painting Guardian Hood
+35353 [Cheat Shop - Armor] Painting Guardian Gown
+35354 [Cheat Shop - Armor] Painting Guardian Gloves
+35355 [Cheat Shop - Armor] Painting Guardian Waistcloth
+35356 [Cheat Shop - Armor] Wolf Knight Helm
+35357 [Cheat Shop - Armor] Wolf Knight Armor
+35358 [Cheat Shop - Armor] Wolf Knight Gauntlets
+35359 [Cheat Shop - Armor] Wolf Knight Leggings
+35360 [Cheat Shop - Armor] Dragonslayer Helm
+35361 [Cheat Shop - Armor] Dragonslayer Armor
+35362 [Cheat Shop - Armor] Dragonslayer Gauntlets
+35363 [Cheat Shop - Armor] Dragonslayer Leggings
+35364 [Cheat Shop - Armor] Smough's Helm
+35365 [Cheat Shop - Armor] Smough's Armor
+35366 [Cheat Shop - Armor] Smough's Gauntlets
+35367 [Cheat Shop - Armor] Smough's Leggings
+35368 [Cheat Shop - Armor] Hexer's Hood
+35369 [Cheat Shop - Armor] Hexer's Robes
+35370 [Cheat Shop - Armor] Hexer's Gloves
+35371 [Cheat Shop - Armor] Hexer's Boots
+35372 [Cheat Shop - Armor] Helm of Thorns
+35373 [Cheat Shop - Armor] Armor of Thorns
+35374 [Cheat Shop - Armor] Gauntlets of Thorns
+35375 [Cheat Shop - Armor] Leggings of Thorns
+35376 [Cheat Shop - Armor] Varangian Helmet
+35377 [Cheat Shop - Armor] Varangian Armor
+35378 [Cheat Shop - Armor] Varangian Cuffs
+35379 [Cheat Shop - Armor] Varangian Leggings
+35380 [Cheat Shop - Armor] Crown of Dusk
+35381 [Cheat Shop - Armor] Antiquated Dress
+35382 [Cheat Shop - Armor] Antiquated Gloves
+35383 [Cheat Shop - Armor] Antiquated Skirt
+35384 [Cheat Shop - Armor] Karla's Pointed Hat
+35385 [Cheat Shop - Armor] Karla's Coat
+35386 [Cheat Shop - Armor] Karla's Gloves
+35387 [Cheat Shop - Armor] Karla's Trousers
+35388 [Cheat Shop - Armor] Burial Knight Helm
+35389 [Cheat Shop - Armor] Burial Knight Armor
+35390 [Cheat Shop - Armor] Burial Knight Gauntlets
+35391 [Cheat Shop - Armor] Burial Knight Leggings
+35392 [Cheat Shop - Armor] Vileblood Helm
+35393 [Cheat Shop - Armor] Vileblood Armor
+35394 [Cheat Shop - Armor] Vileblood Gauntlets
+35395 [Cheat Shop - Armor] Vileblood Leggings
+35396 [Cheat Shop - Armor] Executioner Gauntlets
+35397 [Cheat Shop - Armor] Iron Keeper Helm
+35398 [Cheat Shop - Armor] Iron Cage
+35399 [Cheat Shop - Armor] Gold Ardeo
+35401 [Cheat Shop - Armor] Gargoyle Helm
+35402 [Cheat Shop - Armor] Pursuer's Helm
+35403 [Cheat Shop - Armor] Pursuer's Armor
+35404 [Cheat Shop - Armor] Pursuer's Gauntlets
+35405 [Cheat Shop - Armor] Pursuer's Leggings
+35407 [Cheat Shop - Armor] Skull Mask
+35408 [Cheat Shop - Armor] Wanderer's Coat
+35409 [Cheat Shop - Armor] Mask of the Father
+35410 [Cheat Shop - Armor] Mask of the Mother
+35411 [Cheat Shop - Armor] Mask of the Child
+35412 [Cheat Shop - Armor] Soldier's Hood
+35413 [Cheat Shop - Armor] Frigid Valley Mask
+35414 [Cheat Shop - Armor] Giant Helm
+35415 [Cheat Shop - Armor] Giant Armor
+35416 [Cheat Shop - Armor] Giant Gauntlets
+35417 [Cheat Shop - Armor] Giant Leggings
+35418 [Cheat Shop - Armor] Black Dragon Helm
+35419 [Cheat Shop - Armor] Black Dragon Armor
+35420 [Cheat Shop - Armor] Black Dragon Gauntlets
+35421 [Cheat Shop - Armor] Black Dragon Leggings
+35422 [Cheat Shop - Armor] Crown of the Great Lord
+35423 [Cheat Shop - Armor] Robe of the Great Lord
+35424 [Cheat Shop - Armor] Bracelet of the Great Lord
+35425 [Cheat Shop - Armor] Anklet of the Great Lord
+35426 [Cheat Shop - Armor] Crown of the Dark Sun
+35427 [Cheat Shop - Armor] Moonlight Robe
+35428 [Cheat Shop - Armor] Moonlight Gloves
+35429 [Cheat Shop - Armor] Moonlight Waistcloth
+35430 [Cheat Shop - Armor] Porcelain Mask
+35431 [Cheat Shop - Armor] Lord's Blade Robe
+35432 [Cheat Shop - Armor] Lord's Blade Gloves
+35433 [Cheat Shop - Armor] Lord's Blade Waistcloth
+35434 [Cheat Shop - Armor] Paladin Helm
+35435 [Cheat Shop - Armor] Paladin Armor
+35436 [Cheat Shop - Armor] Paladin Gauntlets
+35437 [Cheat Shop - Armor] Paladin Leggings
+35438 [Cheat Shop - Armor] Mask of Velka
+35439 [Cheat Shop - Armor] Black Cleric Robe
+35440 [Cheat Shop - Armor] Black Manchettes
+35441 [Cheat Shop - Armor] Black Tights
+35442 [Cheat Shop - Armor] Dragonrider Helm
+35443 [Cheat Shop - Armor] Dragonrider Armor
+35444 [Cheat Shop - Armor] Dragonrider Gauntlets
+35445 [Cheat Shop - Armor] Dragonrider Leggings
+35446 [Cheat Shop - Armor] Ancient King's Mask
+35447 [Cheat Shop - Armor] Ancient King's Breastplate
+35448 [Cheat Shop - Armor] Ancient King's Gauntlets
+35449 [Cheat Shop - Armor] Ancient King's Leggings
+35450 [Cheat Shop - Armor] Binded Hood
+35451 [Cheat Shop - Armor] Binded Cross
+35452 [Cheat Shop - Armor] Binded Gloves
+35453 [Cheat Shop - Armor] Binded Boots
+35454 [Cheat Shop - Armor] Brushwood Helm
+35455 [Cheat Shop - Armor] Brushwood Armor
+35456 [Cheat Shop - Armor] Brushwood Gauntlets
+35457 [Cheat Shop - Armor] Brushwood Leggings
+35458 [Cheat Shop - Armor] Venerable Sage's Hood
+35459 [Cheat Shop - Armor] Venerable Sage's Robe
+35460 [Cheat Shop - Armor] Venerable Sage's Gloves
+35461 [Cheat Shop - Armor] Venerable Sage's Boots
+35462 [Cheat Shop - Armor] Gloom Helm
+35463 [Cheat Shop - Armor] Gloom Armor
+35464 [Cheat Shop - Armor] Gloom Gauntlets
+35465 [Cheat Shop - Armor] Gloom Leggings
+35466 [Cheat Shop - Armor] Penetrator Helm
+35467 [Cheat Shop - Armor] Penetrator Armor
+35468 [Cheat Shop - Armor] Penetrator Gauntlets
+35469 [Cheat Shop - Armor] Penetrator Leggings
+35470 [Cheat Shop - Armor] Quicksilver Helm
+35471 [Cheat Shop - Armor] Quicksilver Armor
+35472 [Cheat Shop - Armor] Quicksilver Gauntlets
+35473 [Cheat Shop - Armor] Quicksilver Leggings
+35474 [Cheat Shop - Armor] Heide Mask
+35475 [Cheat Shop - Armor] Pontiff's Crown
+35476 [Cheat Shop - Armor] Pontiff's Bracelets
+35477 [Cheat Shop - Armor] Giant Slave Helmet
+35478 [Cheat Shop - Armor] Gargoyle Skull
+35479 [Cheat Shop - Armor] Demon Cleric Mask
+35480 [Cheat Shop - Armor] Crab Helmet
+35481 [Cheat Shop - Armor] Corvian Knight Helmet
+35482 [Cheat Shop - Armor] Ludleth's Crown
+35483 [Cheat Shop - Armor] Alonne's Helm
+35484 [Cheat Shop - Armor] Alonne's Armor
+35485 [Cheat Shop - Armor] Alonne's Gauntlets
+35486 [Cheat Shop - Armor] Alonne's Leggings
+35487 [Cheat Shop - Armor] Rampart Golem Helm
+35488 [Cheat Shop - Armor] Rampart Golem Armor
+35489 [Cheat Shop - Armor] Rampart Golem Gauntlets
+35490 [Cheat Shop - Armor] Rampart Golem Leggings
+35491 [Cheat Shop - Armor] Smelter Demon Helm
+35492 [Cheat Shop - Armor] Smelter Demon Armor
+35493 [Cheat Shop - Armor] Smelter Demon Gauntlets
+35494 [Cheat Shop - Armor] Smelter Demon Leggings
+35495 [Cheat Shop - Armor] Bone Ash Mask
+35496 [Cheat Shop - Armor] Bone Ash Armor
+35497 [Cheat Shop - Armor] Bone Ash Gauntlets
+35498 [Cheat Shop - Armor] Bone Ash Leggings
+35499 [Cheat Shop - Armor] Heide Knight Greathelm
+35500 [Cheat Shop - Armor] Heide Knight Chainmail
+35501 [Cheat Shop - Armor] Heide Knight Gauntlets
+35502 [Cheat Shop - Armor] Heide Knight Leggings
+35503 [Cheat Shop - Armor] Imperious Helm
+35504 [Cheat Shop - Armor] Imperious Armor
+35505 [Cheat Shop - Armor] Imperious Gauntlets
+35506 [Cheat Shop - Armor] Imperious Leggings
+35507 [Cheat Shop - Armor] Mask of Horror
+35508 [Cheat Shop - Armor] Mask of Cruelty
+35509 [Cheat Shop - Armor] Mask of Serenity
+35510 [Cheat Shop - Armor] Mask of War
+35511 [Cheat Shop - Armor] Imperial Samurai Helm
+35512 [Cheat Shop - Armor] Horned Samurai Helm
+35513 [Cheat Shop - Armor] Ornate Samurai Helm
+35514 [Cheat Shop - Armor] Black Metal Hat
+35515 [Cheat Shop - Armor] Tan Straw Hat
+35516 [Cheat Shop - Armor] Carthus Blindfold
+35517 [Cheat Shop - Armor] Crown of Filianore
+35518 [Cheat Shop - Armor] Crown of the Holy King
+35519 [Cheat Shop - Armor] Pygmy Crown
+35520 [Cheat Shop - Armor] Old Demon King's Crown
+35521 [Cheat Shop - Armor] Mask of Sin
+35522 [Cheat Shop - Armor] Poisonhorn Cap
+35523 [Cheat Shop - Armor] Vagabond Cowl
+35524 [Cheat Shop - Armor] Hollow Head
+35525 [Cheat Shop - Armor] Basilisk Cap
+35526 [Cheat Shop - Armor] Deserter Helm
+35527 [Cheat Shop - Armor] Pot
+35528 [Cheat Shop - Armor] Raven Mask
+35529 [Cheat Shop - Armor] Crown of the Fallen
+35530 [Cheat Shop - Armor] Hallowed Knight Helm
+35531 [Cheat Shop - Armor] Hallowed Knight Armor
+35532 [Cheat Shop - Armor] Hallowed Knight Gauntlets
+35533 [Cheat Shop - Armor] Hallowed Knight Leggings
+35534 [Cheat Shop - Armor] Courtier's Wig
+35535 [Cheat Shop - Armor] Courtier's Garb
+35536 [Cheat Shop - Armor] Courtier's Gloves
+35537 [Cheat Shop - Armor] Courtier's Trousers
+35538 [Cheat Shop - Armor] Steel Helm
+35539 [Cheat Shop - Armor] Steel Armor
+35540 [Cheat Shop - Armor] Steel Gauntlets
+35541 [Cheat Shop - Armor] Steel Leggings
+35542 [Cheat Shop - Armor] Drakekeeper Helm
+35543 [Cheat Shop - Armor] Drakekeeper Armor
+35544 [Cheat Shop - Armor] Drakekeeper Gauntlets
+35545 [Cheat Shop - Armor] Drakekeeper Leggings
+35546 [Cheat Shop - Armor] Ivory King Helm
+35547 [Cheat Shop - Armor] Ivory King Armor
+35548 [Cheat Shop - Armor] Ivory King Gauntlets
+35549 [Cheat Shop - Armor] Ivory King Leggings
+35550 [Cheat Shop - Armor] Mad Warrior Mask
+35551 [Cheat Shop - Armor] Mad Warrior Armor
+35552 [Cheat Shop - Armor] Mad Warrior Gauntlets
+35553 [Cheat Shop - Armor] Mad Warrior Leggings
+35554 [Cheat Shop - Armor] Mirror Knight Helm
+35555 [Cheat Shop - Armor] Mirror Knight Armor
+35556 [Cheat Shop - Armor] Mirror Knight Gauntlets
+35557 [Cheat Shop - Armor] Mirror Knight Leggings
+35558 [Cheat Shop - Armor] Syan Knight Helm
+35559 [Cheat Shop - Armor] Syan Knight Armor
+35560 [Cheat Shop - Armor] Syan Knight Gauntlets
+35561 [Cheat Shop - Armor] Syan Knight Leggings
+35562 [Cheat Shop - Armor] Helm of the Wise
+35563 [Cheat Shop - Armor] Armor of the Glorious
+35564 [Cheat Shop - Armor] Gauntlets of the Vanquisher
+35565 [Cheat Shop - Armor] Boots of the Explorer
+35566 [Cheat Shop - Armor] Gold-Hemmed Black Hood
+35567 [Cheat Shop - Armor] Gold-Hemmed Black Cloak
+35568 [Cheat Shop - Armor] Gold-Hemmed Black Gloves
+35569 [Cheat Shop - Armor] Gold-Hemmed Black Skirt
+35570 [Cheat Shop - Armor] Charred Loyce Helm
+35571 [Cheat Shop - Armor] Charred Loyce Armor
+35572 [Cheat Shop - Armor] Charred Loyce Gauntlets
+35573 [Cheat Shop - Armor] Charred Loyce Leggings
+35574 [Cheat Shop - Armor] Hood of the Forlorn
+35575 [Cheat Shop - Armor] Armor of the Forlorn
+35576 [Cheat Shop - Armor] Gauntlets of the Forlorn
+35577 [Cheat Shop - Armor] Leggings of the Forlorn
+35578 [Cheat Shop - Armor] Jester's Cap
+35579 [Cheat Shop - Armor] Jester's Robes
+35580 [Cheat Shop - Armor] Jester's Gloves
+35581 [Cheat Shop - Armor] Jester's Tights
+35582 [Cheat Shop - Armor] Royal Soldier Helm
+35583 [Cheat Shop - Armor] Royal Soldier Armor
+35584 [Cheat Shop - Armor] Royal Soldier Gauntlets
+35585 [Cheat Shop - Armor] Royal Soldier Leggings
+35586 [Cheat Shop - Armor] Loyce Helm
+35587 [Cheat Shop - Armor] Loyce Armor
+35588 [Cheat Shop - Armor] Loyce Gauntlets
+35589 [Cheat Shop - Armor] Loyce Leggings
+35590 [Cheat Shop - Armor] Black Stag Helm
+35591 [Cheat Shop - Armor] Golem Helm
+35592 [Cheat Shop - Armor] Golem Armor
+35593 [Cheat Shop - Armor] Golem Gauntlets
+35594 [Cheat Shop - Armor] Golem Leggings
+35595 [Cheat Shop - Armor] Manikin Mask
+35596 [Cheat Shop - Armor] Manikin Top
+35597 [Cheat Shop - Armor] Manikin Gloves
+35598 [Cheat Shop - Armor] Manikin Boots
+35599 [Cheat Shop - Armor] Crude Manikin Mask
+35600 [Cheat Shop - Armor] Stone Helm
+35601 [Cheat Shop - Armor] Stone Armor
+35602 [Cheat Shop - Armor] Stone Gauntlets
+35603 [Cheat Shop - Armor] Stone Leggings
+35604 [Cheat Shop - Armor] Guardian Helm
+35605 [Cheat Shop - Armor] Guardian Armor
+35606 [Cheat Shop - Armor] Guardian Gauntlets
+35607 [Cheat Shop - Armor] Guardian Leggings
+35608 [Cheat Shop - Armor] Gough's Helm
+35609 [Cheat Shop - Armor] Gough's Armor
+35610 [Cheat Shop - Armor] Gough's Gloves
+35611 [Cheat Shop - Armor] Gough's Leggings
+35612 [Cheat Shop - Armor] Mask of the Sealer
+35613 [Cheat Shop - Armor] Crimson Robe
+35614 [Cheat Shop - Armor] Crimson Gloves
+35615 [Cheat Shop - Armor] Crimson Waistcloth
+35616 [Cheat Shop - Armor] Six-Eyed Helm of the Channelers
+35617 [Cheat Shop - Armor] Robe of the Channelers
+35618 [Cheat Shop - Armor] Gauntlets of the Channelers
+35619 [Cheat Shop - Armor] Waistcloth of the Channelers
+35620 [Cheat Shop - Armor] Moon Hat
+35621 [Cheat Shop - Armor] Astrologist's Robe
+35622 [Cheat Shop - Armor] Astrologist's Gloves
+35623 [Cheat Shop - Armor] Astrologist's Waistcloth
+35624 [Cheat Shop - Armor] Helm of Aurous
+35625 [Cheat Shop - Armor] Armor of Aurous
+35626 [Cheat Shop - Armor] Gauntlets of Aurous
+35627 [Cheat Shop - Armor] Leggings of Aurous
+35628 [Cheat Shop - Armor] Dragon Acolyte Mask
+35629 [Cheat Shop - Armor] Dragon Acolyte Robe
+35630 [Cheat Shop - Armor] Dragon Acolyte Gloves
+35631 [Cheat Shop - Armor] Dragon Acolyte Leggings
+35632 [Cheat Shop - Armor] Vengarl's Helm
+35633 [Cheat Shop - Armor] Vengarl's Armor
+35634 [Cheat Shop - Armor] Vengarl's Gloves
+35635 [Cheat Shop - Armor] Vengarl's Leggings
+35636 [Cheat Shop - Armor] Snickering Top Hat
+35637 [Cheat Shop - Armor] Chester's Long Coat
+35638 [Cheat Shop - Armor] Chester's Gloves
+35639 [Cheat Shop - Armor] Chester's Trousers
 36000 [Bonfire - Dreamcatcher's Ashes] Titanite Shard
 36001 [Bonfire - Grave Warden's Ashes] Large Titanite Shard
 36002 [Bonfire - Easterner's Ashes] Titanite Chunk
@@ -1733,81 +1913,13 @@
 36136 [Bonfire - Crystal Sage] Crystal Fragment
 36137 [Bonfire - Wolnir] Abyssal Fragment
 36138 [Bonfire - Deacons] Holy Fragment
-36139 [Bonfire - Primordial Forging] Primordial Titanite
-36140 [Bonfire - Primordial Forging] Primordial Essence
-36141 Ring of Betrothal
-37000 [Firekeeper - Memories] Dream of Corrupted Gundyr
-37001 [Firekeeper - Memories] Dream of Vordt
-37002 [Firekeeper - Memories] Dream of the Rotted Greatwood
-37003 [Firekeeper - Memories] Dream of the Crystal Sage
-37004 [Firekeeper - Memories] Dream of the Deacons
-37005 [Firekeeper - Memories] Dream of the Abyss Watchers
-37006 [Firekeeper - Memories] Dream of High Lord Wolnir
-37007 [Firekeeper - Memories] Dream of Old Demon King
-37008 [Firekeeper - Memories] Dream of Pontiff Sulyvahn
-37009 [Firekeeper - Memories] Dream of Aldrich
-37010 [Firekeeper - Memories] Dream of Yhorm the Giant
-37011 [Firekeeper - Memories] Dream of the Dancer
-37012 [Firekeeper - Memories] Dream of Oceiros
-37013 [Firekeeper - Memories] Dream of Dragonslayer Armour
-37014 [Firekeeper - Memories] Dream of the Ancient Wyvern
-37015 [Firekeeper - Memories] Dream of the Nameless King
-37016 [Firekeeper - Memories] Dream of Champion Gundyr
-37017 [Firekeeper - Memories] Dream of the Twin Princes
-37018 [Firekeeper - Memories] Dream of Cinder
-37019 [Firekeeper - Memories] Dream of Sister Friede
-37020 [Firekeeper - Memories] Dream of the Triad
-37021 [Firekeeper - Memories] Dream of the Demon Prince
-37022 [Firekeeper - Memories] Dream of Darkeater Midir
-37023 [Firekeeper - Memories] Dream of Slave Knight Gael
-37100 [Firekeeper - Memories] Nightmare of Corrupted Gundyr
-37101 [Firekeeper - Memories] Nightmare of Vordt
-37102 [Firekeeper - Memories] Nightmare of the Rotted Greatwood
-37103 [Firekeeper - Memories] Nightmare of the Crystal Sage
-37104 [Firekeeper - Memories] Nightmare of the Deacons
-37105 [Firekeeper - Memories] Nightmare of the Abyss Watchers
-37106 [Firekeeper - Memories] Nightmare of High Lord Wolnir
-37107 [Firekeeper - Memories] Nightmare of Old Demon King
-37108 [Firekeeper - Memories] Nightmare of Pontiff Sulyvahn
-37109 [Firekeeper - Memories] Nightmare of Aldrich
-37110 [Firekeeper - Memories] Nightmare of Yhorm the Giant
-37111 [Firekeeper - Memories] Nightmare of the Dancer
-37112 [Firekeeper - Memories] Nightmare of Oceiros
-37113 [Firekeeper - Memories] Nightmare of Dragonslayer Armour
-37114 [Firekeeper - Memories] Nightmare of the Ancient Wyvern
-37115 [Firekeeper - Memories] Nightmare of the Nameless King
-37116 [Firekeeper - Memories] Nightmare of Champion Gundyr
-37117 [Firekeeper - Memories] Nightmare of the Twin Princes
-37118 [Firekeeper - Memories] Nightmare of Cinder
-37119 [Firekeeper - Memories] Nightmare of Sister Friede
-37120 [Firekeeper - Memories] Nightmare of the Triad
-37121 [Firekeeper - Memories] Nightmare of the Demon Prince
-37122 [Firekeeper - Memories] Nightmare of Darkeater Midir
-37123 [Firekeeper - Memories] Nightmare of Slave Knight Gael
-40000 [Yuria] Dark Hand
-40001 [Yuria] Londor Braille Divine Tome
-40002 [Yuria] Ring of Sacrifice
-40003 [Yuria] Untrue White Ring
-40004 [Yuria] Untrue Dark Ring
-40005 [Yuria] Purging Stone
-40006 [Yuria] Poison Throwing Knife
-40007 [Yuria] Affinity
-40008 [Yuria] Abyssal Edge
-40009 [Yuria] Black Fire Orb
-40010 [Yuria] Gnaw
-40011 [Yuria] Vow of Silence
-40012 [Yuria] Dark Blade
-40013 [Yuria] Dead Again
-50000 [Yoel] Soul Arrow
-50001 [Yoel] Magic Weapon
-50002 [Yoel] Magic Shield
-50003 [Yoel] Deep Soul
-50004 [Yoel] Dark Edge
-50005 [Yoel] Black Flame
-50006 [Yoel] Deep Protection
-50007 [Yoel] Deep Barb
-50008 [Yoel] Nibble
-50100 [Yoel] Soul Greatsword
+40000 [Yuria] Purging Stone
+40001 [Yuria] Poison Throwing Knife
+40002 [Yuria] Morion Blade
+50000 [Yoel] Ring of Sacrifice
+50001 [Yoel] Dark Hand
+50002 [Yuria] Elixir of Cooperation
+50003 [Yuria] Elixir of Deceit
 100000 [Andre] Dagger
 100001 [Andre] Bandit's Knife
 100010 [Andre] Parrying Dagger
@@ -1924,7 +2036,6 @@
 110006 [Shrine Handmaid] Henbane
 110008 [Shrine Handmaid] White Sign Soapstone
 110009 [Shrine Handmaid] Dried Finger
-110010 [Shrine Handmaid] Tower Key
 110022 [Shrine Handmaid] Fire Stone
 110023 [Shrine Handmaid] Magic Stone
 110024 [Shrine Handmaid] Lightning Stone
@@ -1934,6 +2045,8 @@
 110028 [Shrine Handmaid] Frost Stone
 110029 [Shrine Handmaid] Enchanted Stone
 110030 [Shrine Handmaid] Blessed Stone
+110031 [Shrine Handmaid] Cleansing Stone
+110032 [Shrine Handmaid] Cleansing Elixir
 110040 [Shrine Handmaid] Sorcerer's Staff
 110041 [Shrine Handmaid] Talisman
 110042 [Shrine Handmaid] Pyromancy Flame
@@ -1960,11 +2073,6 @@
 110357 [Shrine Handmaid - Xanthous Ashes] Xanthous Crown
 110402 [Shrine Handmaid - Hollow's Ashes] Ring of Sacrifice
 110450 [Shrine Handmaid - Dragon Chaser's Ashes] Very good! Carving
-110451 [Shrine Handmaid - Dragon Chaser's Ashes] Dragonrider Helm
-110452 [Shrine Handmaid - Dragon Chaser's Ashes] Dragonrider Armor
-110453 [Shrine Handmaid - Dragon Chaser's Ashes] Dragonrider Gauntlets
-110454 [Shrine Handmaid - Dragon Chaser's Ashes] Dragonrider Leggings
-110455 [Shrine Handmaid - Dragon Chaser's Ashes] Dragonrider Halberd
 110500 [Shrine Handmaid - Easterner's Ashes] Wood Grain Ring
 110501 [Shrine Handmaid - Easterner's Ashes] Eastern Helm
 110502 [Shrine Handmaid - Easterner's Ashes] Eastern Armor
@@ -1980,6 +2088,7 @@
 110563 [Shrine Handmaid - Soul of Cinder] Anklet of the Great Lord
 110564 [Shrine Handmaid - Pontiff Sulyvahn] Pontiff's Crown
 110565 [Shrine Handmaid - Pontiff Sulyvahn] Pontiff's Bracelets
+110570 [Shrine Handmaid - Old Demon King] Old Demon King's Crown
 110600 [Shrine Handmaid - Nameless King] Golden Crown
 110601 [Shrine Handmaid - Nameless King] Dragonscale Armor
 110602 [Shrine Handmaid - Nameless King] Golden Bracelets
@@ -1992,10 +2101,15 @@
 110701 [Shrine Handmaid - Aldrich] Smough's Armor
 110702 [Shrine Handmaid - Aldrich] Smough's Gauntlets
 110703 [Shrine Handmaid - Aldrich] Smough's Leggings
-110750 [Shrine Handmaid - Lothric] Lorian's Helm
-110751 [Shrine Handmaid - Lothric] Lorian's Armor
-110752 [Shrine Handmaid - Lothric] Lorian's Gauntlets
-110753 [Shrine Handmaid - Lothric] Lorian's Leggings
+110750 [Shrine Handmaid - Twin Princes] Lorian's Helm
+110751 [Shrine Handmaid - Twin Princes] Lorian's Armor
+110752 [Shrine Handmaid - Twin Princes] Lorian's Gauntlets
+110753 [Shrine Handmaid - Twin Princes] Lorian's Leggings
+110754 [Shrine Handmaid - Twin Princes] Crown of the Holy King
+110760 [Shrine Handmaid - Yhorm the Giant] Imperious Helm
+110761 [Shrine Handmaid - Yhorm the Giant] Imperious Armor
+110762 [Shrine Handmaid - Yhorm the Giant] Imperious Gauntlets
+110763 [Shrine Handmaid - Yhorm the Giant] Imperious Leggings
 110800 [Shrine Handmaid - Champion Gundyr] Gundyr's Helm
 110801 [Shrine Handmaid - Champion Gundyr] Gundyr's Armor
 110802 [Shrine Handmaid - Champion Gundyr] Gundyr's Gauntlets
@@ -2043,9 +2157,6 @@
 111451 [Shrine Handmaid - Knight Slayer Tsorig] Black Iron Armor
 111452 [Shrine Handmaid - Knight Slayer Tsorig] Black Iron Gauntlets
 111453 [Shrine Handmaid - Knight Slayer Tsorig] Black Iron Leggings
-111500 [Shrine Handmaid - Orbeck] Clandestine Coat
-111501 [Shrine Handmaid - Orbeck]Slumbering Dragoncrest Ring
-111502 [Shrine Handmaid - Orbeck]Young Dragon Ring
 111550 [Shrine Handmaid - Sulyvahn's Beasts] Helm of Favor
 111551 [Shrine Handmaid - Sulyvahn's Beasts] Embraced Armor of Favor
 111552 [Shrine Handmaid - Sulyvahn's Beasts] Gauntlets of Favor
@@ -2054,227 +2165,25 @@
 111561 [Shrine Handmaid - Lapp] Lapp's Armor
 111562 [Shrine Handmaid - Lapp] Lapp's Gauntlets
 111563 [Shrine Handmaid - Lapp] Lapp's Leggings
-111570 [Shrine Handmaid - Triad] Porcelain Mask
-111571 [Shrine Handmaid - Triad] Lord's Blade Robe
-111572 [Shrine Handmaid - Triad] Lord's Blade Gloves
-111573 [Shrine Handmaid - Triad] Lord's Blade Waistcloth
+111570 [Shrine Handmaid - Lordran Remnants] Porcelain Mask
+111571 [Shrine Handmaid - Lordran Remnants] Lord's Blade Robe
+111572 [Shrine Handmaid - Lordran Remnants] Lord's Blade Gloves
+111573 [Shrine Handmaid - Lordran Remnants] Lord's Blade Waistcloth
+111574 [Shrine Handmaid - Lordran Remnants] Gough's Helm
+111575 [Shrine Handmaid - Lordran Remnants] Gough's Armor
+111576 [Shrine Handmaid - Lordran Remnants] Gough's Gloves
+111577 [Shrine Handmaid - Lordran Remnants] Gough's Leggings
 111600 [Shrine Handmaid - Sister Friede] Ordained Hood
 111601 [Shrine Handmaid - Sister Friede] Ordained Dress
 111602 [Shrine Handmaid - Sister Friede] Ordained Trousers
+111610 [Shrine Handmaid - Slave Knight Gael] Pygmy Crown
 111651 [Shrine Handmaid - Captain's Ashes] Millwood Knight Helm
 111652 [Shrine Handmaid - Captain's Ashes] Millwood Knight Armor
 111653 [Shrine Handmaid - Captain's Ashes] Millwood Knight Gauntlets
 111654 [Shrine Handmaid - Captain's Ashes] Millwood Knight Leggings
-112000 [Ashes - Yuria] Dark Hand
-112001 [Ashes - Yuria] Londor Braille Divine Tome
-112002 [Ashes - Yuria] Ring of Sacrifice
-112003 [Ashes - Yuria] Untrue White Ring
-112004 [Ashes - Yuria] Untrue Dark Ring
-112005 [Ashes - Yuria] Purging Stone
-112006 [Ashes - Yuria] Poison Throwing Knife
-112007 [Ashes - Yuria] Affinity
-112008 [Ashes - Yuria] Abyssal Edge
-112009 [Ashes - Yuria] Black Fire Orb
-112010 [Ashes - Yuria] Gnaw
-112011 [Ashes - Yuria] Vow of Silence
-112012 [Ashes - Yuria] Dark Blade
-112013 [Ashes - Yuria] Dead Again
-112500 [Ashes - Yoel] Soul Arrow
-112501 [Ashes - Yoel] Magic Weapon
-112502 [Ashes - Yoel] Magic Shield
-112503 [Ashes - Yoel] Deep Soul
-112504 [Ashes - Yoel] Dark Edge
-112505 [Ashes - Yoel] Black Flame
-112506 [Ashes - Yoel] Deep Protection
-112507 [Ashes - Yoel] Deep Barb
-112508 [Ashes - Yoel] Nibble
-112600 [Ashes - Yoel] Soul Greatsword
-113000 [Ashes - Greirat] Bandit's Knife
-113001 [Ashes - Greirat] Long Sword
-113002 [Ashes - Greirat] Bastard Sword
-113003 [Ashes - Greirat] Mace
-113004 [Ashes - Greirat] Spear
-113005 [Ashes - Greirat] Light Crossbow
-113006 [Ashes - Greirat] Buckler
-113007 [Ashes - Greirat] Round Shield
-113008 [Ashes - Greirat] Kite Shield
-113009 [Ashes - Greirat] Elkhorn Round Shield
-113010 [Ashes - Greirat] Standard Helm
-113011 [Ashes - Greirat] Hard Leather Armor
-113012 [Ashes - Greirat] Hard Leather Gauntlets
-113013 [Ashes - Greirat] Hard Leather Boots
-113014 [Ashes - Greirat] Thief Mask
-113015 [Ashes - Greirat] Bloodred Moss Clump
-113016 [Ashes - Greirat] Firebomb
-113017 [Ashes - Greirat] Rope Firebomb
-113018 [Ashes - Greirat] Throwing Knife
-113019 [Ashes - Greirat] Ember
-113100 [Ashes - Greirat - Undead Settlement] Estoc
-113101 [Ashes - Greirat - Undead Settlement] Zweihander
-113102 [Ashes - Greirat - Undead Settlement] Warpick
-113103 [Ashes - Greirat - Undead Settlement] Glaive
-113104 [Ashes - Greirat - Undead Settlement] Fallen Priest's Chime
-113105 [Ashes - Greirat - Undead Settlement] Short Bow
-113106 [Ashes - Greirat - Undead Settlement] Target Shield
-113107 [Ashes - Greirat - Undead Settlement] Knight Shield
-113108 [Ashes - Greirat - Undead Settlement] Knight Helm
-113109 [Ashes - Greirat - Undead Settlement] Knight Armor
-113110 [Ashes - Greirat - Undead Settlement] Knight Gauntlets
-113111 [Ashes - Greirat - Undead Settlement] Knight Leggings
-113112 [Ashes - Greirat - Undead Settlement] Assassin Gloves
-113113 [Ashes - Greirat - Undead Settlement] Assassin Trousers
-113114 [Ashes - Greirat - Undead Settlement] Assassin Armor
-113115 [Ashes - Greirat - Undead Settlement] Assassin Hood
-113116 [Ashes - Greirat - Undead Settlement] Repair Powder
-113117 [Ashes - Greirat - Undead Settlement] Lightning Urn
-113118 [Ashes - Greirat - Undead Settlement] Ember
-113119 [Ashes - Greirat - Undead Settlement] Divine Blessing
-113120 [Ashes - Greirat - Undead Settlement] Pontiff Knight Curved Sword
-113121 [Ashes - Greirat - Undead Settlement] Pontiff Knight Shield
-113122 [Ashes - Greirat - Undead Settlement] Master Key
-113123 [Ashes - Greirat - Undead Settlement] Binded Hood
-113124 [Ashes - Greirat - Undead Settlement] Binded Cross
-113125 [Ashes - Greirat - Undead Settlement] Binded Gloves
-113126 [Ashes - Greirat - Undead Settlement] Binded Boots
-113200 [Ashes - Greirat - Irithyll] Divine Blessing
-113201 [Ashes - Greirat - Irithyll] Hidden Blessing
-113202 [Ashes - Greirat - Irithyll] Titanite Scale
-113203 [Ashes - Greirat - Irithyll] Twinkling Titanite
-113204 [Ashes - Greirat - Irithyll] Scholar's Candlestick
-113205 [Ashes - Greirat - Irithyll] Lothric Knight Sword
-113206 [Ashes - Greirat - Irithyll] Lothric Knight Greatsword
-113207 [Ashes - Greirat - Irithyll] Lothric Knight Long Spear
-113208 [Ashes - Greirat - Irithyll] Knight's Crossbow
-113209 [Ashes - Greirat - Irithyll] Lothric Knight Shield
-113210 [Ashes - Greirat - Irithyll] Lothric Knight Greatshield
-113211 [Ashes - Greirat - Irithyll] Heide Mask
-113212 [Ashes - Greirat - Irithyll] Rampart Golem Lance
-113300 [Ashes - Greirat - Irithyll] Lightning Urn
-114100 [Ashes - Orbeck] Farron Dart
-114101 [Ashes - Orbeck] Soul Arrow
-114102 [Ashes - Orbeck] Scattered Soul Arrow
-114103 [Ashes - Orbeck] Shockwave
-114104 [Ashes - Orbeck] Soul Focus
-114105 [Ashes - Orbeck] Magic Weapon
-114106 [Ashes - Orbeck] Magic Shield
-114107 [Ashes - Orbeck] Soul Greatsword
-114108 [Ashes - Orbeck] Farron Flashsword
-114109 [Ashes - Orbeck] Spook
-114110 [Ashes - Orbeck] Aural Decoy
-114200 [Ashes - Orbeck] Pestilent Mist
-114300 [Ashes - Orbeck] Scattered Farron Dart
-114301 [Ashes - Orbeck] Cast Light
-114302 [Ashes - Orbeck] Farron Hail
-114303 [Ashes - Orbeck] Twisted Wall of Light
-114400 [Ashes - Orbeck] Homing Soulmass
-114401 [Ashes - Orbeck] Soul Spear
-114500 [Ashes - Orbeck] Homing Crystal Soulmass
-114501 [Ashes - Orbeck] Crystal Soul Spear
-114502 [Ashes - Orbeck] Crystal Magic Weapon
-114503 [Ashes - Orbeck] Venerable Sage's Hood
-114504 [Ashes - Orbeck] Venerable Sage's Robe
-114505 [Ashes - Orbeck] Venerable Sage's Gloves
-114506 [Ashes - Orbeck] Venerable Sage's Boots
-114600 [Ashes - Orbeck] Hidden Weapon
-114601 [Ashes - Orbeck] Hidden Body
-114602 [Ashes - Orbeck] Repair
-115000 [Ashes - Cornyx] Pyromancer Crown
-115001 [Ashes - Cornyx] Pyromancer Garb
-115002 [Ashes - Cornyx] Pyromancer Wrap
-115003 [Ashes - Cornyx] Pyromancer Trousers
-115100 [Ashes - Cornyx] Fireball
-115101 [Ashes - Cornyx] Fire Surge
-115102 [Ashes - Cornyx] Great Combustion
-115103 [Ashes - Cornyx] Flash Sweat
-115104 [Ashes - Cornyx] Poison Mist
-115200 [Ashes - Cornyx] Fire Orb
-115201 [Ashes - Cornyx] Profuse Sweat
-115202 [Ashes - Cornyx] Bursting Fireball
-115300 [Ashes - Cornyx] Acid Surge
-115301 [Ashes - Cornyx] Carthus Flame Arc
-115302 [Ashes - Cornyx] Carthus Beacon
-115400 [Ashes - Cornyx] Great Chaos Fire Orb
-115401 [Ashes - Cornyx] Chaos Storm
-116100 [Ashes - Karla] Affinity
-116101 [Ashes - Karla] Abyssal Edge
-116102 [Ashes - Karla] Dark Edge
-116103 [Ashes - Karla] Deep Soul
-116200 [Ashes - Karla] Fire Whip
-116201 [Ashes - Karla] Firestorm
-116202 [Ashes - Karla] Rapport
-116300 [Ashes - Karla] Black Flame
-116301 [Ashes - Karla] Black Fire Orb
-116400 [Ashes - Karla] Deep Protection
-116401 [Ashes - Karla] Gnaw
-116500 [Ashes - Karla] Vow of Silence
-116501 [Ashes - Karla] Dark Blade
-116502 [Ashes - Karla] Dead Again
-117000 [Ashes - Irina] Saint's Ring
-117100 [Ashes - Irina] Heal
-117101 [Ashes - Irina] Replenishment
-117102 [Ashes - Irina] Caressing Tears
-117103 [Ashes - Irina] Homeward
-117104 [Ashes - Irina] Heal Aid
-117200 [Ashes - Irina] Med Heal
-117201 [Ashes - Irina] Tears of Denial
-117202 [Ashes - Irina] Force
-117203 [Ashes - Irina] Way of White Corona
-117300 [Ashes - Irina] Bountiful Light
-117301 [Ashes - Irina] Magic Barrier
-117302 [Ashes - Irina] Blessed Weapon
-117400 [Ashes - Irina] Deep Protection
-117401 [Ashes - Irina] Gnaw
-117402 [Ashes - Irina] Quicksilver Helm
-117403 [Ashes - Irina] Quicksilver Armor
-117404 [Ashes - Irina] Quicksilver Gauntlets
-117405 [Ashes - Irina] Quicksilver Leggings
-117500 [Ashes - Irina] Vow of Silence
-117501 [Ashes - Irina] Dark Blade
-117502 [Ashes - Irina] Dead Again
-118000 [Ashes - Patches] Parrying Dagger
-118001 [Ashes - Patches] Shotel
-118002 [Ashes - Patches] Winged Spear
-118003 [Ashes - Patches] Black Leather Armor
-118004 [Ashes - Patches] Black Leather Gloves
-118005 [Ashes - Patches] Black Leather Boots
-118011 [Ashes - Patches] Alluring Skull
-118012 [Ashes - Patches] Black Firebomb
-118013 [Ashes - Patches] Rope Black Firebomb
-118014 [Ashes - Patches] Human Pine Resin
-118015 [Ashes - Patches] Rubbish
-118016 [Ashes - Patches] Rusted Coin
-118017 [Ashes - Patches] Red Bug Pellet
-118018 [Ashes - Patches] Poison Arrow
-118019 [Ashes - Patches] Smelter Hammer
-118020 [Ashes - Patches] Sunlight Greatsword
-118021 [Ashes - Patches] Beast Cutter
-118022 [Ashes - Patches] Grant
-118023 [Ashes - Patches] Bramd
-118024 [Ashes - Patches] Crypt Blacksword
-118100 [Ashes - Patches] Ember
-118200 [Ashes - Patches] Hidden Blessing
-118300 [Ashes - Patches] Horsehoof Ring
-119000 [Ashes - Old Hag] Splitleaf Greatsword
-119005 [Ashes - Old Hag] Gloom Helm
-119006 [Ashes - Old Hag] Gloom Armor
-119007 [Ashes - Old Hag] Gloom Gauntlets
-119008 [Ashes - Old Hag] Gloom Leggings
-119009 [Ashes - Old Hag] Brushwood Helm
-119010 [Ashes - Old Hag] Brushwood Armor
-119011 [Ashes - Old Hag] Brushwood Gauntlets
-119012 [Ashes - Old Hag] Brushwood Leggings
-119014 [Ashes - Old Hag] Devil's Trumpet
-119015 [Ashes - Old Hag] Moonflower
-119016 [Ashes - Old Hag] Henbane
 119904 [Shrine Handmaid - Untended Graves] White Sign Soapstone
 119905 [Shrine Handmaid - Untended Graves] Dried Finger
-119906 [Shrine Handmaid - Untended Graves] Tower Key
 119907 [Shrine Handmaid - Untended Graves] Priestess Ring
-119909 [Shrine Handmaid - Untended Graves] Master Key
-119910 [Shrine Handmaid - Untended Graves] Ancient King's Mask
-119911 [Shrine Handmaid - Untended Graves] Ancient King's Breastplate
-119912 [Shrine Handmaid - Untended Graves] Ancient King's Gauntlets
-119913 [Shrine Handmaid - Untended Graves] Ancient King's Leggings
 120000 [Greirat] Bandit's Knife
 120001 [Greirat] Long Sword
 120002 [Greirat] Bastard Sword
@@ -2295,132 +2204,166 @@
 120017 [Greirat] Rope Firebomb
 120018 [Greirat] Throwing Knife
 120019 [Greirat] Ember
-120100 [Greirat - Undead Settlement] Estoc
-120101 [Greirat - Undead Settlement] Zweihander
-120102 [Greirat - Undead Settlement] Warpick
-120103 [Greirat - Undead Settlement] Glaive
-120104 [Greirat - Undead Settlement] Fallen Priest's Chime
-120105 [Greirat - Undead Settlement] Short Bow
-120106 [Greirat - Undead Settlement] Target Shield
-120107 [Greirat - Undead Settlement] Knight Shield
-120108 [Greirat - Undead Settlement] Knight Helm
-120109 [Greirat - Undead Settlement] Knight Armor
-120110 [Greirat - Undead Settlement] Knight Gauntlets
-120111 [Greirat - Undead Settlement] Knight Leggings
-120112 [Greirat - Undead Settlement] Assassin Gloves
-120113 [Greirat - Undead Settlement] Assassin Trousers
-120114 [Greirat - Undead Settlement] Assassin Armor
-120115 [Greirat - Undead Settlement] Assassin Hood
-120116 [Greirat - Undead Settlement] Repair Powder
-120117 [Greirat - Undead Settlement] Lightning Urn
-120118 [Greirat - Undead Settlement] Ember
-120119 [Greirat - Undead Settlement] Divine Blessing
-120120 [Greirat - Undead Settlement] Pontiff Knight Curved Sword
-120121 [Greirat - Undead Settlement] Pontiff Knight Shield
-120122 [Greirat - Undead Settlement] Master Key
-120123 [Greirat - Undead Settlement] Binded Hood
-120124 [Greirat - Undead Settlement] Binded Cross
-120125 [Greirat - Undead Settlement] Binded Gloves
-120126 [Greirat - Undead Settlement] Binded Boots
-120200 [Greirat - Irithyll] Divine Blessing
-120201 [Greirat - Irithyll] Hidden Blessing
-120202 [Greirat - Irithyll] Titanite Scale
-120203 [Greirat - Irithyll] Twinkling Titanite
-120204 [Greirat - Irithyll] Scholar's Candlestick
-120205 [Greirat - Irithyll] Lothric Knight Sword
-120206 [Greirat - Irithyll] Lothric Knight Greatsword
-120207 [Greirat - Irithyll] Lothric Knight Long Spear
-120208 [Greirat - Irithyll] Knight's Crossbow
-120209 [Greirat - Irithyll] Lothric Knight Shield
-120210 [Greirat - Irithyll] Lothric Knight Greatshield
-120211 [Greirat - Irithyll] Heide Mask
-120212 [Greirat - Irithyll] Rampart Golem Lance
-120300 [Greirat - Ashes] Lightning Urn
-130000 [Orbeck] Sorcerer Hood
-130001 [Orbeck] Sorcerer Robe
-130002 [Orbeck] Sorcerer Gloves
-130003 [Orbeck] Sorcerer Trousers
-130005 [Orbeck - Crystal Scroll] Venerable Sage's Hood
-130006 [Orbeck - Crystal Scroll] Venerable Sage's Robe
-130007 [Orbeck - Crystal Scroll] Venerable Sage's Gloves
-130008 [Orbeck - Crystal Scroll] Venerable Sage's Boots
-130100 [Orbeck] Farron Dart
-130101 [Orbeck] Soul Arrow
-130102 [Orbeck] Scattered Soul Arrow
-130103 [Orbeck] Shockwave
-130104 [Orbeck] Soul Focus
-130105 [Orbeck] Magic Weapon
-130106 [Orbeck] Magic Shield
-130107 [Orbeck] Soul Greatsword
-130108 [Orbeck] Farron Flashsword
-130109 [Orbeck] Spook
-130110 [Orbeck] Aural Decoy
-130200 [Orbeck - Any Scroll] Pestilent Mist
-130300 [Orbeck - Sage's Scroll] Scattered Farron Dart
-130301 [Orbeck - Sage's Scroll] Farron Hail
-130400 [Orbeck - Logan's Scroll] Homing Soulmass
-130401 [Orbeck - Logan's Scroll] Soul Spear
-130500 [Orbeck - Crystal Scroll] Homing Crystal Soulmass
-130501 [Orbeck - Crystal Scroll] Crystal Soul Spear
-130502 [Orbeck - Crystal Scroll] Crystal Magic Weapon
-130600 [Orbeck - Golden Scroll] Hidden Weapon
-130601 [Orbeck - Golden Scroll] Hidden Body
-130602 [Orbeck - Golden Scroll] Repair
-130603 [Orbeck - Golden Scroll] Cast Light
-130604 [Orbeck - Golden Scroll] Twisted Wall of Light
-140000 [Cornyx] Pyromancer Crown
-140001 [Cornyx] Pyromancer Garb
-140002 [Cornyx] Pyromancer Wrap
-140003 [Cornyx] Pyromancer Trousers
-140100 [Cornyx] Fireball
-140101 [Cornyx] Fire Surge
-140102 [Cornyx] Great Combustion
-140103 [Cornyx] Flash Sweat
-140200 [Cornyx - Great Swamp] Fire Orb
-140201 [Cornyx - Great Swamp] Profuse Sweat
-140202 [Cornyx - Great Swamp] Bursting Fireball
-140203 [Cornyx - Great Swamp] Poison Mist
-140300 [Cornyx - Carthus] Acid Surge
-140301 [Cornyx - Carthus] Carthus Flame Arc
-140302 [Cornyx - Carthus] Carthus Beacon
-140400 [Cornyx - Izalith] Great Chaos Fire Orb
-140401 [Cornyx - Izalith] Chaos Storm
-150100 [Karla] Affinity
-150101 [Karla] Abyssal Edge
-150102 [Karla] Dark Edge
-150103 [Karla] Deep Soul
-150200 [Karla - Quelana] Fire Whip
-150201 [Karla - Quelana] Firestorm
-150202 [Karla - Quelana] Rapport
-150300 [Karla - Grave Warden] Black Flame
-150301 [Karla - Grave Warden] Black Fire Orb
-150400 [Karla - Deep] Deep Protection
-150401 [Karla - Deep] Gnaw
-150500 [Karla - Londor] Vow of Silence
-150501 [Karla - Londor] Dark Blade
-150502 [Karla - Londor] Dead Again
-160000 [Irina] Saint's Ring
-160001 [Irina - Deep] Quicksilver Helm
-160002 [Irina - Deep] Quicksilver Armor
-160003 [Irina - Deep] Quicksilver Gauntlets
-160004 [Irina - Deep] Quicksilver Leggings
-160100 [Irina] Heal
-160101 [Irina] Replenishment
-160102 [Irina] Caressing Tears
-160103 [Irina] Homeward
-160104 [Irina] Heal Aid
-160200 [Irina - Carim] Med Heal
-160201 [Irina - Carim] Tears of Denial
-160202 [Irina - Carim] Force
-160203 [Irina - Carim] Way of White Corona
-160300 [Irina - Lothric] Bountiful Light
-160301 [Irina - Lothric] Magic Barrier
-160302 [Irina - Lothric] Blessed Weapon
-160400 [Irina - Deep] Deep Protection
-160401 [Irina - Deep] Gnaw
-160500 [Irina - Londor] Vow of Silence
-160501 [Irina - Londor] Dark Blade
-160502 [Irina - Londor] Dead Again
+120100 [Greirat - Curse-rotted Greatwood] Estoc
+120101 [Greirat - Curse-rotted Greatwood] Zweihander
+120102 [Greirat - Curse-rotted Greatwood] Warpick
+120103 [Greirat - Curse-rotted Greatwood] Glaive
+120104 [Greirat - Curse-rotted Greatwood] Fallen Priest's Chime
+120105 [Greirat - Curse-rotted Greatwood] Short Bow
+120106 [Greirat - Curse-rotted Greatwood] Target Shield
+120107 [Greirat - Curse-rotted Greatwood] Knight Shield
+120108 [Greirat - Curse-rotted Greatwood] Knight Helm
+120109 [Greirat - Curse-rotted Greatwood] Knight Armor
+120110 [Greirat - Curse-rotted Greatwood] Knight Gauntlets
+120111 [Greirat - Curse-rotted Greatwood] Knight Leggings
+120112 [Greirat - Curse-rotted Greatwood] Assassin Gloves
+120113 [Greirat - Curse-rotted Greatwood] Assassin Trousers
+120114 [Greirat - Curse-rotted Greatwood] Assassin Armor
+120115 [Greirat - Curse-rotted Greatwood] Assassin Hood
+120116 [Greirat - Curse-rotted Greatwood] Repair Powder
+120117 [Greirat - Curse-rotted Greatwood] Lightning Urn
+120118 [Greirat - Curse-rotted Greatwood] Ember
+120119 [Greirat - Curse-rotted Greatwood] Divine Blessing
+120120 [Greirat - Curse-rotted Greatwood] Pontiff Knight Curved Sword
+120121 [Greirat - Curse-rotted Greatwood] Pontiff Knight Shield
+120123 [Greirat - Curse-rotted Greatwood] Binded Hood
+120124 [Greirat - Curse-rotted Greatwood] Binded Cross
+120125 [Greirat - Curse-rotted Greatwood] Binded Gloves
+120126 [Greirat - Curse-rotted Greatwood] Binded Boots
+120200 [Greirat - Pontiff Sulyvahn] Divine Blessing
+120201 [Greirat - Pontiff Sulyvahn] Hidden Blessing
+120202 [Greirat - Pontiff Sulyvahn] Titanite Scale
+120203 [Greirat - Pontiff Sulyvahn] Twinkling Titanite
+120204 [Greirat - Pontiff Sulyvahn] Scholar's Candlestick
+120205 [Greirat - Pontiff Sulyvahn] Lothric Knight Sword
+120206 [Greirat - Pontiff Sulyvahn] Lothric Knight Greatsword
+120207 [Greirat - Pontiff Sulyvahn] Lothric Knight Long Spear
+120208 [Greirat - Pontiff Sulyvahn] Knight's Crossbow
+120209 [Greirat - Pontiff Sulyvahn] Lothric Knight Shield
+120210 [Greirat - Pontiff Sulyvahn] Lothric Knight Greatshield
+120300 [Greirat - Pontiff Sulyvahn] Lightning Urn
+130000 [Orbeck - Shop] Sorcerer Hood
+130001 [Orbeck - Shop] Sorcerer Robe
+130002 [Orbeck - Shop] Sorcerer Gloves
+130003 [Orbeck - Shop] Sorcerer Trousers
+130005 [Orbeck - Shop] Venerable Sage's Hood
+130006 [Orbeck - Shop] Venerable Sage's Robe
+130007 [Orbeck - Shop] Venerable Sage's Gloves
+130008 [Orbeck - Shop] Venerable Sage's Boots
+130100 [Orbeck - Spells] Farron Dart
+130101 [Orbeck - Spells] Soul Arrow
+130102 [Orbeck - Spells] Homing Soulmass
+130103 [Orbeck - Spells] Magic Weapon
+130104 [Orbeck - Spells] Magic Shield
+130105 [Orbeck - Spells] Farron Flashsword
+130106 [Orbeck - Spells] Spook
+130107 [Orbeck - Spells] Aural Decoy
+130120 [Orbeck - Spells - Sage's Scroll] Shockwave
+130121 [Orbeck - Spells - Sage's Scroll] Farron Hail
+130122 [Orbeck - Spells - Sage's Scroll] Scattered Farron Dart
+130123 [Orbeck - Spells - Sage's Scroll] Scattered Soul Arrow
+130140 [Orbeck - Spells - Logan's Scroll] Soul Spear
+130141 [Orbeck - Spells - Logan's Scroll] Great Magic Weapon
+130142 [Orbeck - Spells - Logan's Scroll] Soul Greatsword
+130143 [Orbeck - Spells - Logan's Scroll] Pestilent Mist
+130144 [Orbeck - Spells - Logan's Scroll] Great Magic Shield
+130160 [Orbeck - Spells - Golden Scroll] Blinding Light
+130161 [Orbeck - Spells - Golden Scroll] Hidden Weapon
+130162 [Orbeck - Spells - Golden Scroll] Hidden Body
+130163 [Orbeck - Spells - Golden Scroll] Repair
+130164 [Orbeck - Spells - Golden Scroll] Cast Light
+130165 [Orbeck - Spells - Golden Scroll] Twisted Wall of Light
+130180 [Orbeck - Spells - Crystal Scroll] Soul Stream
+130181 [Orbeck - Spells - Crystal Scroll] Soul Geyser
+130183 [Orbeck - Spells - Crystal Scroll] Homing Crystal Soulmass
+130184 [Orbeck - Spells - Crystal Scroll] Crystal Soul Spear
+130185 [Orbeck - Spells - Crystal Scroll] Crystal Magic Weapon
+140000 [Cornyx - Shop] Pyromancer Crown
+140001 [Cornyx - Shop] Pyromancer Garb
+140002 [Cornyx - Shop] Pyromancer Wrap
+140003 [Cornyx - Shop] Pyromancer Trousers
+140100 [Cornyx - Spells] Fireball
+140101 [Cornyx - Spells] Fire Orb
+140102 [Cornyx - Spells] Flame Fan
+140103 [Cornyx - Spells] Firestorm
+140104 [Cornyx - Spells] Profuse Sweat
+140120 [Cornyx - Spells - Great Swamp] Fire Surge
+140121 [Cornyx - Spells - Great Swamp] Great Combustion
+140122 [Cornyx - Spells - Great Swamp] Flash Sweat
+140123 [Cornyx - Spells - Great Swamp] Poison Mist
+140140 [Cornyx - Spells - Carthus] Toxic Mist
+140141 [Cornyx - Spells - Carthus] Iron Flesh
+140142 [Cornyx - Spells - Carthus] Carthus Flame Arc
+140143 [Cornyx - Spells - Carthus] Carthus Beacon
+140160 [Cornyx - Spells - Izalith] Floating Chaos
+140161 [Cornyx - Spells - Izalith] Bursting Fireball
+140162 [Cornyx - Spells - Izalith] Great Chaos Fire Orb
+140163 [Cornyx - Spells - Izalith] Chaos Storm
+140180 [Cornyx - Spells - Quelana] Power Within
+140181 [Cornyx - Spells - Quelana] Seething Chaos
+140182 [Cornyx - Spells - Quelana] Fire Whip
+140183 [Cornyx - Spells - Quelana] Rapport
+140184 [Cornyx - Spells - Quelana] Sacred Flame
+140200 [Cornyx - Spells - Profaned] Profaned Flame
+140201 [Cornyx - Spells - Profaned] Earthfall
+140202 [Cornyx - Spells - Profaned] Heave Earth
+140203 [Cornyx - Spells - Profaned] Earthquake
+140204 [Cornyx - Spells - Profaned] Acid Surge
+150100 [Karla - Spells] Deep Barb
+150101 [Karla - Spells] Dark Edge
+150102 [Karla - Spells] Deep Soul
+150103 [Karla - Spells] Black Fireball
+150104 [Karla - Spells] Nibble
+150105 [Karla - Spells] Gnaw
+150120 [Karla - Spells - Accursed Scoll] Affinity
+150121 [Karla - Spells - Accursed Scoll] Numbness
+150122 [Karla - Spells - Accursed Scoll] Surging Deep
+150123 [Karla - Spells - Accursed Scoll] Whisper of Despair
+150140 [Karla - Spells - Writhing Tome] Great Deep Soul
+150141 [Karla - Spells - Writhing Tome] Yearning Dregs
+150142 [Karla - Spells - Writhing Tome] Writhing Deep
+150144 [Karla - Spells - Writhing Tome] Abyssal Edge
+150160 [Karla - Spells - Abyssal Tome] Repel
+150161 [Karla - Spells - Abyssal Tome] Climax
+150162 [Karla - Spells - Abyssal Tome] Cascading Deep
+150163 [Karla - Spells - Abyssal Tome] Great Soul Dregs
+150180 [Karla - Spells - Grave Warden] Black Flame
+150181 [Karla - Spells - Grave Warden] Dark Dance
+150182 [Karla - Spells - Grave Warden] Recollection
+150183 [Karla - Spells - Grave Warden] Black Fire Scatter
+150184 [Karla - Spells - Grave Warden] Black Fire Orb
+150201 [Karla - Spells - Deep] Dorhys' Gnawing
+150202 [Karla - Spells - Deep] Devouring Swarm
+150220 [Karla - Spells - Londor] Vow of Silence
+150221 [Karla - Spells - Londor] Dark Blade
+150222 [Karla - Spells - Londor] Dead Again
+150223 [Karla - Spells - Londor] Deep Protection
+160000 [Irina - Shop] Saint's Ring
+160100 [Irina - Spells] Homeward
+160101 [Irina - Spells] Heal Aid
+160102 [Irina - Spells] Lightning Arrow
+160103 [Irina - Spells] Way of White Corona
+160104 [Irina - Spells] Force
+160120 [Irina - Spells - Carim] Heal
+160121 [Irina - Spells - Carim] Replenishment
+160122 [Irina - Spells - Carim] Caressing Tears
+160140 [Irina - Spells - Heavenly] Lightning Spear
+160141 [Irina - Spells - Heavenly] Magic Barrier
+160142 [Irina - Spells - Heavenly] Lightning Blade
+160143 [Irina - Spells - Heavenly] Emit Force
+160160 [Irina - Spells - Lothric] Med Heal
+160161 [Irina - Spells - Lothric] Great Magic Barrier
+160162 [Irina - Spells - Lothric] Bountiful Light
+160163 [Irina - Spells - Lothric] Blessed Weapon
+160164 [Irina - Spells - Lothric] Wrath of the Gods
+160181 [Irina - Spells - Sunlight] Great Lightning Spear
+160182 [Irina - Spells - Sunlight] Tears of Denial
+160184 [Irina - Spells - Sunlight] Sacred Oath
+160185 [Irina - Spells - Sunlight] Great Heal
+160186 [Irina - Spells - Sunlight] Lightning Stake
+160200 [Irina - Spells - Angelic] Angelic Barrage
+160201 [Irina - Spells - Angelic] Vow of Agony
+160203 [Irina - Spells - Angelic] Divine Pillars of Light
 200000 [Patches] Parrying Dagger
 200001 [Patches] Shotel
 200002 [Patches] Winged Spear
@@ -2440,24 +2383,83 @@
 200016 [Patches] Rusted Coin
 200017 [Patches] Red Bug Pellet
 200018 [Patches] Poison Arrow
-200019 [Patches] Smelter Hammer
-200020 [Patches] Sunlight Greatsword
-200021 [Patches] Beast Cutter
-200022 [Patches] Grant
-200023 [Patches] Bramd
-200024 [Patches] Crypt Blacksword
 200100 [Patches] Ember
 200200 [Patches - Lothric Castle] Hidden Blessing
 200300 [Patches] Horsehoof Ring
+210000 [Domhnall of Zena] Estus Shard
+210001 [Domhnall of Zena] Undead Bone Shard
+210002 [Domhnall of Zena] Master Key
+210003 [Domhnall of Zena] Gold Pine Resin
+210004 [Domhnall of Zena] Divine Blessing
+210005 [Domhnall of Zena] Hidden Blessing
+210100 [Domhnall of Zena] Rampart Golem Lance
+210101 [Domhnall of Zena] Crystal Straight Sword
+210102 [Domhnall of Zena] Crystalline Shield
+210103 [Domhnall of Zena] Talisman of Beasts
+210104 [Domhnall of Zena] Smelter Hammer
+210200 [Domhnall of Zena] Ring of the Evil Eye
+210201 [Domhnall of Zena] Wretched Pendant
+210300 [Domhnall of Zena] Mask of Horror
+210301 [Domhnall of Zena] Mask of Cruelty
+210302 [Domhnall of Zena] Mask of Serenity
+210303 [Domhnall of Zena] Mask of War
+210304 [Domhnall of Zena] Ancient King's Mask
+210305 [Domhnall of Zena] Ancient King's Breastplate
+210306 [Domhnall of Zena] Ancient King's Gauntlets
+210307 [Domhnall of Zena] Ancient King's Leggings
+210308 [Domhnall of Zena] Helm of the Wise
+210309 [Domhnall of Zena] Armor of the Glorious
+210310 [Domhnall of Zena] Gauntlets of the Vanquisher
+210311 [Domhnall of Zena] Boots of the Explorer
+210312 [Domhnall of Zena] Brushwood Helm
+210313 [Domhnall of Zena] Brushwood Armor
+210314 [Domhnall of Zena] Brushwood Gauntlets
+210315 [Domhnall of Zena] Brushwood Leggings
+210316 [Domhnall of Zena] Gloom Helm
+210317 [Domhnall of Zena] Gloom Armor
+210318 [Domhnall of Zena] Gloom Gauntlets
+210319 [Domhnall of Zena] Gloom Leggings
+210320 [Domhnall of Zena] Heide Mask
+210321 [Domhnall of Zena] Golem Helm
+210322 [Domhnall of Zena] Golem Armor
+210323 [Domhnall of Zena] Golem Gauntlets
+210324 [Domhnall of Zena] Golem Leggings
+220000 [Marvelous Chester] Snickering Top Hat
+220001 [Marvelous Chester] Chester's Long Coat
+220002 [Marvelous Chester] Chester's Gloves
+220003 [Marvelous Chester] Chester's Trousers
+220004 [Marvelous Chester] Marvelous Zweihander
+220005 [Marvelous Chester] Green Blossom
+220006 [Marvelous Chester] Bloodred Moss Clump
+220007 [Marvelous Chester] Purple Moss Clump
+220008 [Marvelous Chester] Blooming Purple Moss Clump
+220009 [Marvelous Chester] Purging Stone
+220010 [Marvelous Chester] Cleansing Pendant
+220017 [Marvelous Chester] Undead Hunter Charm
+220018 [Marvelous Chester] Alluring Skull
+220022 [Marvelous Chester] Standard Arrow
+220023 [Marvelous Chester] Large Arrow
+220024 [Marvelous Chester] Feather Arrow
+220025 [Marvelous Chester] Wood Arrow
+220026 [Marvelous Chester] Draconic Arrow
+220027 [Marvelous Chester] Standard Bolt
+220028 [Marvelous Chester] Heavy Bolt
+220029 [Marvelous Chester] Sniper Bolt
+220030 [Marvelous Chester] Draconic Bolt
+230000 [Crestfallen Merchant] Steel Helm
+230001 [Crestfallen Merchant] Steel Armor
+230002 [Crestfallen Merchant] Steel Gauntlets
+230003 [Crestfallen Merchant] Steel Leggings
+230004 [Crestfallen Merchant] Greatsword
+230005 [Crestfallen Merchant] Greataxe
+230006 [Crestfallen Merchant] Black Firebomb
+230007 [Crestfallen Merchant] Green Blossom
+230008 [Crestfallen Merchant] Charcoal Pine Bundle
+230009 [Crestfallen Merchant] Charcoal Pine Resin
+230010 [Crestfallen Merchant] Titanite Shard
+230011 [Crestfallen Merchant] Large Titanite Shard
+230012 [Crestfallen Merchant] Titanite Scale
 760000 [Stone-humped Hag] Splitleaf Greatsword
-760001 [Stone-humped Hag] Brushwood Helm
-760002 [Stone-humped Hag] Brushwood Armor
-760003 [Stone-humped Hag] Brushwood Gauntlets
-760004 [Stone-humped Hag] Brushwood Leggings
-760005 [Stone-humped Hag] Gloom Helm
-760006 [Stone-humped Hag] Gloom Armor
-760007 [Stone-humped Hag] Gloom Gauntlets
-760008 [Stone-humped Hag] Gloom Leggings
 760009 [Stone-humped Hag] Devil's Trumpet
 760010 [Stone-humped Hag] Moonflower
 760011 [Stone-humped Hag] Henbane

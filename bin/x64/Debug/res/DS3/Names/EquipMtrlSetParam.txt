@@ -878,30 +878,30 @@
 100027 Soul of the Dark Sun
 100028 Soul of Corrupted Gundyr
 100029 Soul of the Ancient Wyvern
-100030 Soul of the Triad
-200001 Primordial Titanite - 1
-200002 Primordial Titanite - 1
-200003 Primordial Titanite - 1
-200004 Primordial Titanite - 2
-200005 Primordial Titanite - 2
-200006 Primordial Titanite - 2
-200007 Primordial Titanite - 3
-200008 Primordial Titanite - 3
-200009 Primordial Titanite - 3
-200010 Primordial Titanite - 4
-200011 Primordial Titanite - 4
-200012 Primordial Titanite - 4
-200013 Primordial Titanite - 5
-200014 Primordial Titanite - 5
-200015 Primordial Titanite - 5
-200016 Primordial Titanite - 6
-200017 Primordial Titanite - 6
-200018 Primordial Titanite - 6
-200019 Primordial Titanite - 7
-200020 Primordial Titanite - 8
-200025 Primordial Titanite - 9
-200030 Primordial Titanite - 10
-200100 Primordial Titanite - 10
+100030 Soul of the Lordran Remnants
+200001 Awestone - 1
+200002 Awestone - 2
+200003 Awestone - 3
+200004 Awestone - 4
+200005 Awestone - 5
+200006 Awestone - 6
+200007 Awestone - 7
+200008 Awestone - 8
+200009 Awestone - 9
+200010 Awestone - 10
+200011 Awestone - 11
+200012 Awestone - 12
+200013 Awestone - 13
+200014 Awestone - 14
+200015 Awestone - 15
+200016 Awestone - 16
+200017 Awestone - 17
+200018 Awestone - 18
+200019 Awestone - 19
+200020 Awestone - 20
+200025 Awestone - 25
+200030 Awestone - 30
+200100 Awestone - 50
 200300 Darkmoon Faithful - 15
 200301 Darkmoon Faithful - 10
 200302 Darkmoon Faithful - 5
@@ -937,23 +937,28 @@
 200902 Spears of the Church - 5
 200903 Spears of the Church - 3
 200904 Spears of the Church - 1
-201000 Chaos Servant - 15
-201001 Chaos Servant - 10
-201002 Chaos Servant - 5
-201003 Chaos Servant - 3
+201000 Chaos Servant - 10
+201001 Chaos Servant - 5
+201002 Chaos Servant - 3
+201003 Chaos Servant - 2
 201004 Chaos Servant - 1
-201100 Vinheim Scholars - 15
-201101 Vinheim Scholars - 10
-201102 Vinheim Scholars - 5
-201103 Vinheim Scholars - 3
+201100 Vinheim Scholars - 10
+201101 Vinheim Scholars - 5
+201102 Vinheim Scholars - 3
+201103 Vinheim Scholars - 2
 201104 Vinheim Scholars - 1
-201200 Pilgrims of Dark - 15
-201201 Pilgrims of Dark - 10
-201202 Pilgrims of Dark - 5
-201203 Pilgrims of Dark - 3
+201200 Pilgrims of Dark - 10
+201201 Pilgrims of Dark - 5
+201202 Pilgrims of Dark - 3
+201203 Pilgrims of Dark - 2
 201204 Pilgrims of Dark - 1
 201300 Dragon Remnants - 15
 201301 Dragon Remnants - 10
 201302 Dragon Remnants - 5
 201303 Dragon Remnants - 3
 201304 Dragon Remnants - 1
+201400 Way of White - 10
+201401 Way of White - 5
+201402 Way of White - 3
+201403 Way of White - 2
+201404 Way of White - 1

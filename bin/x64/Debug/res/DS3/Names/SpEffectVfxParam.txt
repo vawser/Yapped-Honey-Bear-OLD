@@ -290,12 +290,14 @@
 5850 Human Pine Resin
 5860 Carthus Rogue
 6900 Weapon Art - Warcry
-6910 Weapon Art - Steady Change (Right)
-6911 Weapon Art - Steady Change (Left)
+6910 Weapon Art - Steady Chant (Right)
+6911 Weapon Art - Steady Chant (Left)
 6920 Weapon Art - Perserverence
 6930 Weapon Art - Unfaltering Prayer - 1
 6940 Weapon Art - Unfaltering Prayer - 2
 6950 Weapon Art - Unfaltering Prayer - 3
+6960 Weapon Art - Chant from the Depths - Right
+6961 Weapon Art - Chant from the Depths - Left
 6999 Estus Block Recovery
 8000 Flame Weapon
 8010 Regen Double Chanting
@@ -600,73 +602,93 @@
 94056000 No Phantom
 95001000 Weapon Art - Gentle Prayer
 95004000 Weapon Art - Sacred Chime of Filianore
-99901000 Ring of Champions - Color 1
-99901001 Ring of Champions - Color 2
-99901002 Ring of Champions - Color 3
-99901003 Ring of Champions - Color 4
-99901004 Ring of Champions - Color 5
-99901005 Ring of Champions - Color 6
-99901006 Ring of Champions - Color 7
-99901007 Ring of Champions - Color 8
-99901008 Ring of Champions - Color 9
-99910000 Cosmetic - Fire Stone
-99910001 Cosmetic - Magic Stone
-99910002 Cosmetic - Lightning Stone
-99910003 Cosmetic - Dark Stone
-99910004 Cosmetic - Poison Stone
-99910005 Cosmetic - Bleed Stone
-99910006 Cosmetic - Frost Stone
-99910007 Cosmetic - Blessed Stone
-99910008 Cosmetic - Enchanted Stone
-99911000 NPC - Proximity Invisibility
-99912000 Champion's Pact
-99912010 Darkmoon Faithful
-99912020 Spears of the Church
-99912030 Watchdogs of Farron
-99912040 Aldrich Faithful
-99912050 Warriors of Sunlight
-99912060 Mound-makers
-99912070 Rosaria's Fingers
-99912080 Chaos Servants
-99912081 Chaos Servants - Fire Aura
-99912090 Tomb Ghost
-99913000 Echoes of the Past
-99913010 Rattling Finger - Body - Type 1
-99913011 Rattling Finger - Head - Type 1
-99913020 Rattling Finger - Body - Type 2
-99913021 Rattling Finger - Head - Type 2
-99913030 Rattling Finger - Body - Type 3
-99913031 Rattling Finger - Head - Type 3
-99913040 Rattling Finger - Body - Type 4
-99913041 Rattling Finger - Head - Type 4
-99913100 Murky Finger - Body
-99913101 Murky Finger - Head
-99914000 Curse Aura
-99914001 Curse Aura
-99915000 Curse Burst
-99916000 Fire Infusion - DOT
-99917000 Lightning Infusion
-99918000 Knight Slayer's Ring
-99919000 Blind
-99921000 Aged Dragon Stone - DS2
-99921001 Aged Dragon Stone - DS2
-99922000 Logan's Staff - Logan's Focus
-99923000 Sage's Crystal Staff - Crystallization
-99924000 Manus Catalyst - Fury of Manus
-99924010 Velka's Talisman - Velka's Grace
+99901000 Ring: Rainbow Ring - Color 1
+99901001 Ring: Rainbow Ring - Color 2
+99901002 Ring: Rainbow Ring - Color 3
+99901003 Ring: Rainbow Ring - Color 4
+99901004 Ring: Rainbow Ring - Color 5
+99901005 Ring: Rainbow Ring - Color 6
+99901006 Ring: Rainbow Ring - Color 7
+99901007 Ring: Rainbow Ring - Color 8
+99901008 Ring: Rainbow Ring - Color 9
+99910000 Weapon: Fire Stone
+99910001 Weapon: Magic Stone
+99910002 Weapon: Lightning Stone
+99910003 Weapon: Dark Stone
+99910004 Weapon: Poison Stone
+99910005 Weapon: Bleed Stone
+99910006 Weapon: Frost Stone
+99910007 Weapon: Blessed Stone
+99910008 Weapon: Enchanted Stone
+99911000 Script: Proximity Invisibility - Enemies
+99912000 Ring: Black Phantom
+99912010 Ring: Darkmoon Faithful
+99912020 Ring: Spears of the Church
+99912030 Ring: Watchdogs of Farron
+99912040 Ring: Aldrich Faithful
+99912050 Ring: Warriors of Sunlight
+99912060 Ring: Mound-makers
+99912070 Ring: Rosaria's Fingers
+99912080 Ring: Chaos Servants
+99912081 Ring: Chaos Servants - Fire Aura
+99912090 Ring: Tomb Ghost
+99913000 Script: Echoes of the Past - Enemies
+99913010 Ring: Rattling Finger - Body - Type 1
+99913011 Ring: Rattling Finger - Head - Type 1
+99913020 Ring: Rattling Finger - Body - Type 2
+99913021 Ring: Rattling Finger - Head - Type 2
+99913030 Ring: Rattling Finger - Body - Type 3
+99913031 Ring: Rattling Finger - Head - Type 3
+99913040 Ring: Rattling Finger - Body - Type 4
+99913041 Ring: Rattling Finger - Head - Type 4
+99913100 Ring: Murky Finger - Body
+99913101 Ring: Murky Finger - Head
+99913200 Capra Demon Body
+99913201 Capra Demon Head
+99913300 Titanite Demon Body
+99913301 Titanite Demon Head
+99913400 Dragonform Body
+99913401 Dragonform Head
+99913500 Wax Head
+99914000 Weapon: Curse Aura
+99914001 Weapon: Curse Aura
+99915000 Weapon: Curse Burst
+99916000 Weapon: Fire Infusion - DOT
+99917000 Weapon: Lightning Infusion
+99918000 Ring: Knight Slayer's Ring
+99919000 Weapon: Blind
+99923000 Weapon: Sage's Crystal Staff - Crystallization
+99924000 Weapon: Manus Catalyst - Fury of Manus
+99924010 Weapon: Velka's Talisman - Velka's Grace
 99930000 Humanity Sprite
 99930001 Humanity Sprite
-99931000 Immolate Aura
-99932000 Heal Burst
-99933000 Repel
-99934000 Armor - Poison Aura
-99934010 Armor - Bleed Aura
-99934020 Armor - Frost Aura
-99934030 Armor - Curse Aura
-99935000 Bewitched Alonne Sword - Right
-99935001 Bewitched Alonne Sword - Left
-99936000 Darkness
-99937000 Nightmare - Red Eyes
-99938000 Infected Spit
-99939000 Bonfire Fade
-99940000 Player - Red Eyes
+99931000 Spell: Immolate Aura
+99932000 Spell: Heal Burst
+99933000 Spell: Repel
+99934000 Armor: Poison Aura
+99934010 Armor: Bleed Aura
+99934020 Armor: Frost Aura
+99934030 Armor: Curse Aura
+99935000 Weapon: Bewitched Alonne Sword - Right
+99935001 Weapon: Bewitched Alonne Sword - Left
+99936000 Script: Darkness - Curse of Obscurity
+99937000 Script: Red Eyes - Curse of Wrath
+99939000 Script: Bonfire Fade
+99940000 Script: Red Eyes - Player
+99941000 Spell: Pulsating Blade
+99942000 Spell: Pungent Blade
+99943000 Spell: Black Flame Arc
+99950000 Phantom: Default
+99950001 Phantom: Human
+99950002 Phantom: Black Tiger
+99950003 Phantom: Holy
+99950004 Phantom: Blood Purple
+99950005 Phantom: Christmas
+99950006 Phantom: White
+99950007 Phantom: Rosaria Red
+99950008 Phantom: Sentinel Blue
+99950009 Phantom: Sunlight Orange
+99950010 Phantom: Sunlight Spirit
+99950011 Phantom: Mad Purple
+99950012 Phantom: Peach
+99950013 Phantom: Black Spirit

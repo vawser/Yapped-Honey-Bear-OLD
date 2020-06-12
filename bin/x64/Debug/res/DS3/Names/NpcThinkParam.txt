@@ -189,9 +189,9 @@
 32600 Dragon Knight Oswald
 32700 Dragon Knight Terrill
 32800 Dragon Knight Lyre
-32900 Lord Erectus
+32900 Lord Zakar
 33000 Glaive Master Hodir
-33100 Ezekiel of Mirrah
+33100 Ezekiel the Duelist
 33200 Eija the Shadow
 33300 Dulfisk the Accursed
 33400 Freya the Wretched
@@ -202,8 +202,39 @@
 33900 Thorned Knight
 34000 Undead Hexer
 34100 Roaming Sorcerer
+34200 Blacksmith's Nightmare
+34300 Frozen Knight Torbjorn
+34400 Bewitched Knight Iwai
+34500 Wandering Knight Osvaldo
+34600 Lord Takatsuji
+34700 Lieutenant Ugali
+34800 Lieutenant Hanji
+34900 Ashen Keeper Sofija
+35000 Hallowed Knight Orthell
+35100 Dragon Hunter Karstark
+35200 Disciple of Alsanna
+35300 The Prowler
+39999 ### Companions ###
+40000 Solaire of Astora
+40010 El Crabbo
+40020 Rocky
+40030 Sanchez the Illusive
+40040 Ezrat the Devout
+40050 Pickle
+40060 Petyr the Hungry
+40070 Zippy
 89999 ### Enemies ###
 90390 Dungeon Objects (for bullet owners)
+101000 Gyrm
+101001 Gyrm - TOG
+102000 Morne's Armor
+102001 Morne's Armor - TOG
+103000 Mirror Knight
+103001 Mirror Knight - TOG
+104000 Ruin Sentinel
+105000 Dragonrider
+105001 Dragonrider - TOG
+106000 Black Dragon Knight
 107000 Skeleton [Catacombs of Carthus]
 107001 Skeleton - Scimitar [Catacombs of Carthus]
 107002 Skeleton - Falchion [Catacombs of Carthus]
@@ -251,6 +282,7 @@
 110010 Hollow Soldier - Sword and Shield
 110011 Hollow Soldier - Sword and Shield - TOG
 110012 Hollow Soldier - Straight Sword - Firebomb - TOG
+110013 Hollow Soldier - Straight Sword - TOG
 110020 Hollow Soldier - Crossbow
 110021 Hollow Soldier - Crossbow
 110022 Hollow Soldier - Crossbow
@@ -571,7 +603,7 @@
 208000 Undead Dog - Pregnant
 208001 Undead Dog - Pregnant - TOG
 209000 [Boss] Oceiros, the Consumed King
-209001 [Boss] Oceiros, the Consumed King - TOG
+209001 Consumed Beast
 210000 Sewer Centipede
 210001 Sewer Centipede - TOG
 210010 Sewer Centipede
@@ -580,7 +612,7 @@
 211098 Hound-rat
 212000 Mimic
 212001 Mimic - TOG
-212010 Mimic
+212010 Mimic - Exorcist
 212011 Mimic - TOG
 212100 Mimic
 213000 Writhing Rotten Flesh
@@ -593,12 +625,14 @@
 215000 Crystal Lizard
 215001 Crystal Lizard - TOG
 215005 Crystal Lizard
-215010 Crystal Lizard
+215010 Red Crystal Lizard
+215011 Red Crystal Lizard - Bait
 215020 Crystal Lizard
 215025 Crystal Lizard
 216000 Yoel of Londor
 216001 Pilgrim - TOG
 216010 Londor Pilgrim
+216011 Londor Pilgrim - TOG
 216030 Pilgrim Dummy
 218000 Grub
 218001 Grub
@@ -632,7 +666,7 @@
 223011 Jailer Handmaid - TOG
 223020 Jailer Handmaid
 224000 [Boss] Vordt of the Boreal Valley
-224001 [Boss] Vordt of the Boreal Valley - TOG
+224001 Boreal Outrider Sentinel
 224100 [Boss] Vordt of the Boreal Valley (Heatup)
 225000 Sulyvahn's Beast
 225001 Sulyvahn's Beast - TOG
@@ -668,7 +702,10 @@
 304010 [Boss] Abyss Watcher
 304090 [Boss] Abyss Watcher (Old)
 304098 [Boss] Abyss Watcher (Old)
+304100 Abyss Watcher
+304101 Abyss Watcher - TOG
 305000 [Boss] Old Demon King
+305100 Old Demon Prince
 306000 Demon
 306001 Demon - TOG
 306099 Demon (Old)
@@ -711,6 +748,8 @@
 325000 High Priestess Emma
 501000 [Boss] Nameless King
 502000 [Boss] Demon Prince
+502010 Demon in Pain
+502020 Demon from Below
 502090 [Boss] Demon Prince
 502100 [Boss] Demon Prince (Orb)
 502200 [Boss] Demon Prince (Orb)
@@ -728,6 +767,7 @@
 512099 [Boss] Iudex Gundyr (Pus of Man) (Old)
 514000 [Boss] Pontiff Sulyvahn
 514010 [Boss] Pontiff Sulyvahn [Spirit Clone]
+514011 Spirit of the Pontiff
 514099 [Boss] Pontiff Sulyvahn (Old)
 515000 [Boss] Aldrich, Devourer of Gods
 516000 [Boss] High Lord Wolnir
@@ -763,7 +803,7 @@
 525100 [Boss] Lothric, Younger Prince
 526000 [Boss] Yhorm the Giant
 527000 [Boss] Dancer of the Boreal Valley
-527001 [Boss] Dancer of the Boreal Valley - TOG
+527001 Boreal Outrider Assassin
 528000 [Boss] Soul of Cinder
 528100 [Boss] Soul of Cinder (Heatup)
 600000 Farron Follower 1
@@ -790,6 +830,7 @@
 603002 Greatwolf
 603003 Greatwolf - TOG
 603004 Greatwolf
+603200 Greatwolf
 604000 Wolf
 604001 Wolf - TOG
 604010 Wolf
@@ -912,7 +953,116 @@
 633110 Small Locust
 633111 Small Locust
 633112 Small Locust
-900000 ■ ■ ■ ■ ■ For products up here ■ ■ ■ ■. ■.
+721300 Domhnall of Zena
+721400 Marvelous Chester
+721500 Crestfallen Merchant
+750000 The Lord's Blade
+751000 The Abyss Walker
+752000 The Dragonslayer
+809999 ### Trial ###
+810000 Skeleton (Scimitar)
+810001 Skeleton (Falchion)
+810002 Skeleton (Bow)
+810003 Skeleton (Firebomb)
+810010 Hollow (Sword)
+810011 Hollow (Shield)
+810012 Hollow (Lantern)
+810013 Hollow (Crossbow)
+810014 Hollow (Spear)
+810015 Hollow (Dagger)
+810020 Large Hollow (Halberd)
+810021 Large Hollow (Axe)
+810030 Carthus Swordsman (Bow)
+810031 Carthus Swordsman (Curved Sword)
+810032 Carthus Swordsman (Curved Greatsword)
+810033 Carthus Swordsman (Shotel)
+810040 Cathedral Knight (Greatsword)
+810041 Cathedral Knight (Mace)
+810050 Hollow Slave (Flamberge)
+810051 Hollow Slave (Axe)
+810052 Hollow Slave (Warpick)
+810060 Ghru (Spear)
+810061 Ghru (Curved Sword)
+810062 Ghru (Dagger)
+810063 Ghru (Mad)
+810070 Cathedral Evangelist
+810080 Peasant Hollow (Lantern)
+810081 Peasant Hollow (Sickle)
+810082 Peasant Hollow (Mallet)
+810083 Peasant Hollow (Hoe)
+810084 Peasant Hollow (Axe)
+810090 Cathedral Grave Warden
+810100 Hollow Manservant
+810110 Lothric Knight (Sword)
+810111 Lothric Knight (Spear)
+810112 Lothric Knight (Greatsword)
+810120 Winged Knight (Twinaxes)
+810121 Winged Knight (Halberd)
+810130 Boreal Outrider Knight
+810140 Archive Scholar
+810150 Irithyllian Slave (Type 1)
+810151 Irithyllian Slave (Type 2)
+810152 Irithyllian Slave (Type 3)
+810153 Irithyllian Slave (Type 4)
+810154 Irithyllian Slave (Type 5)
+810160 Lycanthrope
+810170 Lycanthrope Hunter
+810180 Serpent-man Summoner
+810190 Serpent-man (Dagger)
+810191 Serpent-man (Hatchet)
+810192 Serpent-man (Bladed Axe)
+810193 Serpent-man (Axe)
+810200 Giant Serpent-man (Chain)
+810201 Giant Serpent-man (Axe)
+810210 Silver Knight (Sword)
+810211 Silver Knight (Spear)
+810212 Silver Knight (Bow)
+810220 Bonewheel Skeleton
+810230 Undead Dog
+810240 Small Undead Dog
+810250 Pontiff Knight (Curved Sword)
+810251 Pontiff Knight (Scythe)
+810260 Monstrosity of Sin
+810270 Wretch (Spear)
+810271 Wretch (Unarmed)
+810272 Wretch (Dagger)
+810280 Sewer Centipede
+810290 Hound-rat
+810300 Basilisk
+810310 Gargoyle (Spear)
+810311 Gargoyle (Hammer)
+810320 Jailer
+810330 Giant Rat
+810340 Irithyll Dog
+810350 Giant Slave
+810360 Elder Ghru
+810370 Rock Lizard
+810380 Demon Statue
+810390 Irithyll Fire Witch
+810400 Demon Cleric
+810410 Ravenous Crystal Lizard
+810420 Fat Deacon
+810430 Tall Deacon
+810440 Thin Deacon
+810450 Rotten Slug
+810460 Crystal Sage
+810470 Undead Cleric (Type 1)
+810471 Undead Cleric (Type 2)
+810472 Undead Cleric (Type 3)
+810480 Devout of the Deep (Type 1)
+810481 Devout of the Deep (Type 2)
+810482 Devout of the Deep (Type 3)
+810483 Devout of the Deep (Type 4)
+810484 Devout of the Deep (Type 5)
+810485 Devout of the Deep (Type 6)
+810490 Lothric Priest
+810500 Mimic
+810510 Pilgrim
+810520 Sulyvahn's Beast
+810530 Giant Crab
+810540 Lesser Crab
+810550 Gyrm
+900000 ### Old ###
 901000 Hiras Test
 901100 Yoshihi Test
 901200 Tsuruy Test

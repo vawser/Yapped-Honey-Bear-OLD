@@ -1,3 +1,9 @@
+1010 Gyrm
+1020 Morne's Armor
+1030 Mirror Knight
+1040 Ruin Sentinel
+1050 Dragonrider
+1060 Black Dragon Knight
 1070 Skeleton
 1071 Skeleton
 1090 Pus of Man
@@ -168,3 +174,6 @@
 6330 Big Locust
 6331 Small Locust
 6339 Small Locust
+7500 Ciaran
+7510 Artorias
+7520 Ornstein

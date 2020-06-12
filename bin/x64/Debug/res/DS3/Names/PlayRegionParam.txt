@@ -72,7 +72,7 @@
 370012 Irithyll of the Boreal Valley
 370013 Irithyll of the Boreal Valley
 380000 Catacombs of Carthus
-380001 Catacombs of Carthus
+380001 Catacombs of Carthus - Catacombs of Carthus bonfire
 380002 Catacombs of Carthus
 380003 Catacombs of Carthus
 380010 Catacombs of Carthus
@@ -99,9 +99,9 @@
 400101 Cemetery of Ash
 400102 Cemetery of Ash
 400110 Cemetery of Ash
-410000 Kiln of the First Flame
-410001 Kiln of the First Flame
-410002 Kiln of the First Flame
+410000 Kiln of the First Flame - Soul of Cinder Arena
+410001 Kiln of the First Flame - Path to the Kiln
+410002 Kiln of the First Flame - Flameless Shrine
 450000 Ariandel
 450001 Ariandel
 450002 Ariandel

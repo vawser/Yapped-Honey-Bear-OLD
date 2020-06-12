@@ -99,6 +99,7 @@
 344 Frozen Pine Resin
 350 Homeward Bone
 351 Coiled Sword Fragment
+365 Awestone
 366 Wolf's Blood Swordgrass
 367 Human Dregs
 368 Forked Pale Tongue
@@ -162,7 +163,7 @@
 651 Divine Spear Fragment
 700 Soul of Corrupted Gundyr
 701 Soul of the Ancient Dragon
-702 Soul of the Triad
+702 Soul of the Lordran Remnants
 712 Soul of Champion Gundyr
 714 Soul of the Dancer
 715 Soul of a Crystal Sage
@@ -199,21 +200,11 @@
 1070 Crystal Fragment
 1080 Abyssal Fragment
 1090 Holy Fragment
-1100 Heavy Gem
-1110 Sharp Gem
-1120 Raw Gem
-1130 Crystal Gem
-1140 Magic Gem
-1150 Fire Gem
-1160 Chaos Gem
-1170 Lightning Gem
-1180 Deep Gem
-1190 Dark Gem
-1200 Poison Gem
-1210 Blood Gem
-1220 Frost Gem
-1230 Divine Gem
-1240 Hollow Gem
+1100 Primordial Shard
+1110 Large Primordial Shard
+1120 Primordial Fragment
+1130 Primordial Chunk
+1140 Primordial Slab
 1250 Shriving Stone
 2000 Ring of Betrothal
 2001 Lift Chamber Key
@@ -225,9 +216,10 @@
 2010 Cell Key
 2011 Dungeon Ground Floor Key
 2012 Old Cell Key
-2013 Tower Key
+2013 Forgotten Key
 2014 Grand Archives Key
 2015 Tower Key
+2016 Accursed Signet
 2100 Master Key
 2102 Small Lothric Banner
 2103 Farron Coal
@@ -248,7 +240,7 @@
 2118 Loretta's Bone
 2119 Braille Divine Tome of Carim
 2120 Braille Divine Tome of Lothric
-2121 Braille Divine Sunlight Tome
+2121 Braille Divine Tome of Sunlight
 2123 Cinders of a Lord
 2124 Cinders of a Lord
 2125 Cinders of a Lord
@@ -296,11 +288,14 @@
 2170 Ceaseless Dung Pie
 2171 Death and You
 2172 Primordial Coal
+2173 Profaned Pyromancy Tome
+2174 Accursed Scroll
+2175 Writhing Tome
+2176 Abyssal Tome
+2177 Angelic Braille Divine Tome
+2178 Heavenly Braille Divine Tome
 2200 Infusing Essence
 2201 Degrading Essence
-3000 Cinder
-3001 Primordial Titanite
-3002 Primordial Essence
 3004 Tarnished Coin
 3005 Tarnished Silver Coin
 3006 Fire Stone
@@ -319,6 +314,28 @@
 3023 Blackweed Balm
 3024 Goldenfruit Balm
 3025 Enchanted Stone
+3026 Rattling Finger
+3027 Murky Finger
+3028 Elixir of Ghosts
+3029 Accursed Elixir
+3030 Psychedelic Elixir
+3031 Darkmoon Elixir
+3032 Holy Elixir
+3033 Earthen Elixir
+3034 Abyssal Elixir
+3035 Sunlight Elixir
+3036 Maddening Elixir
+3037 Bloody Elixir
+3038 Demonic Elixir
+3039 Elixir of Cooperation
+3040 Elixir of Deceit
+3041 Cleansing Elixir
+3042 Demonic Claw
+3043 Forgotten Tablet
+3044 Dragon Head Stone
+3045 Dragon Torso Stone
+3046 Forgotten Seal
+3047 Demonic Skull
 4000 Lethal Gem
 4001 Curse Gem
 4002 Poison Gem
@@ -339,6 +356,9 @@
 4017 Devil's Trumpet
 4018 Moonflower
 4019 Henbane
+4020 Cleansing Stone
+4100 Stone of Draconic Fire
+4101 Stone of Draconic Might
 5000 Dream of Corrupted Gundyr
 5001 Dream of Vordt
 5002 Dream of Rotted Greatwood
@@ -359,34 +379,14 @@
 5017 Dream of the Twin Princes
 5018 Dream of Cinder
 5019 Dream of Sister Friede
-5020 Dream of Champion's Gravetender
+5020 Dream of the Lordran Remnants
 5021 Dream of the Demon Prince
 5022 Dream of Darkeater Midir
 5023 Dream of Slave Knight Gael
-5100 Nightmare of Corrupted Gundyr
-5101 Nightmare of Vordt
-5102 Nightmare of Rotted Greatwood
-5103 Nightmare of the Crystal Sage
-5104 Nightmare of the Deacons
-5105 Nightmare of the Abyss Watchers
-5106 Nightmare of High Lord Wolnir
-5107 Nightmare of Old Demon King
-5108 Nightmare of Pontiff Sulyvahn
-5109 Nightmare of Aldrich
-5110 Nightmare of Yhorm the Giant
-5111 Nightmare of the Dancer
-5112 Nightmare of Oceiros
-5113 Nightmare of Dragonslayer Armour
-5114 Nightmare of the Ancient Wyvern
-5115 Nightmare of the Nameless King
-5116 Nightmare of Champion Gundyr
-5117 Nightmare of the Twin Princes
-5118 Nightmare of Cinder
-5119 Nightmare of Sister Friede
-5120 Nightmare of Champion's Gravetender
-5121 Nightmare of the Demon Prince
-5122 Nightmare of Darkeater Midir
-5123 Nightmare of Slave Knight Gael
+5199 ### Companions ###
+5300 Incense of Cooperation
+5301 Crab Bait
+5302 Stick
 7999 ### Developer Tools ###
 8000 Event Flag Tool
 8001 God Tool
@@ -395,6 +395,8 @@
 8004 FP Tool
 8005 HP Tool
 8006 Souls Tool
+8007 FP Consumption Tool
+8008 Cripple Tool
 8999 ### Gestures ###
 9000 Beckon
 9001 Point forward
@@ -429,6 +431,14 @@
 9033 Sleep
 9034 Toast
 9035 Silent Ally
+9036 Unmannered Bow
+9037 Shrug
+9038 Dismissive Point
+9039 Look Skyward
+9040 Well! What is it!
+9041 Praise the Heavens
+9042 Retch
+9043 Confused
 1199999 ### Sorcery ###
 1200000 Farron Dart
 1210000 Great Farron Dart
@@ -528,6 +538,12 @@
 2712000 Earthquake
 2713000 Rockflesh
 2714000 Immolation
+2715000 Pungent Blade
+2716000 Black Flame Arc
+2717000 Black Fireball
+2718000 Black Fire Scatter
+2719000 Black Fire Vestiges
+2720000 Fecal Expulsion
 3399999 ### Miracles ###
 3490000 Heal Aid
 3500000 Heal
@@ -579,3 +595,5 @@
 3814000 Lothric's Holy Spear
 3815000 Proof of a Pact
 3816000 Ghostly Assault
+3817000 Pulsating Blade
+3818000 Overwhelming Power

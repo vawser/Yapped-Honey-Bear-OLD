@@ -28,44 +28,46 @@
     
   </enum>
   <entry>
-    <name>Middle FFX ID</name>
+    <name>Ongoing Visual FX ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Middle SFX ID</name>
+    <name>Ongoing Sound FX ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Start FFX ID</name>
+    <name>Initial Visual FX ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Start SFX ID</name>
+    <name>Initial Sound FX ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>End FFX ID</name>
+    <name>Finish Visual FX ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>End SFX ID</name>
+    <name>Finish Sound FX ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Camouflage - Begin Distance</name>
+    <name>Hide Start Distance</name>
     <type>f32</type>
     <default>-1</default>
+    <description>Closest distance at which effect is disabled.</description>
   </entry>
   <entry>
-    <name>Camouflage - End Distance</name>
+    <name>Hide End Distance</name>
     <type>f32</type>
     <default>-1</default>
+    <description>Furthest distance at which effect is disabled.</description>
   </entry>
   <entry>
     <name>Transform - Protector ID</name>
@@ -73,17 +75,17 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>Middle - Dummy ID</name>
+    <name>Ongoing Model Point ID</name>
     <type>s16</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Start - Dummy ID</name>
+    <name>Initial Model Point ID</name>
     <type>s16</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>End - Dummy ID</name>
+    <name>Finish Model Point ID</name>
     <type>s16</type>
     <default>-1</default>
   </entry>
@@ -101,31 +103,36 @@
     <name>Play Category</name>
     <type>u8</type>
     <default>0</default>
+    <description>Only one effect in each category can be active at once (determined by PlaybackPriority).</description>
   </entry>
   <entry>
     <name>Play Priority</name>
     <type>u8</type>
     <default>0</default>
+    <description>Only the lowest-numbered-priority effect in each PlaybackCategory will be active at once.</description>
   </entry>
   <entry>
-    <name>Start Effect for Large</name>
+    <name>Large Effect Exists</name>
+    <type>b8</type>
+    <default>False</default>
+    <description>Indicates if a large version of the effect exists.</description>
+  </entry>
+  <entry>
+    <name>Soul Effect Exists</name>
+    <type>b8</type>
+    <default>False</default>
+    <description>Indicates if a 'soul' version of the effect exists.</description>
+  </entry>
+  <entry>
+    <name>Invisible Whilst Hidden</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Start Effect for Soul</name>
+    <name>Enable Hide Fields</name>
     <type>b8</type>
     <default>False</default>
-  </entry>
-  <entry>
-    <name>Start Invisible in Camouflage</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>Enable Camouflage</name>
-    <type>b8</type>
-    <default>False</default>
+    <description>Enables the disable distance fields for the effect.</description>
   </entry>
   <entry>
     <name>Invisible in Camouflage for Friend</name>
@@ -136,11 +143,13 @@
     <name>Add Map Area Block Offset</name>
     <type>b8</type>
     <default>False</default>
+    <description>Ads map ID digits to effect ID.</description>
   </entry>
   <entry>
-    <name>Enable Half Camouflage</name>
+    <name>Enable Half Hidden</name>
     <type>b8</type>
     <default>False</default>
+    <description>If enabled, effects are made semi-transparent rather than fully hidden.</description>
   </entry>
   <entry>
     <name>Is Full Body Protector ID</name>

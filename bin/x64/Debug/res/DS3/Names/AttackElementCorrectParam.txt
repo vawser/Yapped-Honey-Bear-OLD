@@ -5,6 +5,7 @@
 1010 Throwing Knife
 1020 Dragon Head Stone
 1030 Twinkling Dragon Torso Stone
+1050 Tool - Luck Scaling
 2100 Spear Fragment
 10000 Standard
 10001 Lucky
@@ -53,14 +54,9 @@
 30101 Marvelous Zweihander - Lucky
 30102 Marvelous Zweihander - Enchanted
 30103 Marvelous Zweihander - Holy
-39999 ### Spells ###
-40000 Boulder Heave
-40001 Wrath of the Gods
-40002 Emit Force
-40003 Way of White Corona
-40004 Divine Pillars of Light
-40006 Halo
-40007 Divine Retribution
+30200 Murky Warstaff
+30201 Murky Warstaff - Lucky
+39999 ### Weapons ###
 40008 Flynn's Bow
 40009 Spiral Greatsword - Beckon Storm
 40010 Darkmoon Longbow
@@ -69,38 +65,5 @@
 40013 Primordial Flame
 40014 Darkmoon Volley
 40015 Holy Arrow
-40016 Light Hail
-40017 Vow of Agony
-40018 Angelic Barrage
-49999 ### Dark Spells ###
-50000 Deep Soul
-50001 Great Deep Soul
-50002 Affinity
-50003 Great Soul Dregs
-50004 Dark Edge
-50005 Abyssal Edge
-50006 Deep Barb
-50007 Surging Deep
-50008 Dark Bead
-50009 Cascading Deep
-50010 Yearning Dregs
-50011 Dreg Torrent
-50012 Writhing Deep
-50013 Climax
-50014 Black Serpent
-50015 Black Flame
-50016 Black Fire Orb
-50017 Dark Dance
-50018 Recollection
-50019 Whisper of Despair
-50020 Mourning Flames
-50021 Gnaw
-50022 Dorhys' Gnawing
-50023 Lifehunt Scythe
-50024 Ravenous Gnawing
-50025 Voracious Gnawing
-50026 Nibble
-50027 Devouring Swarm
-50028 Vow of Agony
-60000 Lothric's Holy Spear
-60001 Divine Arrow
+49999 ### Spells ###
+50000 Spell

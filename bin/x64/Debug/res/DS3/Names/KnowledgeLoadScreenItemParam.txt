@@ -183,7 +183,6 @@
 186 Lizard Hide
 187 Resonating Crystal
 188 Blood of Might
-192 Primordial Titanite
 193 Shockwave
 194 Soul Geyser
 195 Abyssal Edge

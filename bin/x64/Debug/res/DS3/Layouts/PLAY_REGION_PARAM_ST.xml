@@ -6,9 +6,10 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Event Flag ID 0</name>
+    <name>Allow Summon Signs</name>
     <type>s32</type>
     <default>0</default>
+    <description>-1 for disallow, 0 for allow</description>
   </entry>
   <entry>
     <name>Limitation Time</name>

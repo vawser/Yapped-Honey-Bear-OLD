@@ -26,12 +26,52 @@
 1161000 Skeleton (Overgrown Tree) Body
 1162000 Skeleton (Overgrown Tree) Hands
 1163000 Skeleton (Overgrown Tree) Legs
+1170000 Capra Demon Head
+1171000 Capra Demon Body
+1172000 Capra Demon Hands
+1173000 Capra Demon Legs
+1180000 Titanite Demon Head
+1181000 Titanite Demon Body
+1182000 Titanite Demon Hands
+1183000 Titanite Demon Legs
 1200000 Screenshot Armor - Head
 1201000 Screenshot Armor - Body
 1202000 Screenshot Armor - Arms
 1203000 Screenshot Armor - Legs
 1210000 Symbol of Avarice - NPC
 10000001 ### Armor ###
+10010000 Gough's Helm
+10011000 Gough's Armor
+10012000 Gough's Gloves
+10013000 Gough's Leggings
+10020000 Mask of the Sealer
+10021000 Crimson Robe
+10022000 Crimson Gloves
+10023000 Crimson Waistcloth
+10030000 Six-Eyed Helm of the Channelers
+10031000 Robe of the Channelers
+10032000 Gauntlets of the Channelers
+10033000 Waistcloth of the Channelers
+10040000 Moon Hat
+10041000 Astrologist's Robe
+10042000 Astrologist's Gloves
+10043000 Astrologist's Waistcloth
+10050000 Helm of Aurous
+10051000 Armor of Aurous
+10052000 Gauntlets of Aurous
+10053000 Leggings of Aurous
+10060000 Dragon Acolyte Mask
+10061000 Dragon Acolyte Robe
+10062000 Dragon Acolyte Gloves
+10063000 Dragon Acolyte Leggings
+10070000 Vengarl's Helm
+10071000 Vengarl's Armor
+10072000 Vengarl's Gloves
+10073000 Vengarl's Leggings
+10080000 Snickering Top Hat
+10081000 Chester's Long Coat
+10082000 Chester's Gloves
+10083000 Chester's Trousers
 19000000 Fallen Knight Helm
 19001000 Fallen Knight Armor
 19002000 Fallen Knight Gauntlets
@@ -513,3 +553,128 @@
 99370000 Demon Cleric Mask
 99380000 Crab Helmet
 99390000 Corvian Knight Helmet
+99400000 Alonne's Helm
+99401000 Alonne's Armor
+99402000 Alonne's Gauntlets
+99403000 Alonne's Leggings
+99410000 Rampart Golem Helm
+99411000 Rampart Golem Armor
+99412000 Rampart Golem Gauntlets
+99413000 Rampart Golem Leggings
+99420000 Smelter Demon Helm
+99421000 Smelter Demon Armor
+99422000 Smelter Demon Gauntlets
+99423000 Smelter Demon Leggings
+99430000 Bone Ash Mask
+99431000 Bone Ash Armor
+99432000 Bone Ash Gauntlets
+99433000 Bone Ash Leggings
+99440000 Heide Knight Greathelm
+99441000 Heide Knight Chainmail
+99442000 Heide Knight Gauntlets
+99443000 Heide Knight Leggings
+99450000 Imperious Helm
+99451000 Imperious Armor
+99452000 Imperious Gauntlets
+99453000 Imperious Leggings
+99460000 Mask of Horror
+99470000 Mask of Cruelty
+99480000 Mask of Serenity
+99490000 Mask of War
+99500000 Imperial Samurai Helm
+99510000 Horned Samurai Helm
+99520000 Ornate Samurai Helm
+99530000 Black Metal Hat
+99540000 Tan Straw Hat
+99550000 Carthus Blindfold
+99560000 Crown of Filianore
+99570000 Crown of the Holy King
+99580000 Pygmy Crown
+99590000 Old Demon King's Crown
+99600000 Mask of Sin
+99610000 Poisonhorn Cap
+99620000 Vagabond Cowl
+99630000 Hollow Head
+99640000 Basilisk Cap
+99650000 Deserter Helm
+99660000 Pot
+99670000 Raven Mask
+99680000 Crown of Illusions
+99690000 Hallowed Knight Helm
+99691000 Hallowed Knight Armor
+99692000 Hallowed Knight Gauntlets
+99693000 Hallowed Knight Leggings
+99700000 Courtier's Wig
+99701000 Courtier's Garb
+99702000 Courtier's Gloves
+99703000 Courtier's Trousers
+99710000 Steel Helm
+99711000 Steel Armor
+99712000 Steel Gauntlets
+99713000 Steel Leggings
+99720000 Drakekeeper Helm
+99721000 Drakekeeper Armor
+99722000 Drakekeeper Gauntlets
+99723000 Drakekeeper Leggings
+99730000 Ivory King Helm
+99731000 Ivory King Armor
+99732000 Ivory King Gauntlets
+99733000 Ivory King Leggings
+99740000 Mad Warrior Mask
+99741000 Mad Warrior Armor
+99742000 Mad Warrior Gauntlets
+99743000 Mad Warrior Leggings
+99750000 Mirror Knight Helm
+99751000 Mirror Knight Armor
+99752000 Mirror Knight Gauntlets
+99753000 Mirror Knight Leggings
+99760000 Syan Knight Helm
+99761000 Syan Knight Armor
+99762000 Syan Knight Gauntlets
+99763000 Syan Knight Leggings
+99770000 Helm of the Wise
+99771000 Armor of the Glorious
+99772000 Gauntlets of the Vanquisher
+99773000 Boots of the Explorer
+99780000 Gold-Hemmed Black Hood
+99781000 Gold-Hemmed Black Cloak
+99782000 Gold-Hemmed Black Gloves
+99783000 Gold-Hemmed Black Skirt
+99790000 Charred Loyce Helm
+99791000 Charred Loyce Armor
+99792000 Charred Loyce Gauntlets
+99793000 Charred Loyce Leggings
+99800000 Hood of the Forlorn
+99801000 Armor of the Forlorn
+99802000 Gauntlets of the Forlorn
+99803000 Leggings of the Forlorn
+99810000 Jester's Cap
+99811000 Jester's Robes
+99812000 Jester's Gloves
+99813000 Jester's Tights
+99820000 Royal Soldier Helm
+99821000 Royal Soldier Armor
+99822000 Royal Soldier Gauntlets
+99823000 Royal Soldier Leggings
+99830000 Loyce Helm
+99831000 Loyce Armor
+99832000 Loyce Gauntlets
+99833000 Loyce Leggings
+99840000 Black Stag Helm
+99850000 Golem Helm
+99851000 Golem Armor
+99852000 Golem Gauntlets
+99853000 Golem Leggings
+99860000 Manikin Mask
+99861000 Manikin Top
+99862000 Manikin Gloves
+99863000 Manikin Boots
+99870000 Crude Manikin Mask
+99880000 Stone Helm
+99881000 Stone Armor
+99882000 Stone Gauntlets
+99883000 Stone Leggings
+99890000 Guardian Helm
+99891000 Guardian Armor
+99892000 Guardian Gauntlets
+99893000 Guardian Leggings

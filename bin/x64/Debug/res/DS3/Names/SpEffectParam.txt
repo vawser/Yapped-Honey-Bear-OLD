@@ -144,6 +144,7 @@
 640 Falling control
 650 A firm oath
 651 Hard Oath for icons
+900 Lothric's Scythe - Came out of invisibility
 1000 Weapon Magic Reinforcement 1
 1010 Weapon Magic Reinforcement 2
 1020 Weapon Magic Reinforcement 3
@@ -388,6 +389,7 @@
 4200 Curse Trap - Interval Adjustment
 4201 Curse Trap
 4310 Farron Keep - Near Tree
+4400 Path of the Dragon - Gesture Trigger
 4500 [Behavior] Falling
 4501 [Behavior] Falling
 4502 [Behavior] Falling
@@ -703,12 +705,13 @@
 8170 NG Scaling - Twin Princes
 8180 NG Scaling - Soul of Cinder
 8190 NG Scaling - Sister Friede
-8200 NG Scaling - The Triad
+8200 NG Scaling - Lordran Remnants
 8210 NG Scaling - Demon Prince
 8220 NG Scaling - Darkeater Midir
 8230 NG Scaling - Slave Knight Gael
 8240 NG Scaling - Halflight
 8500 NG Scaling - Trial of Perseverance
+8510 NG Scaling - Trial of Glory
 9000 Watchdogs of Farron - Allow Invasion
 9010 Aldrich Faithful - Allow Invasion
 9020 Unknown - Allow Invasion
@@ -719,6 +722,7 @@
 9137 [Behavior] Stumble Back
 9138 [Behavior] Heavy Stagger and Stumble
 9139 [Behavior] Knockback to Ground
+9190 Goods Use Animation
 9200 Invasion occurring
 9201 Intrusion Outbreak & Intrusion Stop State
 9400 GameSystemParam - Mound-maker
@@ -1114,6 +1118,10 @@
 12344 [Giant Slave] Irithyll Dungeon -
 12345 [Giant Slave] Irithyll Dungeon -
 12346 [Giant Slave] Irithyll Dungeon -
+12500 Gesture Trigger 1
+12501 Gesture Trigger 2
+12502 Gesture Trigger 3 - Path of the Dragon
+12503 Gesture Trigger 4
 12600 [High Lord Wolnir]
 12601 [High Lord Wolnir]
 12602 [High Lord Wolnir]
@@ -1639,6 +1647,7 @@
 99600 Test for time measurement until the pseudo-death resurrection
 99700 Team Type Change test
 99800 Tae-eventmaker Collaboration Test
+99999 ### Base Behavior ###
 100000 [Behavior] Anim - Walking
 100001 [Behavior] Anim - Running
 100002 [Behavior] Anim - Sprinting
@@ -1725,12 +1734,67 @@
 100931 [Behavior]
 100950 [Behavior]
 100960 [Behavior]
+111999 ### Custom Behavior ###
 112000 [Behavior] Carthus Bloodring
 112001 [Behavior] Carthus Milkring
 112002 [Behavior] Greatwood Remnants
 112003 [Behavior] Cursed Ring of Evasion
 112004 [Behavior] Insanity Catalyst - Insanity
 112005 [Behavior] Insanity Catalyst - HP
+112006 [Behavior] Enable Random Critical
+112007 [Behavior] Enable Jump on Guard/Left Attack
+112008 [Behavior] Enable Quickstep on Action
+112009 [Behavior] Enable Endless Sprinting
+112010 [Behavior] Enable Damage Variance (Expires)
+112011 [Behavior] Damage Variance: -25%
+112012 [Behavior] Damage Variance: -20%
+112013 [Behavior] Damage Variance: -15%
+112014 [Behavior] Damage Variance: -10%
+112015 [Behavior] Damage Variance: -5%
+112016 [Behavior] Damage Variance: +5%
+112017 [Behavior] Damage Variance: +10%
+112018 [Behavior] Damage Variance: +15%
+112019 [Behavior] Damage Variance: +20%
+112020 [Behavior] Damage Variance: +25%
+112021 [Behavior] Enable Damage Variance (Static)
+112030 [Behavior] Enable Spell Damage Variance (Static)
+112031 [Behavior] Spell Damage Variance: -25%
+112032 [Behavior] Spell Damage Variance: -20%
+112033 [Behavior] Spell Damage Variance: -15%
+112034 [Behavior] Spell Damage Variance: -10%
+112035 [Behavior] Spell Damage Variance: -5%
+112036 [Behavior] Spell Damage Variance: +5%
+112037 [Behavior] Spell Damage Variance: +10%
+112038 [Behavior] Spell Damage Variance: +15%
+112039 [Behavior] Spell Damage Variance: +20%
+112040 [Behavior] Spell Damage Variance: +25%
+112050 [Behavior] Using Prostration
+112060 [Behavior] Disable No Hit Status
+112070 [Behavior] Curse of Gluttony
+112080 [Behavior] Enable Random Critical - Armor
+112090 [Behavior] Enable Sorcery FP Reduction whilst Still
+112091 [Behavior] Enable Pyromancy FP Reduction whilst Still
+112092 [Behavior] Enable Miracle FP Reduction whilst Still
+112095 [Behavior] Still Sorcery FP Reduction
+112096 [Behavior] Still Pyromancy FP Reduction
+112097 [Behavior] Still Miracle FP Reduction
+112098 [Behavior] Enable FP Regen whilst Sitll
+112099 [Behavior] Still FP Regen
+112999 ### FP Behavior ###
+113000 [Behavior] Disable FP Regen - 1 Second
+113001 [Behavior] Disable FP Regen - 2 Seconds
+113002 [Behavior] Disable FP Regen - 3 Seconds
+113003 [Behavior] Disable FP Regen - 4 Seconds
+113004 [Behavior] Disable FP Regen - 5 Seconds
+113005 [Behavior] Disable FP Regen - 6 Seconds
+113100 [Behavior] Restore FP - Base - 1% (5% per second)
+113101 [Behavior] Restore FP - Enchanted - 0.2% (1% per second)
+113102 [Behavior] Restore FP - Clarity - 0.2% (1% per second)
+113103 [Behavior] Restore FP - Darkmoon Faithful - 0.2% (1% per second)
+113104 [Behavior] Restore FP - Darkmoon Ring - 0.2% (1% per second)
+113105 [Behavior] Restore FP - Ring of Catastrophe - 0.6% (3% per second)
+113106 [Behavior] Restore FP - Deep Ring - 0.2% (1% per second)
+119999 ### Base Behavior ###
 120000 [Weapon Art] Axe: War cry
 120010 [Weapon Art] Axe: War cry [Lack of FP]
 120020 [Weapon Art] Axe: War cry - Shockwave [Lack of FP]
@@ -2414,8 +2478,8 @@
 130022500 [Ringed Knight Straight Sword] Ember - Right
 130022550 [Ringed Knight Straight Sword] Ember - Left
 130030400 [Effect] Crystal Sage's Rapier
-130040700 [Pontiff Knight Curved Sword] Frost Blade]
-130040701 [Pontiff Knight Curved Sword] Frost Blade]
+130040700 [Pontiff Knight Curved Sword] Frost Blade
+130040701 [Pontiff Knight Curved Sword] Frost Blade
 130041000 [Crescent Moon Sword] Crescent Blade
 130050200 [Effect] Chaos Blade
 130050201 [Effect] Chaos Blade
@@ -2566,7 +2630,6 @@
 130100760 [Pontiff Knight Great Scythe] Frost - Left [CycleOccurance]
 130100761 [Pontiff Knight Great Scythe] Frost - Left [AttackOccurance]
 130100780 [Pontiff Knight Great Scythe] Frost
-130100790 [Pontiff Knight Great Scythe] Frost
 130110400 [Magic] Anim 40021
 130110410 [Magic] Anim 40021
 130110450 [Magic] Anim 40021
@@ -2579,7 +2642,6 @@
 130130700 [Storyteller's Staff] Poison Spores
 130130710 [Storyteller's Staff] Poison Spores - VFX
 130130720 [Storyteller's Staff] Poison Spores
-130130730 [Storyteller's Staff] Poison Spores - Disable Inflict
 130130800 [Effect] Mendicant's Staff
 130131600 [Sage's Crystal Staff] Steady Chant - Right
 130131601 [Sage's Crystal Staff] Steady Chant - Right [CycleOccurance]
@@ -2590,7 +2652,6 @@
 130134100 [Effect] Pyromancer's Parting Flame
 130134101 [Effect] Pyromancer's Parting Flame
 130134110 [Effect] Pyromancer's Parting Flame
-130134111 [Effect] Pyromancer's Parting Flame - Ascended
 130134120 [Effect] Pyromancer's Parting Flame [DeathOccurance]
 130134130 [Pyromancer's Parting Flame] Parting Flame
 130134131 [Pyromancer's Parting Flame] Parting Flame
@@ -2639,7 +2700,6 @@
 150004051 [Sacred Chime of Filianore] Pray for Favor - Left [CycleOccurance]
 150004060 [Sacred Chime of Filianore] Pray for Favor - Left
 160100001 ### System ###
-160100005 Player - FP Regen
 160100230 [Covenant] Thieves' Code
 160100231 [Covenant] Thieves' Code
 160100232 [Covenant] Thieves' Code [DeathOccurance]
@@ -2649,6 +2709,7 @@
 160100250 [Covenant] Spears of the Church
 160100251 [Covenant] Spears of the Church
 160100252 [Covenant] Spears of the Church [DeathOccurance]
+160100253 [Covenant] Spears of the Church - Toggle Fix
 160100260 [Covenant] Watchdogs of Farron
 160100261 [Covenant] Watchdogs of Farron
 160100262 [Covenant] Watchdogs of Farron [DeathOccurance]
@@ -2679,9 +2740,19 @@
 160100370 [Covenant] Dragon Remnants
 160100371 [Covenant] Dragon Remnants
 160100372 [Covenant] Dragon Remnants [DeathOccurance]
-160105000 [Weapon] Bow - Dummy
-160106000 [Weapon] Greatbow - Dummy
-160107000 [Weapon] Crossbow - Dummy
+160100380 [Covenant] Blue Sentinels
+160100381 [Covenant] Blue Sentinels
+160100382 [Covenant] Blue Sentinels [DeathOccurance]
+160100390 [Covenant] Way of Blue
+160100391 [Covenant] Way of Blue
+160100392 [Covenant] Way of Blue [DeathOccurance]
+160100400 [Covenant] Company of Champions
+160100401 [Covenant] Company of Champions
+160100402 [Covenant] Company of Champions [DeathOccurance]
+160100403 [Covenant] Company of Champions - Enemy Buff
+160105000 [Weapon] Bow
+160106000 [Weapon] Greatbow
+160107000 [Weapon] Crossbow
 160109999 ### Poise
 160110000 Player - Idle
 160110001 Player - Cast
@@ -2763,6 +2834,9 @@
 160201190 Thrall Harpe
 160201200 Scythe of Want
 160201210 Priest's Candlestick
+160201220 Thorned Greatsword - Self-buff
+160201230 Breaking Wheel - Self-buff
+160201240 Crystal Ring Shield - Unleash Moonlight
 160208999 ### Catalysts ###
 160209000 Storyteller's Staff
 160209001 Sunlight Talisman
@@ -2795,8 +2869,7 @@
 160250030 Moonlight Greatsword - Moonlight Vortex
 160250031 Moonlight Greatsword - Moonlight Wave
 160250040 Bloodletter
-160250050 Tranquil Walk of Peace - Self
-160250051 Tranquil Walk of Peace - Enemy
+160250050 Tranquil Walk of Peace - Enemy
 160250060 Channeler's Boon - Self
 160250061 Channeler's Boon - Friend
 160250080 Scraping Spear - Acid Surge
@@ -2811,7 +2884,6 @@
 160250160 Crystal Chime - Crystallization
 160250180 Talisman of Beasts - Bestial Wrath
 160250190 Rotten Talisman - Poison Spores
-160250191 Rotten Talisman - Poison Spores - Disable Aux
 160250200 Smouldering Talisman - Immolate
 160250201 Smouldering Talisman - Enemy VFX
 160250300 Bewitched Alonne Sword - Seppuku
@@ -3352,6 +3424,163 @@
 160401451 Venerable Sage's Set - Body
 160401452 Venerable Sage's Set - Hands
 160401453 Venerable Sage's Set - Legs
+160401460 Alonne's Set - Head
+160401461 Alonne's Set - Body
+160401462 Alonne's Set - Hands
+160401463 Alonne's Set - Legs
+160401470 Rampart Golem Set - Head
+160401471 Rampart Golem Set - Body
+160401472 Rampart Golem Set - Hands
+160401473 Rampart Golem Set - Legs
+160401480 Smelter Demon Set - Head
+160401481 Smelter Demon Set - Body
+160401482 Smelter Demon Set - Hands
+160401483 Smelter Demon Set - Legs
+160401490 Bone Ash Set - Head
+160401491 Bone Ash Set - Body
+160401492 Bone Ash Set - Hands
+160401493 Bone Ash Set - Legs
+160401500 Heide Knight Set - Head
+160401501 Heide Knight Set - Body
+160401502 Heide Knight Set - Hands
+160401503 Heide Knight Set - Legs
+160401510 Imperious Set - Head
+160401511 Imperious Set - Body
+160401512 Imperious Set - Hands
+160401513 Imperious Set - Legs
+160401520 Mask of Horror - Head
+160401530 Mask of Cruelty - Head
+160401540 Mask of Serenity - Head
+160401550 Mask of War - Head
+160401560 Imperial Samurai Helm - Head
+160401570 Horned Samurai Helm - Head
+160401580 Ornate Samurai Helm - Head
+160401590 Black Straw Hat - Head
+160401600 Tan Straw Hat - Head
+160401610 Carthus Blindfold - Head
+160401620 Crown of Filianore - Head
+160401630 Crown of the Holy King - Head
+160401640 Pygmy Crown - Head
+160401650 Old Demon King's Crown - Head
+160401660 Mask of Sin - Head
+160401670 Poisonhorn Cap - Head
+160401680 Vagabond Cowl - Head
+160401690 Hollow Head - Head
+160401700 Basilisk Cap - Head
+160401710 Deserter Helm - Head
+160401720 Pot - Head
+160401730 Raven Mask - Head
+160401740 Crown of the Fallen - Head
+160401750 Hallowed Knight Set - Head
+160401751 Hallowed Knight Set - Body
+160401752 Hallowed Knight Set - Hands
+160401753 Hallowed Knight Set - Legs
+160401760 Courtier Set - Head
+160401761 Courtier Set - Body
+160401762 Courtier Set - Hands
+160401763 Courtier Set - Legs
+160401770 Steel Set - Head
+160401771 Steel Set - Body
+160401772 Steel Set - Hands
+160401773 Steel Set - Legs
+160401780 Drakekeeper Set - Head
+160401781 Drakekeeper Set - Body
+160401782 Drakekeeper Set - Hands
+160401783 Drakekeeper Set - Legs
+160401790 Ivory King Set - Head
+160401791 Ivory King Set - Body
+160401792 Ivory King Set - Hands
+160401793 Ivory King Set - Legs
+160401800 Mad Warrior Set - Head
+160401801 Mad Warrior Set - Body
+160401802 Mad Warrior Set - Hands
+160401803 Mad Warrior Set - Legs
+160401810 Mirror Knight Set - Head
+160401811 Mirror Knight Set - Body
+160401812 Mirror Knight Set - Hands
+160401813 Mirror Knight Set - Legs
+160401820 Syan Knight Set - Head
+160401821 Syan Knight Set - Body
+160401822 Syan Knight Set - Hands
+160401823 Syan Knight Set - Legs
+160401830 Adventurer's Set - Head
+160401831 Adventurer's Set - Body
+160401832 Adventurer's Set - Hands
+160401833 Adventurer's Set - Legs
+160401840 Gold-hemmed Black Set - Head
+160401841 Gold-hemmed Black Set - Body
+160401842 Gold-hemmed Black Set - Hands
+160401843 Gold-hemmed Black Set - Legs
+160401850 Charred Loyce Set - Head
+160401851 Charred Loyce Set - Body
+160401852 Charred Loyce Set - Hands
+160401853 Charred Loyce Set - Legs
+160401860 Forlorn Set - Head
+160401861 Forlorn Set - Body
+160401862 Forlorn Set - Hands
+160401863 Forlorn Set - Legs
+160401870 Jester's Set - Head
+160401871 Jester's Set - Body
+160401872 Jester's Set - Hands
+160401873 Jester's Set - Legs
+160401880 Royal Soldier Set - Head
+160401881 Royal Soldier Set - Body
+160401882 Royal Soldier Set - Hands
+160401883 Royal Soldier Set - Legs
+160401890 Loyce Set - Head
+160401891 Loyce Set - Body
+160401892 Loyce Set - Hands
+160401893 Loyce Set - Legs
+160401900 Black Stag Helm - Head
+160401910 Golem Set - Head
+160401911 Golem Set - Body
+160401912 Golem Set - Hands
+160401913 Golem Set - Legs
+160401920 Manikin Set - Head
+160401921 Manikin Set - Body
+160401922 Manikin Set - Hands
+160401923 Manikin Set - Legs
+160401930 Crude Manikin Mask - Head
+160401940 Stone Set - Head
+160401941 Stone Set - Body
+160401942 Stone Set - Hands
+160401943 Stone Set - Legs
+160401950 Guardian Set - Head
+160401951 Guardian Set - Body
+160401952 Guardian Set - Hands
+160401953 Guardian Set - Legs
+160401960 Gough's Set - Head
+160401961 Gough's Set - Body
+160401962 Gough's Set - Hands
+160401963 Gough's Set - Legs
+160401970 Crimson Set - Head
+160401971 Crimson Set - Body
+160401972 Crimson Set - Hands
+160401973 Crimson Set - Legs
+160401980 Channeler's Set - Head
+160401981 Channeler's Set - Body
+160401982 Channeler's Set - Hands
+160401983 Channeler's Set - Legs
+160401990 Astrologist's Set - Head
+160401991 Astrologist's Set - Body
+160401992 Astrologist's Set - Hands
+160401993 Astrologist's Set - Legs
+160402000 Aurous Set - Head
+160402001 Aurous Set - Body
+160402002 Aurous Set - Hands
+160402003 Aurous Set - Legs
+160402010 Dragon Acolyte Set - Head
+160402011 Dragon Acolyte Set - Body
+160402012 Dragon Acolyte Set - Hands
+160402013 Dragon Acolyte Set - Legs
+160402020 Vengarl's Set - Head
+160402021 Vengarl's Set - Body
+160402022 Vengarl's Set - Hands
+160402023 Vengarl's Set - Legs
+160402030 Chester's Set - Head - Critical Boost
+160402031 Chester's Set - Body
+160402032 Chester's Set - Hands
+160402033 Chester's Set - Legs
 160409999 ### Armor - Mechanics ###
 160410000 Smough's Set - Head [DeathOccurance]
 160410001 Smough's Set - Body [DeathOccurance]
@@ -3361,7 +3590,7 @@
 160410011 Executioner Set - Body [DeathOccurance]
 160410012 Executioner Set - Hands [DeathOccurance]
 160410013 Executioner Set - Legs [DeathOccurance]
-160410020 Black Dragon Set - Legs [AttackOccurance]
+160410020 Black Dragon Set - Legs [CycleOccurance]
 160410030 Gold Ardeo - Head [DeathOccurance]
 160410040 Iron Cage - Head [DeathOccurance]
 160410050 Bloodstained Gauntlets - Hands [DeathOccurance]
@@ -3386,6 +3615,7 @@
 160500051 [Sorcery] Repel - Ascended
 160500060 [Sorcery] Numbness
 160500070 [Miracle] Perseverance
+160500071 [Miracle] Perseverance - Ascended
 160500080 [Sorcery] Blizzard
 160500090 [Sorcery] Soul Focus
 160500100 [Miracle] Inner Fervor
@@ -3398,6 +3628,17 @@
 160500260 [Miracle] Vow of Agony
 160500270 [Sorcery] Homing Soulmass - Ascended
 160500280 [Sorcery] Affinity - Ascended
+160500290 [Miracle] Pulsating Blade
+160500291 [Miracle] Pulsating Blade [AttackOccurance]
+160500292 [Miracle] Pulsating Blade - Ascended
+160500293 [Miracle] Pulsating Blade [AttackOccurance] - Ascended
+160500300 [Pyromancy] Pungent Blade
+160500301 [Pyromancy] Pungent Blade [AttackOccurance]
+160500302 [Pyromancy] Pungent Blade - Ascended
+160500303 [Pyromancy] Pungent Blade [AttackOccurance] - Ascended
+160500310 [Pyromancy] Black Flame Arc
+160500311 [Pyromancy] Black Flame Arc - Ascended
+160500320 [Pyromancy] Dark Dance - Ascended
 160600001 ### Rings ###
 160600010 Life Ring
 160600011 Life Ring+1
@@ -3466,11 +3707,8 @@
 160600206 Unused - Attack Boosts Power [State]
 160600207 Unused - Attack Boosts Power [State]
 160600220 Ring of Sacrifice
-160600230 Young Dragon Ring
 160600240 Bellowing Dragoncrest Ring
-160600250 Great Swamp Ring
 160600260 Witch's Ring
-160600270 Morne's Ring
 160600280 Ring of the Sun's First Born
 160600290 Lingering Dragoncrest Ring
 160600291 Lingering Dragoncrest Ring+1
@@ -3623,6 +3861,7 @@
 160601163 Jester Ring+3
 160601170 Arcane Trinket
 160601180 Londor Tincture
+160601181 Londor Tincture - Toggle Fix
 160601210 Enchanted Quiver
 160601220 Old Pygmy Brooch
 160601221 Old Pygmy Brooch [CycleOccurance]
@@ -3653,32 +3892,12 @@
 160601381 Band of Darkness+1
 160601382 Band of Darkness+2
 160601383 Band of Darkness+3
-160601390 Rainbow Ring
-160601391 Rainbow Ring - Color 1
-160601392 Rainbow Ring - Color 2
-160601393 Rainbow Ring - Color 3
-160601394 Rainbow Ring - Color 4
-160601395 Rainbow Ring - Color 5
-160601396 Rainbow Ring - Color 6
-160601397 Rainbow Ring - Color 7
-160601398 Rainbow Ring - Color 8
-160601399 Rainbow Ring - Color 9
-160601400 Ring of the Dutiful
-160601410 Ring of the Blessed
-160601420 Ring of the Resolute
-160601430 Ring of the Faithful
-160601440 Ring of the Devout
-160601450 Ring of the Fanatic
-160601460 Ring of the Fingers
-160601470 Ring of Demons
 160601520 Elden Ring
 160601530 Rare Ring of Humanity
 160601540 Wolf Ring
 160601541 Wolf Ring+1
 160601542 Wolf Ring+2
 160601543 Wolf Ring+3
-160601550 Tomb Ring
-160601560 Accursed Ring
 160601570 Fool's Sigil
 160601571 Fool's Sigil - Attack
 160601572 Fool's Sigil - Absorption
@@ -3689,12 +3908,11 @@
 160601577 Fool's Sigil - Bad - No Estus Usage
 160601578 Fool's Sigil - Bad - Absorption
 160601579 Fool's Sigil - Removal
-160601580 Rattling Finger
-160601581 Rattling Finger - Type 1
-160601582 Rattling Finger - Type 2
-160601583 Rattling Finger - Type 3
-160601584 Rattling Finger - Type 4
-160601590 Murky Finger
+160601600 Ring of Punishment
+160601700 Young Dragon Ring
+160601710 Great Swamp Ring
+160601720 Morne's Ring
+160601730 Deep Ring
 160689999 ### Curse - Rings ###
 160690000 Cursed Ring of Evasion - Apply Curse
 160690001 Cursed Ring of Evasion - Apply Curse [CycleOccurance]
@@ -3715,24 +3933,99 @@
 160700040 Young Grass Dew
 160700050 Tarnished Coin
 160700060 Tarnished Silver Coin
-160700110 Fire Stone
-160700120 Magic Stone
-160700130 Lightning Stone
-160700140 Dark Stone
-160700150 Poison Stone
-160700160 Bleed Stone
-160700170 Frost Stone
-160700180 Blessed Stone
 160700230 Old Growth Balm
 160700240 Vine Balm
 160700250 Blackweed Balm
 160700260 Goldenfruit Balm
 160700270 Purging Stone
 160700290 Aged Dragon Stone
-160700300 Enchanted Stone
 160700310 Devil's Trumpet
 160700320 Moonflower
 160700330 Henbane
+160700999 ### Elixirs ###
+160701000 Cleansing Elixir - Trigger
+160701010 Cleansing Elixir
+160701100 Psychedelic Elixir
+160701110 Psychedelic Elixir - Color 1
+160701111 Psychedelic Elixir - Color 2
+160701112 Psychedelic Elixir - Color 3
+160701113 Psychedelic Elixir - Color 4
+160701114 Psychedelic Elixir - Color 5
+160701115 Psychedelic Elixir - Color 6
+160701116 Psychedelic Elixir - Color 7
+160701117 Psychedelic Elixir - Color 8
+160701118 Psychedelic Elixir - Color 9
+160701200 Accursed Elixir - Trigger
+160701210 Accursed Elixir
+160701300 Elixir of Ghosts - Trigger
+160701310 Elixir of Ghosts
+160701400 Darkmoon Elixir - Trigger
+160701410 Darkmoon Elixir
+160701500 Holy Elixir - Trigger
+160701510 Holy Elixir
+160701600 Earthen Elixir - Trigger
+160701610 Earthen Elixir
+160701700 Abyssal Elixir - Trigger
+160701710 Abyssal Elixir
+160701800 Sunlight Elixir - Trigger
+160701810 Sunlight Elixir
+160701900 Maddening Elixir - Trigger
+160701910 Maddening Elixir
+160702000 Bloody Elixir - Trigger
+160702010 Bloody Elixir
+160702100 Demonic Elixir - Trigger
+160702110 Demonic Elixir
+160702200 Elixir of Deceit - Trigger
+160702210 Elixir of Deceit
+160702300 Elixir of Cooperation - Trigger
+160702310 Elixir of Cooperation
+160702999 ### Transformations ###
+160703000 Rattling Finger - Trigger
+160703010 Rattling Finger - Type 1 (Head)
+160703011 Rattling Finger - Type 1 (Body)
+160703020 Rattling Finger - Type 2 (Head)
+160703021 Rattling Finger - Type 2 (Body)
+160703030 Rattling Finger - Type 3 (Head)
+160703031 Rattling Finger - Type 3 (Body)
+160703040 Rattling Finger - Type 4 (Head)
+160703041 Rattling Finger - Type 4 (Body)
+160703100 Murky Finger - Trigger
+160703110 Murky Finger (Head)
+160703111 Murky Finger (Body)
+160703200 Demonic Skull - Trigger
+160703201 Demonic Claw - Trigger
+160703210 Demonic Skull (Head)
+160703211 Demonic Claw (Body)
+160703300 Forgotten Seal - Trigger
+160703301 Forgotten Tablet - Trigger
+160703310 Forgotten Seal (Head)
+160703311 Forgotten Tablet (Body)
+160703400 Dragon Head Stone - Trigger
+160703401 Dragon Torso Stone - Trigger
+160703410 Dragon Head Stone (Head)
+160703411 Dragon Torso Stone (Body)
+160704000 Empty Slot
+160705999 ### Weapon Visual Items ###
+160706000 Fire Stone
+160706001 Fire Stone - Trigger
+160706010 Magic Stone
+160706011 Magic Stone - Trigger
+160706020 Lightning Stone
+160706021 Lightning Stone - Trigger
+160706030 Dark Stone
+160706031 Dark Stone - Trigger
+160706040 Poison Stone
+160706041 Poison Stone - Trigger
+160706050 Bleed Stone
+160706051 Bleed Stone - Trigger
+160706060 Frost Stone
+160706061 Frost Stone - Trigger
+160706070 Blessed Stone
+160706071 Blessed Stone - Trigger
+160706080 Enchanted Stone
+160706081 Enchanted Stone - Trigger
+160706090 Cleansing Stone
+160706091 Cleansing Stone - Trigger
 160709999 ### Developer Items ###
 160710000 Detection - Event Flag Tool
 160710101 Effect - God Tool
@@ -3741,6 +4034,8 @@
 160710104 Effect - FP Tool
 160710105 Effect - HP Tool
 160710106 Effect - Souls Tool
+160710107 Effect - FP Consumption Tool
+160710108 Effect - Cripple Tool
 160719999 ### Boss Souls ###
 160720000 Soul of Rosaria
 160720010 Soul of Boreal Valley Vordt
@@ -3768,21 +4063,60 @@
 160720230 Soul of Slave Knight Gael
 160720240 Soul of Corrupted Gundyr
 160720250 Soul of the Ancient Dragon
-160720260 Soul of the Triad
+160720260 Soul of the Lordran Remnants
 160740000 ### Enemies ###
-160740001 Pilgrim Dummy
+160740001 El Hueso
 160740002 Pilgrim Pulpa - Holy Burst
 160740003 Humanity Sprite
 160740004 Invisible Dummy
 160740100 Echoes of the Past
-160741000 The Triad - The Lord's Blade - Empower
-160741010 The Triad - The Dragonslayer - Empower
-160741020 The Triad - The Abyss Walker - Empower
+160741100 Spirit Apperance
+160741300 Red Crystal Lizard Immunity
+160741310 Red Crystal Lizard Aggression
 160749999 ### Map ###
 160750000 Estus Pot Drink
 160750010 Poisoned Estus Pot
 160750011 Poisoned Estus Pot Drink - Poison
 160750100 Ringed City Swamp - Curse
+160759999 ### Companions ###
+160760000 Trigger - Solaire
+160760001 Trigger - El Crabbo
+160760002 Trigger - Rocky
+160760003 Trigger -
+160760004 Trigger -
+160760005 Trigger -
+160760006 Trigger -
+160760007 Trigger -
+160760008 Trigger -
+160760050 Baseline - Solaire
+160760051 Baseline - El Crabbo
+160760052 Baseline - Rocky
+160760053 Baseline -
+160760054 Baseline -
+160760055 Baseline -
+160760056 Baseline -
+160760057 Baseline -
+160760058 Baseline -
+160760100 Invisibility whilst being beckoned
+160760200 Level Scaling: Cemetery of Ash
+160760201 Level Scaling: High Wall of Lothric
+160760202 Level Scaling: Undead Settlement
+160760203 Level Scaling: Road of Sacrifices
+160760204 Level Scaling: Cathedral of the Deep
+160760205 Level Scaling: Catacombs of Carthus
+160760206 Level Scaling: Irithyll of the Boreal Valley
+160760207 Level Scaling: Lothric Castle
+160760208 Level Scaling: Irithyll Dungeon
+160760209 Level Scaling: Archdragon Peak
+160760210 Level Scaling: Grand Archives
+160760211 Level Scaling: Kiln of the First Flame
+160760212 Level Scaling: Ariandel
+160760213 Level Scaling: Dreg Heap
+160760214 Level Scaling: Ringed City
+160760215 Level Scaling: Filianore's Rest
+160760216 Level Scaling: Trial of Perserverence
+160761000 Level Scaling: NG+
+160761300 Companion Clear
 160800000 ### NPC ###
 160800001 NPC - Base
 160800002 Enemy - Base
@@ -3790,10 +4124,12 @@
 160800004 Story - Base
 160800005 Boss - Base
 160800006 Trial of Might - Base
+160800007 Merchant - Base
+160800008 Companion - Base
 160800010 NPC - Slave Knight Gael
 160800020 NPC - Sir Vilhelm
 160800030 NPC - Livid Pyromancer Dunnel
-160800040 NPC - The Triad
+160800040 NPC - Lordran Remnants
 160800050 NPC - Amnesiac Lapp
 160800060 NPC - Shira, Knight of Filianore
 160800070 NPC - Painting Guardian
@@ -3885,6 +4221,20 @@
 160800900 NPC - Burial Knight
 160800910 NPC - Undead Hexer
 160800920 NPC - Roaming Sorcerer
+160800930 NPC - Blacksmith's Nightmare
+160800940 NPC - Frozen Knight Torbjorn
+160800950 NPC - Bewitched Knight Iwai
+160800960 NPC - Wandering Knight Osvaldo
+160800970 NPC - Lord Takatsuji
+160800980 NPC - Lieutenant Ugali
+160800990 NPC - Lieutenant Hanji
+160801000 NPC - Ashen Keeper Sofija
+160801010 NPC - Hallowed Knight Orthell
+160801020 NPC - Dragon Hunter Karstark
+160801030 NPC - Disciple of Alsanna
+160801040 NPC - The Prowler
+160801050 Enemy - El Hueso
+160801060 Enemy - Red Lizard - Hide from AI
 170000000 ### Status Effect - Spells ###
 170000010 Frost - Frozen Weapon [AttackOccurance]
 170000011 Frost - Frozen Weapon [AttackOccurance] - Ascended
@@ -3924,23 +4274,16 @@
 170000310 Bleed - Caitha's Affliction
 170000330 Bleed - Infected Spit
 170000340 Curse - Dark Bead - Ascended
+170000350 Toxic - Fecal Explusion
 170000999 ### Status Effect - Armor ###
-170001000 Poison - Head
-170001001 Poison - Body
-170001002 Poison - Hands
-170001003 Poison - Legs
-170001100 Bleed - Head
-170001101 Bleed - Body
-170001102 Bleed - Hands
-170001103 Bleed - Legs
-170001200 Frost - Head
-170001201 Frost - Body
-170001202 Frost - Hands
-170001203 Frost - Legs
-170001300 Curse - Head
-170001301 Curse - Head
-170001302 Curse - Hands
-170001303 Curse - Legs
+170001000 Poison [CycleOccurance]
+170001001 Poison [AttackOccurance]
+170001100 Bleed [CycleOccurance]
+170001101 Bleed [AttackOccurance]
+170001200 Frost [CycleOccurance]
+170001201 Frost [AttackOccurance]
+170001300 Curse [CycleOccurance]
+170001301 Curse [AttackOccurance]
 179999999 ### Poison - Weapons ###
 180000000 Poison - Normal (Infusion)
 180000001 Poison - Quick (Infusion)
@@ -4072,7 +4415,7 @@
 180020000 Frost - Normal (Infusion)
 180020001 Frost - Quick (Infusion)
 180020002 Frost - Slow (Infusion)
-180020003 Frost - Normal - Anti-fire (Infusion)
+180020003 Frost - Normal - Fire Weapons (Infusion)
 180020010 Frost - Irithyll Straight Sword
 180020011 Frost - Irithyll Straight Sword (Infusion)
 180020020 Frost - Irithyll Greatsword
@@ -4098,6 +4441,7 @@
 180020131 Frost - Pontiff Knight Great Scythe (Infusion)
 180020140 Frost - Rampart Golem Lance
 180020141 Frost - Rampart Golem Lance (Infusion)
+180021000 Frost - Stamina Reduction
 180029999 ### Curse ###
 180030000 Curse - Normal (Infusion)
 180030001 Curse - Quick (Infusion)
@@ -4251,38 +4595,30 @@
 200008360 Dark - Thrusting Sword
 200008380 Dark - Reaper
 249999999 ### Challenges ###
-250000100 No Death Run
-250001000 Curse of Pride - Positive
-250001001 Curse of Pride - Negative - 95
-250001002 Curse of Pride - Negative - 90
-250001003 Curse of Pride - Negative - 85
-250001004 Curse of Pride - Negative - 80
-250001005 Curse of Pride - Negative - 75
-250001006 Curse of Pride - Negative - 70
-250001007 Curse of Pride - Negative - 65
-250001008 Curse of Pride - Negative - 60
-250001009 Curse of Pride - Negative - 55
-250001010 Curse of Pride - Negative - 50
-250001011 Curse of Pride - Negative - 45
-250001012 Curse of Pride - Negative - 40
-250001013 Curse of Pride - Negative - 35
-250001014 Curse of Pride - Negative - 30
-250001015 Curse of Pride - Negative - 25
-250001016 Curse of Pride - Negative - 20
-250001017 Curse of Pride - Negative - 15
-250001018 Curse of Pride - Negative - 10
-250001019 Curse of Pride - Negative - 5
-250001100 Curse of Wrath - Negative
-250001101 Curse of Wrath - Positive
-250001110 Curse of Wrath - Negative [AttackOccurance]
-250001111 Curse of Wrath - Negative [CycleOccurance]
-250001200 Curse of Folly - Negative
-250001201 Curse of Folly - Positive
-250001300 Curse of Obscurity - Negative
-250001301 Curse of Obscurity - Positive
-250001400 Curse of Vitality - Negative
-250001401 Curse of Vitality - Positive
-250001410 Curse of Vitality - Negative [AttackOccurance]
+250001000 Curse of Pride - Player Effect
+250001001 Curse of Pride - Soul Gain
+250001002 Curse of Pride - Enemy Effect
+250001100 Curse of Wrath - Player Effect
+250001101 Curse of Wrath - Soul Gain
+250001102 Curse of Wrath - Enemy Effect
+250001200 Curse of Folly - Player Effect
+250001201 Curse of Folly - Soul Gain
+250001202 Curse of Frailty - Enemy Effect
+250001300 Curse of Obscurity - Player Effect
+250001301 Curse of Obscurity - Soul Gain
+250001400 Curse of Vitality - Player Effect
+250001401 Curse of Vitality - Soul Gain
+250001402 Curse of Vitality - Enemy Effect
+250001403 Curse of Vitality - Enemy Effect (Trial)
+250001500 Curse of Attraction - Player Effect
+250001501 Curse of Attraction - Soul Gain
+250001600 Curse of Fortitude - Player Effect
+250001601 Curse of Fortitude - Soul Gain
+250001602 Curse of Fortitude - Enemy Effect
+250001700 Curse of Gluttony - Player Effect
+250001701 Curse of Gluttony - Soul Gain
+250001800 Curse of Pandemonium - Player Effect
+250001801 Curse of Pandemonium - Soul Gain
 250002000 Darkness
 260000000 ### Bosses ###
 260000001 Iudex Gundyr
@@ -4308,195 +4644,48 @@
 260000021 Soul of Cinder
 260000022 Sister Friede
 260000023 Father Ariandel
-260000024 The Triad
+260000024 Lordran Remnants
 260000025 Demon Princes
 260000026 Darkeater Midir
 260000027 Slave Knight Gael
 260100000 ### Memory System ###
 260100010 Iudex Gundyr - Dream
-260100011 Iudex Gundyr - Dream Modifiers
-260100012 Iudex Gundyr - Nightmare
-260100013 Iudex Gundyr - Nightmare Modifiers
 260100020 Vordt of the Boreal Valley - Dream
-260100021 Vordt of the Boreal Valley - Dream Modifiers
-260100022 Vordt of the Boreal Valley - Nightmare
-260100023 Vordt of the Boreal Valley - Nightmare Modifiers
 260100030 Curse-rotted Greatwood - Dream
-260100031 Curse-rotted Greatwood - Dream Modifiers
-260100032 Curse-rotted Greatwood - Nightmare
-260100033 Curse-rotted Greatwood - Nightmare Modifiers
 260100040 Crystal Sage - Dream
-260100041 Crystal Sage - Dream Modifiers
-260100042 Crystal Sage - Nightmare
-260100043 Crystal Sage - Nightmare Modifiers
 260100050 Deacons of the Deep - Dream
-260100051 Deacons of the Deep - Dream Modifiers
-260100052 Deacons of the Deep - Nightmare
-260100053 Deacons of the Deep - Nightmare Modifiers
 260100060 Abyss Watchers - Dream
-260100061 Abyss Watchers - Dream Modifiers
-260100062 Abyss Watchers - Nightmare
-260100063 Abyss Watchers - Nightmare Modifiers
 260100070 High Lord Wolnir - Dream
-260100071 High Lord Wolnir - Dream Modifiers
-260100072 High Lord Wolnir - Nightmare
-260100073 High Lord Wolnir - Nightmare Modifiers
 260100080 Old Demon King - Dream
-260100081 Old Demon King - Dream Modifiers
-260100082 Old Demon King - Nightmare
-260100083 Old Demon King - Nightmare Modifiers
 260100090 Pontiff Sulyvahn - Dream
-260100091 Pontiff Sulyvahn - Dream Modifiers
-260100092 Pontiff Sulyvahn - Nightmare
-260100093 Pontiff Sulyvahn - Nightmare Modifiers
 260100100 Aldrich, Devourer of Gods - Dream
-260100101 Aldrich, Devourer of Gods - Dream Modifiers
-260100102 Aldrich, Devourer of Gods - Nightmare
-260100103 Aldrich, Devourer of Gods - Nightmare Modifiers
 260100110 Yhorm the Giant - Dream
-260100111 Yhorm the Giant - Dream Modifiers
-260100112 Yhorm the Giant - Nightmare
-260100113 Yhorm the Giant - Nightmare Modifiers
 260100120 Dancer of the Boreal Valley - Dream
-260100121 Dancer of the Boreal Valley - Dream Modifiers
-260100122 Dancer of the Boreal Valley - Nightmare
-260100123 Dancer of the Boreal Valley - Nightmare Modifiers
 260100130 Oceiros, the Consumed King - Dream
-260100131 Oceiros, the Consumed King - Dream Modifiers
-260100132 Oceiros, the Consumed King - Nightmare
-260100133 Oceiros, the Consumed King - Nightmare Modifiers
 260100140 Dragonslayer Armour - Dream
-260100141 Dragonslayer Armour - Dream Modifiers
-260100142 Dragonslayer Armour - Nightmare
-260100143 Dragonslayer Armour - Nightmare Modifiers
 260100150 Ancient Wyvern - Dream
-260100151 Ancient Wyvern - Dream Modifiers
-260100152 Ancient Wyvern - Nightmare
-260100153 Ancient Wyvern - Nightmare Modifiers
 260100160 Nameless King - Dream
-260100161 Nameless King - Dream Modifiers
-260100162 Nameless King - Nightmare
-260100163 Nameless King - Nightmare Modifiers
 260100170 Champion Gundyr - Dream
-260100171 Champion Gundyr - Dream Modifiers
-260100172 Champion Gundyr - Nightmare
-260100173 Champion Gundyr - Nightmare Modifiers
 260100180 Twin Princes - Dream
-260100181 Twin Princes - Dream Modifiers
-260100182 Twin Princes - Nightmare
-260100183 Twin Princes - Nightmare Modifiers
 260100190 Soul of Cinder - Dream
-260100191 Soul of Cinder - Dream Modifiers
-260100192 Soul of Cinder - Nightmare
-260100193 Soul of Cinder - Nightmare Modifiers
 260100200 Sister Friede - Dream
-260100201 Sister Friede - Dream Modifiers
-260100202 Sister Friede - Nightmare
-260100203 Sister Friede - Nightmare Modifiers
-260100210 The Triad - Dream
-260100211 The Triad - Dream Modifiers
-260100212 The Triad - Nightmare
-260100213 The Triad - Nightmare Modifiers
+260100210 Lordran Remnants - Dream
 260100220 Demon Prince - Dream
-260100221 Demon Prince - Dream Modifiers
-260100222 Demon Prince - Nightmare
-260100223 Demon Prince - Nightmare Modifiers
 260100230 Darkeater Midir - Dream
-260100231 Darkeater Midir - Dream Modifiers
-260100232 Darkeater Midir - Nightmare
-260100233 Darkeater Midir - Nightmare Modifiers
 260100240 Slave Knight Gael - Dream
-260100241 Slave Knight Gael - Dream Modifiers
-260100242 Slave Knight Gael - Nightmare
-260100243 Slave Knight Gael - Nightmare Modifiers
 260199999 ### Trial of Perseverance ###
-260200000 Wave - Soul Boost
-260200001 Wave - Item Discovery Boost
 260200002 Wave - Enemy Kill
-260200010 Skeleton
-260200011 Hollow Soldier
-260200012 Large Hollow Soldier
-260200013 Carthus Swordsman
-260200014 Cathedral Knight
-260200015 Hollow Slave
-260200016 Ghru
-260200017 Cathedral Evangelist
-260200018 Peasant Hollow
-260200019 Cathedral Grave Warden
-260200020 Hollow Manservant
-260200021 Lothric Knight
-260200022 Winged Knight
-260200023 Black Knight
-260200024 Boreal Outrider Knight
-260200025 Archive Scholar
-260200026 Irithyllian Slave
-260200027 Lycanthrope
-260200028 Lycanthrope Hunter
-260200029 Serpent-man Summoner
-260200030 Serpent-man
-260200031 Giant Serpent-man
-260200032 Silver Knight
-260200033 Bonewheel Skeleton
-260200034 Undead Dog
-260200035 Small Undead Dog
-260200036 Pontiff Knight
-260200037 Monstrosity of Sin
-260200038 Wretch
-260200039 Sewer Centipede
-260200040 Hound-rat
-260200041 Writhing Rotten Flesh
-260200042 Basilisk
-260200043 Gargoyle
-260200044 Jailer
-260200045 Giant Rat
-260200046 Irithyll Dog
-260200047 Giant Slave
-260200048 Demon Cleric
-260200049 Ravenous Crystal Lizard
-260200050 Deep Acursed
-260200051 Elder Ghru
-260200052 Darkwraith
-260200053 Poisonhorn Bug
-260200054 Rock Lizard
-260200055 Demon Statue
-260200056 Fat Deacon
-260200057 Tall Deacon
-260200058 Thin Deacon
-260200059 Irithyll Fire Witch
-260200060 Ringed Knight
-260200061 Hollow Vagabond
-260200062 Hollow Cleric
-260200063 Harald Knight
-260200064 Big Locust
-260200065 Small Locust
-260200100 Wave HP - High Wall Rabble
-260200101 Wave HP - Afflicted Swarm
-260200102 Wave HP - Peasant Uprising
-260200103 Wave HP - Dogs Amok
-260200104 Wave HP - Lycanthrope Menace
-260200105 Wave HP - Wraiths of the Abyss
-260200106 Wave HP - Bone Rattlers
-260200107 Wave HP - Wheel and Deal
-260200108 Wave HP - Horrors from the Swamp
-260200109 Wave HP - Demonic Surge
-260200110 Wave HP - Wardens of the Grave
-260200111 Wave HP - Bulwarks of the Kiln
-260200112 Wave HP - Cathedral Protectors
-260200113 Wave HP - Gargoyle Frenzy
-260200114 Wave HP - Deacons of the Deep
-260200115 Wave HP - Monstrosities of Sin
-260200116 Wave HP - Jailers of the Damned
-260200117 Wave HP - Ratatouille
-260200118 Wave HP - Wretched Prisoners
-260200119 Wave HP - Serpentine Swarm
-260200120 Wave HP - Rock'n'Roll
-260200121 Wave HP - Knights of Lothric
-260200122 Wave HP - Irithyll Slaves
-260200123 Wave HP - Guardians of Irithyll
-260200124 Wave HP - Gwyn's Vanguard
-260200125 Wave HP - Crystalline Chaos
-260200126 Wave HP - Gertrude's Winged Assault
-260200127 Wave HP - Vagabond Rush
-260200128 Wave HP - Locust Swarm
-260200129 Wave HP - Dregs of the Deep
-260200130 Wave HP - Remnants of the End
+260200010 Enemy - Is Setup
+260200020 Level Scaling - Trial
+260200030 NG+ Scaling - Trial
+260200070 Wave - Auto Kill via Tool
+260200100 Wave HP - Wave 1
+260200101 Wave HP - Wave 2
+260200102 Wave HP - Wave 3
+260200103 Wave HP - Wave 4
+260200104 Wave HP - Wave 5
+260200105 Wave HP - Wave 6
+260200106 Wave HP - Wave 7
+260200107 Wave HP - Wave 8
+260200108 Wave HP - Wave 9
+260200109 Wave HP - Wave 10

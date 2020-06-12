@@ -3,9 +3,10 @@
 7 Bleed
 21 Weapon - Handmaid's Ladle
 40 Infusion - Fire/Dark
-60 Catalyst - 80% Effectiveness
-65 Catalyst - Pyromancy
 70 Tool - Linear Scaling
+80 Catalyst - Early Effectiveness
+81 Catalyst (Hybrid) - Early Effectiveness
+82 Catalyst - Normal Effectiveness
 100 VIG - HP Scaling
 101 ATN - FP Scaling
 102 Soul Level - Defence

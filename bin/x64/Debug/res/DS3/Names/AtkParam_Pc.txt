@@ -249,7 +249,6 @@
 5762 Draconic Bolt - Repeat Fire
 6000 Witching Urn
 6100 Hexing Urn
-6101 Hexing Urn [HitBullet]
 6200 Holy Water Urn
 7000 Wrathful Arrow
 7010 Darkmoon Volley
@@ -443,7 +442,7 @@
 2000610 Dagger - Backstab Transition
 2000615 Dagger - Missed Backstab Transition
 2000700 Dagger - Blind Spot
-2000800 Dagger
+2000800 Dagger - Quickstep
 2001300 Dagger #2 - 2H Heavy #1
 2001305 Dagger #2 - 2H Heavy #1 Maximum
 2001310 Dagger #2 - 2H Heavy #2
@@ -451,14 +450,14 @@
 2010400 Handmaid's Dagger
 2010402 Handmaid's Dagger
 2010404 Handmaid's Dagger
-2020100 Mail Breaker
-2020105 Mail Breaker - 1H Heavy #1 - Charged
-2020110 Mail Breaker
-2020115 Mail Breaker - 1H Heavy #2 - Charged
-2020300 Mail Breaker
-2020305 Mail Breaker - 2H Heavy #1 - Charged
-2020310 Mail Breaker
-2020315 Mail Breaker - 2H Heavy #2 - Charged
+2020100 Mail Breaker - 1H Heavy #1
+2020105 Mail Breaker - 1H Heavy #1 Max
+2020110 Mail Breaker - 1H Heavy #2
+2020115 Mail Breaker - 1H Heavy #2 Max
+2020300 Mail Breaker - 2H Heavy #1
+2020305 Mail Breaker - 2H Heavy #1 Max
+2020310 Mail Breaker - 2H Heavy #2
+2020315 Mail Breaker - 2H Heavy #2 Max
 2020700 Mail Breaker - Shield Splitter
 2030700 Tailbone Short Sword
 2030705 Tailbone Short Sword
@@ -473,20 +472,20 @@
 2041030 Harpe and Murky Hand Scythe
 2041040 Harpe and Murky Hand Scythe
 2041050 Harpe and Murky Hand Scythe
-2041100 Harpe and Murky Hand Scythe
-2041105 Harpe and Murky Hand Scythe
-2041110 Harpe and Murky Hand Scythe
-2041115 Harpe and Murky Hand Scythe
+2041100 Harpe and Murky Hand Scythe - 1H Heavy #1
+2041105 Harpe and Murky Hand Scythe - 1H Heavy #1 Max
+2041110 Harpe and Murky Hand Scythe - 1H Heavy #2
+2041115 Harpe and Murky Hand Scythe - 1H Heavy #2 Max
 2041200 Harpe and Murky Hand Scythe
 2041210 Harpe and Murky Hand Scythe
 2041220 Harpe and Murky Hand Scythe
 2041230 Harpe and Murky Hand Scythe
 2041240 Harpe and Murky Hand Scythe
 2041250 Harpe and Murky Hand Scythe
-2041300 Harpe and Murky Hand Scythe
-2041305 Harpe and Murky Hand Scythe
-2041310 Harpe and Murky Hand Scythe
-2041315 Harpe and Murky Hand Scythe
+2041300 Harpe and Murky Hand Scythe - 2H Heavy #1
+2041305 Harpe and Murky Hand Scythe - 2H Heavy #1 Max
+2041310 Harpe and Murky Hand Scythe - 2H Heavy #2
+2041315 Harpe and Murky Hand Scythe - 2H Heavy #2 Max
 2041400 Harpe and Murky Hand Scythe
 2041402 Harpe and Murky Hand Scythe
 2041404 Harpe and Murky Hand Scythe
@@ -561,8 +560,8 @@
 2300722 Straight Sword - Stance Heavy
 2300920 Straight Sword
 2300921 Straight Sword
-2301100 Broadsword - 1H Heavy
-2301105 Broadsword - 1H Heavy Max
+2301100 Broadsword - 1H Heavy # 1
+2301105 Broadsword - 1H Heavy # 1 Max
 2301540 Broadsword - 1H Backstep
 2301580 Broadsword - 2H Backstep
 2302100 Shortsword - 1H Heavy #1
@@ -574,6 +573,10 @@
 2302310 Shortsword - 2H Heavy #2
 2302315 Shortsword - 2H Heavy #2 Max
 2302580 Shortsword - 2H Backstep
+2303100 Unknown - 1H Heavy #1
+2303110 Unknown - 1H Heavy #2
+2303300 Unknown - 2H Heavy #1
+2303310 Unknown - 2H Heavy #2
 2304100 Dark Sword - 1H Heavy #1
 2304105 Dark Sword - 1H Heavy #1 Max
 2304110 Dark Sword - 1H Heavy #2
@@ -582,15 +585,19 @@
 2304305 Dark Sword - 2H Heavy #1 Max
 2304310 Dark Sword - 2H Heavy #2
 2304315 Dark Sword - 2H Heavy #2 Max
-2304700 Dark Sword
-2306100 Lothric Knight Sword
-2306105 Lothric Knight Sword
-2306110 Lothric Knight Sword
-2306115 Lothric Knight Sword
-2306300 Lothric Knight Sword
-2306305 Lothric Knight Sword
-2306310 Lothric Knight Sword
-2306315 Lothric Knight Sword
+2304700 Dark Sword - Stomp
+2305100 Unknown - 1H Heavy #1
+2305110 Unknown - 1H Heavy #2
+2305300 Unknown - 2H Heavy #1
+2305310 Unknown - 2H Heavy #2
+2306100 Lothric Knight Sword - 1H Heavy #1
+2306105 Lothric Knight Sword - 1H Heavy #1 Max
+2306110 Lothric Knight Sword - 1H Heavy #2
+2306115 Lothric Knight Sword - 1H Heavy #2 Max
+2306300 Lothric Knight Sword - 2H Heavy #1
+2306305 Lothric Knight Sword - 2H Heavy #1 Max
+2306310 Lothric Knight Sword - 2H Heavy #2
+2306315 Lothric Knight Sword - 2H Heavy #2 Max
 2310730 Lothric's Holy Sword
 2310735 Lothric's Holy Sword [Bullet]
 2320700 Sunlight Straight Sword [Bullet]
@@ -613,7 +620,7 @@
 2330736 Ringed Knight Straight Sword
 2330740 Ringed Knight Straight Sword
 2330745 Ringed Knight Straight Sword
-2340700 Cleric's Candlestick
+2340700 Cleric's Candlestick - Guiding Light
 2351700 Drake Sword - Unleash Dragon
 2351705 Drake Sword - Unleash Dragon
 2351706 Drake Sword - Unleash Dragon
@@ -700,7 +707,7 @@
 2500600 Bastard Sword - Parry
 2500610 Bastard Sword - Backstab Transition
 2500615 Bastard Sword - Missed Backstab Transition
-2500700 Bastard Sword - Stance
+2500700 Bastard Sword - Stomp
 2500710 Bastard Sword - Stance
 2500720 Bastard Sword - Stance
 2502000 Flamberge - 1H Light #1
@@ -772,20 +779,24 @@
 2511716 Twin Princes' Greatsword [Bullet]
 2512700 Wolnir's Holy Sword
 2512705 Wolnir's Holy Sword [Bullet]
-2513100 Moonlight Greatsword
-2513105 Moonlight Greatsword
-2513106 Moonlight Greatsword [Bullet]
-2513110 Moonlight Greatsword
-2513115 Moonlight Greatsword
-2513116 Moonlight Greatsword [Bullet]
-2513300 Moonlight Greatsword
-2513305 Moonlight Greatsword
-2513306 Moonlight Greatsword [Bullet]
-2513310 Moonlight Greatsword
-2513315 Moonlight Greatsword
-2513316 Moonlight Greatsword [Bullet]
-2513700 Moonlight Greatsword
-2513705 Moonlight Greatsword [Bullet]
+2513100 Moonlight Greatsword - 1H Heavy #1
+2513101 Moonlight Greatsword - 1H Heavy #1 - Vertical Wave
+2513105 Moonlight Greatsword - 1H Heavy #1 (Charged)
+2513106 Moonlight Greatsword - 1H Heavy #1 (Charged) - Vertical Wave
+2513110 Moonlight Greatsword - 1H Heavy #2
+2513111 Moonlight Greatsword - 1H Heavy #2 - Horizontal Wave
+2513115 Moonlight Greatsword - 1H Heavy #2 (Charged)
+2513116 Moonlight Greatsword - 1H Heavy #2 (Charged) - Horizontal Wave
+2513300 Moonlight Greatsword - 2H Heavy #1
+2513301 Moonlight Greatsword - 2H Heavy #1 - Horizontal Wave
+2513305 Moonlight Greatsword - 2H Heavy #1 (Charged)
+2513306 Moonlight Greatsword - 2H Heavy #1 (Charged) - Horizontal Wave
+2513310 Moonlight Greatsword - 2H Heavy #2
+2513311 Moonlight Greatsword - 2H Heavy #2 - Horizontal Wave
+2513315 Moonlight Greatsword - 2H Heavy #2 (Charged)
+2513316 Moonlight Greatsword - 2H Heavy #2 (Charged) - Horizontal Wave
+2513700 Moonlight Greatsword - Moonlight Vortex - Sword
+2513705 Moonlight Greatsword - Moonlight Vortex
 2514700 Firelink Greatsword - Ember
 2514705 Firelink Greatsword - Ember [Bullet]
 2515730 Storm Ruler [Bullet]
@@ -799,20 +810,20 @@
 2516030 Executioner's Greatsword
 2516040 Executioner's Greatsword
 2516050 Executioner's Greatsword
-2516100 Executioner's Greatsword
-2516105 Executioner's Greatsword
-2516110 Executioner's Greatsword
-2516115 Executioner's Greatsword
+2516100 Executioner's Greatsword - 1H Heavy #1
+2516105 Executioner's Greatsword - 1H Heavy #1 Max
+2516110 Executioner's Greatsword - 1H Heavy #2
+2516115 Executioner's Greatsword - 1H Heavy #2 Max
 2516200 Executioner's Greatsword
 2516210 Executioner's Greatsword
 2516220 Executioner's Greatsword
 2516230 Executioner's Greatsword
 2516240 Executioner's Greatsword
 2516250 Executioner's Greatsword
-2516300 Executioner's Greatsword
-2516305 Executioner's Greatsword
-2516310 Executioner's Greatsword
-2516315 Executioner's Greatsword
+2516300 Executioner's Greatsword - 2H Heavy #1
+2516305 Executioner's Greatsword - 2H Heavy #1 Max
+2516310 Executioner's Greatsword - 2H Heavy #2
+2516315 Executioner's Greatsword - 2H Heavy #2 Max
 2516400 Executioner's Greatsword
 2516402 Executioner's Greatsword
 2516404 Executioner's Greatsword
@@ -837,19 +848,19 @@
 2516615 Executioner's Greatsword
 2516700 Executioner's Greatsword
 2516705 Executioner's Greatsword
-2517100 Drakeblood Greatsword
-2517105 Drakeblood Greatsword
+2517100 Drakeblood Greatsword - 1H Heavy #1
+2517105 Drakeblood Greatsword - 1H Heavy #1 Max
 2517200 Drakeblood Greatsword
 2517210 Drakeblood Greatsword
 2517220 Drakeblood Greatsword
-2518100 Onyx Blade
-2518105 Onyx Blade
-2518110 Onyx Blade
-2518115 Onyx Blade
-2518300 Onyx Blade
-2518305 Onyx Blade
-2518310 Onyx Blade
-2518315 Onyx Blade
+2518100 Onyx Blade - 1H Heavy #1
+2518105 Onyx Blade - 1H Heavy #1 Max
+2518110 Onyx Blade - 1H Heavy #2
+2518115 Onyx Blade - 1H Heavy #2 Max
+2518300 Onyx Blade - 2H Heavy #1
+2518305 Onyx Blade - 2H Heavy #1 Max
+2518310 Onyx Blade - 2H Heavy #2
+2518315 Onyx Blade - 2H Heavy #2 Max
 2518580 Onyx Blade
 2518700 Onyx Blade - Weapon Art
 2518701 Onyx Blade [Bullet]
@@ -859,20 +870,20 @@
 2519030 Gael's Greatsword
 2519040 Gael's Greatsword
 2519050 Gael's Greatsword
-2519100 Gael's Greatsword
-2519105 Gael's Greatsword
-2519110 Gael's Greatsword
-2519115 Gael's Greatsword
+2519100 Gael's Greatsword - 1H Heavy #1
+2519105 Gael's Greatsword - 1H Heavy #1 Max
+2519110 Gael's Greatsword - 1H Heavy #2
+2519115 Gael's Greatsword - 1H Heavy #2 Max
 2519200 Gael's Greatsword
 2519210 Gael's Greatsword
 2519220 Gael's Greatsword
 2519230 Gael's Greatsword
 2519240 Gael's Greatsword
 2519250 Gael's Greatsword
-2519300 Gael's Greatsword
-2519305 Gael's Greatsword
-2519310 Gael's Greatsword
-2519315 Gael's Greatsword
+2519300 Gael's Greatsword - 2H Heavy #1
+2519305 Gael's Greatsword - 2H Heavy #1 Max
+2519310 Gael's Greatsword - 2H Heavy #2
+2519315 Gael's Greatsword - 2H Heavy #2 Max
 2519400 Gael's Greatsword
 2519402 Gael's Greatsword
 2519404 Gael's Greatsword
@@ -909,6 +920,9 @@
 2527700 Obsidian Greatsword - Abyssal Fire
 2527705 Obsidian Greatsword - Abyssal Fire
 2527706 Obsidian Greatsword - Abyssal Fire - Marker
+2528700 Thorned Greatsword - Stomp
+2528705 Thorned Greatsword - Stomp
+2528706 Thorned Greatsword - Stomp - Projectile
 2600000 Greatsword - 1H Light #1
 2600001 Greatsword - 1H Light #1 Range
 2600010 Greatsword - 1H Light #2
@@ -962,18 +976,18 @@
 2600702 Greatsword - Tread
 2600780 Greatsword - Blow
 2600790 Greatsword - Directed Slam
-2601100 Greatsword - 1H Heavy #1
-2601105 Greatsword - 1H Heavy #1 Max
-2601200 Greatsword - 2H Light #1
-2601210 Greatsword - 2H Light #2
-2601215 Greatsword
-2601220 Greatsword - 2H Light #3
-2601300 Greatsword - 2H Heavy #1
-2601305 Greatsword - 2H Heavy #1 Max
-2601540 Greatsword - 1H Backstep
-2601580 Greatsword - 2H Backstep
-2601700 Greatsword
-2601705 Greatsword
+2601100 Greatsword (Alt) - 1H Heavy #1
+2601105 Greatsword (Alt) - 1H Heavy #1 Max
+2601200 Greatsword (Alt) - 2H Light #1
+2601210 Greatsword (Alt) - 2H Light #2
+2601215 Greatsword (Alt)
+2601220 Greatsword (Alt) - 2H Light #3
+2601300 Greatsword (Alt) - 2H Heavy #1
+2601305 Greatsword (Alt) - 2H Heavy #1 Max
+2601540 Greatsword (Alt) - 1H Backstep
+2601580 Greatsword (Alt) - 2H Backstep
+2601700 Greatsword (Alt)
+2601705 Greatsword (Alt)
 2602100 Black Knight Greatsword - 1H Heavy #1
 2602105 Black Knight Greatsword - 1H Heavy #1 Max
 2602200 Black Knight Greatsword - 2H Light #1
@@ -1016,10 +1030,10 @@
 2610030 Fume Ultra Greatsword
 2610040 Fume Ultra Greatsword
 2610050 Fume Ultra Greatsword
-2610100 Fume Ultra Greatsword
-2610105 Fume Ultra Greatsword
-2610110 Fume Ultra Greatsword
-2610115 Fume Ultra Greatsword
+2610100 Fume Ultra Greatsword - 1H Heavy #1
+2610105 Fume Ultra Greatsword - 1H Heavy #1 Max
+2610110 Fume Ultra Greatsword - 1H Heavy #2
+2610115 Fume Ultra Greatsword - 1H Heavy #2 Max
 2610200 Fume Ultra Greatsword
 2610210 Fume Ultra Greatsword
 2610215 Fume Ultra Greatsword
@@ -1027,10 +1041,10 @@
 2610230 Fume Ultra Greatsword
 2610240 Fume Ultra Greatsword
 2610250 Fume Ultra Greatsword
-2610300 Fume Ultra Greatsword
-2610305 Fume Ultra Greatsword
-2610310 Fume Ultra Greatsword
-2610315 Fume Ultra Greatsword
+2610300 Fume Ultra Greatsword - 2H Heavy #1
+2610305 Fume Ultra Greatsword - 2H Heavy #1 Max
+2610310 Fume Ultra Greatsword - 2H Heavy #2
+2610315 Fume Ultra Greatsword - 2H Heavy #2 Max
 2610400 Fume Ultra Greatsword
 2610402 Fume Ultra Greatsword
 2610404 Fume Ultra Greatsword
@@ -1059,29 +1073,31 @@
 2610615 Fume Ultra Greatsword
 2610701 Fume Ultra Greatsword
 2610790 Fume Ultra Greatsword
-2611105 Profaned Greatsword
+2611105 Profaned Greatsword - 1H Heavy #1 Max
 2611106 Profaned Greatsword
-2611115 Profaned Greatsword
+2611115 Profaned Greatsword - 1H Heavy #2 Max
 2611116 Profaned Greatsword
-2611300 Profaned Greatsword
-2611305 Profaned Greatsword
+2611300 Profaned Greatsword - 2H Heavy #1
+2611305 Profaned Greatsword - 2H Heavy #1  Max
 2611306 Profaned Greatsword
-2611315 Profaned Greatsword
+2611315 Profaned Greatsword - 2H Heavy #2 Max
 2611316 Profaned Greatsword
 2611720 Profaned Greatsword
 2611725 Profaned Greatsword
-2613300 Lothric Knight Greatsword
-2613305 Lothric Knight Greatsword
+2612700 Cathedral Knight Greatsword - Stomp
+2612705 Cathedral Knight Greatsword - Stomp
+2613300 Lothric Knight Greatsword - 2H Heavy #1
+2613305 Lothric Knight Greatsword - 2H Heavy #1 Max
 2614000 Cathedral Knight Greatsword
 2614010 Cathedral Knight Greatsword
 2614020 Cathedral Knight Greatsword
 2614030 Cathedral Knight Greatsword
 2614040 Cathedral Knight Greatsword
 2614050 Cathedral Knight Greatsword
-2614100 Cathedral Knight Greatsword
-2614105 Cathedral Knight Greatsword
-2614110 Cathedral Knight Greatsword
-2614115 Cathedral Knight Greatsword
+2614100 Cathedral Knight Greatsword - 1H Heavy #1
+2614105 Cathedral Knight Greatsword - 1H Heavy #1 Max
+2614110 Cathedral Knight Greatsword - 1H Heavy #2
+2614115 Cathedral Knight Greatsword - 1H Heavy #2 Max
 2614200 Cathedral Knight Greatsword
 2614210 Cathedral Knight Greatsword
 2614215 Cathedral Knight Greatsword
@@ -1089,10 +1105,10 @@
 2614230 Cathedral Knight Greatsword
 2614240 Cathedral Knight Greatsword
 2614250 Cathedral Knight Greatsword
-2614300 Cathedral Knight Greatsword
-2614305 Cathedral Knight Greatsword
-2614310 Cathedral Knight Greatsword
-2614315 Cathedral Knight Greatsword
+2614300 Cathedral Knight Greatsword - 2H Heavy #1
+2614305 Cathedral Knight Greatsword - 2H Heavy #1 Max
+2614310 Cathedral Knight Greatsword - 2H Heavy #2
+2614315 Cathedral Knight Greatsword - 2H Heavy #2 Max
 2614400 Cathedral Knight Greatsword
 2614402 Cathedral Knight Greatsword
 2614404 Cathedral Knight Greatsword
@@ -1247,9 +1263,9 @@
 2800040 Falchion - 1H Fall Loop
 2800050 Falchion - 1H Fall Landing
 2800100 Falchion - 1H Heavy #1
-2800101 Falchion - 1H Heavy #1 Max
-2800105 Falchion
-2800106 Falchion
+2800101 Falchion - 1H Heavy - Follow
+2800105 Falchion - 1H Heavy #1 Max
+2800106 Falchion - 1H Heavy #1 Max - Follow
 2800110 Falchion - 1H Heavy #2
 2800115 Falchion - 1H Heavy #2 Max
 2800200 Falchion - 2H Light #1
@@ -1259,9 +1275,9 @@
 2800240 Falchion - 2H Fall Loop
 2800250 Falchion - 2H Fall Landing
 2800300 Falchion - 2H Heavy #1
-2800301 Falchion
+2800301 Falchion - 2H Heavy #1 - Follow
 2800305 Falchion - 2H Heavy #1 Max
-2800306 Falchion
+2800306 Falchion - 2H Heavy #1 Max - Follow
 2800310 Falchion - 2H Heavy #2
 2800315 Falchion - 2H Heavy #2 Max
 2800400 Falchion - Left Hand
@@ -1334,20 +1350,20 @@
 2807030 Carthus Shotel
 2807040 Carthus Shotel
 2807050 Carthus Shotel
-2807100 Carthus Shotel
-2807105 Carthus Shotel
-2807110 Carthus Shotel
-2807115 Carthus Shotel
+2807100 Carthus Shotel - 1H Heavy #1
+2807105 Carthus Shotel - 1H Heavy #1 Max
+2807110 Carthus Shotel - 1H Heavy #2
+2807115 Carthus Shotel - 1H Heavy #2 Max
 2807200 Carthus Shotel
 2807210 Carthus Shotel
 2807220 Carthus Shotel
 2807230 Carthus Shotel
 2807240 Carthus Shotel
 2807250 Carthus Shotel
-2807300 Carthus Shotel
-2807305 Carthus Shotel
-2807310 Carthus Shotel
-2807315 Carthus Shotel
+2807300 Carthus Shotel - 2H Heavy #1
+2807305 Carthus Shotel - 2H Heavy #1 Max
+2807310 Carthus Shotel - 2H Heavy #2
+2807315 Carthus Shotel - 2H Heavy #2 Max
 2807400 Carthus Shotel
 2807402 Carthus Shotel
 2807404 Carthus Shotel
@@ -1364,20 +1380,20 @@
 2810030 Crescent Moon Sword
 2810040 Crescent Moon Sword
 2810050 Crescent Moon Sword
-2810100 Crescent Moon Sword
-2810105 Crescent Moon Sword
-2810110 Crescent Moon Sword
-2810115 Crescent Moon Sword
+2810100 Crescent Moon Sword - 1H Heavy #1
+2810105 Crescent Moon Sword - 1H Heavy #1 Max
+2810110 Crescent Moon Sword - 1H Heavy #2
+2810115 Crescent Moon Sword - 1H Heavy #2 Max
 2810200 Crescent Moon Sword
 2810210 Crescent Moon Sword
 2810220 Crescent Moon Sword
 2810230 Crescent Moon Sword
 2810240 Crescent Moon Sword
 2810250 Crescent Moon Sword
-2810300 Crescent Moon Sword
-2810305 Crescent Moon Sword
-2810310 Crescent Moon Sword
-2810315 Crescent Moon Sword
+2810300 Crescent Moon Sword - 2H Heavy #1
+2810305 Crescent Moon Sword - 2H Heavy #1 Max
+2810310 Crescent Moon Sword - 2H Heavy #2
+2810315 Crescent Moon Sword - 2H Heavy #2 Max
 2810400 Crescent Moon Sword
 2810402 Crescent Moon Sword
 2810404 Crescent Moon Sword
@@ -1420,12 +1436,12 @@
 2900030 Katana
 2900040 Katana
 2900050 Katana
-2900100 Katana
+2900100 Katana - 1H Heavy #1
 2900101 Katana
-2900105 Katana
+2900105 Katana - 1H Heavy #1 Max
 2900106 Katana
-2900110 Katana
-2900115 Katana
+2900110 Katana - 1H Heavy #2
+2900115 Katana - 1H Heavy #2 Max
 2900200 Katana
 2900201 Katana
 2900210 Katana
@@ -1433,12 +1449,12 @@
 2900230 Katana
 2900240 Katana
 2900250 Katana
-2900300 Katana
+2900300 Katana - 2H Heavy #1
 2900301 Katana
-2900305 Katana
+2900305 Katana - 2H Heavy #1 Max
 2900306 Katana
-2900310 Katana
-2900315 Katana
+2900310 Katana - 2H Heavy #2
+2900315 Katana - 2H Heavy #2 Max
 2900400 Katana
 2900401 Katana
 2900402 Katana
@@ -1478,15 +1494,15 @@
 2903702 Bloodlust - Bloodlust
 2904000 Washing Pole
 2904001 Washing Pole
-2904100 Washing Pole
+2904100 Washing Pole - 1H Heavy #1
 2904101 Washing Pole
-2904105 Washing Pole
+2904105 Washing Pole - 1H Heavy #1 Max
 2904106 Washing Pole
 2904200 Washing Pole
 2904201 Washing Pole
-2904300 Washing Pole
+2904300 Washing Pole - 2H Heavy #1
 2904301 Washing Pole
-2904305 Washing Pole
+2904305 Washing Pole - 2H Heavy #1 Max
 2904306 Washing Pole
 2904400 Washing Pole
 2904401 Washing Pole
@@ -1500,13 +1516,13 @@
 2905030 Darkdrift
 2905040 Darkdrift
 2905050 Darkdrift
-2905100 Darkdrift
+2905100 Darkdrift - 1H Heavy #1
 2905101 Darkdrift
-2905105 Darkdrift
+2905105 Darkdrift - 1H Heavy #1 Max
 2905106 Darkdrift
-2905110 Darkdrift
+2905110 Darkdrift - 1H Heavy #2
 2905111 Darkdrift
-2905115 Darkdrift
+2905115 Darkdrift - 1H Heavy #2 Max
 2905116 Darkdrift
 2905200 Darkdrift
 2905210 Darkdrift
@@ -1514,13 +1530,13 @@
 2905230 Darkdrift
 2905240 Darkdrift
 2905250 Darkdrift
-2905300 Darkdrift
+2905300 Darkdrift - 2H Heavy #1
 2905301 Darkdrift
-2905305 Darkdrift
+2905305 Darkdrift - 2H Heavy #1 Max
 2905306 Darkdrift
-2905310 Darkdrift
+2905310 Darkdrift - 2H Heavy #2
 2905311 Darkdrift
-2905315 Darkdrift
+2905315 Darkdrift - 2H Heavy #2 Max
 2905316 Darkdrift
 2905400 Darkdrift
 2905402 Darkdrift
@@ -1711,30 +1727,30 @@
 3030700 Butcher Knife
 3030800 Butcher Knife
 3030805 Butcher Knife
-3030900 Butcher Knife
-3030905 Butcher Knife
-3030910 Butcher Knife
-3030915 Butcher Knife
+3030900 Butcher Knife - 1H Heavy #1
+3030905 Butcher Knife - 1H Heavy #1 Max
+3030910 Butcher Knife - 2H Heavy #1
+3030915 Butcher Knife - 2H Heavy #1 Max
 3050000 Eleonora
 3050010 Eleonora
 3050020 Eleonora
 3050030 Eleonora
 3050040 Eleonora
 3050050 Eleonora
-3050100 Eleonora
-3050105 Eleonora
-3050110 Eleonora
-3050115 Eleonora
+3050100 Eleonora - 1H Heavy #1
+3050105 Eleonora - 1H Heavy #1 Max
+3050110 Eleonora - 1H Heavy #2
+3050115 Eleonora - 1H Heavy #2 Max
 3050200 Eleonora
 3050210 Eleonora
 3050220 Eleonora
 3050230 Eleonora
 3050240 Eleonora
 3050250 Eleonora
-3050300 Eleonora
-3050305 Eleonora
-3050310 Eleonora
-3050315 Eleonora
+3050300 Eleonora - 2H Heavy #1
+3050305 Eleonora - 2H Heavy #1 Max
+3050310 Eleonora - 2H Heavy #2
+3050315 Eleonora - 2H Heavy #3 Max
 3050400 Eleonora
 3050402 Eleonora
 3050404 Eleonora
@@ -1761,20 +1777,20 @@
 3060030 Man Serpent Hatchet
 3060040 Man Serpent Hatchet
 3060050 Man Serpent Hatchet
-3060100 Man Serpent Hatchet
-3060105 Man Serpent Hatchet
-3060110 Man Serpent Hatchet
-3060115 Man Serpent Hatchet
+3060100 Man Serpent Hatchet - 1H Heavy #1
+3060105 Man Serpent Hatchet - 1H Heavy #1 Max
+3060110 Man Serpent Hatchet - 1H Heavy #2
+3060115 Man Serpent Hatchet - 1H Heavy #2 Max
 3060200 Man Serpent Hatchet
 3060210 Man Serpent Hatchet
 3060220 Man Serpent Hatchet
 3060230 Man Serpent Hatchet
 3060240 Man Serpent Hatchet
 3060250 Man Serpent Hatchet
-3060300 Man Serpent Hatchet
-3060305 Man Serpent Hatchet
-3060310 Man Serpent Hatchet
-3060315 Man Serpent Hatchet
+3060300 Man Serpent Hatchet - 2H Heavy #1
+3060305 Man Serpent Hatchet - 2H Heavy #1 Max
+3060310 Man Serpent Hatchet - 2H Heavy #2
+3060315 Man Serpent Hatchet - 2H Heavy #2 Max
 3060400 Man Serpent Hatchet
 3060402 Man Serpent Hatchet
 3060404 Man Serpent Hatchet
@@ -1788,11 +1804,11 @@
 3060811 Man Serpent Hatchet
 3060815 Man Serpent Hatchet
 3060816 Man Serpent Hatchet
-3060900 Man Serpent Hatchet
-3060905 Man Serpent Hatchet
-3060910 Man Serpent Hatchet
+3060900 Man Serpent Hatchet - 1H Heavy #1
+3060905 Man Serpent Hatchet - 1H Heavy #1 Max
+3060910 Man Serpent Hatchet - 2H Heavy #1
 3060911 Man Serpent Hatchet
-3060915 Man Serpent Hatchet
+3060915 Man Serpent Hatchet - 2H Heavy #1 Max
 3060916 Man Serpent Hatchet
 3200000 Greataxe - 1H Light #1
 3200001 Greataxe - 1H Light #1 Range
@@ -1854,13 +1870,13 @@
 3200808 Greataxe
 3200810 Greataxe
 3200815 Greataxe
-3200900 Greataxe
-3200905 Greataxe
+3200900 Greataxe - 1H Heavy #1
+3200905 Greataxe - 1H Heavy #1 Max
 3200906 Greataxe
 3200907 Greataxe
 3200908 Greataxe
-3200910 Greataxe
-3200915 Greataxe
+3200910 Greataxe - 2H Heavy #1
+3200915 Greataxe - 2H Heavy #1 Max
 3203000 Black Knight's Greataxe - 1H Light #1
 3203001 Black Knight's Greataxe
 3203010 Black Knight's Greataxe - 1H Light #2
@@ -1891,11 +1907,11 @@
 3203808 Black Knight's Greataxe
 3203810 Black Knight's Greataxe
 3203815 Black Knight's Greataxe
-3203900 Black Knight's Greataxe
-3203905 Black Knight's Greataxe
+3203900 Black Knight's Greataxe - 1H Heavy #1
+3203905 Black Knight's Greataxe - 1H Heavy #1 Max
 3203908 Black Knight's Greataxe
-3203910 Black Knight's Greataxe
-3203915 Black Knight's Greataxe
+3203910 Black Knight's Greataxe - 2H Heavy #1
+3203915 Black Knight's Greataxe - 2H Heavy #1 Max
 3205700 Earth Seeker
 3205710 Earth Seeker
 3205712 Earth Seeker
@@ -1903,17 +1919,17 @@
 3210001 Yhorm's Great Machete
 3210010 Yhorm's Great Machete
 3210020 Yhorm's Great Machete
-3210100 Yhorm's Great Machete
-3210105 Yhorm's Great Machete
-3210110 Yhorm's Great Machete
-3210115 Yhorm's Great Machete
+3210100 Yhorm's Great Machete - 1H Heavy #1
+3210105 Yhorm's Great Machete - 1H Heavy #1 Max
+3210110 Yhorm's Great Machete - 1H Heavy #2
+3210115 Yhorm's Great Machete - 1H Heavy #2 Max
 3210200 Yhorm's Great Machete
 3210210 Yhorm's Great Machete
 3210220 Yhorm's Great Machete
-3210300 Yhorm's Great Machete
-3210305 Yhorm's Great Machete
-3210310 Yhorm's Great Machete
-3210315 Yhorm's Great Machete
+3210300 Yhorm's Great Machete - 2H Heavy #1
+3210305 Yhorm's Great Machete - 2H Heavy #1 Max
+3210310 Yhorm's Great Machete - 2H Heavy #2
+3210315 Yhorm's Great Machete - 2H Heavy #2 Max
 3210400 Yhorm's Great Machete
 3210402 Yhorm's Great Machete
 3210404 Yhorm's Great Machete
@@ -1923,15 +1939,15 @@
 3210540 Yhorm's Great Machete
 3210580 Yhorm's Great Machete
 3210700 Yhorm's Great Machete
-3210900 Yhorm's Great Machete
+3210900 Yhorm's Great Machete - 1H Heavy #1
 3210901 Yhorm's Great Machete
-3210905 Yhorm's Great Machete
+3210905 Yhorm's Great Machete - 1H Heavy #1 Max
 3210906 Yhorm's Great Machete
 3210907 Yhorm's Great Machete
 3210908 Yhorm's Great Machete
-3210910 Yhorm's Great Machete
+3210910 Yhorm's Great Machete - 2H Heavy #1
 3210911 Yhorm's Great Machete
-3210915 Yhorm's Great Machete
+3210915 Yhorm's Great Machete - 2H Heavy #1 Max
 3210916 Yhorm's Great Machete
 3211700 Demon's Greataxe
 3211705 Demon's Greataxe
@@ -1945,22 +1961,22 @@
 3213030 Great Machete
 3213040 Great Machete
 3213050 Great Machete
-3213100 Great Machete
+3213100 Great Machete - 1H Heavy #1
 3213101 Great Machete
-3213105 Great Machete
-3213110 Great Machete
-3213115 Great Machete
+3213105 Great Machete - 1H Heavy #1 Max
+3213110 Great Machete - 1H Heavy #2
+3213115 Great Machete - 1H Heavy #2 Max
 3213200 Great Machete
 3213210 Great Machete
 3213220 Great Machete
 3213230 Great Machete
 3213240 Great Machete
 3213250 Great Machete
-3213300 Great Machete
+3213300 Great Machete - 2H Heavy #1
 3213301 Great Machete
-3213305 Great Machete
-3213310 Great Machete
-3213315 Great Machete
+3213305 Great Machete - 2H Heavy #1 Max
+3213310 Great Machete - 2H Heavy #2
+3213315 Great Machete - 2H Heavy #2 Max
 3213400 Great Machete
 3213402 Great Machete
 3213404 Great Machete
@@ -1998,13 +2014,13 @@
 3213808 Great Machete
 3213810 Great Machete
 3213815 Great Machete
-3213900 Great Machete
-3213905 Great Machete
+3213900 Great Machete - 1H Heavy #1
+3213905 Great Machete - 1H Heavy #1 Max
 3213906 Great Machete
 3213907 Great Machete
 3213908 Great Machete
-3213910 Great Machete
-3213915 Great Machete
+3213910 Great Machete - 2H Heavy #1
+3213915 Great Machete - 2H Heavy #1 Max
 3215700 Dragon King Greataxe - Unleash Dragon
 3215705 Dragon King Greataxe - Unleash Dragon
 3215706 Dragon King Greataxe - Unleash Dragon
@@ -2110,11 +2126,11 @@
 3300806 Hammer
 3300807 Hammer
 3300808 Hammer
-3300900 Hammer
+3300900 Hammer - 1H Heavy #1
 3300901 Hammer
 3300902 Hammer
 3300903 Hammer
-3300905 Hammer
+3300905 Hammer - 1H Heavy #1 Max
 3300906 Hammer
 3300907 Hammer
 3300908 Hammer
@@ -2179,10 +2195,10 @@
 3303515 ? - Riposte (Hornet Ring)
 3303516 ? - Riposte (Hornet Ring)
 3303517 ? - Riposte (Hornet Ring)
-3310100 Reinforced Club
-3310105 Reinforced Club
-3310300 Reinforced Club
-3310305 Reinforced Club
+3310100 Reinforced Club - 1H Heavy #1
+3310105 Reinforced Club - 1H Heavy #1 Max
+3310300 Reinforced Club - 2H Heavy #1
+3310305 Reinforced Club - 2H Heavy #1 Max
 3311700 Boom Hammer - Weapon Art
 3311705 Boom Hammer - Weapon Art
 3314700 Sanguinus - Bloodlust
@@ -2231,9 +2247,9 @@
 3500230 Great Mace - 2H Jump
 3500240 Great Mace - 2H Fall Loop
 3500250 Great Mace - 2H Fall Landing
-3500300 Great Mace - 2H Center
+3500300 Great Mace - 2H Heavy #1
 3500301 Great Mace - 2H Around
-3500305 Great Mace - 2H Center Max
+3500305 Great Mace - 2H Heavy #1 Max
 3500310 Great Mace - 2H Heavy #2
 3500315 Great Mace - 2H Heavy #2 Max
 3500400 Great Mace - Left Hand
@@ -2269,14 +2285,15 @@
 3500805 Great Mace
 3500806 Great Mace
 3500807 Great Mace
-3500900 Great Mace
+3500900 Great Mace - 1H Heavy #1
 3500901 Great Mace
 3500902 Great Mace
-3500905 Great Mace
+3500905 Great Mace - 1H Heavy #1 Max
 3500906 Great Mace
 3500907 Great Mace
 3503100 Smough's Great Hammer - 1H Heavy #1
-3503105 Smough's Great Hammer
+3503105 Smough's Great Hammer - 1H Heavy #1 Max
+3503106 Smough's Great Hammer - Lightning Smash
 3503300 Smough's Great Hammer - 2H Center
 3503305 Smough's Great Hammer
 3504710 Gargoyle Flame Hammer
@@ -2284,14 +2301,14 @@
 3505710 Old King's Great Hammer
 3505720 Old King's Great Hammer
 3505725 Old King's Great Hammer
-3506100 Large Club
-3506105 Large Club
-3506300 Large Club
-3506305 Large Club
-3507100 Great Club
-3507105 Great Club
-3507300 Great Club
-3507305 Great Club
+3506100 Large Club - 1H Heavy #1
+3506105 Large Club - 1H Heavy #1 Max
+3506300 Large Club - 2H Heavy #1
+3506305 Large Club - 2H Heavy #1 Max
+3507100 Great Club - 1H Heavy #1
+3507105 Great Club - 1H Heavy #1 Max
+3507300 Great Club - 2H Heavy #1
+3507305 Great Club - 2H Heavy #1 Max
 3508700 Great Wooden Hammer
 3508710 Great Wooden Hammer
 3508720 Great Wooden Hammer
@@ -2333,22 +2350,22 @@
 3520030 Pickaxe
 3520040 Pickaxe
 3520050 Pickaxe
-3520100 Pickaxe
+3520100 Pickaxe - 1H Heavy #1
 3520101 Pickaxe
-3520105 Pickaxe
-3520110 Pickaxe
-3520115 Pickaxe
+3520105 Pickaxe - 1H Heavy #1 Max
+3520110 Pickaxe - 1H Heavy #2
+3520115 Pickaxe - 1H Heavy #2 Max
 3520200 Pickaxe
 3520210 Pickaxe
 3520220 Pickaxe
 3520230 Pickaxe
 3520240 Pickaxe
 3520250 Pickaxe
-3520300 Pickaxe
+3520300 Pickaxe - 2H Heavy #1
 3520301 Pickaxe
-3520305 Pickaxe
-3520310 Pickaxe
-3520315 Pickaxe
+3520305 Pickaxe - 2H Heavy #1 Max
+3520310 Pickaxe - 2H Heavy #2
+3520315 Pickaxe - 2H Heavy #2 Max
 3520400 Pickaxe
 3520402 Pickaxe
 3520404 Pickaxe
@@ -2538,11 +2555,11 @@
 3610011 Greatlance
 3610020 Greatlance
 3610021 Greatlance
-3610100 Greatlance
-3610102 Greatlance
+3610100 Greatlance - 1H Heavy #1
+3610102 Greatlance - 1H Heavy #1 - Charge
 3610103 Greatlance
-3610105 Greatlance
-3610107 Greatlance
+3610105 Greatlance - 1H Heavy #1 Max
+3610107 Greatlance - 1H Heavy #1 Max - Charge
 3610108 Greatlance
 3610200 Greatlance
 3610201 Greatlance
@@ -2550,11 +2567,11 @@
 3610211 Greatlance
 3610220 Greatlance
 3610221 Greatlance
-3610300 Greatlance
-3610302 Greatlance
+3610300 Greatlance - 2H Heavy #1
+3610302 Greatlance - 2H Heavy #1 - Charge
 3610303 Greatlance
-3610305 Greatlance
-3610307 Greatlance
+3610305 Greatlance - 2H Heavy #1 Max
+3610307 Greatlance - 2H Heavy #1 Max - Chage
 3610308 Greatlance
 3610400 Greatlance
 3610401 Greatlance
@@ -2572,10 +2589,10 @@
 3610810 Greatlance
 3610820 Greatlance
 3610830 Greatlance
-3611100 Dragonslayer Swordspear
-3611105 Dragonslayer Swordspear
-3611110 Dragonslayer Swordspear
-3611115 Dragonslayer Swordspear
+3611100 Dragonslayer Swordspear - 1H Heavy #1
+3611105 Dragonslayer Swordspear - 1H Heavy #1 Max
+3611110 Dragonslayer Swordspear - 1H Heavy #2
+3611115 Dragonslayer Swordspear - 1H Heavy #2 Max
 3611200 Dragonslayer Swordspear
 3611210 Dragonslayer Swordspear
 3611220 Dragonslayer Swordspear
@@ -2601,14 +2618,14 @@
 3639701 Titanite Catch Pole - Demonic Stance
 3639710 Titanite Catch Pole - Demonic Stance
 3639711 Titanite Catch Pole - Demonic Stance
-3640100 Yorshka's Spear
-3640105 Yorshka's Spear
-3640110 Yorshka's Spear
-3640115 Yorshka's Spear
-3640300 Yorshka's Spear
-3640305 Yorshka's Spear
-3640310 Yorshka's Spear
-3640315 Yorshka's Spear
+3640100 Yorshka's Spear - 1H Heavy #1
+3640105 Yorshka's Spear - 1H Heavy #1 Max
+3640110 Yorshka's Spear - 1H Heavy #2
+3640115 Yorshka's Spear - 1H Heavy #2 Max
+3640300 Yorshka's Spear - 2H Heavy #1
+3640305 Yorshka's Spear - 2H Heavy #1 Max
+3640310 Yorshka's Spear - 2H Heavy #2
+3640315 Yorshka's Spear - 2H Heavy #2 Max
 3640700 Yorshka's Spear
 3641700 Firelink Spear - Ember
 3641705 Firelink Spear - Ember
@@ -2625,20 +2642,20 @@
 3660030 Soldering Iron
 3660040 Soldering Iron
 3660050 Soldering Iron
-3660100 Soldering Iron
-3660105 Soldering Iron
-3660110 Soldering Iron
-3660115 Soldering Iron
+3660100 Soldering Iron - 1H Heavy #1
+3660105 Soldering Iron - 1H Heavy #1 Max
+3660110 Soldering Iron - 1H Heavy #2
+3660115 Soldering Iron - 1H Heavy #2 Max
 3660200 Soldering Iron
 3660210 Soldering Iron
 3660220 Soldering Iron
 3660230 Soldering Iron
 3660240 Soldering Iron
 3660250 Soldering Iron
-3660300 Soldering Iron
-3660305 Soldering Iron
-3660310 Soldering Iron
-3660315 Soldering Iron
+3660300 Soldering Iron - 2H Heavy #1
+3660305 Soldering Iron - 2H Heavy #1 Max
+3660310 Soldering Iron - 2H Heavy #2
+3660315 Soldering Iron - 2H Heavy #2 Max
 3660400 Soldering Iron
 3660402 Soldering Iron
 3660404 Soldering Iron
@@ -2660,15 +2677,15 @@
 3660820 Soldering Iron
 3660900 Soldering Iron
 3670035 Ringed Knight Spear
-3670100 Ringed Knight Spear
-3670105 Ringed Knight Spear
-3670110 Ringed Knight Spear
-3670115 Ringed Knight Spear
+3670100 Ringed Knight Spear - 1H Heavy #1
+3670105 Ringed Knight Spear - 1H Heavy #1 Max
+3670110 Ringed Knight Spear - 1H Heavy #2
+3670115 Ringed Knight Spear - 1H Heavy #2 Max
 3670235 Ringed Knight Spear
-3670300 Ringed Knight Spear
-3670305 Ringed Knight Spear
-3670310 Ringed Knight Spear
-3670315 Ringed Knight Spear
+3670300 Ringed Knight Spear - 2H Heavy #1
+3670305 Ringed Knight Spear - 2H Heavy #1 Max
+3670310 Ringed Knight Spear - 2H Heavy #2
+3670315 Ringed Knight Spear - 2H Heavy #2 Max
 3670525 Ringed Knight Spear
 3670535 Ringed Knight Spear
 3670545 Ringed Knight Spear
@@ -2718,14 +2735,14 @@
 3800230 Halberd - 2H Jump
 3800240 Halberd - 2H Fall Loop
 3800250 Halberd - 2H Fall Landing
-3800300 Halberd - 2H Heavy #1
-3800303 Halberd
-3800305 Halberd - 2H Heavy #1 Max
-3800308 Halberd
-3800310 Halberd - 2H Heavy #2
-3800313 Halberd
-3800315 Halberd - 2H Heavy #2 Max
-3800318 Halberd
+3800300 Halberd - 2H Heavy #1 - Hit 1
+3800303 Halberd - 2H Heavy #1 - Hit 2
+3800305 Halberd - 2H Heavy #1 Max - Hit 1
+3800308 Halberd - 2H Heavy #1 Max - Hit 2
+3800310 Halberd - 2H Heavy #2 - Hit 1
+3800313 Halberd - 2H Heavy #2 - Hit 2
+3800315 Halberd - 2H Heavy #2 Max - Hit 1
+3800318 Halberd - 2H Heavy #2 Max - Hit 2
 3800400 Halberd - Left Hand
 3800402 Halberd
 3800404 Halberd
@@ -2768,14 +2785,14 @@
 3802230 Lucerne - 2H Jump (thrust)
 3802240 Lucerne - 2H Fall Loop (thrust)
 3802250 Lucerne - 2H Fall Landing (thrust)
-3802300 Lucerne - 2H Heavy #1 (stab)
-3802303 Lucerne - 2H Heavy #1 (stab) Max
-3802305 Lucerne
-3802308 Lucerne
-3802310 Lucerne - 2H Heavy #2 (stab)
-3802313 Lucerne - 2H Heavy #2 (stab) Max
-3802315 Lucerne
-3802318 Lucerne
+3802300 Lucerne - 2H Heavy #1 - Hit 1
+3802303 Lucerne - 2H Heavy #1 - Hit 2
+3802305 Lucerne - 2H Heavy #1 Max - Hit 1
+3802308 Lucerne - 2H Heavy #1 Max - Hit 2
+3802310 Lucerne - 2H Heavy #2 - Hit 1
+3802313 Lucerne - 2H Heavy #2 - Hit 2
+3802315 Lucerne - 2H Heavy #2 Max - Hit 1
+3802318 Lucerne - 2H Heavy #2 Max - Hit 2
 3802400 Lucerne - Left Hand
 3802402 Lucerne
 3802404 Lucerne
@@ -2792,24 +2809,24 @@
 3802700 Lucerne
 3802710 Lucerne
 3802720 Lucerne
-3805100 Black Knight Glaive - 1H Heavy #1
-3805102 Black Knight Glaive
-3805105 Black Knight Glaive
-3805107 Black Knight Glaive
+3805100 Black Knight Glaive - 1H Heavy #1 - Hit 1
+3805102 Black Knight Glaive - 1H Heavy #1 - Hit 2
+3805105 Black Knight Glaive - 1H Heavy #1 Max - Hit 1
+3805107 Black Knight Glaive - 1H Heavy #1 Max - Hit 2
 3805300 Black Knight Glaive - 2H Heavy #1
-3805305 Black Knight Glaive
-3805310 Black Knight Glaive - 2H Heavy #2
-3805313 Black Knight Glaive - 2H Heavy #2 Max
-3805315 Black Knight Glaive
-3805318 Black Knight Glaive
-3806300 Winged Knight Halberd
-3806303 Winged Knight Halberd
-3806305 Winged Knight Halberd
-3806308 Winged Knight Halberd
-3806310 Winged Knight Halberd
-3806313 Winged Knight Halberd
-3806315 Winged Knight Halberd
-3806318 Winged Knight Halberd
+3805305 Black Knight Glaive - 2H Heavy #1 Max
+3805310 Black Knight Glaive - 2H Heavy #2 - Hit 1
+3805313 Black Knight Glaive - 2H Heavy #2 - Hit 2
+3805315 Black Knight Glaive - 2H Heavy #2 Max - Hit 1
+3805318 Black Knight Glaive - 2H Heavy #2 Max - Hit 2
+3806300 Winged Knight Halberd - 2H Heavy #1 - Hit 1
+3806303 Winged Knight Halberd - 2H Heavy #1 - Hit 2
+3806305 Winged Knight Halberd - 2H Heavy #1 Max - Hit 1
+3806308 Winged Knight Halberd - 2H Heavy #1 Max - Hit 2
+3806310 Winged Knight Halberd - 2H Heavy #2 - Hit 1
+3806313 Winged Knight Halberd - 2H Heavy #2 - Hit 2
+3806315 Winged Knight Halberd - 2H Heavy #2 Max - Hit 1
+3806318 Winged Knight Halberd - 2H Heavy #2 Max - Hit 2
 3806700 Winged Knight Halberd
 3806701 Winged Knight Halberd
 3806705 Winged Knight Halberd
@@ -2821,14 +2838,16 @@
 3806721 Winged Knight Halberd
 3806725 Winged Knight Halberd
 3806726 Winged Knight Halberd
-3807300 Gundyr's Halberd
-3807303 Gundyr's Halberd
-3807305 Gundyr's Halberd
-3807308 Gundyr's Halberd
-3807310 Gundyr's Halberd
-3807313 Gundyr's Halberd
-3807315 Gundyr's Halberd
-3807318 Gundyr's Halberd
+3807300 Gundyr's Halberd - 1H Heavy #1 - Hit 1
+3807303 Gundyr's Halberd - 1H Heavy #1 - Hit 2
+3807305 Gundyr's Halberd - 1H Heavy #1 Max - Hit 1
+3807308 Gundyr's Halberd - 1H Heavy #1 Max - Hit 2
+3807310 Gundyr's Halberd - 1H Heavy #2 - Hit 1
+3807313 Gundyr's Halberd - 1H Heavy #2 - Hit 2
+3807315 Gundyr's Halberd - 1H Heavy #2 Max - Hit 1
+3807318 Gundyr's Halberd - 1H Heavy #2 Max - Hit 2
+3807410 Gundyr's Halberd - 1H Kick
+3807420 Gundyr's Halberd - 2H Kick
 3807800 Gundyr's Halberd
 3807810 Gundyr's Halberd
 3807820 Gundyr's Halberd
@@ -2853,24 +2872,24 @@
 3810030 Immolation Tinder
 3810040 Immolation Tinder
 3810050 Immolation Tinder
-3810100 Immolation Tinder
-3810105 Immolation Tinder
-3810110 Immolation Tinder
-3810115 Immolation Tinder
+3810100 Immolation Tinder - 1H Heavy #1
+3810105 Immolation Tinder - 1H Heavy #1 Max
+3810110 Immolation Tinder - 1H Heavy #2
+3810115 Immolation Tinder - 1H Heavy #2 Max
 3810200 Immolation Tinder
 3810210 Immolation Tinder
 3810220 Immolation Tinder
 3810230 Immolation Tinder
 3810240 Immolation Tinder
 3810250 Immolation Tinder
-3810300 Immolation Tinder
-3810303 Immolation Tinder
-3810305 Immolation Tinder
-3810308 Immolation Tinder
-3810310 Immolation Tinder
-3810313 Immolation Tinder
-3810315 Immolation Tinder
-3810318 Immolation Tinder
+3810300 Immolation Tinder - 2H Heavy #1 - Hit 1
+3810303 Immolation Tinder - 2H Heavy #1 - Hit 2
+3810305 Immolation Tinder - 2H Heavy #1 Max - Hit 1
+3810308 Immolation Tinder - 2H Heavy #1 Max - Hit 2
+3810310 Immolation Tinder - 2H Heavy #2 - Hit 1
+3810313 Immolation Tinder - 2H Heavy #2 - Hit 2
+3810315 Immolation Tinder - 2H Heavy #2 Max - Hit 1
+3810318 Immolation Tinder - 2H Heavy #2 Max - Hit 2
 3810400 Immolation Tinder
 3810402 Immolation Tinder
 3810404 Immolation Tinder
@@ -2907,38 +2926,38 @@
 3811811 Crescent Axe
 3811815 Crescent Axe
 3811816 Crescent Axe
-3811900 Crescent Axe
-3811905 Crescent Axe
+3811900 Crescent Axe - 1H Heavy #1
+3811905 Crescent Axe - 1H Heavy #1 Max
 3811906 Crescent Axe
 3811907 Crescent Axe
-3811910 Crescent Axe
-3811911 Crescent Axe
-3811915 Crescent Axe
-3811916 Crescent Axe
+3811910 Crescent Axe - 1H Heavy #2 - Hit 1
+3811911 Crescent Axe - 1H Heavy #2 - Hit 2
+3811915 Crescent Axe - 1H Heavy #2 Max - Hit 1
+3811916 Crescent Axe - 1H Heavy #2 Max - Hit 2
 3812000 Glaive
 3812010 Glaive
 3812020 Glaive
 3812030 Glaive
 3812040 Glaive
 3812050 Glaive
-3812100 Glaive
-3812105 Glaive
-3812110 Glaive
-3812115 Glaive
+3812100 Glaive - 1H Heavy #1
+3812105 Glaive - 1H Heavy #1 Max
+3812110 Glaive - 1H Heavy #2
+3812115 Glaive - 1H Heavy #2 Max
 3812200 Glaive
 3812210 Glaive
 3812220 Glaive
 3812230 Glaive
 3812240 Glaive
 3812250 Glaive
-3812300 Glaive
-3812303 Glaive
-3812305 Glaive
-3812308 Glaive
-3812310 Glaive
-3812313 Glaive
-3812315 Glaive
-3812318 Glaive
+3812300 Glaive - 2H Heavy #1 - Hit 1
+3812303 Glaive - 2H Heavy #1 - Hit 2
+3812305 Glaive - 2H Heavy #1 Max - Hit 1
+3812308 Glaive - 2H Heavy #1 Max - Hit 2
+3812310 Glaive - 2H Heavy #2 - Hit 1
+3812313 Glaive - 2H Heavy #2 - Hit 2
+3812315 Glaive - 2H Heavy #2 Max - Hit 1
+3812318 Glaive - 2H Heavy #2 Max - Hit 2
 3812400 Glaive
 3812402 Glaive
 3812404 Glaive
@@ -2978,14 +2997,14 @@
 3813755 Splitleaf Greatsword
 3813756 Splitleaf Greatsword
 3813760 Splitleaf Greatsword
-3814100 Crucifix of the Mad King
-3814105 Crucifix of the Mad King
-3814110 Crucifix of the Mad King
-3814115 Crucifix of the Mad King
-3814300 Crucifix of the Mad King
-3814305 Crucifix of the Mad King
-3814310 Crucifix of the Mad King
-3814315 Crucifix of the Mad King
+3814100 Crucifix of the Mad King - 1H Heavy #1
+3814105 Crucifix of the Mad King - 1H Heavy #1 Max
+3814110 Crucifix of the Mad King - 1H Heavy #2
+3814115 Crucifix of the Mad King - 1H Heavy #2 Max
+3814300 Crucifix of the Mad King - 2H Heavy #1
+3814305 Crucifix of the Mad King - 2H Heavy #1 Max
+3814310 Crucifix of the Mad King - 2H Heavy #2
+3814315 Crucifix of the Mad King - 2H Heavy #2 Max
 3814700 Crucifix of the Mad King
 3814701 Crucifix of the Mad King
 3814705 Crucifix of the Mad King
@@ -3013,10 +3032,12 @@
 4100920 Spell Tool
 4100921 Spell Tool
 4101100 Catalyst - 1H Light
+4101230 Catalyst -
 4101300 Catalyst - 2H Light
 4101400 Catalyst - Left Hand
 4101700 Storyteller's Staff - Poison Spores
 4102100 Talisman - 1H Light
+4102230 Talisman -
 4102300 Talisman - 2H Light
 4102400 Talisman - Left Hand
 4105100 Pyromancy Flame - 1H Heavy #1
@@ -3030,10 +3051,10 @@
 4105720 Pyromancy Flame - Weapon Art
 4105725 Pyromancy Flame - Weapon Art
 4105800 Pyromancy Flame - Weapon Art
-4106100 Pyromancer's Parting Flame
-4106105 Pyromancer's Parting Flame
-4106110 Pyromancer's Parting Flame
-4106115 Pyromancer's Parting Flame
+4106100 Pyromancer's Parting Flame - 1H Heavy #1
+4106105 Pyromancer's Parting Flame - 1H Heavy #1 Max
+4106110 Pyromancer's Parting Flame - 1H Heavy #2
+4106115 Pyromancer's Parting Flame - 1H Heavy #2 Max
 4106500 Pyromancer's Parting Flame
 4106501 Pyromancer's Parting Flame
 4106502 Pyromancer's Parting Flame
@@ -3047,10 +3068,10 @@
 4108730 Preacher's Right Arm
 4108740 Preacher's Right Arm
 4108750 Preacher's Right Arm
-4109100 Black Flame
-4109105 Black Flame
-4109110 Black Flame
-4109115 Black Flame
+4109100 Black Flame - 1H Heavy #1
+4109105 Black Flame - 1H Heavy #1 Max
+4109110 Black Flame - 1H Heavy #2
+4109115 Black Flame - 1H Heavy #2 Max
 4109700 Black Flame - Weapon Art
 4109705 Black Flame - Weapon Art
 4109710 Black Flame - Weapon Art
@@ -3058,10 +3079,10 @@
 4109720 Black Flame - Weapon Art
 4109725 Black Flame - Weapon Art
 4109800 Black Flame - Weapon Art
-4110100 Chaos Flame
-4110105 Chaos Flame
-4110110 Chaos Flame
-4110115 Chaos Flame
+4110100 Chaos Flame - 1H Heavy #1
+4110105 Chaos Flame - 1H Heavy #1 Max
+4110110 Chaos Flame - 1H Heavy #2
+4110115 Chaos Flame - 1H Heavy #2 Max
 4110700 Chaos Flame - Weapon Art
 4110705 Chaos Flame - Weapon Art
 4110710 Chaos Flame - Weapon Art
@@ -3069,10 +3090,10 @@
 4110720 Chaos Flame - Weapon Art
 4110725 Chaos Flame - Weapon Art
 4110800 Chaos Flame - Weapon Art
-4111100 Holy Flame
-4111105 Holy Flame
-4111110 Holy Flame
-4111115 Holy Flame
+4111100 Holy Flame - 1H Heavy #1
+4111105 Holy Flame - 1H Heavy #1 Max
+4111110 Holy Flame - 1H Heavy #2
+4111115 Holy Flame - 1H Heavy #2 Max
 4111700 Holy Flame - Weapon Art
 4111705 Holy Flame - Weapon Art
 4111710 Holy Flame - Weapon Art
@@ -3080,10 +3101,10 @@
 4111720 Holy Flame - Weapon Art
 4111725 Holy Flame - Weapon Art
 4111800 Holy Flame - Weapon Art
-4112100 Sorcerous Flame
-4112105 Sorcerous Flame
-4112110 Sorcerous Flame
-4112115 Sorcerous Flame
+4112100 Sorcerous Flame - 1H Heavy #1
+4112105 Sorcerous Flame - 1H Heavy #1 Max
+4112110 Sorcerous Flame - 1H Heavy #2
+4112115 Sorcerous Flame - 1H Heavy #2 Max
 4112700 Sorcerous Flame - Weapon Art
 4112705 Sorcerous Flame - Weapon Art
 4112710 Sorcerous Flame - Weapon Art
@@ -3204,7 +3225,6 @@
 4203250 Dark Hand
 4203400 Dark Hand
 4203405 Dark Hand - Magic Activated
-4203410 Dark Hand - 1H Kick
 4203430 Dark Hand - 1H Guard
 4203450 Dark Hand - Parry
 4203470 Dark Hand
@@ -3224,7 +3244,8 @@
 4203610 Dark Hand
 4203615 Dark Hand
 4203700 Dark Hand
-4205410 Demon's Fist
+4205106 Demon's Fist - Heavy - Bullet
+4205107 Demon's Fist - Heavy - Bullet [Hit]
 4205800 Demon's Fist
 4205810 Demon's Fist
 4205820 Demon's Fist
@@ -3240,10 +3261,10 @@
 4206030 Crow Talons
 4206040 Crow Talons
 4206050 Crow Talons
-4206100 Crow Talons
-4206105 Crow Talons
-4206110 Crow Talons
-4206115 Crow Talons
+4206100 Crow Talons - 1H Heavy #1
+4206105 Crow Talons - 1H Heavy #1 Max
+4206110 Crow Talons - 1H Heavy #2
+4206115 Crow Talons - 1H Heavy #2 Max
 4206230 Crow Talons
 4206240 Crow Talons
 4206250 Crow Talons
@@ -3288,6 +3309,8 @@
 4207751 Flurry of Fists
 4207760 Flurry of Fists
 4207761 Flurry of Fists
+4208106 Hands of God - Heavy - Bullet
+4208107 Hands of God - Heavy - Bullet [Hit]
 4208700 Hands of God - Flurry of Fists
 4208701 Hands of God - Flurry of Fists
 4208702 Hands of God - Flurry of Fists
@@ -3360,20 +3383,20 @@
 4302030 Rose of Ariandel
 4302040 Rose of Ariandel
 4302050 Rose of Ariandel
-4302100 Rose of Ariandel
-4302105 Rose of Ariandel
-4302110 Rose of Ariandel
-4302115 Rose of Ariandel
+4302100 Rose of Ariandel - 1H Heavy #1
+4302105 Rose of Ariandel - 1H Heavy #1 Max
+4302110 Rose of Ariandel - 1H Heavy #2
+4302115 Rose of Ariandel - 1H Heavy #2 Max
 4302200 Rose of Ariandel
 4302210 Rose of Ariandel
 4302220 Rose of Ariandel
 4302230 Rose of Ariandel
 4302240 Rose of Ariandel
 4302250 Rose of Ariandel
-4302300 Rose of Ariandel
-4302305 Rose of Ariandel
-4302310 Rose of Ariandel
-4302315 Rose of Ariandel
+4302300 Rose of Ariandel - 2H Heavy #1
+4302305 Rose of Ariandel - 2H Heavy #1 Max
+4302310 Rose of Ariandel - 2H Heavy #2
+4302315 Rose of Ariandel - 2H Heavy #2 Max
 4302400 Rose of Ariandel
 4302402 Rose of Ariandel
 4302404 Rose of Ariandel
@@ -3484,7 +3507,7 @@
 4800240 Small Shield - 2H Fall Loop
 4800250 Small Shield - 2H Fall Landing
 4800300 Small Shield - 2H Heavy #1
-4800301 Small Shield - 2H Roll Attack
+4800301 Small Shield
 4800310 Small Shield - 2H Heavy #2
 4800400 Small Shield - Left Hand
 4800410 Small Shield - 1H Kick
@@ -3520,7 +3543,7 @@
 4803240 Pierce Shield - 2H Fall Loop
 4803250 Pierce Shield - 2H Fall Landing
 4803300 Pierce Shield - 2H Heavy #1
-4803301 Pierce Shield - 2H Roll Attack
+4803301 Pierce Shield
 4803310 Pierce Shield - 2H Heavy #2
 4803400 Pierce Shield - Left Hand
 4803410 Pierce Shield - 1H Kick
@@ -3543,18 +3566,18 @@
 4900030 Torch
 4900040 Torch
 4900050 Torch
-4900100 Torch
-4900105 Torch
+4900100 Torch - 1H Heavy #1
+4900105 Torch - 1H Heavy #1 Max
 4900200 Torch
 4900210 Torch
 4900220 Torch
 4900230 Torch
 4900240 Torch
 4900250 Torch
-4900300 Torch
-4900305 Torch
-4900310 Torch
-4900315 Torch
+4900300 Torch - 2H Heavy #1
+4900305 Torch - 2H Heavy #1 Max
+4900310 Torch - 2H Heavy #2
+4900315 Torch - 2H Heavy #2 Max
 4900400 Torch - Left Hand
 4900402 Torch
 4900404 Torch
@@ -3602,9 +3625,9 @@
 5000305 Scythe - 2H Heavy #1 Max
 5000310 Scythe - 2H Heavy #2
 5000315 Scythe - 2H Heavy #2 Max
-5000400 Scythe - Left Hand
-5000402 Scythe
-5000404 Scythe
+5000400 Scythe - Left Hand #1
+5000402 Scythe - Left Hand #2
+5000404 Scythe - Left Hand #3
 5000410 Scythe - 1H Kick
 5000420 Scythe - 2H Kick
 5000430 Scythe - 1H Guard
@@ -3625,87 +3648,118 @@
 5000610 Scythe
 5000615 Scythe
 5000700 Scythe - Weapon Art
-5001000 Scythe - 1H Light #1 (stick)
-5001010 Scythe - 1H Light #2 (stick)
-5001020 Scythe - 1H Light #3 (stick)
-5001030 Scythe - 1H Jump 1 (stick)
-5001040 Scythe - 1H Fall Loop (stick)
-5001050 Scythe - 1H Fall Landing (rod)
-5001100 Scythe - 1H Heavy #1 (stick)
-5001105 Scythe - 1H Heavy #1 Max (stick)
-5001110 Scythe - 1H Heavy #2 (stick)
-5001115 Scythe - 1H Heavy #2 Max (stick)
-5001200 Scythe - 2H Light #1 (stick)
-5001210 Scythe - 2H Light #2 (stick)
-5001220 Scythe - 2H Light #3 (stick)
-5001230 Scythe - 2H Jump (stick)
-5001240 Scythe - 2H Fall Loop (rod)
-5001250 Scythe - 2H Fall Landing (rod)
-5001300 Scythe - 2H Heavy #1 (stick)
-5001305 Scythe - 2H Heavy #1 Max (stick)
-5001310 Scythe - 2H Heavy #2 (stick)
-5001315 Scythe - 2H Heavy #2 Max (stick)
-5001401 Scythe - Left hand (stick)
-5001403 Scythe
-5001405 Scythe
-5001410 Scythe - 1H Kick (stick)
-5001420 Scythe - 2H Kick (stick)
-5001430 Scythe - 1H Guard (stick)
-5001440 Scythe - 2H Guard (stick)
-5001450 Scythe - Parry (stick)
+5001000 Scythe (shaft) - 1H Light #1
+5001010 Scythe (shaft) - 1H Light #2
+5001020 Scythe (shaft) - 1H Light #3
+5001030 Scythe (shaft) - 1H Jump 1
+5001040 Scythe (shaft) - 1H Fall Loop
+5001050 Scythe (shaft) - 1H Fall Landing (rod)
+5001100 Scythe (shaft) - 1H Heavy #1
+5001105 Scythe (shaft) - 1H Heavy #1 Max
+5001110 Scythe (shaft) - 1H Heavy #2
+5001115 Scythe (shaft) - 1H Heavy #2 Max
+5001200 Scythe (shaft) - 2H Light #1
+5001210 Scythe (shaft) - 2H Light #2
+5001220 Scythe (shaft) - 2H Light #3
+5001230 Scythe (shaft) - 2H Jump
+5001240 Scythe (shaft) - 2H Fall Loop (rod)
+5001250 Scythe (shaft) - 2H Fall Landing (rod)
+5001300 Scythe (shaft) - 2H Heavy #1
+5001305 Scythe (shaft) - 2H Heavy #1 Max
+5001310 Scythe (shaft) - 2H Heavy #2
+5001315 Scythe (shaft) - 2H Heavy #2 Max
+5001401 Scythe (shaft) - Left Hand #1
+5001403 Scythe (shaft) - Left Hand #2
+5001405 Scythe (shaft) - Left Hand #3
+5001410 Scythe (shaft) - 1H Kick
+5001420 Scythe (shaft) - 2H Kick
+5001430 Scythe (shaft) - 1H Guard
+5001440 Scythe (shaft) - 2H Guard
+5001450 Scythe (shaft) - Parry
 5001470 Scythe
 5001490 Scythe
-5001500 Scythe - Backstab
-5001505 Scythe - Backstab (Hornet Ring)
-5001510 Scythe - Riposte
-5001515 Scythe - Riposte (Hornet Ring)
-5001516 Scythe - Riposte (Hornet Ring)
-5001520 Scythe - 1H Roll Attack (stick)
-5001530 Scythe - 2H Roll Attack (stick)
-5001540 Scythe - 1H Backstep (stick)
-5001580 Scythe - 2H Backstep (stick)
-5001600 Scythe - Parry (stick)
-5010000 Pontiff Knight Great Scythe
-5010010 Pontiff Knight Great Scythe
-5010020 Pontiff Knight Great Scythe
-5010030 Pontiff Knight Great Scythe
-5010040 Pontiff Knight Great Scythe
-5010050 Pontiff Knight Great Scythe
-5010100 Pontiff Knight Great Scythe
-5010105 Pontiff Knight Great Scythe
-5010110 Pontiff Knight Great Scythe
-5010115 Pontiff Knight Great Scythe
-5010200 Pontiff Knight Great Scythe
-5010210 Pontiff Knight Great Scythe
-5010220 Pontiff Knight Great Scythe
-5010230 Pontiff Knight Great Scythe
-5010240 Pontiff Knight Great Scythe
-5010250 Pontiff Knight Great Scythe
-5010300 Pontiff Knight Great Scythe
-5010305 Pontiff Knight Great Scythe
-5010310 Pontiff Knight Great Scythe
-5010315 Pontiff Knight Great Scythe
-5010400 Pontiff Knight Great Scythe
-5010402 Pontiff Knight Great Scythe
-5010404 Pontiff Knight Great Scythe
-5010470 Pontiff Knight Great Scythe
-5010490 Pontiff Knight Great Scythe
+5001500 Scythe (shaft) - Backstab
+5001505 Scythe (shaft) - Backstab (Hornet Ring)
+5001510 Scythe (shaft) - Riposte
+5001515 Scythe (shaft) - Riposte (Hornet Ring)
+5001516 Scythe (shaft) - Riposte (Hornet Ring)
+5001520 Scythe (shaft) - 1H Roll Attack
+5001530 Scythe (shaft) - 2H Roll Attack
+5001540 Scythe (shaft) - 1H Backstep
+5001580 Scythe (shaft) - 2H Backstep
+5001600 Scythe (shaft) - Parry
+5010000 Pontiff Knight Great Scythe - 1H Light #1
+5010010 Pontiff Knight Great Scythe - 1H Light #2
+5010020 Pontiff Knight Great Scythe - 1H Light #3
+5010030 Pontiff Knight Great Scythe - 1H Jump
+5010040 Pontiff Knight Great Scythe - 1H Fall Loop
+5010050 Pontiff Knight Great Scythe - 1H Fall Landing
+5010100 Pontiff Knight Great Scythe - 1H Heavy #1
+5010105 Pontiff Knight Great Scythe - 1H Heavy #1 Max
+5010110 Pontiff Knight Great Scythe - 1H Heavy #2
+5010115 Pontiff Knight Great Scythe - 1H Heavy #2 Max
+5010200 Pontiff Knight Great Scythe - 2H Light #1
+5010210 Pontiff Knight Great Scythe - 2H Light #2
+5010220 Pontiff Knight Great Scythe - 2H Light #3
+5010230 Pontiff Knight Great Scythe - 2H Jump
+5010240 Pontiff Knight Great Scythe - 2H Fall Loop
+5010250 Pontiff Knight Great Scythe - 2H Fall Landing
+5010300 Pontiff Knight Great Scythe - 2H Heavy #1
+5010305 Pontiff Knight Great Scythe - 2H Heavy #1 Max
+5010310 Pontiff Knight Great Scythe - 2H Heavy #2
+5010315 Pontiff Knight Great Scythe - 2H Heavy #2 Max
+5010400 Pontiff Knight Great Scythe - Left Hand
+5010402 Pontiff Knight Great Scythe - Left Hand
+5010404 Pontiff Knight Great Scythe - Left Hand
+5010470 Pontiff Knight Great Scythe - Large Throw
+5010490 Pontiff Knight Great Scythe - Fall Throw
 5010500 Pontiff Knight Great Scythe - Backstab
 5010505 Pontiff Knight Great Scythe - Backstab (Hornet Ring)
 5010510 Pontiff Knight Great Scythe - Riposte
 5010515 Pontiff Knight Great Scythe - Riposte (Hornet Ring)
 5010516 Pontiff Knight Great Scythe - Riposte (Hornet Ring)
-5010520 Pontiff Knight Great Scythe
-5010530 Pontiff Knight Great Scythe
-5010540 Pontiff Knight Great Scythe
-5010580 Pontiff Knight Great Scythe
+5010520 Pontiff Knight Great Scythe - 1H Roll Attack
+5010530 Pontiff Knight Great Scythe - 2H Roll Attack
+5010540 Pontiff Knight Great Scythe - 1H Backstep
+5010580 Pontiff Knight Great Scythe - 2H Backstep
 5010615 Pontiff Knight Great Scythe
-5010700 Pontiff Knight Great Scythe [Bullet]
-5011500 ? - Backstab
-5011505 ? - Backstab (Hornet Ring)
-5011510 ? - Riposte
-5011515 ? - Riposte (Hornet Ring)
-5011516 ? - Riposte (Hornet Ring)
+5010700 Pontiff Knight Great Scythe - Weapon Art
+5011000 Pontiff Knight Great Scythe (shaft) - 1H Light #1
+5011010 Pontiff Knight Great Scythe (shaft) - 1H Light #2
+5011020 Pontiff Knight Great Scythe (shaft) - 1H Light #3
+5011030 Pontiff Knight Great Scythe (shaft) - 1H Jump
+5011040 Pontiff Knight Great Scythe (shaft) - 1H Fall Loop
+5011050 Pontiff Knight Great Scythe (shaft) - 1H Fall Landing
+5011100 Pontiff Knight Great Scythe (shaft) - 1H Heavy #1
+5011105 Pontiff Knight Great Scythe (shaft) - 1H Heavy #1 Max
+5011110 Pontiff Knight Great Scythe (shaft) - 1H Heavy #2
+5011115 Pontiff Knight Great Scythe (shaft) - 1H Heavy #2 Max
+5011200 Pontiff Knight Great Scythe (shaft) - 2H Light #1
+5011210 Pontiff Knight Great Scythe (shaft) - 2H Light #2
+5011220 Pontiff Knight Great Scythe (shaft) - 2H Light #3
+5011230 Pontiff Knight Great Scythe (shaft) - 2H Jump
+5011240 Pontiff Knight Great Scythe (shaft) - 2H Fall Loop
+5011250 Pontiff Knight Great Scythe (shaft) - 2H Fall Landing
+5011300 Pontiff Knight Great Scythe (shaft) - 2H Heavy #1
+5011305 Pontiff Knight Great Scythe (shaft) - 2H Heavy #1 Max
+5011310 Pontiff Knight Great Scythe (shaft) - 2H Heavy #2
+5011315 Pontiff Knight Great Scythe (shaft) - 2H Heavy #2 Max
+5011401 Pontiff Knight Great Scythe (shaft) - Left Hand
+5011403 Pontiff Knight Great Scythe (shaft) - Left Hand
+5011405 Pontiff Knight Great Scythe (shaft) - Left Hand
+5011470 Pontiff Knight Great Scythe (shaft) - Large Throw
+5011490 Pontiff Knight Great Scythe (shaft) - Fall Throw
+5011500 Pontiff Knight Great Scythe (shaft) - Backstab
+5011505 Pontiff Knight Great Scythe (shaft) - Backstab (Hornet Ring)
+5011510 Pontiff Knight Great Scythe (shaft) - Riposte
+5011515 Pontiff Knight Great Scythe (shaft) - Riposte (Hornet Ring)
+5011516 Pontiff Knight Great Scythe (shaft) - Riposte (Hornet Ring)
+5011520 Pontiff Knight Great Scythe (shaft) - 1H Roll Attack
+5011530 Pontiff Knight Great Scythe (shaft) - 2H Roll Attack
+5011540 Pontiff Knight Great Scythe (shaft) - 1H Backstep
+5011580 Pontiff Knight Great Scythe (shaft) - 2H Backstep
+5011700 Lothric's Scythe - Weapon Art
+5011705 Lothric's Scythe - Weapon Art
 5030000 Friede's Great Scythe
 5030001 Friede's Great Scythe
 5030010 Friede's Great Scythe
@@ -3718,14 +3772,14 @@
 5030041 Friede's Great Scythe
 5030050 Friede's Great Scythe
 5030051 Friede's Great Scythe
-5030100 Friede's Great Scythe
-5030101 Friede's Great Scythe
-5030105 Friede's Great Scythe
-5030106 Friede's Great Scythe
-5030110 Friede's Great Scythe
-5030111 Friede's Great Scythe
-5030115 Friede's Great Scythe
-5030116 Friede's Great Scythe
+5030100 Friede's Great Scythe - 1H Heavy #1 - Hit 1
+5030101 Friede's Great Scythe - 1H Heavy #1 - Hit 2
+5030105 Friede's Great Scythe - 1H Heavy #1 Max - Hit 1
+5030106 Friede's Great Scythe - 1H Heavy #1 Max - Hit 2
+5030110 Friede's Great Scythe - 1H Heavy #2 - Hit 1
+5030111 Friede's Great Scythe - 1H Heavy #2 - Hit 2
+5030115 Friede's Great Scythe - 1H Heavy #2 Max - Hit 1
+5030116 Friede's Great Scythe - 1H Heavy #2 Max - Hit 2
 5030200 Friede's Great Scythe
 5030201 Friede's Great Scythe
 5030210 Friede's Great Scythe
@@ -3738,14 +3792,14 @@
 5030241 Friede's Great Scythe
 5030250 Friede's Great Scythe
 5030251 Friede's Great Scythe
-5030300 Friede's Great Scythe
-5030301 Friede's Great Scythe
-5030305 Friede's Great Scythe
-5030306 Friede's Great Scythe
-5030310 Friede's Great Scythe
-5030311 Friede's Great Scythe
-5030315 Friede's Great Scythe
-5030316 Friede's Great Scythe
+5030300 Friede's Great Scythe - 2H Heavy #1 - Hit 1
+5030301 Friede's Great Scythe - 2H Heavy #1 - Hit 2
+5030305 Friede's Great Scythe - 2H Heavy #1 Max - Hit 1
+5030306 Friede's Great Scythe - 2H Heavy #1 Max - Hit 2
+5030310 Friede's Great Scythe - 2H Heavy #2 - Hit 1
+5030311 Friede's Great Scythe - 2H Heavy #2 - Hit 2
+5030315 Friede's Great Scythe - 2H Heavy #2 Max - Hit 1
+5030316 Friede's Great Scythe - 2H Heavy #2 Max - Hit 2
 5030400 Friede's Great Scythe
 5030401 Friede's Great Scythe
 5030402 Friede's Great Scythe
@@ -3867,24 +3921,24 @@
 5300030 Scimitar
 5300040 Scimitar
 5300050 Scimitar
-5300100 Scimitar
-5300101 Scimitar
-5300105 Scimitar
-5300106 Scimitar
-5300110 Scimitar
-5300115 Scimitar
+5300100 Scimitar - 1H Heavy #1 - Hit 1
+5300101 Scimitar - 1H Heavy #1 - Hit 2
+5300105 Scimitar - 1H Heavy #1 Max - Hit 1
+5300106 Scimitar - 1H Heavy #1 Max - Hit 2
+5300110 Scimitar - 1H Heavy #2
+5300115 Scimitar - 1H Heavy #2 Max
 5300200 Scimitar
 5300210 Scimitar
 5300220 Scimitar
 5300230 Scimitar
 5300240 Scimitar
 5300250 Scimitar
-5300300 Scimitar
-5300301 Scimitar
-5300305 Scimitar
-5300306 Scimitar
-5300310 Scimitar
-5300315 Scimitar
+5300300 Scimitar - 2H Heavy #1 - Hit 1
+5300301 Scimitar - 2H Heavy #1 - Hit 2
+5300305 Scimitar - 2H Heavy #1 Max - Hit 1
+5300306 Scimitar - 2H Heavy #1 Max - Hit 2
+5300310 Scimitar - 2H Heavy #2
+5300315 Scimitar - 2H Heavy #2 Max
 5300400 Scimitar
 5300402 Scimitar
 5300404 Scimitar
@@ -3920,20 +3974,20 @@
 5302030 Shotel
 5302040 Shotel
 5302050 Shotel
-5302100 Shotel
-5302105 Shotel
-5302110 Shotel
-5302115 Shotel
+5302100 Shotel - 1H Heavy #1
+5302105 Shotel - 1H Heavy #1 Max
+5302110 Shotel - 1H Heavy #2
+5302115 Shotel - 1H Heavy #2 Max
 5302200 Shotel
 5302210 Shotel
 5302220 Shotel
 5302230 Shotel
 5302240 Shotel
 5302250 Shotel
-5302300 Shotel
-5302305 Shotel
-5302310 Shotel
-5302315 Shotel
+5302300 Shotel - 2H Heavy #1
+5302305 Shotel - 2H Heavy #1 Max
+5302310 Shotel - 2H Heavy #2
+5302315 Shotel - 2H Heavy #2 Max
 5302400 Shotel
 5302402 Shotel
 5302404 Shotel
@@ -4061,14 +4115,8 @@
 11740200 [Sorcery] Snap Freeze
 12400000 [Pyromancy] Fireball
 12400100 [Pyromancy] Fireball [Hit]
-12400201 [Pyromancy] Fireball [Hit] - Ascended
-12400202 [Pyromancy] Fireball [Hit] - Ascended
-12400203 [Pyromancy] Fireball [Hit] - Ascended
 12402000 [Pyromancy] Fire Orb
 12402100 [Pyromancy] Fire Orb [Hit]
-12402201 [Pyromancy] Fire Orb [Hit] - Ascended
-12402202 [Pyromancy] Fire Orb [Hit] - Ascended
-12402203 [Pyromancy] Fire Orb [Hit] - Ascended
 12403000 [Pyromancy] Firestorm
 12403100 [Pyromancy] Firestorm [HitBullet]
 12403200 [Pyromancy] Firestorm [HitBullet]
@@ -4127,20 +4175,19 @@
 12458100 [Pyromancy] Flame Fan
 12458200 [Pyromancy] Flame Fan
 12458210 [Pyromancy] Flame Fan
+12458300 [Pyromancy] Flame Fan - Ascended
+12458310 [Pyromancy] Flame Fan - Ascended
+12458320 [Pyromancy] Flame Fan - Ascended
+12458330 [Pyromancy] Flame Fan - Ascended
 12470000 [Pyromancy] Warmth
 12470001 [Pyromancy] Warmth - Ascended
 12600000 [Pyromancy] Dark Orb [unused]
 12600100 [Pyromancy] Dark Orb [unused] [HitBullet]
 12610000 [Pyromancy] Black Fire Orb
 12610100 [Pyromancy] Black Fire Orb [HitBullet]
-12610200 [Pyromancy] Black Fire Orb [HitBullet]
-12610300 [Pyromancy] Black Fire Orb - Lava [HitBullet]
 12620000 [Pyromancy] Bursting Fireball
-12620100 [Pyromancy] Bursting Fireballl [HitBullet]
-12620200 [Pyromancy] Bursting Fireballl [HitBullet]
-12620303 [Pyromancy] Bursting Fireballl [HitBullet]
-12620304 [Pyromancy] Bursting Fireballl [HitBullet]
-12620305 [Pyromancy] Bursting Fireballl [HitBullet]
+12620100 [Pyromancy] Bursting Fireball [HitBullet]
+12620200 [Pyromancy] Bursting Fireball [HitBullet]
 12630000 [Pyromancy] Boulder Heave
 12630100 [Pyromancy] Boulder Heave [HitBullet]
 12630200 [Pyromancy] Boulder Heave - Ascended
@@ -4198,6 +4245,15 @@
 13557000 [Miracle] Projected Heal
 13557010 [Miracle] Projected Heal [HitBullet]
 13581000 [Miracle] Vow of Silence
+13700200 [Dead Again] Tier 1
+13700210 [Dead Again] Tier 2
+13700220 [Dead Again] Tier 3
+13700230 [Dead Again] Tier 4
+13700240 [Dead Again] Tier 5
+13700250 [Dead Again] Tier 6
+13700260 [Dead Again] Tier 7
+13700270 [Dead Again] Tier 8
+13700280 [Dead Again] Tier 9
 13710000 [Miracle] Lightning Stake
 13710100 [Miracle] Lightning Stake [HitBullet]
 13710200 [Miracle] Lightning Stake [HitBullet]
@@ -4221,8 +4277,7 @@
 14000000 Blessing of Rosaria
 14000001 Blessing of Rosaria
 14000010 Holy Wrath
-14910000 Stone Greatsword - Tranquil Walk of Peace - Self
-14910010 Stone Greatsword - Tranquil Walk of Peace - Enemy
+14910000 Stone Greatsword - Tranquil Walk of Peace
 14911000 Channeler's Trident - Channeler's Boon - Self
 14911010 Channeler's Trident - Channeler's Boon - Enemy
 14999999 ### Spells ###
@@ -4241,6 +4296,7 @@
 15008000 [Pyromancy] Cataclysm
 15008010 [Pyromancy] Cataclysm - Great Chaos Fire Orb
 18140000 [Miracle] Heavenly Thunder
+18140100 [Miracle] Heavenly Thunder [Hit]
 18160000 [Miracle] Nibble
 18200000 [Pyromancy] Dark Inferno
 18200100 [Pyromancy] Dark Inferno [BulletEmitter]
@@ -4250,10 +4306,6 @@
 18200500 [Pyromancy] Dark Inferno [BulletEmitter HitBullet]
 18220000 [Pyromancy] Dark Dance
 18220100 [Pyromancy] Dark Dance [HitBullet]
-18220200 [Pyromancy] Dark Dance [HitBullet]
-18220300 [Pyromancy] Dark Dance [HitBullet]
-18220500 [Pyromancy] Dark Dance
-18220600 [Pyromancy] Dark Dance [HitBullet]
 18230000 [Pyromancy] Recollection
 18230010 [Pyromancy] Recollection
 18230100 [Pyromancy] Recollection [BulletEmitter]
@@ -4341,3 +4393,19 @@
 19548001 [Miracle] Divine Arrow - Ascended
 19549000 [Miracle] Proof of a Pact
 19550000 [Miracle] Ghostly Assault
+19551900 [Pyromancy] Black Fireball
+19551910 [Pyromancy] Black Fireball - Ascended [Hit]
+19551911 [Pyromancy] Black Fireball - Ascended [Hit]
+19551912 [Pyromancy] Black Fireball - Ascended - Lava [Hit]
+19552000 [Pyromancy] Black Fire Scatter
+19552001 [Pyromancy] Black Fire Scatter [Hit]
+19552002 [Pyromancy] Black Fire Scatter [Hit]
+19553000 [Pyromancy] Black Fire Vestiges
+19553010 [Pyromancy] Black Fire Vestiges [Hit]
+19554000 [Pyromancy] Fecal Explusion
+19554010 [Pyromancy] Fecal Explusion [Hit]
+19555000 [Miracle] Overwhelming Power
+19555010 [Miracle] Overwhelming Power [Hit]
+19555020 [Miracle] Overwhelming Power [Hit]
+19555030 [Miracle] Overwhelming Power [Hit]
+210006010 Crystal Ring Shield - Unleash Moonlight

@@ -1,117 +1,117 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Alpha 1</name>
+    <name>Edge Color: Alpha</name>
     <type>f32</type>
     <default>1</default>
   </entry>
   <entry>
-    <name>Alpha 2</name>
+    <name>Front Color: Alpha</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Alpha 3</name>
-    <type>f32</type>
-    <default>1</default>
-  </entry>
-  <entry>
-    <name>Alpha 4</name>
+    <name>Diff Color: Alpha</name>
     <type>f32</type>
     <default>1</default>
   </entry>
   <entry>
-    <name>Alpha 5</name>
+    <name>Spec Color: Alpha</name>
     <type>f32</type>
     <default>1</default>
   </entry>
   <entry>
-    <name>R1</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>G1</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>B1</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>R2</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>G2</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>B2</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>R3</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>G3</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>B3</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>R4</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>G4</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>B4</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>R5</name>
-    <type>u8</type>
-    <default>255</default>
-  </entry>
-  <entry>
-    <name>G5</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>B5</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Ghost Alpha 1</name>
+    <name>Light Color: Alpha</name>
     <type>f32</type>
     <default>1</default>
   </entry>
   <entry>
-    <name>Ghost Alpha 2</name>
+    <name>Edge Color: R</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Edge Color: G</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Edge Color: B</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Front Color: R</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Front Color: G</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Front Color: B</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Diff Color: R</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Diff Color: G</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Diff Color: B</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Spec Color: R</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Spec Color: G</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Spec Color: B</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Light Color: R</name>
+    <type>u8</type>
+    <default>255</default>
+  </entry>
+  <entry>
+    <name>Light Color: G</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Light Color: B</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>pad1</name>
+    <type>dummy8</type>
+    <size>1</size>
+  </entry>
+  <entry>
+    <name>Ghost 1</name>
+    <type>f32</type>
+    <default>1</default>
+  </entry>
+  <entry>
+    <name>Ghost 2</name>
     <type>f32</type>
     <default>1</default>
   </entry>

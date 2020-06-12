@@ -1227,6 +1227,11 @@
 214700011 [Bonewheel Skeleton] Beat by hand (left hand)
 214700020 [Bonewheel Skeleton]  transformed into a wheel
 214700100 [Bonewheel Skeleton] rotation
+214710010 [Bonewheel Skeleton - Black Fire] Beat by hand (right hand)
+214710011 [Bonewheel Skeleton - Black Fire] Beat by hand (left hand)
+214710020 [Bonewheel Skeleton - Black Fire] transformed into a wheel
+214710100 [Bonewheel Skeleton - Black Fire] rotation
+214710200 [Bonewheel Skeleton - Black Fire] Black Fireball
 220000010 [Wolf] a flying attack
 220000020 [Wolf] Tackle attack
 220000030 [Wolf] feint bite attack
@@ -1361,6 +1366,55 @@
 220300700 [Pontiff Knight]
 220300701 [Pontiff Knight]
 220300900 [Pontiff Knight] Shields
+220310100 [Ruin Sentinel]
+220310110 [Ruin Sentinel]
+220310120 [Ruin Sentinel]
+220310130 [Ruin Sentinel]
+220310140 [Ruin Sentinel]
+220310150 [Ruin Sentinel]
+220310160 [Ruin Sentinel]
+220310170 [Ruin Sentinel]
+220310180 [Ruin Sentinel]
+220310190 [Ruin Sentinel]
+220310210 [Ruin Sentinel]
+220310220 [Ruin Sentinel]
+220310230 [Ruin Sentinel]
+220310240 [Ruin Sentinel]
+220310241 [Ruin Sentinel]
+220310300 [Ruin Sentinel]
+220310301 [Ruin Sentinel]
+220310310 [Ruin Sentinel]
+220310311 [Ruin Sentinel]
+220310320 [Ruin Sentinel]
+220310321 [Ruin Sentinel]
+220310330 [Ruin Sentinel]
+220310331 [Ruin Sentinel]
+220310340 [Ruin Sentinel]
+220310341 [Ruin Sentinel]
+220310350 [Ruin Sentinel]
+220310351 [Ruin Sentinel]
+220310360 [Ruin Sentinel]
+220310361 [Ruin Sentinel]
+220310370 [Ruin Sentinel]
+220310371 [Ruin Sentinel]
+220310380 [Ruin Sentinel]
+220310381 [Ruin Sentinel]
+220310390 [Ruin Sentinel]
+220310391 [Ruin Sentinel]
+220310400 [Ruin Sentinel]
+220310401 [Ruin Sentinel]
+220310410 [Ruin Sentinel]
+220310411 [Ruin Sentinel]
+220310420 [Ruin Sentinel]
+220310421 [Ruin Sentinel]
+220310430 [Ruin Sentinel]
+220310431 [Ruin Sentinel]
+220310440 [Ruin Sentinel]
+220310450 [Ruin Sentinel]
+220310451 [Ruin Sentinel]
+220310700 [Ruin Sentinel]
+220310701 [Ruin Sentinel]
+220310900 [Ruin Sentinel]
 220400100 [Monstrosity of Sin] Right hand slams
 220400110 [Monstrosity of Sin] Left hand slams
 220400120 [Monstrosity of Sin] Right hand finish
@@ -1487,6 +1541,62 @@
 220900741 [Oceiros, the Consumed King]
 220900742 [Oceiros, the Consumed King]
 220900743 [Oceiros, the Consumed King]
+220901100 [Consumed Beast]
+220910110 [Consumed Beast]
+220910111 [Consumed Beast]
+220910120 [Consumed Beast]
+220910130 [Consumed Beast]
+220910140 [Consumed Beast]
+220910141 [Consumed Beast]
+220910150 [Consumed Beast]
+220910160 [Consumed Beast]
+220910170 [Consumed Beast]
+220910180 [Consumed Beast]
+220910181 [Consumed Beast]
+220910182 [Consumed Beast]
+220910183 [Consumed Beast]
+220910190 [Consumed Beast]
+220910300 [Consumed Beast]
+220910301 [Consumed Beast]
+220910310 [Consumed Beast]
+220910311 [Consumed Beast]
+220910312 [Consumed Beast]
+220910313 [Consumed Beast]
+220910320 [Consumed Beast]
+220910330 [Consumed Beast]
+220910331 [Consumed Beast]
+220910340 [Consumed Beast]
+220910341 [Consumed Beast]
+220910350 [Consumed Beast]
+220910351 [Consumed Beast]
+220910360 [Consumed Beast]
+220910361 [Consumed Beast]
+220910370 [Consumed Beast]
+220910371 [Consumed Beast]
+220910380 [Consumed Beast]
+220910381 [Consumed Beast]
+220910382 [Consumed Beast]
+220910383 [Consumed Beast]
+220910384 [Consumed Beast]
+220910385 [Consumed Beast]
+220910390 [Consumed Beast]
+220910391 [Consumed Beast]
+220910392 [Consumed Beast]
+220910700 [Consumed Beast] Straight Breath
+220910701 [Consumed Beast] Straight Breath [Hit]
+220910702 [Consumed Beast] Straight Breath [Hit]
+220910710 [Consumed Beast] Whack Breath
+220910711 [Consumed Beast] Whack Breath [Hit]
+220910712 [Consumed Beast] Whack Breath [Hit]
+220910713 [Consumed Beast] Whack Breath [Hit]
+220910720 [Consumed Beast] Aerial Breath
+220910721 [Consumed Beast] Aerial Breath [Hit]
+220910722 [Consumed Beast] Aerial Breath [Hit]
+220910730 [Consumed Beast]
+220910740 [Consumed Beast] Pestilent Mist
+220910741 [Consumed Beast] Pestilent Mist [Hit]
+220910742 [Consumed Beast] Pestilent Mist [Hit]
+220910743 [Consumed Beast] Pestilent Mist [Hit]
 221000100 [Sewer Centipede] A flying attack
 221000110 [Sewer Centipede] Jump Throwing transition
 221000120 [Sewer Centipede] Rising Dash attack
@@ -1548,7 +1658,8 @@
 221400020 [Basilisk] Jump & Breath
 221400021 [Basilisk] Jump & Breath Landing
 221500010 [Crystal Lizard] Disappear
-221500020 [Crystal Lizard]
+221510010 [Red Crystal Lizard] Disappear
+221510100 [Red Crystal Lizard] Red Explosion
 221600010 [Londor Pilgrim] ① (small): hitting with a cane
 221600011 [Londor Pilgrim] ① (small): hitting with a cane② (small): hitting with a cane
 221600020 [Londor Pilgrim] ① (small): hitting with a caneEclipse (small): Getaway
@@ -2153,12 +2264,12 @@
 230700711 [Demon Cleric]
 230700720 [Demon Cleric] The Great Storm of Chaos
 230710700 [Demon Cleric]
-230800100 [Butterfly]
-230800700 [Butterfly] Scales rain
-230800710 [Butterfly] The Big God soldier laser
-230800720 [Butterfly] high-speed explosion
-230800730 [Butterfly] Scales bombing
-230800740 [Butterfly] Scales Rain 2
+230800100 [Pilgrim Butterfly]
+230800700 [Pilgrim Butterfly] Scales rain
+230800710 [Pilgrim Butterfly] The Big God soldier laser
+230800720 [Pilgrim Butterfly] high-speed explosion
+230800730 [Pilgrim Butterfly] Scales bombing
+230800740 [Pilgrim Butterfly] Scales Rain 2
 230900010 [Caged Hollow] Violent
 230900100 [Caged Hollow]
 231000010 [Giant Crystal Lizard] Right S-Saigi
@@ -2403,6 +2514,43 @@
 231600300 [Dragonslayer Armour] arts _ Jump Guillotine
 231600700 [Dragonslayer Armour] Shockwave
 231600900 [Dragonslayer Armour] Guard
+231610010 [Morne's Armor]
+231610020 [Morne's Armor]
+231610021 [Morne's Armor]
+231610030 [Morne's Armor] Shield Bash
+231610031 [Morne's Armor] Axe Swing
+231610040 [Morne's Armor] Axe Turning Attack
+231610041 [Morne's Armor]
+231610050 [Morne's Armor] Shield Turning Attack
+231610060 [Morne's Armor]
+231610061 [Morne's Armor]
+231610070 [Morne's Armor]
+231610080 [Morne's Armor]
+231610090 [Morne's Armor]
+231610100 [Morne's Armor]
+231610110 [Morne's Armor]
+231610120 [Morne's Armor]
+231610130 [Morne's Armor]
+231610131 [Morne's Armor]
+231610140 [Morne's Armor]
+231610150 [Morne's Armor]
+231610160 [Morne's Armor]
+231610170 [Morne's Armor]
+231610180 [Morne's Armor]
+231610190 [Morne's Armor]
+231610200 [Morne's Armor] HU: Jump Shield Bash
+231610210 [Morne's Armor] HU: Sword
+231610220 [Morne's Armor] HU: Shield Bash
+231610230 [Morne's Armor] HU: Shield Bash
+231610240 [Morne's Armor] HU: Shield Combo
+231610250 [Morne's Armor] HU: Shield Guillotine
+231610260 [Morne's Armor] HU: Guard Bash
+231610270 [Morne's Armor] WA: Assault
+231610280 [Morne's Armor] WA: Whack
+231610290 [Morne's Armor] WA: Axe Shockwave
+231610300 [Morne's Armor] WA: Jump Slash
+231610700 [Morne's Armor] Shockwave
+231610900 [Morne's Armor] Guard
 231700010 [Darkwraith] Slashing 1
 231700011 [Darkwraith] Slashing 2
 231700012 [Darkwraith] Slashing 3
@@ -2428,6 +2576,9 @@
 232200030 [Rock Lizard]
 232200040 [Rock Lizard]
 232200050 [Rock Lizard]
+232201030 [Rocky]
+232201040 [Rocky]
+232201050 [Rocky]
 250100010 [Nameless King] Whack: Sword damage
 250100020 [Nameless King] whack second stage: Sword damage
 250100030 [Nameless King] Swing: Sword damage
@@ -2708,6 +2859,7 @@
 251100713 [Gundyr] heat up attack: Throw _ Finish
 251100800 [Gundyr] Corrupted Fist - Bullet
 251100801 [Gundyr] Corrupted Bite - Bullet
+251100910 [Gundyr] White Tear
 251200010 [Snake Spirit] Frontal melee attack _ head knocked back against
 251200011 [Snake Spirit] Frontal melee attack _ head lateral shaking
 251200012 [Snake Spirit] Frontal melee Attack _ head + neck knocked back against
@@ -3270,6 +3422,9 @@
 252600500 [Yhorm the Giant] Explosion - Heatup
 252600510 [Yhorm the Giant] Explosion - Heatup
 252600600 [Yhorm the Giant] Explosion - Heatup - Bullet
+252600800 [Yhorm the Giant] Rubble Rain
+252600810 [Yhorm the Giant] Earth Pillar
+252600830 [Yhorm the Giant] Flame Pillar
 252700000 [Dancer of the Boreal Valley] 3000 The butt
 252700010 [Dancer of the Boreal Valley] 3001 Saigi from falling butt
 252700020 [Dancer of the Boreal Valley] 3002 right hand slams from fallen butt
@@ -4215,30 +4370,30 @@
 262400010 [Pilgrim Pulpa]
 262400011 [Pilgrim Pulpa]
 262400700 [Pilgrim Pulpa]
-262500100 [Pilgrim Angel]
-262500101 [Pilgrim Angel]
-262500102 [Pilgrim Angel]
-262500103 [Pilgrim Angel]
-262500110 [Pilgrim Angel]
-262500111 [Pilgrim Angel]
-262500112 [Pilgrim Angel]
-262500113 [Pilgrim Angel]
-262500200 [Pilgrim Angel]
-262500201 [Pilgrim Angel]
-262500202 [Pilgrim Angel]
-262500203 [Pilgrim Angel]
-262500210 [Pilgrim Angel]
-262500211 [Pilgrim Angel]
-262500212 [Pilgrim Angel]
-262500213 [Pilgrim Angel]
-262500300 [Pilgrim Angel]
-262500301 [Pilgrim Angel]
-262500302 [Pilgrim Angel]
-262500303 [Pilgrim Angel]
-262500310 [Pilgrim Angel]
-262500311 [Pilgrim Angel]
-262500312 [Pilgrim Angel]
-262500313 [Pilgrim Angel]
+262500100 [Pilgrim Angel] 3000 - Holy Barrage
+262500101 [Pilgrim Angel] 3000 - Holy Barrage
+262500102 [Pilgrim Angel] 3000 - Holy Barrage
+262500103 [Pilgrim Angel] 3000 - Holy Barrage
+262500110 [Pilgrim Angel] 3000 - Holy Barrage
+262500111 [Pilgrim Angel] 3000 - Holy Barrage
+262500112 [Pilgrim Angel] 3000 - Holy Barrage
+262500113 [Pilgrim Angel] 3000 - Holy Barrage
+262500200 [Pilgrim Angel] 3001 - Holy Barrage
+262500201 [Pilgrim Angel] 3001 - Holy Barrage
+262500202 [Pilgrim Angel] 3001 - Holy Barrage
+262500203 [Pilgrim Angel] 3001 - Holy Barrage
+262500210 [Pilgrim Angel] 3001 - Holy Barrage
+262500211 [Pilgrim Angel] 3001 - Holy Barrage
+262500212 [Pilgrim Angel] 3001 - Holy Barrage
+262500213 [Pilgrim Angel] 3001 - Holy Barrage
+262500300 [Pilgrim Angel] 3002 - Holy Barrage
+262500301 [Pilgrim Angel] 3002 - Holy Barrage
+262500302 [Pilgrim Angel] 3002 - Holy Barrage
+262500303 [Pilgrim Angel] 3002 - Holy Barrage
+262500310 [Pilgrim Angel] 3002 - Holy Barrage
+262500311 [Pilgrim Angel] 3002 - Holy Barrage
+262500312 [Pilgrim Angel] 3002 - Holy Barrage
+262500313 [Pilgrim Angel] 3002 - Holy Barrage
 262500700 [Pilgrim Angel]
 262500701 [Pilgrim Angel]
 262500702 [Pilgrim Angel]
@@ -4510,6 +4665,301 @@
 263310200 [Locust]
 270000010 [Humanity]
 270000020 [Humanity]
+275000100 [The Lord's Blade] right Pay
+275000110 [The Lord's Blade] left pay
+275000120 [The Lord's Blade] 1-1 hands Shiri (right)
+275000121 [The Lord's Blade] 1-1 hands Shiri (left)
+275000130 [The Lord's Blade] 1-2 hands Saigi (right)
+275000131 [The Lord's Blade] 1-2 hands Saigi (left)
+275000140 [The Lord's Blade] 1-3 hands Saigi (right)
+275000141 [The Lord's Blade] 1-3 hands Saigi (left)
+275000150 [The Lord's Blade] 2-1 rounded up
+275000160 [The Lord's Blade] 2-2 Shiri
+275000170 [The Lord's Blade] 2-3 Shiri
+275000180 [The Lord's Blade] x (right)
+275000181 [The Lord's Blade] x (left)
+275000190 [The Lord's Blade] x (lunge) (right)
+275000191 [The Lord's Blade] x (lunge) (left)
+275000200 [The Lord's Blade] hands down (right)
+275000201 [The Lord's Blade] hands down (left)
+275000210 [The Lord's Blade] counter
+275000220 [The Lord's Blade] counter (perseverance)
+275000230 [The Lord's Blade] both hand thrusts (right)
+275000231 [The Lord's Blade] both hand thrusts (left)
+275000240 [The Lord's Blade] left step attack
+275000250 [The Lord's Blade] right-step attack
+275000260 [The Lord's Blade] Ranbu 1-1: Right hand
+275000261 [The Lord's Blade] Ranbu 1-1: Left hand
+275000270 [The Lord's Blade] Ranbu 1-2: Right hand
+275000271 [The Lord's Blade] Ranbu 1-2: Left hand
+275000280 [The Lord's Blade] Ranbu 1-3: Right hand
+275000281 [The Lord's Blade] Ranbu 1-3: Left hand
+275000700 [The Lord's Blade] fire-blowing
+275100000 [The Abyss Walker]
+275100001 [The Abyss Walker]
+275100002 [The Abyss Walker]
+275100010 [The Abyss Walker]
+275100011 [The Abyss Walker]
+275100012 [The Abyss Walker]
+275100013 [The Abyss Walker]
+275100020 [The Abyss Walker]
+275100030 [The Abyss Walker]
+275100040 [The Abyss Walker]
+275100050 [The Abyss Walker]
+275100060 [The Abyss Walker]
+275100061 [The Abyss Walker]
+275100062 [The Abyss Walker]
+275100070 [The Abyss Walker]
+275100071 [The Abyss Walker]
+275100072 [The Abyss Walker]
+275100073 [The Abyss Walker]
+275100080 [The Abyss Walker]
+275100081 [The Abyss Walker]
+275100100 [The Abyss Walker]
+275100105 [The Abyss Walker]
+275100110 [The Abyss Walker]
+275100115 [The Abyss Walker]
+275100120 [The Abyss Walker]
+275100125 [The Abyss Walker]
+275100130 [The Abyss Walker]
+275100131 [The Abyss Walker]
+275100132 [The Abyss Walker]
+275100135 [The Abyss Walker]
+275100136 [The Abyss Walker]
+275100140 [The Abyss Walker]
+275100145 [The Abyss Walker]
+275100146 [The Abyss Walker]
+275100150 [The Abyss Walker]
+275100151 [The Abyss Walker]
+275100190 [The Abyss Walker]
+275100191 [The Abyss Walker]
+275100192 [The Abyss Walker]
+275100200 [The Abyss Walker]
+275100205 [The Abyss Walker]
+275100210 [The Abyss Walker]
+275100215 [The Abyss Walker]
+275100220 [The Abyss Walker]
+275100225 [The Abyss Walker]
+275100226 [The Abyss Walker]
+275100230 [The Abyss Walker]
+275100235 [The Abyss Walker]
+275100236 [The Abyss Walker]
+275100237 [The Abyss Walker]
+275100238 [The Abyss Walker]
+275100240 [The Abyss Walker]
+275100245 [The Abyss Walker]
+275100250 [The Abyss Walker]
+275100255 [The Abyss Walker]
+275100256 [The Abyss Walker]
+275100257 [The Abyss Walker]
+275100260 [The Abyss Walker]
+275100261 [The Abyss Walker]
+275100300 [The Abyss Walker]
+275100310 [The Abyss Walker]
+275100315 [The Abyss Walker]
+275100320 [The Abyss Walker]
+275100330 [The Abyss Walker]
+275100340 [The Abyss Walker]
+275100500 [The Abyss Walker]
+275100501 [The Abyss Walker]
+275100502 [The Abyss Walker]
+275100503 [The Abyss Walker]
+275100505 [The Abyss Walker]
+275100506 [The Abyss Walker]
+275100507 [The Abyss Walker]
+275100508 [The Abyss Walker]
+275100510 [The Abyss Walker]
+275100511 [The Abyss Walker]
+275100512 [The Abyss Walker]
+275100515 [The Abyss Walker]
+275100516 [The Abyss Walker]
+275100520 [The Abyss Walker]
+275100521 [The Abyss Walker]
+275100522 [The Abyss Walker]
+275100523 [The Abyss Walker]
+275100524 [The Abyss Walker]
+275100525 [The Abyss Walker]
+275100526 [The Abyss Walker]
+275100527 [The Abyss Walker]
+275100528 [The Abyss Walker]
+275100530 [The Abyss Walker]
+275100531 [The Abyss Walker]
+275100532 [The Abyss Walker]
+275100535 [The Abyss Walker]
+275100540 [The Abyss Walker]
+275100550 [The Abyss Walker]
+275100555 [The Abyss Walker]
+275100558 [The Abyss Walker]
+275100600 [The Abyss Walker]
+275100601 [The Abyss Walker]
+275100602 [The Abyss Walker]
+275100603 [The Abyss Walker]
+275100604 [The Abyss Walker]
+275100900 [The Abyss Walker]
+275100901 [The Abyss Walker]
+275100902 [The Abyss Walker]
+275100903 [The Abyss Walker]
+275100904 [The Abyss Walker]
+275100910 [The Abyss Walker]
+275100990 [The Abyss Walker]
+275100991 [The Abyss Walker]
+275200010 [The Dragonslayer] Whack: Sword damage
+275200020 [The Dragonslayer] whack second stage: Sword damage
+275200030 [The Dragonslayer] Swing: Sword damage
+275200040 [The Dragonslayer] ① one-handed Shiri
+275200050 [The Dragonslayer] Both hands left Kesa
+275200060 [The Dragonslayer] Both hand thrusts
+275200070 [The Dragonslayer] A deadly thrust
+275200080 [The Dragonslayer] Two Hands side 一閃
+275200081 [The Dragonslayer]
+275200090 [The Dragonslayer] Both hand and down
+275200100 [The Dragonslayer] Left foot down, lightning
+275200110 [The Dragonslayer] Turned attack
+275200120 [The Dragonslayer] Swing down attack
+275200130 [The Dragonslayer] Two-handed left pay
+275200150 [The Dragonslayer] Small Dash Rush & Flip
+275200160 [The Dragonslayer] Stepping down
+275200170 [The Dragonslayer]
+275200180 [The Dragonslayer]
+275200190 [The Dragonslayer]
+275200200 [The Dragonslayer] Gwin throwing: grasping judgment
+275200201 [The Dragonslayer] Gwin Throw: Blast
+275200210 [The Dragonslayer]
+275200220 [The Dragonslayer]
+275200300 [The Dragonslayer]
+275200310 [The Dragonslayer]
+275200320 [The Dragonslayer]
+275200330 [The Dragonslayer]
+275200340 [The Dragonslayer]
+275200350 [The Dragonslayer]
+275200360 [The Dragonslayer]
+275200370 [The Dragonslayer]
+275200371 [The Dragonslayer]
+275200380 [The Dragonslayer]
+275200390 [The Dragonslayer]
+275200400 [The Dragonslayer]
+275200410 [The Dragonslayer]
+275200420 [The Dragonslayer]
+275200430 [The Dragonslayer]
+275200440 [The Dragonslayer]
+275200450 [The Dragonslayer]
+275200460 [The Dragonslayer]
+275200470 [The Dragonslayer]
+275200480 [The Dragonslayer]
+275200490 [The Dragonslayer]
+275200491 [The Dragonslayer]
+275200500 [The Dragonslayer]
+275200510 [The Dragonslayer]
+275200520 [The Dragonslayer]
+275200521 [The Dragonslayer]
+275200522 [The Dragonslayer]
+275200530 [The Dragonslayer]
+275200531 [The Dragonslayer]
+275200532 [The Dragonslayer]
+275200533 [The Dragonslayer]
+275200540 [The Dragonslayer]
+275200541 [The Dragonslayer]
+275200550 [The Dragonslayer]
+275200551 [The Dragonslayer]
+275200552 [The Dragonslayer]
+275200700 [The Dragonslayer]  whack: Bullet damage
+275200701 [The Dragonslayer]
+275200710 [The Dragonslayer] whack second stage: bullet damage
+275200711 [The Dragonslayer]
+275200720 [The Dragonslayer] Swing: Bullet damage
+275200730 [The Dragonslayer]
+275200731 [The Dragonslayer]
+275300000 [Beast from Below]
+275300010 [Beast from Below]
+275300020 [Beast from Below]
+275300030 [Beast from Below]
+275300035 [Beast from Below]
+275300040 [Beast from Below]
+275300043 [Beast from Below]
+275300046 [Beast from Below]
+275300048 [Beast from Below]
+275300049 [Beast from Below]
+275300050 [Beast from Below]
+275300055 [Beast from Below]
+275300060 [Beast from Below]
+275300070 [Beast from Below]
+275300090 [Beast from Below]
+275300110 [Beast from Below]
+275300115 [Beast from Below]
+275300119 [Beast from Below]
+275300140 [Beast from Below]
+275300141 [Beast from Below]
+275300142 [Beast from Below]
+275300145 [Beast from Below]
+275300150 [Beast from Below]
+275300155 [Beast from Below]
+275300160 [Beast from Below]
+275300170 [Beast from Below]
+275300175 [Beast from Below]
+275300190 [Beast from Below]
+275300191 [Beast from Below]
+275300195 [Beast from Below]
+275300200 [Beast from Below]
+275300205 [Beast from Below]
+275300206 [Beast from Below]
+275300210 [Beast from Below]
+275300211 [Beast from Below]
+275300220 [Beast from Below]
+275300225 [Beast from Below]
+275300226 [Beast from Below]
+275300228 [Beast from Below]
+275300230 [Beast from Below]
+275300240 [Beast from Below]
+275300245 [Beast from Below]
+275300250 [Beast from Below]
+275300260 [Beast from Below]
+275300270 [Beast from Below]
+275300271 [Beast from Below]
+275300280 [Beast from Below]
+275300300 [Beast from Below]
+275300305 [Beast from Below]
+275300306 [Beast from Below]
+275300310 [Beast from Below]
+275300320 [Beast from Below]
+275300324 [Beast from Below]
+275300325 [Beast from Below]
+275300360 [Beast from Below]
+275300370 [Beast from Below]
+275300400 [Beast from Below]
+275300410 [Beast from Below]
+275300420 [Beast from Below]
+275300421 [Beast from Below]
+275300430 [Beast from Below]
+275300431 [Beast from Below]
+275300435 [Beast from Below]
+275300440 [Beast from Below]
+275300443 [Beast from Below]
+275300446 [Beast from Below]
+275300450 [Beast from Below]
+275300455 [Beast from Below]
+275300456 [Beast from Below]
+275300460 [Beast from Below]
+275300461 [Beast from Below]
+275300470 [Beast from Below]
+275300490 [Beast from Below]
+275300560 [Beast from Below]
+275300570 [Beast from Below]
+275300571 [Beast from Below]
+275300575 [Beast from Below]
+275300580 [Beast from Below]
+275300581 [Beast from Below]
+275300710 [Beast from Below]
+275300711 [Beast from Below]
+275300712 [Beast from Below]
+275300713 [Beast from Below]
+275300720 [Beast from Below]
+275300730 [Beast from Below]
+275300740 [Beast from Below]
+275300950 [Beast from Below]
+275300955 [Beast from Below]
+275300990 [Beast from Below]
+280000000 [Script] Gough's Arrow Rain
+280000100 [Script] Lordran Remnant Entry
 299900100 Vanguards of c9990_ caries: Attack 1
 299900110 Vanguards of c9990_ caries: a throwing attack
 299900700 Vanguards of c9990_ caries: Paris.

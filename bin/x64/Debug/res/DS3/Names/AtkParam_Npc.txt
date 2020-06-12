@@ -1144,6 +1144,7 @@
 1470011 [Bonewheel Skeleton] Beat by hand (left hand)
 1470020 [Bonewheel Skeleton] transformed into a wheel
 1470100 [Bonewheel Skeleton] rotation
+1470200 [Bonewheel Skeleton] Fire Dart
 2000010 [Wolf] a flying attack
 2000020 [Wolf] Tackle attack
 2000030 [Wolf] feint bite attack
@@ -1277,6 +1278,54 @@
 2030700 [Pontiff Knight]
 2030701 [Pontiff Knight]
 2030900 [Pontiff Knight] (spear) Shield
+2031110 [Ruin Sentinel]
+2031120 [Ruin Sentinel]
+2031130 [Ruin Sentinel]
+2031140 [Ruin Sentinel]
+2031150 [Ruin Sentinel]
+2031160 [Ruin Sentinel]
+2031170 [Ruin Sentinel]
+2031180 [Ruin Sentinel]
+2031190 [Ruin Sentinel]
+2031210 [Ruin Sentinel]
+2031220 [Ruin Sentinel]
+2031230 [Ruin Sentinel]
+2031240 [Ruin Sentinel]
+2031241 [Ruin Sentinel]
+2031300 [Ruin Sentinel]
+2031301 [Ruin Sentinel]
+2031310 [Ruin Sentinel]
+2031311 [Ruin Sentinel]
+2031320 [Ruin Sentinel]
+2031321 [Ruin Sentinel]
+2031330 [Ruin Sentinel]
+2031331 [Ruin Sentinel]
+2031340 [Ruin Sentinel]
+2031341 [Ruin Sentinel]
+2031350 [Ruin Sentinel]
+2031351 [Ruin Sentinel]
+2031360 [Ruin Sentinel]
+2031361 [Ruin Sentinel]
+2031370 [Ruin Sentinel]
+2031371 [Ruin Sentinel]
+2031380 [Ruin Sentinel]
+2031381 [Ruin Sentinel]
+2031390 [Ruin Sentinel]
+2031391 [Ruin Sentinel]
+2031400 [Ruin Sentinel]
+2031401 [Ruin Sentinel]
+2031410 [Ruin Sentinel]
+2031411 [Ruin Sentinel]
+2031420 [Ruin Sentinel]
+2031421 [Ruin Sentinel]
+2031430 [Ruin Sentinel]
+2031431 [Ruin Sentinel]
+2031440 [Ruin Sentinel]
+2031450 [Ruin Sentinel]
+2031451 [Ruin Sentinel]
+2031700 [Ruin Sentinel]
+2031701 [Ruin Sentinel]
+2031900 [Ruin Sentinel]
 2040100 [Monstrosity of Sin] Right hand slams
 2040110 [Monstrosity of Sin] Left hand slams
 2040120 [Monstrosity of Sin] Right hand finish
@@ -1401,6 +1450,16 @@
 2090741 [Oceiros, the Consumed King]
 2090742 [Oceiros, the Consumed King]
 2090743 [Oceiros, the Consumed King]
+2091700 [Consumed Beast] Straight Breath
+2091701 [Consumed Beast] Straight Breath [Hit]
+2091702 [Consumed Beast] Straight Breath [Hit]
+2091710 [Consumed Beast] Whack Breath
+2091711 [Consumed Beast] Whack Breath [Hit]
+2091712 [Consumed Beast] Whack Breath [Hit]
+2091713 [Consumed Beast] Whack Breath [Hit]
+2091720 [Consumed Beast] Air Breath
+2091721 [Consumed Beast] Air Breath [Hit]
+2091722 [Consumed Beast] Air Breath [Hit]
 2100100 [Sewer Centipede] A flying attack
 2100110 [Sewer Centipede] Jump-throwing transition
 2100120 [Sewer Centipede] Rising dash attack
@@ -1461,7 +1520,7 @@
 2140020 [Basilisk] Jump & Breath
 2140021 [Basilisk] Jump & Breath Landing
 2150010 [Crystal Lizard] Disappear
-2150020 [Crystal Lizard]
+2150020 [Crystal Lizard] Red Crystal Explosion
 2160010 [Londor Pilgrim] ① (small): hitting with a cane
 2160011 [Londor Pilgrim] ② (small): hitting with a cane
 2180010 [Rosaria Maggot] Head Butt
@@ -2245,6 +2304,17 @@
 3160300 [Dragonslayer Armour] arts _ Jump Guillotine
 3160700 [Dragonslayer Armour] Shockwave
 3160900 [Dragonslayer Armour] Guard
+3161200 [Morne's Armor]
+3161210 [Morne's Armor]
+3161220 [Morne's Armor]
+3161230 [Morne's Armor]
+3161240 [Morne's Armor]
+3161250 [Morne's Armor]
+3161260 [Morne's Armor]
+3161270 [Morne's Armor]
+3161280 [Morne's Armor]
+3161290 [Morne's Armor]
+3161300 [Morne's Armor]
 3170010 [Darkwraith] Slashing 1
 3170011 [Darkwraith] Slashing 2
 3170012 [Darkwraith] Slashing 3
@@ -2267,9 +2337,12 @@
 3170900 [Darkwraith]
 3210010 [Poisonhorn Bug]
 3210020 [Poisonhorn Bug]
-3220030 [Rock Lizard]
-3220040 [Rock Lizard]
-3220050 [Rock Lizard]
+3220030 [Rock Lizard] Leap Forwad
+3220040 [Rock Lizard] Fire Breath
+3220050 [Rock Lizard] Roll
+3220130 [Rocky] Leap Forwad
+3220140 [Rocky] Fire Breath
+3220150 [Rocky] Roll
 3230010 [Unknown]
 3230020 [Unknown]
 5010010 [Nameless King] a3000_ Storm whack: Sword damage
@@ -2530,6 +2603,7 @@
 5110713 [Gundyr] heat up attack: Throw damage _ Finish
 5110900 [Gundyr] heat up caries breath
 5110910 [Gundyr] Corrupted Tear [Hit]
+5110930 [Gundyr] White Tear
 5120010 [Snake Spirit] Frontal melee attack _ head knocked back against
 5120011 [Snake Spirit] Frontal melee attack _ head lateral shaking
 5120012 [Snake Spirit] Frontal melee Attack _ head + neck knocked back against
@@ -2554,7 +2628,7 @@
 5120140 [Snake Spirit] bit loop: bit 1st Stage
 5120141 [Snake Spirit] bit loop: bit second stage
 5120142 [Snake Spirit] bit loop: bit third stage
-5120710 [Snake Spirit]Caries explosion
+5120710 [Snake Spirit] Caries explosion
 5120720 [Snake Spirit] caries accumulation
 5120800 [Snake Spirit] Walking Torso
 5120801 [Snake Spirit] Walking right hand
@@ -3037,6 +3111,9 @@
 5260510 [Yhorm the Giant] Explosion - Heatup
 5260600 [Yhorm the Giant] Explosion - Heatup - Bullet
 5260601 [Yhorm the Giant] Explosion - Heatup - Bullet
+5260700 [Yhorm the Giant] Rubble Rain
+5260710 [Yhorm the Giant] Earth Pillar
+5260730 [Yhorm the Giant] Flame Pillar
 5270000 [Dancer of the Boreal Valley] 3000 The butt
 5270010 [Dancer of the Boreal Valley] 3001 Saigi from falling butt
 5270020 [Dancer of the Boreal Valley] 3002 right hand slams from fallen butt
@@ -3891,10 +3968,10 @@
 6240011 [Pilgrim Pulpa]
 6240700 [Pilgrim Pulpa]
 6250740 [Pilgrim Angel]
-6250750 [Pilgrim Angel]
-6250751 [Pilgrim Angel]
-6250760 [Pilgrim Angel]
-6250761 [Pilgrim Angel]
+6250750 [Pilgrim Angel] Holy Barrage
+6250751 [Pilgrim Angel] Holy Barrage
+6250760 [Pilgrim Angel] Holy Barrage
+6250761 [Pilgrim Angel] Holy Barrage
 6250800 [Pilgrim Angel]
 6260010 [Ringed Knight]
 6260020 [Ringed Knight]
@@ -4135,3 +4212,208 @@
 6331040 [Locust]
 6331200 [Locust]
 6400000 Pilgrim Pulpa - Holy Burst
+6500000 Remnants of Lordran - Gough's Arrow
+6500001 Remnants of Lordran - Gough's Arrow [Hit]
+6500002 Remnants of Lordran - Gough's Arrow [Hit]
+6500010 Remnants of Lordran - Boss Entry
+7500100 [The Lord's Blade]  right Pay
+7500110 [The Lord's Blade]  left pay
+7500120 [The Lord's Blade] 1-1 hands Shiri (right)
+7500121 [The Lord's Blade] 1-1 hands Shiri (left)
+7500130 [The Lord's Blade] 1-2 hands Saigi (right)
+7500131 [The Lord's Blade] 1-2 hands Saigi (left)
+7500140 [The Lord's Blade] 1-3 hands Saigi (right)
+7500141 [The Lord's Blade] 1-3 hands Saigi (left)
+7500150 [The Lord's Blade] 2-1 rounded up
+7500160 [The Lord's Blade] 2-2 Shiri
+7500170 [The Lord's Blade] 2-3 Shiri
+7500180 [The Lord's Blade] x (right)
+7500181 [The Lord's Blade] x (left)
+7500190 [The Lord's Blade] x (lunge) (right)
+7500191 [The Lord's Blade] x (lunge) (left)
+7500200 [The Lord's Blade]  hands down (right)
+7500201 [The Lord's Blade]  hands down (left)
+7500230 [The Lord's Blade]  both hand thrusts (right)
+7500231 [The Lord's Blade]  both hand thrusts (left)
+7500240 [The Lord's Blade]  left step attack
+7500250 [The Lord's Blade]  right-step attack
+7500260 [The Lord's Blade]  Ranbu 1-1: Right hand
+7500261 [The Lord's Blade]  Ranbu 1-1: Left hand
+7500270 [The Lord's Blade]  Ranbu 1-2: Right hand
+7500271 [The Lord's Blade]  Ranbu 1-2: Left hand
+7500280 [The Lord's Blade]  Ranbu 1-3: Right hand
+7500281 [The Lord's Blade]  Ranbu 1-3: Left hand
+7500700 [The Lord's Blade]  fire-blowing
+7510000 [The Abyss Walker]
+7510001 [The Abyss Walker]
+7510002 [The Abyss Walker]
+7510010 [The Abyss Walker]
+7510011 [The Abyss Walker]
+7510012 [The Abyss Walker]
+7510013 [The Abyss Walker]
+7510020 [The Abyss Walker]
+7510030 [The Abyss Walker]
+7510040 [The Abyss Walker]
+7510050 [The Abyss Walker]
+7510060 [The Abyss Walker]
+7510061 [The Abyss Walker]
+7510062 [The Abyss Walker]
+7510070 [The Abyss Walker]
+7510071 [The Abyss Walker]
+7510072 [The Abyss Walker]
+7510073 [The Abyss Walker]
+7510080 [The Abyss Walker]
+7510081 [The Abyss Walker]
+7510100 [The Abyss Walker]
+7510105 [The Abyss Walker]
+7510110 [The Abyss Walker]
+7510115 [The Abyss Walker]
+7510120 [The Abyss Walker]
+7510125 [The Abyss Walker]
+7510130 [The Abyss Walker]
+7510131 [The Abyss Walker]
+7510132 [The Abyss Walker]
+7510135 [The Abyss Walker]
+7510136 [The Abyss Walker]
+7510140 [The Abyss Walker]
+7510145 [The Abyss Walker]
+7510146 [The Abyss Walker]
+7510150 [The Abyss Walker]
+7510151 [The Abyss Walker]
+7510190 [The Abyss Walker]
+7510191 [The Abyss Walker]
+7510192 [The Abyss Walker]
+7510200 [The Abyss Walker]
+7510205 [The Abyss Walker]
+7510210 [The Abyss Walker]
+7510215 [The Abyss Walker]
+7510220 [The Abyss Walker]
+7510225 [The Abyss Walker]
+7510226 [The Abyss Walker]
+7510230 [The Abyss Walker]
+7510235 [The Abyss Walker]
+7510236 [The Abyss Walker]
+7510237 [The Abyss Walker]
+7510238 [The Abyss Walker]
+7510240 [The Abyss Walker]
+7510241 [The Abyss Walker]
+7510245 [The Abyss Walker]
+7510246 [The Abyss Walker]
+7510250 [The Abyss Walker]
+7510255 [The Abyss Walker]
+7510260 [The Abyss Walker]
+7510261 [The Abyss Walker]
+7510300 [The Abyss Walker]
+7510310 [The Abyss Walker]
+7510315 [The Abyss Walker]
+7510320 [The Abyss Walker]
+7510330 [The Abyss Walker]
+7510340 [The Abyss Walker]
+7510500 [The Abyss Walker]
+7510501 [The Abyss Walker]
+7510502 [The Abyss Walker]
+7510503 [The Abyss Walker]
+7510505 [The Abyss Walker]
+7510506 [The Abyss Walker]
+7510507 [The Abyss Walker]
+7510508 [The Abyss Walker]
+7510510 [The Abyss Walker]
+7510511 [The Abyss Walker]
+7510512 [The Abyss Walker]
+7510515 [The Abyss Walker]
+7510516 [The Abyss Walker]
+7510520 [The Abyss Walker]
+7510521 [The Abyss Walker]
+7510522 [The Abyss Walker]
+7510523 [The Abyss Walker]
+7510524 [The Abyss Walker]
+7510525 [The Abyss Walker]
+7510526 [The Abyss Walker]
+7510527 [The Abyss Walker]
+7510528 [The Abyss Walker]
+7510530 [The Abyss Walker]
+7510531 [The Abyss Walker]
+7510532 [The Abyss Walker]
+7510535 [The Abyss Walker]
+7510536 [The Abyss Walker]
+7510540 [The Abyss Walker]
+7510550 [The Abyss Walker]
+7510600 [The Abyss Walker]
+7510601 [The Abyss Walker]
+7510602 [The Abyss Walker]
+7510603 [The Abyss Walker]
+7510604 [The Abyss Walker]
+7510900 [The Abyss Walker]
+7510901 [The Abyss Walker]
+7510902 [The Abyss Walker]
+7510903 [The Abyss Walker]
+7510904 [The Abyss Walker]
+7510990 [The Abyss Walker]
+7510991 [The Abyss Walker]
+7520010 [The Dragonslayer] a3000_ Storm whack: Sword damage
+7520020 [The Dragonslayer] A3001_ Storm whack second stage: Sword damage
+7520030 [The Dragonslayer] A3002_ Storm whack: Sword damage
+7520040 [The Dragonslayer] a3003_ one-handed Shiri ①
+7520050 [The Dragonslayer] a3004_ both hands left Kesa
+7520060 [The Dragonslayer] a3005_ both hands thrust
+7520070 [The Dragonslayer] The a3006_ of the deadly
+7520080 [The Dragonslayer] A3008_ two-handed 一閃
+7520081 [The Dragonslayer]
+7520090 [The Dragonslayer] a3009_ both
+7520100 [The Dragonslayer] a3010_ left foot down
+7520110 [The Dragonslayer] A3011_ turned attack
+7520120 [The Dragonslayer] a3013_ both hand thrust combo ③
+7520130 [The Dragonslayer] a3014_ two-handed left pay
+7520140 [The Dragonslayer] a3015_ right foot down
+7520150 [The Dragonslayer] a3016_ small dash rush & Flip
+7520160 [The Dragonslayer] a3017_ Depression
+7520170 [The Dragonslayer]
+7520180 [The Dragonslayer]
+7520190 [The Dragonslayer]
+7520200 [The Dragonslayer] a3007_ Gwin throwing: grasping judgment
+7520201 [The Dragonslayer] a3007_ Gwin Throwing: Explosion
+7520210 [The Dragonslayer] Rush from A3018_ floating
+7520220 [The Dragonslayer] a3019_ thrust at Lightning
+7520300 [The Dragonslayer]
+7520310 [The Dragonslayer]
+7520320 [The Dragonslayer]
+7520330 [The Dragonslayer]
+7520340 [The Dragonslayer]
+7520350 [The Dragonslayer]
+7520360 [The Dragonslayer]
+7520370 [The Dragonslayer]
+7520371 [The Dragonslayer]
+7520380 [The Dragonslayer]
+7520390 [The Dragonslayer]
+7520400 [The Dragonslayer]
+7520410 [The Dragonslayer]
+7520420 [The Dragonslayer]
+7520430 [The Dragonslayer]
+7520440 [The Dragonslayer]
+7520450 [The Dragonslayer]
+7520460 [The Dragonslayer]
+7520470 [The Dragonslayer]
+7520480 [The Dragonslayer]
+7520490 [The Dragonslayer]
+7520491 [The Dragonslayer]
+7520500 [The Dragonslayer]
+7520510 [The Dragonslayer]
+7520520 [The Dragonslayer]
+7520521 [The Dragonslayer]
+7520522 [The Dragonslayer]
+7520530 [The Dragonslayer]
+7520531 [The Dragonslayer]
+7520532 [The Dragonslayer]
+7520533 [The Dragonslayer]
+7520540 [The Dragonslayer]
+7520541 [The Dragonslayer]
+7520550 [The Dragonslayer]
+7520551 [The Dragonslayer]
+7520552 [The Dragonslayer]
+7520700 [The Dragonslayer] a3000_ widespread storm whack: bullet damage
+7520701 [The Dragonslayer]
+7520710 [The Dragonslayer] a3001_ wide Storm whack second stage: bullet damage
+7520711 [The Dragonslayer]
+7520720 [The Dragonslayer] a3002_: Bullet Damage
+7520730 [The Dragonslayer]
+7520731 [The Dragonslayer]

@@ -31,7 +31,7 @@
     <default>3</default>
   </entry>
   <entry>
-    <name>Is Disable Quickwarp</name>
+    <name>Show in Homeward Menu</name>
     <type>u8</type>
     <default>0</default>
   </entry>

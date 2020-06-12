@@ -66,6 +66,7 @@
 411 [Ultra Greatsword] Unleash Dragon
 413 [Ultra Greatsword] Abyssal Burst
 414 [Ultra Greatsword] Smelter's Fury
+415 [Ultra Greatsword] Lightning Stomp
 500 [Rapier] Stance
 501 [Rapier] Shield Splitter
 502 [Rapier] Ricard's Lunge and Press
@@ -117,7 +118,6 @@
 1104 [Hammer] Breathe Fire
 1105 [Hammer] Ignite
 1106 [Hammer] Bloodlust
-1107 [Hammer] Handmaid's Tale
 1200 [Great Hammer] Perseverance
 1201 [Great Hammer] Molten Perseverance
 1202 [Great Hammer] Kindled Flurry
@@ -172,6 +172,7 @@
 1502 [Scythe] Frost
 1503 [Scythe] ?
 1504 [Scythe] Elfriede's Stance
+1505 [Scythe] Divine Warp
 1600 [Whip] Impact
 1601 [Whip] Flame Whip
 1700 [Fist] Quickstep
@@ -245,6 +246,7 @@
 3100 [Paired Hammer] Spin Bash
 3200 [Shield] Shield Bash
 3201 [Shield] Shield Strike
+3202 [Shield] Unleash Moonlight
 3300 [Greatshield] Shield Bash
 3301 [Greatshield] Moan
 3310 [Greatshield] Stone Flesh

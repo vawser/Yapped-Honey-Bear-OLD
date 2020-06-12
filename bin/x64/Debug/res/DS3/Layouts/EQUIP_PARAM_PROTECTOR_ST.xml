@@ -79,12 +79,12 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>Material ID</name>
+    <name>Upgrade Material ID</name>
     <type>s32</type>
     <default>7000</default>
   </entry>
   <entry>
-    <name>Parts Damage %</name>
+    <name>Weak Parts Damage %</name>
     <type>f32</type>
     <default>1.1</default>
   </entry>
@@ -92,6 +92,7 @@
     <name>Poise Recovery Correction</name>
     <type>f32</type>
     <default>0</default>
+    <description>Value added to poise recovery time (so negative values are better).</description>
   </entry>
   <entry>
     <name>Origin Armor 1</name>
@@ -362,14 +363,16 @@
     <enum>ArmorCategory</enum>
   </entry>
   <entry>
-    <name>Defence Material</name>
+    <name>Hit Sound FX</name>
     <type>u8</type>
     <default>0</default>
+    <description>Type of sound effect generated when this armor is hit.</description>
   </entry>
   <entry>
-    <name>Defence Material SFX</name>
+    <name>Hit Visual FX</name>
     <type>u8</type>
     <default>0</default>
+    <description>Type of visual effect generated when this armor is hit.</description>
   </entry>
   <entry>
     <name>Parts Damage Type</name>
@@ -377,12 +380,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Defence Material - Weak</name>
+    <name>Weak Spot Hit Sound FX</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Defence Material SFX - Weak</name>
+    <name>Weak Spot Hit Visual FX</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -902,7 +905,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Mask 13 - Hide wait</name>
+    <name>Mask 13 - Hide waist</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -1037,27 +1040,27 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Mask 40</name>
+    <name>Mask 40 - Unk State 1</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Mask 41</name>
+    <name>Mask 41 - Unk State 2</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Mask 42 - Head Cloth State 1</name>
+    <name>Mask 42 - Head State 1</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Mask 43 - Head Cloth State 2</name>
+    <name>Mask 43 - Head State 2</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Mask 44</name>
+    <name>Mask 44 - Head State 3</name>
     <type>u8</type>
     <default>0</default>
   </entry>

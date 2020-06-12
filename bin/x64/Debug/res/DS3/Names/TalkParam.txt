@@ -18,6 +18,7 @@
 10000800 My, my... The coal of that peaceable giant.
 12004000 Fire Keeper - Form Betrothal
 12004010 Fire Keeper - Flirt
+12004020 Fire Keeper - Accursed Signet
 22000000 It's a blade of God. -- 神の姿に刃するものよ
 22000001 My name is Gwindlin. -- 我が名はグウィンドリン
 22000002 Thy profane shall never be forgiven. -- 汝の不敬は、決して許されるものではない
@@ -46,3 +47,8 @@
 22001102 Leave here and do thy work. -- ここを去り、汝のつとめを果たすがよい
 25004000 Karla - Flirt
 25005000 Karla - Form Betrothal
+60000000 Name thyself, stranger.
+60000100 Thou think'st to-
+88002000 Skeleton - What in bloody hell is wrong with you!
+88002010 Skeleton - What a bloody joke...
+88002020 Skeleton - Go on, be as bloody mad as you like.

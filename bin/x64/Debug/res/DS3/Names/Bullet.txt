@@ -347,8 +347,8 @@
 3020 Witching Urn [Hit]
 3030 Witching Urn [Hit]
 3100 Hexing Urn
-3110 Hexing Urn [Hit]
-3120 Hexing Urn - Affinity
+3101 Hexing Urn [Hit]
+3102 Hexing Urn [Hit]
 3200 Holy Water Urn
 3210 Holy Water Urn [Hit]
 3220 Holy Water Urn [Hit]
@@ -987,9 +987,9 @@
 1070090 [Skeleton] Firebomb
 1070091 [Skeleton] Firebomb [Hit]
 1070230 [Skeleton] Bow Arrow
-1070700 [Skeleton] ?
-1070701 [Skeleton] ?
-1070702 [Skeleton] ?
+1070700 [Skeleton] Hexing Urn
+1070701 [Skeleton] Hexing Urn
+1070702 [Skeleton] Hexing Urn
 1090700 [Pus of Man] Spew
 1100560 [Hollow Soldier] Throwing Knife
 1100750 [Hollow Soldier] ?
@@ -1196,6 +1196,7 @@
 1441840 [Devout Bomber] ?
 1441850 [Devout Bomber] ?
 1441851 [Devout Bomber] ?
+1470100 [Bonewheel Skeleton] Fire Dart
 1480700 [Dark Knight (Phantom)]
 1480701 [Dark Knight (Phantom)]
 1480710 [Dark Knight (Phantom)]
@@ -1222,6 +1223,16 @@
 2090741 [Oceiros] Pestilent Mist
 2090742 [Oceiros] Pestilent Mist
 2090743 [Oceiros] Pestilent Mist
+2091700 [Consumed Beast] Straight Breath
+2091701 [Consumed Beast] Straight Breath [Hit]
+2091702 [Consumed Beast] Straight Breath [Hit]
+2091710 [Consumed Beast] Whack Breath
+2091711 [Consumed Beast] Whack Breath [Hit]
+2091712 [Consumed Beast] Whack Breath [Hit]
+2091713 [Consumed Beast] Whack Breath [Hit]
+2091720 [Consumed Beast] Air Breath
+2091721 [Consumed Beast] Air Breath [Hit]
+2091722 [Consumed Beast] Air Breath [Hit]
 2100700 [Sewer Centipede] Grimy Spit
 2100701 [Sewer Centipede] Grimy Spit [Hit]
 2120130 [Mimic] Spit
@@ -1413,14 +1424,14 @@
 3070710 [Demon Cleric] Combustion
 3070720 [Demon Cleric] Floating Chaos - Burst
 3071700 [Demon Cleric] Floating Chaos - Bullet
-3080700 [Butterfly] Corrupted Blood Orb - Delayed
-3080701 [Butterfly] Corrupted Blood Orb [Hit]
-3080702 [Butterfly] Corrupted Blood Orb [Hit]
-3080710 [Butterfly] Corrupted Laser
-3080711 [Butterfly] Corrupted Laser [Hit]
-3080712 [Butterfly] Corrupted Laser [Hit]
-3080720 [Butterfly] Corrupted Explosion
-3080721 [Butterfly] Corrupted Explosion [Hit]
+3080700 [Pilgrim Butterfly] Corrupted Blood Orb - Delayed
+3080701 [Pilgrim Butterfly] Corrupted Blood Orb [Hit]
+3080702 [Pilgrim Butterfly] Corrupted Blood Orb [Hit]
+3080710 [Pilgrim Butterfly] Corrupted Laser
+3080711 [Pilgrim Butterfly] Corrupted Laser [Hit]
+3080712 [Pilgrim Butterfly] Corrupted Laser [Hit]
+3080720 [Pilgrim Butterfly] Corrupted Explosion
+3080721 [Pilgrim Butterfly] Corrupted Explosion [Hit]
 3090100 [Caged Hollow] Poop Throw
 3100011 [Giant Crystal Lizard] Crystal Burst - Right
 3100012 [Giant Crystal Lizard] Crystal Burst - Right [Hit]
@@ -1643,6 +1654,7 @@
 5110411 [Gundyr] ?
 5110500 [Gundyr] ?
 5110600 [Gundyr] ?
+5110710 [Gundyr] White Tear
 5120710 [Evil Spirits] Blinding Explosion
 5120720 [Evil Spirits] Ground Poison Mist
 5120721 [Evil Spirits] Ground Poison Mist [Hit]
@@ -1819,6 +1831,11 @@
 5260422 [Yhorm the Giant] Fire Shockwave - Flame Patch [Hit]
 5260600 [Yhorm the Giant] Explosion - Heatup
 5260601 [Yhorm the Giant] Explosion - Heatup [Hit]
+5260700 [Yhorm the Giant] Rubble Rain
+5260701 [Yhorm the Giant] Rubble Rain [Emitter]
+5260702 [Yhorm the Giant] Rubble Rain [Hit]
+5260710 [Yhorm the Giant] Earth Pillar
+5260730 [Yhorm the Giant] Flame Pillar
 5270140 [Dancer] Explosion
 5270151 [Dancer] Fire Pillar
 5270152 [Dancer] Fire Pillar [Hit]
@@ -2183,41 +2200,41 @@
 6231700 [Murkman] Spirit Rush
 6231701 [Murkman] Spirit Rush
 6240700 [Pilgrim Pulpa] ?
-6250100 [Angel] Holy Burst
-6250101 [Angel] Holy Burst
-6250102 [Angel] Holy Burst
-6250103 [Angel] Holy Burst
-6250110 [Angel] Holy Burst
-6250111 [Angel] Holy Burst
-6250112 [Angel] Holy Burst
-6250113 [Angel] Holy Burst
-6250200 [Angel] Holy Burst
-6250201 [Angel] Holy Burst
-6250202 [Angel] Holy Burst
-6250203 [Angel] Holy Burst
-6250210 [Angel] Holy Burst
-6250211 [Angel] Holy Burst
-6250212 [Angel] Holy Burst
-6250213 [Angel] Holy Burst
-6250300 [Angel] Holy Burst
-6250301 [Angel] Holy Burst
-6250302 [Angel] Holy Burst
-6250303 [Angel] Holy Burst
-6250310 [Angel] Holy Burst
-6250311 [Angel] Holy Burst
-6250312 [Angel] Holy Burst
-6250313 [Angel] Holy Burst
-6250740 [Angel] ?
-6250741 [Angel] Curse Mist
-6250742 [Angel] Curse Mist [Fog]
-6250750 [Angel] Holy Burst
-6250751 [Angel] Holy Burst
-6250752 [Angel] Holy Burst
-6250755 [Angel] Holy Burst
-6250756 [Angel] Holy Burst
-6250757 [Angel] Holy Burst
-6250759 [Angel] Holy Burst [Hit]
-6250800 [Angel] ?
+6250100 [Pilgrim Angel] 3000 - Holy Barrage
+6250101 [Pilgrim Angel] 3000 - Holy Barrage
+6250102 [Pilgrim Angel] 3000 - Holy Barrage
+6250103 [Pilgrim Angel] 3000 - Holy Barrage
+6250110 [Pilgrim Angel] 3000 - Holy Barrage
+6250111 [Pilgrim Angel] 3000 - Holy Barrage
+6250112 [Pilgrim Angel] 3000 - Holy Barrage
+6250113 [Pilgrim Angel] 3000 - Holy Barrage
+6250200 [Pilgrim Angel] 3001 - Holy Barrage
+6250201 [Pilgrim Angel] 3001 - Holy Barrage
+6250202 [Pilgrim Angel] 3001 - Holy Barrage
+6250203 [Pilgrim Angel] 3001 - Holy Barrage
+6250210 [Pilgrim Angel] 3001 - Holy Barrage
+6250211 [Pilgrim Angel] 3001 - Holy Barrage
+6250212 [Pilgrim Angel] 3001 - Holy Barrage
+6250213 [Pilgrim Angel] 3001 - Holy Barrage
+6250300 [Pilgrim Angel] 3002 - Holy Barrage
+6250301 [Pilgrim Angel] 3002 - Holy Barrage
+6250302 [Pilgrim Angel] 3002 - Holy Barrage
+6250303 [Pilgrim Angel] 3002 - Holy Barrage
+6250310 [Pilgrim Angel] 3002 - Holy Barrage
+6250311 [Pilgrim Angel] 3002 - Holy Barrage
+6250312 [Pilgrim Angel] 3002 - Holy Barrage
+6250313 [Pilgrim Angel] 3002 - Holy Barrage
+6250740 [Pilgrim Angel]
+6250741 [Pilgrim Angel] Curse Mist
+6250742 [Pilgrim Angel] Curse Mist [Fog]
+6250750 [Pilgrim Angel] Holy Burst
+6250751 [Pilgrim Angel] Holy Burst
+6250752 [Pilgrim Angel] Holy Burst
+6250755 [Pilgrim Angel] Holy Burst
+6250756 [Pilgrim Angel] Holy Burst
+6250757 [Pilgrim Angel] Holy Burst
+6250759 [Pilgrim Angel] Holy Barrage [Hit]
+6250800 [Pilgrim Angel]
 6260700 [Ringed Knight] ?
 6260701 [Ringed Knight] ?
 6260705 [Ringed Knight] ?
@@ -2480,15 +2497,11 @@
 12400000 [Pyromancy] Fireball
 12400100 [Pyromancy] Fireball [Hit]
 12400200 [Pyromancy] Fireball - Ascended
-12400201 [Pyromancy] Fireball [Hit] - Ascended
-12400202 [Pyromancy] Fireball [Hit] - Ascended
-12400203 [Pyromancy] Fireball [Hit] - Ascended
+12400210 [Pyromancy] Fireball - Ascended [Hit]
 12402000 [Pyromancy] Fire Orb
 12402100 [Pyromancy] Fire Orb [Hit]
 12402200 [Pyromancy] Fire Orb - Ascended
-12402201 [Pyromancy] Fire Orb [Hit] - Ascended
-12402202 [Pyromancy] Fire Orb [Hit] - Ascended
-12402203 [Pyromancy] Fire Orb [Hit] - Ascended
+12402210 [Pyromancy] Fire Orb - Ascended [Hit]
 12403000 [Pyromancy] Firestorm
 12403100 [Pyromancy] Firestorm [Hit]
 12403200 [Pyromancy] Firestorm [Hit]
@@ -2623,25 +2636,22 @@
 12457203 [Pyromancy] Floating Chaos [Bullet] - Ascended
 12458000 [Pyromancy] Flame Fan
 12458010 [Pyromancy] Flame Fan
+12458100 [Pyromancy] Flame Fan - Ascended
+12458110 [Pyromancy] Flame Fan - Ascended
 12470000 [Pyromancy] Warmth
 12470001 [Pyromancy] Warmth - Ascended
 12600000 [Pyromancy] Dark Orb [unused]
 12600100 [Pyromancy] Dark Orb [unused] [Hit]
 12610000 [Pyromancy] Black Fire Orb
 12610100 [Pyromancy] Black Fire Orb [Hit]
-12610200 [Pyromancy] Black Fire Orb - Ascended
-12610201 [Pyromancy] Black Fire Orb [Hit] - Ascended
-12610202 [Pyromancy] Black Fire Orb [Hit] - Ascended
-12610203 [Pyromancy] Black Fire Orb [Hit] - Ascended
+12611000 [Pyromancy] Black Fire Orb - Ascended
+12611100 [Pyromancy] Black Fire Orb - Ascended [Hit]
 12620000 [Pyromancy] Bursting Fireball
 12620100 [Pyromancy] Bursting Fireballl [Hit]
 12620200 [Pyromancy] Bursting Fireball [Hit]
 12620300 [Pyromancy] Bursting Fireball - Ascended
 12620301 [Pyromancy] Bursting Fireballl [Hit] - Ascended
 12620302 [Pyromancy] Bursting Fireballl [Hit] - Ascended
-12620303 [Pyromancy] Bursting Fireballl [Hit] - Ascended
-12620304 [Pyromancy] Bursting Fireballl [Hit] - Ascended
-12620305 [Pyromancy] Bursting Fireballl [Hit] - Ascended
 12630000 [Pyromancy] Boulder Heave
 12630100 [Pyromancy] Boulder Heave [Hit]
 12630200 [Pyromancy] Boulder Heave - Ascended
@@ -2726,7 +2736,25 @@
 13563006 [Miracle] Sacred Oath [MP]
 13581000 [Miracle] Vow of Silence
 13581006 [Miracle] Vow of Silence [MP]
-13700100 GameSystemParam - DeadChrFinder
+13700000 [Dead Again] Source Bullet (unused)
+13700100 [Dead Again] Finder Bullet - Tier 1
+13700110 [Dead Again] Finder Bullet - Tier 2
+13700120 [Dead Again] Finder Bullet - Tier 3
+13700130 [Dead Again] Finder Bullet - Tier 4
+13700140 [Dead Again] Finder Bullet - Tier 5
+13700150 [Dead Again] Finder Bullet - Tier 6
+13700160 [Dead Again] Finder Bullet - Tier 7
+13700170 [Dead Again] Finder Bullet - Tier 8
+13700180 [Dead Again] Finder Bullet - Tier 9
+13700200 [Dead Again] Finder Bullet [Hit] - Tier 1
+13700210 [Dead Again] Finder Bullet [Hit] - Tier 2
+13700220 [Dead Again] Finder Bullet [Hit] - Tier 3
+13700230 [Dead Again] Finder Bullet [Hit] - Tier 4
+13700240 [Dead Again] Finder Bullet [Hit] - Tier 5
+13700250 [Dead Again] Finder Bullet [Hit] - Tier 6
+13700260 [Dead Again] Finder Bullet [Hit] - Tier 7
+13700270 [Dead Again] Finder Bullet [Hit] - Tier 8
+13700280 [Dead Again] Finder Bullet [Hit] - Tier 9
 13710000 [Miracle] Lightning Stake
 13710100 [Miracle] Lightning Stake [Hit]
 13710200 [Miracle] Lightning Stake [Hit]
@@ -2847,10 +2875,14 @@
 100062910 [Wolnir's Holy Sword] Wrath of the Gods [Hit]
 100062920 [Hands of God] God's Wrath
 100062921 [Hands of God] God's Wrath [Hit]
-100063200 [Moonlight Greatsword] Strong Attack 1H
-100063210 [Moonlight Greatsword] Strong Attack 1H
-100063220 [Moonlight Greatsword] Strong Attack 2H
-100063230 [Moonlight Greatsword] Strong Attack 2H
+100063200 [Moonlight Greatsword] 1H Heavy #1 (Charged) - Vertical Wave
+100063201 [Moonlight Greatsword] 1H Heavy #1 - Vertical Wave
+100063210 [Moonlight Greatsword] 1H Heavy #2 (Charged) - Horizontal Wave
+100063211 [Moonlight Greatsword] 1H Heavy #2 - Horizontal Wave
+100063220 [Moonlight Greatsword] 2H Heavy #1 (Charged) - Horizontal Wave
+100063221 [Moonlight Greatsword] 2H Heavy #1 - Horizontal Wave
+100063230 [Moonlight Greatsword] 2H Heavy #2 (Charged) - Horizontal Wave
+100063231 [Moonlight Greatsword] 2H Heavy #2 - Horizontal Wave
 100063240 [Moonlight Greatsword] Moonlight Vortex
 100063400 [Firelink Greatsword] Ember
 100063410 [Firelink Greatsword] Ember [Emitter]
@@ -3044,8 +3076,7 @@
 104901711 [Follower Torch] Breathe Fire
 104901800 [Longstaff of Rosaria] Blessing of Rosaria
 104901810 [Longstaff of Rosaria] Blessing of Rosaria [Hit]
-104910000 [Stone Greatsword] Tranquil Walk of Peace - Self
-104910010 [Stone Greatsword] Tranquil Walk of Peace - Enemy
+104910000 [Stone Greatsword] Tranquil Walk of Peace
 104911000 [Channeler's Trident] Channeler's Boon - Self
 104911010 [Channeler's Trident] Channeler's Boon - Enemy
 104911100 [Scraping Spear] - Acid Surge
@@ -3078,6 +3109,7 @@
 104912000 [Rose of Ariandel] Awakening
 104912100 [Cleric's Candlestick] Guiding Light - Right
 104912101 [Cleric's Candlestick] Guiding Light - Left
+104912200 [Smough's Great Hammer] Lightning Smash
 104999999 ### Spells ###
 105002000 [Sorcery] Soul Wave
 105002010 [Sorcery] Soul Wave - Ascended
@@ -3113,12 +3145,6 @@
 108210000 [Pyromancy] Dark Hail
 108220000 [Pyromancy] Dark Dance
 108220100 [Pyromancy] Dark Dance [Hit]
-108220200 [Pyromancy] Dark Dance [Hit]
-108220300 [Pyromancy] Dark Dance [Hit]
-108220800 [Pyromancy] Dark Dance - Ascended
-108220801 [Pyromancy] Dark Dance [Hit] - Ascended
-108220802 [Pyromancy] Dark Dance [Hit] - Ascended
-108220803 [Pyromancy] Dark Dance [Hit] - Ascended
 108230000 [Pyromancy] Recollection
 108230010 [Pyromancy] Recollection
 108230100 [Pyromancy] Recollection [Emitter]
@@ -3206,6 +3232,7 @@
 108402112 [Pyromancy] Mournful Flames - Serpent [Hit]
 108402113 [Pyromancy] Mournful Flames - Serpent [Hit]
 108402114 [Pyromancy] Mournful Flames - Serpent [Hit]
+108402200 [Pyromancy] Mournful Flames - Fireball - Ascended
 108403000 [Miracle] Devouring Swarm
 108403010 [Miracle] Devouring Swarm
 108403100 [Miracle] Devouring Swarm [Emitter]
@@ -3311,23 +3338,42 @@
 109550015 [Miracle] Ghostly Assault - Arrow
 109550016 [Miracle] Ghostly Assault
 109550017 [Miracle] Ghostly Assault [Emitter]
-199999999 ### Armor ###
-200000000 Poison - Head
-200000001 Poison - Body
-200000002 Poison - Hands
-200000003 Poison - Legs
-200000100 Bleed - Head
-200000101 Bleed - Body
-200000102 Bleed - Hands
-200000103 Bleed - Legs
-200000200 Frost - Head
-200000201 Frost - Body
-200000202 Frost - Hands
-200000203 Frost - Legs
-200000300 Curse - Head
-200000301 Curse - Body
-200000302 Curse - Hands
-200000303 Curse - Legs
+109551000 [Miracle] Heavenly Thunder
+109551100 [Miracle] Heavenly Thunder [Emitter]
+109551200 [Miracle] Heavenly Thunder [Hit]
+109551300 [Miracle] Heavenly Thunder
+109551400 [Miracle] Heavenly Thunder [Emitter]
+109551500 [Miracle] Heavenly Thunder [Hit]
+109551800 [Miracle] Heavenly Thunder - Ascended
+109551801 [Miracle] Heavenly Thunder [Emitter] - Ascended
+109551802 [Miracle] Heavenly Thunder [Hit] - Ascended
+109551803 [Miracle] Heavenly Thunder - Ascended
+109551804 [Miracle] Heavenly Thunder [Emitter] - Ascended
+109551805 [Miracle] Heavenly Thunder [Hit] - Ascended
+109551900 [Pyromancy] Black Fireball
+109551906 [Pyromancy] Black Fireball - Ascended
+109552000 [Pyromancy] Black Fire Scatter
+109552010 [Pyromancy] Black Fire Scatter [Hit]
+109552020 [Pyromancy] Black Fire Scatter [Hit]
+109552100 [Pyromancy] Black Fire Scatter - Ascended
+109552110 [Pyromancy] Black Fire Scatter - Ascended [Hit]
+109552120 [Pyromancy] Black Fire Scatter - Ascended [Hit]
+109553000 [Pyromancy] Black Fire Vestiges
+109553010 [Pyromancy] Black Fire Vestiges [Hit]
+109553100 [Pyromancy] Black Fire Vestiges - Ascended
+109553110 [Pyromancy] Black Fire Vestiges [Hit] - Ascended
+109554000 [Pyromancy] Fecal Expulsion
+109554010 [Pyromancy] Fecal Expulsion [Hit]
+109554100 [Pyromancy] Fecal Expulsion - Ascended
+109554110 [Pyromancy] Fecal Expulsion - Ascended [Hit]
+109555000 [Miracle] Overwhelming Power
+109555010 [Miracle] Overwhelming Power [Hit]
+109555020 [Miracle] Overwhelming Power [Hit]
+109555030 [Miracle] Overwhelming Power [Hit]
+109555100 [Miracle] Overwhelming Power - Ascended
+109555110 [Miracle] Overwhelming Power [Hit] - Ascended
+109555120 [Miracle] Overwhelming Power [Hit] - Ascended
+109555130 [Miracle] Overwhelming Power [Hit] - Ascended
 209999999 ### Weapons ###
 210000000 Logan's Staff - Logan's Focus
 210000100 Mendicant's Staff - Serpentine Orbs
@@ -3367,9 +3413,24 @@
 210001705 Smelter Sword - Smelter's Fury [Hit]
 210001706 Smelter Sword - Smelter's Fury [Hit]
 210001800 Crypt Blacksword - Undead Wrath
+210001900 Lothric's Scythe - Divine Warp
+210002000 Demon's Fist - Fireball
+210002001 Demon's Fist - Fireball [Hit]
+210002100 Hands of God - Emit Force
+210002101 Hands of God - Emit Force [Hit]
+210003000 King's Mirror - Reflect Spells
+210004010 Thorned Greatsword - Stomp - Sunlight Spear
+210004011 Thorned Greatsword - Stomp - Sunlight Spear - Sparks
+210005000 Breaking Wheel - Power Within
+210006000 Crystal Ring Shield - Unleash Moonlight [Hit]
 219999999 ### Rings ###
 220000000 Cursed Ring of Deflection - Spell Deflection
 220001000 Cursed Ring of Confusion - Rapport
 220002000 Wretched Pendant - Aura
 229999999 ### General ###
 230000000 Darkness
+230010000 Remnants of Lordran - Gough's Arrow
+230010010 Remnants of Lordran - Gough's Arrow [Emitter]
+230010020 Remnants of Lordran - Gough's Arrow [Hit]
+230011000 Remnants of Lordran - Boss Entry
+230012000 Remnants of Lordran - Ciaran's Soul Dreg

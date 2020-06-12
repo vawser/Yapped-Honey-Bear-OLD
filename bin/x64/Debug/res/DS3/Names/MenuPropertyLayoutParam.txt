@@ -22,8 +22,10 @@
 2001 Weapon Category
 2002 Damage Type
 2003 Skill Type
-2004 Skill FP Consumption - Light
-2005 Skill FP Consumption - Heavy
+2004 Skill FP Consumption - Light 391
+2005 Skill FP Consumption - Heavy 391
+2006 392
+2007 393
 2008 Weight
 2009 Durability
 2011 Physical Damage

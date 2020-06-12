@@ -305,6 +305,7 @@
     <item value="0" name="None" />
 	<item value="10" name="Stacks with Self" />
 	<item value="20" name="Expire on Resting" />
+    <item value="150" name="Unknown" />
 	<item value="151" name="Body Buff 1" />
     <item value="152" name="Body Buff 2" />
     <item value="157" name="Body Buff 3" />
@@ -320,6 +321,7 @@
 	<item value="156" name="Stamina Recovery" />
 	<item value="1000" name="Move Type" />
 	<item value="1002" name="Lava Walk" />
+    <item value="10002" name="Dragonform" />
 	<item value="10003" name="Bleed" />
 	<item value="10004" name="Poison" />
 	<item value="10005" name="Toxic" />
@@ -741,14 +743,16 @@ Bullet Behavior - Requires State Info 334</description>
     <default>1</default>
   </entry>
   <entry>
-    <name>Life Reduction %</name>
+    <name>Effect Duration %</name>
     <type>f32</type>
     <default>1</default>
+    <description>Multiplier applied to the duration of the effect specified in EffectDurationMultiplierType.</description>
   </entry>
   <entry>
-    <name>HP Recovery %</name>
+    <name>HP Recovery Effectiveness %</name>
     <type>f32</type>
     <default>1</default>
+    <description>Multiplier applied to any increase in character's current HP.</description>
   </entry>
   <entry>
     <name>Expiration Effect ID</name>
@@ -804,11 +808,13 @@ Enemies - Requires State Info 152</description>
     <name>Category Priority</name>
     <type>s8</type>
     <default>0</default>
+    <description>Priority ordering for special effect to be applied on each update (lower values are updated first).</description>
   </entry>
   <entry>
     <name>Save Category</name>
     <type>s8</type>
     <default>-1</default>
+    <description>Determines automatic game saving behavior (used for status ailments only). Set to -1 for no saving.</description>
   </entry>
   <entry>
     <name>Magic Attunement Slot</name>
@@ -821,7 +827,7 @@ Enemies - Requires State Info 152</description>
     <default>0</default>
   </entry>
   <entry>
-    <name>Hero Point Damage</name>
+    <name>Humanity Damage</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -841,31 +847,31 @@ Enemies - Requires State Info 152</description>
     <default>100</default>
   </entry>
   <entry>
-    <name>Damage Level: None</name>
+    <name>Damage Level: No Impact</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Small</name>
+    <name>Damage Level: Small Impact</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Medium</name>
+    <name>Damage Level: Medium Impact</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Large</name>
+    <name>Damage Level: Large Impact</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Medium Strike</name>
+    <name>Damage Level: Blowoff</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
@@ -883,25 +889,25 @@ Enemies - Requires State Info 152</description>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Small Strike</name>
+    <name>Damage Level: Blow</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Minimum</name>
+    <name>Damage Level: Minimal</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Uppercut</name>
+    <name>Damage Level: Launch</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
   </entry>
   <entry>
-    <name>Damage Level: Strike LL</name>
+    <name>Damage Level: Blow Backward</name>
     <type>u8</type>
     <default>0</default>
     <enum>DamageLevel</enum>
@@ -943,9 +949,10 @@ Enemies - Requires State Info 152</description>
     <enum>MoveType</enum>
   </entry>
   <entry>
-    <name>Life Reduction Type</name>
+    <name>Effect Duration Multiplier Type</name>
     <type>s16</type>
     <default>0</default>
+    <description>Type of effect whose duration is affected by Effect Duration Multiplier. Known values: 2 = poison, 5 = toxic.</description>
   </entry>
   <entry>
     <name>Throw Trigger</name>
@@ -1014,67 +1021,71 @@ Enemies - Requires State Info 152</description>
     <default>False</default>
   </entry>
   <entry>
-    <name>Display Icon Non-active</name>
+    <name>Display Icon when Inactive</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Use Effect in Effect</name>
+    <name>Use Visual Effect</name>
+    <type>b8</type>
+    <default>False</default>
+    <description>Use visual effect from State Info Visuals table</description>
+  </entry>
+  <entry>
+    <name>Use Intelligence Scaling</name>
+    <type>b8</type>
+    <default>False</default>
+    <description>Scales certain fields based on spell buff derived from current INT.</description>
+  </entry>
+  <entry>
+    <name>Use Faith Scaling</name>
+    <type>b8</type>
+    <default>False</default>
+    <description>Scales certain fields based on spell buff derived from current FTH.</description>
+  </entry>
+  <entry>
+    <name>Enable in NG+</name>
+    <type>b8</type>
+    <default>False</default>
+    <description>Enables the effect if in NG+</description>
+  </entry>
+  <entry>
+    <name>Affects Sorcery</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Adjust Magic Ability</name>
+    <name>Affects Miracles</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Adjust Faith Ability</name>
+    <name>Clear Held Souls</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Game Clear Bonus</name>
+    <name>Request: White Phantom Summon</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Magic Param Change</name>
+    <name>Request: Red Phantom Summon</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Miracle Param Change</name>
+    <name>Request: Invasion</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Clear Soul</name>
+    <name>Request: Kick</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Request: SOS</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>Request: SOS (Black)</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>Request: Force Join SOS (Black)</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>Request: Kick Session</name>
-    <type>b8</type>
-    <default>False</default>
-  </entry>
-  <entry>
-    <name>Request: Leave Session</name>
+    <name>Request: Returnt to Own World</name>
     <type>b8</type>
     <default>False</default>
   </entry>
@@ -1084,9 +1095,10 @@ Enemies - Requires State Info 152</description>
     <default>False</default>
   </entry>
   <entry>
-    <name>No Dead</name>
+    <name>Is Immortal</name>
     <type>b8</type>
     <default>False</default>
+    <description>If true, character cannot die.</description>
   </entry>
   <entry>
     <name>Current HP ignore Max HP</name>
@@ -1159,7 +1171,7 @@ Enemies - Requires State Info 152</description>
     <default>False</default>
   </entry>
   <entry>
-    <name>Enable Persistence</name>
+    <name>Enable Lifetime</name>
     <type>b8</type>
     <default>False</default>
   </entry>
@@ -1174,12 +1186,12 @@ Enemies - Requires State Info 152</description>
     <default>False</default>
   </entry>
   <entry>
-    <name>Extend Effect Lifetime</name>
+    <name>Extend Effect Duration</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Request: Leave Arena Session</name>
+    <name>Request: Leave Arena</name>
     <type>b8</type>
     <default>False</default>
   </entry>
@@ -1880,8 +1892,8 @@ Enemies - Requires State Info 152</description>
   </entry>
   <entry>
     <name>Affects Pyromancy</name>
-    <type>u8</type>
-    <default>0</default>
+    <type>b8</type>
+    <default>False</default>
   </entry>
   <entry>
     <name>Cast Speed +</name>

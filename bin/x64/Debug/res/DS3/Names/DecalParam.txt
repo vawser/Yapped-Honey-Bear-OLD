@@ -1,55 +1,55 @@
 0 Test
 41 Oil pots (floor)
-1090000 [Attack] Blood (dead) front (for character)
-1090001 [Attack] Blood (dead) Nakagami (for character)
-1090002 [Attack] Blood (dead) Nakashita (for character)
-1090003 [Attack] Blood (dead) left (for character)
-1090004 [Attack] Blood (dead) reeling (for character)
-1090100 [Attack] Blood (dead) front (for map)
-1090101 [Attack] Blood (dead) Nakagami (for map)
-1090102 [Attack] Blood (dead) Nakashita (for map)
-1090103 [Attack] Blood (dead) left (for map)
-1090104 [Attack] Blood (dead) reeling (for map)
-1091000 [Attack] Blood (dead) frontal (for character) blood mild
-1091001 [Attack] Blood (dead) Nakagami (for character) blood mild
-1091002 [Attack] Blood (dead) Nakashita (for character) blood mild
-1091003 [Attack] Blood (dead) left (for Chara) blood mild
-1091004 [Attack] Blood (dead) reeling (for character) blood mild
-1091100 [Attack] Blood (dead) in front (map) Blood mild
-1091101 【 attack 】 Blood (dead) Nakagami (for map) blood mild
-1091102 【 attack 】 Blood (dead) Nakashita (for map) blood mild
-1091103 [Attack] Blood (dead) left (for map) blood mild
-1091104 【 attack 】 Blood (dead) reeling (for map) blood mild
-1410000 Attack: Front of caries
-1410001 【 attack 】 Caries Nakagami
-1410002 【 attack 】 Caries Nakashita
-1410003 [Attack] in the caries left
-1410004 【 attack 】 Caries reeling
-1420000 [Attack] Maggots front
-1420001 [Attack] Maggots Nakagami
-1420002 [Attack] Maggots Nakashita
-1420003 [Attack] Maggots left
-1420004 [Attack] Maggots reeling
-1460000 [Attack] Blood (PC) front (for character)
-1460001 [Attack] Blood (PC) (for characters)
-1460002 [Attack] under Blood (PC) (for character)
-1460003 [Attack] Blood (PC) left (for character)
-1460004 [Attack] Blood (PC) right (for character)
-1460100 [Attack] Blood (PC) front (for map)
-1460101 [Attack] Blood (PC) (for map)
-1460102 [Attack] under Blood (PC) (for map)
-1460103 [Attack] Blood (PC) left (for map)
-1460104 [Attack] Blood (PC) right (for map)
-1461000 [Attack] Blood (PC) front (for character) blood mild
-1461001 [Attack] Blood (PC) (for characters) blood mild
-1461002 [Attack] Blood (PC) under (for character) blood mild
-1461003 [Attack] Blood (PC) left (for character) blood mild
-1461004 [Attack] Blood (PC) right (for character) blood mild
-1461100 [Attack] Blood (PC) front (for map) blood mild
-1461101 [Attack] Blood (PC) (for map) blood mild
-1461102 [Attack] Blood (PC) under (for map) blood mild
-1461103 [Attack] Blood (PC) left (for map) blood mild
-1461104 [Attack] Blood (PC) right (for map) blood mild
+1090000 [Attack] Blood (dead) - Front [Character]
+1090001 [Attack] Blood (dead) - Middle Upper [Character]
+1090002 [Attack] Blood (dead) - Middle Lower [Character]
+1090003 [Attack] Blood (dead) - Left [Character]
+1090004 [Attack] Blood (dead) - Right [Character]
+1090100 [Attack] Blood (dead) - Front [Map]
+1090101 [Attack] Blood (dead) - Middle Upper [Map]
+1090102 [Attack] Blood (dead) - Middle Lower [Map]
+1090103 [Attack] Blood (dead) - Left [Map]
+1090104 [Attack] Blood (dead) - Right [Map]
+1091000 [Attack] Mild Blood (dead) - Front [Character]
+1091001 [Attack] Mild Blood (dead) - Middle Upper [Character]
+1091002 [Attack] Mild Blood (dead) - Middle Lower [Character]
+1091003 [Attack] Mild Blood (dead) - Left [Character]
+1091004 [Attack] Mild Blood (dead) - Right [Character]
+1091100 [Attack] Mild Blood (dead) - Front [Map]
+1091101 [Attack] Mild Blood (dead) - Middle Upper [Map]
+1091102 [Attack] Mild Blood (dead) - Middle Lower [Map]
+1091103 [Attack] Mild Blood (dead) - Left [Map]
+1091104 [Attack] Mild Blood (dead) - Right [Map]
+1410000 [Attack] Curse - Front
+1410001 [Attack] Curse - Middle Upper
+1410002 [Attack] Curse - Middle Lower
+1410003 [Attack] Curse - Left
+1410004 [Attack] Curse - Right
+1420000 [Attack] Maggots - Front
+1420001 [Attack] Maggots - Middle Upper
+1420002 [Attack] Maggots - Middle Lower
+1420003 [Attack] Maggots - Left
+1420004 [Attack] Maggots - Right
+1460000 [Attack] Blood (PC) - Front [Character]
+1460001 [Attack] Blood (PC) - Middle Upper [Character]
+1460002 [Attack] Blood (PC) - Middle Lower [Character]
+1460003 [Attack] Blood (PC) - Left [Character]
+1460004 [Attack] Blood (PC) - Right [Character]
+1460100 [Attack] Blood (PC) - Front [Map]
+1460101 [Attack] Blood (PC) - Middle Upper [Map]
+1460102 [Attack] Blood (PC) - Middle Lower [Map]
+1460103 [Attack] Blood (PC) - Left [Map]
+1460104 [Attack] Blood (PC) - Right [Map]
+1461000 [Attack] Mild Blood (PC) - Front [Character]
+1461001 [Attack] Mild Blood (PC) - Middle Upper [Character]
+1461002 [Attack] Mild Blood (PC) - Middle Lower [Character]
+1461003 [Attack] Mild Blood (PC) - Left [Character]
+1461004 [Attack] Mild Blood (PC) - Right [Character]
+1461100 [Attack] Mild Blood (PC) - Front [Map]
+1461101 [Attack] Mild Blood (PC) - Middle Upper [Map]
+1461102 [Attack] Mild Blood (PC) - Middle Lower [Map]
+1461103 [Attack] Mild Blood (PC) - Left [Map]
+1461104 [Attack] Mild Blood (PC) - Right [Map]
 8000300 Dark Flame
 8000301 Oil pots (for pairs of characters)
 8010510 [Dark Knight Beast] Frost
@@ -84,7 +84,7 @@
 8010572 [Full Armor Beast] Frost attack (knocked back against)
 8010580 [Ojo 3] Bleeding
 8010590 [Dead Wax] wax bullet (floor)
-8010591 [Dead Wax] wax bullet (for character)
+8010591 [Dead Wax] wax bullet [Character]
 8010600 [Hel Kite] at the time of erosion SAG appearance
 8010601 [Hellfire Kite] dripping drip
 8010602 [Hel Kite] at the time of Eclipse appearance

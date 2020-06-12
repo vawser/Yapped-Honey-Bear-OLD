@@ -13,8 +13,20 @@
 2200 Divine Spear Fragment
 2300 Ceaseless Dung Pie
 3000 Witching Urn
-3010 Hexing Urn
-3020 Holy Water Urn
+3100 Hexing Urn
+3200 Holy Water Urn
+9999 ### NPC Weapons ###
+10000 Bloodlust
+11000 Bewitched Alonne Sword
+12000 Bloodletter
+13000 Ciaran's Tracers
+14000 Dragonslayer's Spear
+15000 Silver Eagle Kite Shield
+16000 Greatsword of Artorias
+17000 Greatsword of Artorias
+18000 Morne's Great Hammer (Drakekeeeper's Great Hammer)
+19000 Sunlight Straight Sword
+90999 ### Test Data ###
 91000 [Load Check] memory Check 1
 91100 [Load Check] memory Check 1
 92000 [Load check] memory Check 2
@@ -131,6 +143,7 @@
 933710 Ghost Shield +10
 933800 Ghost GreatShield
 933900 Ghost Torch
+934000 Test Cannon
 990001 ## Weapons ###
 1000000 Dagger [Normal]
 1000100 Dagger [Lethal]
@@ -4100,6 +4113,17 @@
 22310800 Smouldering Shield [Fire]
 22310900 Smouldering Shield [Lightning]
 22311000 Smouldering Shield [Dark]
+22320000 King's Mirror [Boss]
+22320100 King's Mirror [Clarity]
+22320200 King's Mirror [Rejuvenation]
+22320300 King's Mirror [Restoration]
+22320400 King's Mirror [Respite]
+22320500 King's Mirror [Lucidity]
+22320600 King's Mirror [Greed]
+22320700 King's Mirror [Magic]
+22320800 King's Mirror [Fire]
+22320900 King's Mirror [Lightning]
+22321000 King's Mirror [Dark]
 22999999 ### Tools ###
 23000000 Torch [Normal]
 23000100 Torch [Lethal]
@@ -5422,21 +5446,21 @@
 31051200 Penetrating Sword [Holy]
 31051300 Penetrating Sword [Sharp]
 31051400 Penetrating Sword [Blunt]
-31060000 Phosophrescent Pole [Unique]
-31060100 Phosophrescent Pole [Lethal]
-31060200 Phosophrescent Pole [Curse]
-31060300 Phosophrescent Pole [Poison]
-31060400 Phosophrescent Pole [Blood]
-31060500 Phosophrescent Pole [Frost]
-31060600 Phosophrescent Pole [Magic]
-31060700 Phosophrescent Pole [Fire]
-31060800 Phosophrescent Pole [Lightning]
-31060900 Phosophrescent Pole [Dark]
-31061000 Phosophrescent Pole [Lucky]
-31061100 Phosophrescent Pole [Enchanted]
-31061200 Phosophrescent Pole [Holy]
-31061300 Phosophrescent Pole [Sharp]
-31061400 Phosophrescent Pole [Blunt]
+31060000 Phosphorescent Pole [Unique]
+31060100 Phosphorescent Pole [Lethal]
+31060200 Phosphorescent Pole [Curse]
+31060300 Phosphorescent Pole [Poison]
+31060400 Phosphorescent Pole [Blood]
+31060500 Phosphorescent Pole [Frost]
+31060600 Phosphorescent Pole [Magic]
+31060700 Phosphorescent Pole [Fire]
+31060800 Phosphorescent Pole [Lightning]
+31060900 Phosphorescent Pole [Dark]
+31061000 Phosphorescent Pole [Lucky]
+31061100 Phosphorescent Pole [Enchanted]
+31061200 Phosphorescent Pole [Holy]
+31061300 Phosphorescent Pole [Sharp]
+31061400 Phosphorescent Pole [Blunt]
 31070000 Quelaag's Fury Sword [Boss]
 31070100 Quelaag's Fury Sword [Lethal]
 31070200 Quelaag's Fury Sword [Curse]
@@ -5933,6 +5957,21 @@
 31401200 Crab Claw [Holy]
 31401300 Crab Claw [Sharp]
 31401400 Crab Claw [Blunt]
+31410000 Thorned Greatsword [Unique]
+31410100 Thorned Greatsword [Lethal]
+31410200 Thorned Greatsword [Curse]
+31410300 Thorned Greatsword [Poison]
+31410400 Thorned Greatsword [Blood]
+31410500 Thorned Greatsword [Frost]
+31410600 Thorned Greatsword [Magic]
+31410700 Thorned Greatsword [Fire]
+31410800 Thorned Greatsword [Lightning]
+31410900 Thorned Greatsword [Dark]
+31411000 Thorned Greatsword [Lucky]
+31411100 Thorned Greatsword [Enchanted]
+31411200 Thorned Greatsword [Holy]
+31411300 Thorned Greatsword [Sharp]
+31411400 Thorned Greatsword [Blunt]
 63900001 ### Debug ###
 63990000 [Debug] Arrow
 67000000 [Debug] Bolt

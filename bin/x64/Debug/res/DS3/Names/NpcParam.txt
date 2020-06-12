@@ -30,9 +30,6 @@
 21100 Sir Vilhelm [Ariandel]
 21140 Sir Vilhelm - Enemy [Ariandel]
 21200 Livid Pyromancer Dunnel - Mad Phantom [Ariandel]
-21300 [Boss] The Lord's Blade
-21301 [Boss] The Dragonslayer
-21302 [Boss] The Abyss Walker
 21400 Amnesiac Lapp [Dreg Heap]
 21401 Amnesiac Lapp [Dreg Heap]
 21402 Amnesiac Lapp [The Ringed City]
@@ -208,9 +205,9 @@
 32600 Dragon Knight Oswald [Grand Archives]
 32700 Dragon Knight Terrill [Grand Archives]
 32800 Dragon Knight Lyre [Grand Archives]
-32900 Lord Erectus [Kiln]
+32900 Lord Zakar [Kiln]
 33000 Glaive Master Hodir [Ringed City]
-33100 Ezekiel the Penetrator [Ariandel]
+33100 Ezekiel the Duelist [Ariandel]
 33200 Eija the Shadow [Ariandel]
 33300 Dulfisk the Accursed [Dreg Heap]
 33400 Freya the Wretched [Ringed City]
@@ -221,8 +218,35 @@
 33900 Burial Knight [Cemetery of Ash]
 34000 Undead Hexer [Undead Settlement]
 34100 Roaming Sorcerer [Road of Sacrifices]
+34200 Blacksmith's Nightmare [Untended Graves]
+34300 Frozen Knight Torbjorn [Ariandel]
+34400 Bewitched Knight Iwai [Profaned Capital]
+34500 Wandering Knight Osvaldo [Irithyll of the Boreal Valley]
+34600 Lord Takatsuji [Profaned Capital]
+34700 Lieutenant Ugali [Profaned Capital]
+34800 Lieutenant Hanji [Profaned Capital]
+34900 Ashen Keeper Sofija [Untended Graves]
+35000 Hallowed Knight Orthell [Cathedral of the Deep]
+35100 Dragon Hunter Karstark [Archdragon Peak]
+35200 Disciple of Alsanna [Ariandel]
+35300 The Prowler [Dreg Heap]
+39999 ### Companions ###
+40000 Solaire of Astora
+40010 El Crabbo
+40020 Rocky
+40030 Sanchez the Illusive
+40040 Ezrat the Devout
+40050 Pickle
+40060 Petyr the Hungry
+40070 Zippy
 99999 ### Enemies ###
 100000 Bonfire
+101000 Gyrm [Irithyll of the Boreal Valley]
+102000 Morne's Armor [Cathedral of the Deep]
+103000 Mirror Knight [Consumed King's Garden]
+104000 Ruin Sentinel [The Ringed City]
+105000 Dragonrider [Irithyll of the Boreal Valley] - Gundyr
+106000 Black Dragon Knight [Grand Archives]
 107000 Skeleton [Catacombs of Carthus]
 107001 Skeleton - Scimitar [Catacombs of Carthus]
 107002 Skeleton - Falchion [Catacombs of Carthus]
@@ -261,6 +285,7 @@
 107302 Skeleton [Ringed City]
 107313 Skeleton [Ringed City]
 107314 Skeleton [Ringed City]
+107400 El Hueso [Firelink Shrine]
 109000 Pus of Man [High Wall of Lothric]
 109001 Pus of Man [High Wall of Lothric]
 109100 Pus of Man [Lothric Castle]
@@ -472,6 +497,7 @@
 129000 Winged Knight - Halberd [High Wall of Lothric]
 129010 Winged Knight - Twinaxes - Knight's Ring+1 [High Wall of Lothric]
 129011 Winged Knight - Halberd - Knight's Ring+2 [High Wall of Lothric]
+129020 Winged Knight - Twinaxes [High Wall of Lothric]
 129100 Winged Knight - Halberd [Lothric Castle]
 129110 Winged Knight - Twinaxes [Lothric Castle]
 129111 Winged Knight - Twinaxes - Band of Sparks+1 [Lothric Castle]
@@ -497,7 +523,9 @@
 130211 Black Knight - Greataxe - Physician Ring+2 [Undead Settlement]
 130212 Black Knight - Greataxe - Physician Ring+3 [Undead Settlement]
 130220 Black Knight - Greataxe - Red-eyed [Undead Settlement]
+130221 Black Knight - Greataxe - Red-eyed [Undead Settlement] - Hostile
 130230 Black Knight - Greatsword - Red-eyed [Undead Settlement]
+130231 Black Knight - Greatsword - Red-eyed [Undead Settlement] - Hostile
 130610 Black Knight - Greatsword [Farron Keep]
 130611 Black Knight - Greatsword [Farron Keep] - Hostile
 130620 Black Knight - Greataxe [Farron Keep]
@@ -507,6 +535,8 @@
 130721 Black Knight - Greataxe [Ringed City]
 130800 Black Knight - Greatsword [Kiln of the First Flame]
 130810 Black Knight - Greataxe [Kiln of the First Flame]
+130820 Black Knight - Sword [Kiln of the First Flame]
+130830 Black Knight - Halberd [Kiln of the First Flame]
 131000 Boreal Outrider Knight [Undead Settlement]
 131100 Boreal Outrider Knight [Grand Archives]
 131200 Boreal Outrider Knight [Lothric Castle]
@@ -519,6 +549,7 @@
 132104 Crystal Sage - Ring of Wisdom+1 [Grand Archives]
 132105 Crystal Sage - Ring of Wisdom+2 [Grand Archives]
 132106 Crystal Sage - Ring of Wisdom+3 [Grand Archives]
+132110 Crystal Sage - Generic [Grand Archives]
 134000 Archive Scholar [Grand Archives]
 134001 Archive Scholar - Scholar Ring+1 [Grand Archives]
 134002 Archive Scholar - Scholar Ring+2 [Grand Archives]
@@ -670,6 +701,7 @@
 147011 Bonewheel Skeleton - Horsehoof Ring+2 [Catacombs of Carthus]
 147012 Bonewheel Skeleton - Horsehoof Ring+3 [Catacombs of Carthus]
 147100 Bonewheel Skeleton
+147200 Bonewheel Skeleton - Black Fireball
 148000 Irithyll Knight - Regular - Ghost
 149000 Irithyll Knight - Dancer - Ghost
 202000 Undead Dog
@@ -758,6 +790,7 @@
 212910 Mimic [Irithyll]
 212920 Mimic [Lothric Castle]
 212930 Mimic [Grand Archives]
+212990 Mimic [Trial]
 213000 Writhing Rotten Flesh
 213099 Writhing Rotten Flesh
 213100 Writhing Rotten Flesh
@@ -767,7 +800,8 @@
 214100 Basilisk
 214200 Basilisk
 215000 Crystal Lizard [High Wall of Lothric]
-215010 Crystal Lizard
+215010 Red Crystal Lizard
+215011 Red Crystal Lizard - Bait
 215100 Crystal Lizard [Undead Settlement]
 215200 Crystal Lizard [Lothric Castle]
 215300 Crystal Lizard [Grand Archives]
@@ -790,6 +824,7 @@
 216030 Pilgrim Dummy
 216040 Pilgrim
 216100 Londor Pilgrim
+216200 Londor Pilgrim (Aggressive)
 217000 Company Captain Yorshka
 218000 Grub - Yellowfinger Heysel
 218001 Grub - Yellowfinger Heysel
@@ -840,6 +875,7 @@
 223011 Jailer Handmaid
 224000 [Boss] Vordt of the Boreal Valley
 224001 [Boss] Vordt of the Boreal Valley [Heat Up]
+224010 Boreal Outrider Sentinel [Grand Archives]
 225000 Sulyvahn's Beast - Pontiff's Right Eye
 225010 Sulyvahn's Beast - Ring of Favor
 225100 Sulyvahn's Beast - Respawning
@@ -884,7 +920,12 @@
 304002 [Boss] Abyss Watcher [Red-eye] [Add]
 304005 [Boss] Abyss Watcher [Add]
 304010 [Boss] Abyss Watcher [Main]
+304100 Abyss Watcher [Farron Keep]
+304101 Abyss Watcher - Farron Ring+1 [Farron Keep]
+304102 Abyss Watcher - Farron Ring+2 [Farron Keep]
+304103 Abyss Watcher - Farron Ring+3 [Farron Keep]
 305000 [Boss] Old Demon King
+305100 Old Demon Prince [Smouldering Lake]
 306000 Demon [Undead Settlement]
 306001 Demon - Physician Ring+1 [Undead Settlement]
 306100 Demon [Catacombs of Carthus]
@@ -912,6 +953,7 @@
 310601 Ravenous Crystal Lizard - Life Ring+3 [Untended Graves]
 310610 Ravenous Crystal Lizard [Untended Graves]
 310700 Ravenous Crystal Lizard - Generic
+310710 Ravenous Crystal Lizard - Immune to Poison
 311000 Deep Acursed
 311100 Deep Acursed
 311200 Deep Acursed
@@ -944,10 +986,8 @@
 317100 Darkwraith [Farron Keep]
 317101 Darkwraith [Farron Keep]
 317102 Darkwraith [Farron Keep]
-317110 Darkwraith - Farron Ring+1 [Farron Keep]
-317111 Darkwraith - Farron Ring+2 [Farron Keep]
-317112 Darkwraith - Farron Ring+3 [Farron Keep]
 319000 [NPC] Blacksmith Andre
+319010 [NPC] Blacksmith Andre - Hostile
 320000 [NPC] Shrine Handmaid
 320100 [NPC] Shrine Handmaid
 321000 Poisonhorn Bug [Road of Sacrifices]
@@ -957,6 +997,9 @@
 322002 Rock Lizard - Lightning Clutch Ring+2 [Archdragon Peak]
 322003 Rock Lizard - Lightning Clutch Ring+3 [Archdragon Peak]
 323000 Demon Statue
+323001 Demon Statue - Band of Flame +1 [Smouldering Lake]
+323002 Demon Statue - Band of Flame +2 [Smouldering Lake]
+323003 Demon Statue - Band of Flame +3 [Smouldering Lake]
 325000 [NPC] High Priestess Emma
 501000 [Boss] Nameless King
 502000 [Boss] Demon Prince [HP Dummy]
@@ -975,6 +1018,7 @@
 512000 [Boss] Corrupted Gundyr - Pus of Man
 514000 [Boss] Pontiff Sulyvahn
 514010 [Boss] Pontiff Sulyvahn [Spirit Clone]
+514011 Spirit of the Pontiff [Irithyll]
 515000 [Boss] Aldrich, Devourer of Gods
 516000 [Boss] High Lord Wolnir
 518000 [Boss] Curse-rotted Greatwood
@@ -1016,6 +1060,7 @@
 525100 [Boss] Lothric, Younger Prince [Final Stage]
 526000 [Boss] Yhorm the Giant
 527000 [Boss] Dancer of the Boreal Valley
+527001 Boreal Outrider Assassin [Grand Archives]
 528000 [Boss] Soul of Cinder
 600000 Farron Follower [Ariandel]
 600001 Farron Follower [Ariandel]
@@ -1039,6 +1084,7 @@
 603000 [Boss] Gravetender Greatwolf
 603001 [Boss] Gravetender Greatwolf [Heat Up]
 603100 Greatwolf
+603200 Greatwolf
 604000 Wolf [Ariandel]
 604001 Wolf [Ariandel]
 604002 Wolf [Ariandel]
@@ -1248,9 +1294,123 @@
 633110 Small Locust
 633111 Small Locust
 633112 Small Locust
-719999 ### Trial of Perseverance ###
+719999 ### Custom ###
 720000 Wave HP
-800000 ### Unused ###
+721000 Petrified Giant
+721100 Altar of Affliction
+721110 Blade of Champions
+721200 Dragon Altar
+721300 Domhnall of Zena
+721400 Marvelous Chester
+721500 Crestfallen Merchant
+750000 The Lord's Blade (Ciaran)
+751000 The Abyss Walker (Artorias)
+752000 The Dragonslayer (Ornstein)
+809999 ### Trial ###
+810000 Skeleton (Scimitar)
+810001 Skeleton (Falchion)
+810002 Skeleton (Bow)
+810003 Skeleton (Firebomb)
+810010 Hollow (Sword)
+810011 Hollow (Shield)
+810012 Hollow (Lantern)
+810013 Hollow (Crossbow)
+810014 Hollow (Spear)
+810015 Hollow (Dagger)
+810020 Large Hollow (Halberd)
+810021 Large Hollow (Axe)
+810030 Carthus Swordsman (Bow)
+810031 Carthus Swordsman (Curved Sword)
+810032 Carthus Swordsman (Curved Greatsword)
+810033 Carthus Swordsman (Shotel)
+810040 Cathedral Knight (Greatsword)
+810041 Cathedral Knight (Mace)
+810050 Hollow Slave (Flamberge)
+810051 Hollow Slave (Axe)
+810052 Hollow Slave (Warpick)
+810060 Ghru (Spear)
+810061 Ghru (Curved Sword)
+810062 Ghru (Dagger)
+810063 Ghru (Mad)
+810070 Cathedral Evangelist
+810080 Peasant Hollow (Lantern)
+810081 Peasant Hollow (Sickle)
+810082 Peasant Hollow (Mallet)
+810083 Peasant Hollow (Hoe)
+810084 Peasant Hollow (Axe)
+810090 Cathedral Grave Warden
+810100 Hollow Manservant (Saw)
+810101 Hollow Manservant (Pot)
+810110 Lothric Knight (Sword)
+810111 Lothric Knight (Spear)
+810112 Lothric Knight (Greatsword)
+810120 Winged Knight (Axe)
+810121 Winged Knight (Halberd)
+810130 Boreal Outrider Knight
+810140 Archive Scholar
+810150 Irithyllian Slave (Type 1)
+810151 Irithyllian Slave (Type 2)
+810152 Irithyllian Slave (Type 3)
+810153 Irithyllian Slave (Type 4)
+810154 Irithyllian Slave (Type 5)
+810160 Lycanthrope
+810170 Lycanthrope Hunter
+810180 Serpent-man Summoner
+810190 Serpent-man (Dagger)
+810191 Serpent-man (Hatchet)
+810192 Serpent-man (Bladed Axe)
+810193 Serpent-man (Axe)
+810200 Giant Serpent-man (Chain)
+810201 Giant Serpent-man (Axe)
+810210 Silver Knight (Sword)
+810211 Silver Knight (Spear)
+810212 Silver Knight (Greatbow)
+810220 Bonewheel Skeleton
+810230 Undead Dog
+810240 Small Undead Dog
+810250 Pontiff Knight (Curved Sword)
+810251 Pontiff Knight (Scythe)
+810260 Monstrosity of Sin
+810270 Wretch (Spear)
+810271 Wretch (Unarmed)
+810272 Wretch (Dagger)
+810280 Sewer Centipede
+810290 Hound-rat
+810300 Basilisk
+810310 Gargoyle (Spear)
+810311 Gargoyle (Hammer)
+810320 Jailer
+810330 Giant Rat
+810340 Irithyll Dog
+810350 Giant Slave
+810360 Elder Ghru
+810370 Rock Lizard
+810380 Demon Statue
+810390 Irithyll Fire Witch
+810400 Demon Cleric
+810410 Ravenous Crystal Lizard
+810420 Fat Deacon
+810430 Tall Deacon
+810440 Thin Deacon
+810450 Rotten Slug
+810460 Crystal Sage
+810470 Undead Cleric (Type 1)
+810471 Undead Cleric (Type 2)
+810472 Undead Cleric (Type 3)
+810480 Devout of the Deep (Type 1)
+810481 Devout of the Deep (Type 2)
+810482 Devout of the Deep (Type 3)
+810483 Devout of the Deep (Type 4)
+810484 Devout of the Deep (Type 5)
+810485 Devout of the Deep (Type 6)
+810490 Lothric Priest
+810500 Mimic
+810510 Pilgrim
+810520 Sulyvahn's Beast
+810530 Giant Crab
+810540 Lesser Crab
+810550 Gyrm
+889999 ### Unused ###
 890000 Adjustment base character for the time being
 890001 (during testing) player assumption _ Level 1
 890100 Player assumed _ Level 100 (during testing)

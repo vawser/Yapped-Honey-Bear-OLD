@@ -43,7 +43,7 @@
 42 [Irithyll of the Boreal Valley] Central Irithyll
 43 [Irithyll of the Boreal Valley] Church of Yorshka
 44 [Irithyll of the Boreal Valley] Distant Manor
-45 [Irithyll of the Boreal Valley] Irithyll Cathedral
+45 [Irithyll of the Boreal Valley] Lower Anor Londo
 46 [Irithyll of the Boreal Valley] Water Reserve
 47 [Irithyll of the Boreal Valley] Anor Londo
 48 [Irithyll of the Boreal Valley] Prison Tower

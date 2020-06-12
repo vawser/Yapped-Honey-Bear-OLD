@@ -1,7 +1,7 @@
 0 Need
 110 Treasure Chest
 200 Treasure Chest - Default
-201 Treasure Chest - Master Key
+201 Treasure Chest - Forgotten Key
 350 M93_01_ Door _ Candle Room
 351 M93_01_ Door _ Candle Room
 360 M96_00 Door Concept Map _ Entrance

@@ -57,22 +57,6 @@
 400001 Cursed Ring of Confusion
 400002 Wretched Pendant
 499999 ### Armor ###
-500000 Poison - Head
-500001 Poison - Body
-500002 Poison - Hands
-500003 Poison - Legs
-500100 Bleed - Head
-500101 Bleed - Body
-500102 Bleed - Hands
-500103 Bleed - Legs
-500200 Frost - Head
-500201 Frost - Body
-500202 Frost - Hands
-500203 Frost - Legs
-500300 Curse - Head
-500301 Curse - Body
-500302 Curse - Hands
-500303 Curse - Legs
 13730000 [Miracle] Lifehunt Scythe
 13730005 [Miracle] Lifehunt Scythe
 13730100 [Miracle] Lifehunt Scythe - Ascended
@@ -320,6 +304,12 @@
 101113400 Draconic Bolt
 101113405 Draconic Bolt
 101113410 Draconic Bolt
+101200300 Bomb
+101200305 Bomb
+101200310 Bomb
+101200400 Bomb
+101200405 Bomb
+101200410 Bomb
 102000000 Dagger - 1H Light #1
 102000010 Dagger - 1H Light #2
 102000020 Dagger - 1H Light #3
@@ -363,7 +353,8 @@
 102000610 Dagger - Backstab Transition
 102000615 Dagger - Missed Backstab Transition
 102000700 Dagger - Weapon Art
-102000800 Dagger
+102000800 Dagger - Quickstep (old)
+102000990 Dagger - Quickstep
 102001300 Dagger #2 - 2H Heavy #1
 102001305 Dagger #2 - 2H Heavy #1 Maximum
 102001310 Dagger #2 - 2H Heavy #2
@@ -475,6 +466,7 @@
 102300722 Straight Sword - Stance Heavy
 102300920 Straight Sword
 102300921 Straight Sword
+102300990 Straight Sword - Quickstep
 102301100 Broadsword - 1H Heavy
 102301105 Broadsword - 1H Heavy Max
 102301540 Broadsword - 1H Backstep
@@ -623,6 +615,7 @@
 102500700 Bastard Sword - Weapon Art
 102500710 Bastard Sword - Weapon Art
 102500720 Bastard Sword - Weapon Art
+102500990 Bastard Sword - Quickstep
 102502000 Flamberge - 1H Light #1
 102502010 Flamberge - 1H Light #2
 102502020 Flamberge - 1H Light #3
@@ -691,20 +684,24 @@
 102511715 Twin Princes' Greatsword
 102512700 Wolnir's Holy Sword
 102512705 Wolnir's Holy Sword
-102513100 Moonlight Greatsword
-102513105 Moonlight Greatsword
-102513106 Moonlight Greatsword
-102513110 Moonlight Greatsword
-102513115 Moonlight Greatsword
-102513116 Moonlight Greatsword
-102513300 Moonlight Greatsword
-102513305 Moonlight Greatsword
-102513306 Moonlight Greatsword
-102513310 Moonlight Greatsword
-102513315 Moonlight Greatsword
-102513316 Moonlight Greatsword
-102513700 Moonlight Greatsword
-102513705 Moonlight Greatsword
+102513100 Moonlight Greatsword - 1H Heavy #1
+102513101 Moonlight Greatsword - 1H Heavy #1 - Vertical Wave
+102513105 Moonlight Greatsword - 1H Heavy #1 (Charged)
+102513106 Moonlight Greatsword - 1H Heavy #1 (Charged) - Vertical Wave
+102513110 Moonlight Greatsword - 1H Heavy #2
+102513111 Moonlight Greatsword - 1H Heavy #2 - Horizontal Wave
+102513115 Moonlight Greatsword - 1H Heavy #2 (Charged)
+102513116 Moonlight Greatsword - 1H Heavy #2 (Charged) - Horizontal Wave
+102513300 Moonlight Greatsword - 2H Heavy #1
+102513301 Moonlight Greatsword - 2H Heavy #1 - Horizontal Wave
+102513305 Moonlight Greatsword - 2H Heavy #1 (Charged)
+102513306 Moonlight Greatsword - 2H Heavy #1 (Charged) - Horizontal Wave
+102513310 Moonlight Greatsword - 2H Heavy #2
+102513311 Moonlight Greatsword - 2H Heavy #2 - Horizontal Wave
+102513315 Moonlight Greatsword - 2H Heavy #2 (Charged)
+102513316 Moonlight Greatsword - 2H Heavy #2 (Charged) - Horizontal Wave
+102513700 Moonlight Greatsword - Moonlight Vortex - Sword
+102513705 Moonlight Greatsword - Moonlight Vortex
 102514700 Firelink Greatsword - Ember
 102514705 Firelink Greatsword - Ember
 102515730 Storm Ruler
@@ -833,6 +830,9 @@
 102526700 Sunlight Greatsword - Oath of Sunlight
 102527700 Obsidian Greatsword - Abyssal Fire
 102527705 Obsidian Greatsword - Abyssal Fire
+102528700 Thorned Greatsword - Stomp
+102528705 Thorned Greatsword - Stomp
+102528706 Thorned Greatsword - Stomp - Projectile
 102600000 Greatsword - 1H Light #1
 102600001 Greatsword - 1H Light #1 Range
 102600010 Greatsword - 1H Light #2
@@ -886,6 +886,7 @@
 102600702 Greatsword - Tread
 102600780 Greatsword - Blow
 102600790 Greatsword - Directed Slam
+102600990 Greatsword - Quickstep
 102601100 Greatsword - 1H Heavy #1
 102601105 Greatsword - 1H Heavy #1 Max
 102601200 Greatsword - 2H Light #1
@@ -1128,6 +1129,7 @@
 102700730 Rapier - Stance Heavy #1
 102700731 Rapier - Stance Heavy #2
 102700733 Rapier
+102700990 Rapier - Quickstep
 102702100 Estoc - 1H Heavy #1
 102702105 Estoc - 1H Heavy #1 Max
 102702110 Estoc - 1H Heavy #2
@@ -1204,6 +1206,7 @@
 102800700 Falchion
 102800710 Falchion
 102800720 Falchion
+102800990 Falchion - Quickstep
 102806000 Dancer's Enchanted Swords - 1H Light #1
 102806010 Dancer's Enchanted Swords - 1H Light #2
 102806020 Dancer's Enchanted Swords - 1H Light #3
@@ -1374,6 +1377,7 @@
 102900610 Katana
 102900615 Katana
 102900700 Katana
+102900990 Katana - Quickstep
 102902100 Black Blade - 1H Heavy #1
 102902105 Black Blade - 1H Heavy #1 Max
 102902110 Black Blade - 1H Heavy #2
@@ -1532,6 +1536,7 @@
 103000911 Axe
 103000915 Axe - War Cry - 2H Heavy #2 Max
 103000916 Axe
+103000990 Axe - Quickstep
 103001000 Winged Knight Twinaxes - 1H Light #1
 103001010 Winged Knight Twinaxes - 1H Light #2
 103001020 Winged Knight Twinaxes - 1H Light #3
@@ -1867,6 +1872,7 @@
 103200908 Greataxe
 103200910 Greataxe
 103200915 Greataxe
+103200990 Greataxe - Quickstep
 103203000 Black Knight's Greataxe - 1H Light #1
 103203001 Black Knight's Greataxe
 103203010 Black Knight's Greataxe - 1H Light #2
@@ -2127,6 +2133,7 @@
 103300908 Hammer
 103300920 Hammer
 103300921 Hammer
+103300990 Hammer - Quickstep
 103301000 Warpick - 1H Light #1
 103301010 Warpick - 1H Light #2
 103301020 Warpick - 1H Light #3
@@ -2271,10 +2278,12 @@
 103500905 Great Mace
 103500906 Great Mace
 103500907 Great Mace
+103500990 Great Mace - Quickstep
 103503100 Smough's Great Hammer - 1H Heavy #1
 103503105 Smough's Great Hammer - 1H Heavy #1 Max
 103503300 Smough's Great Hammer - 2H Heavy #1
 103503305 Smough's Great Hammer - 2H Heavy #1 Max
+103503306 Smough's Great Hammer - 2H Heavy #1 Max - Lightning Smash
 103504710 Gargoyle Flame Hammer - Weapon Art
 103504715 Gargoyle Flame Hammer - Weapon Art
 103505710 Old King's Great Hammer - Weapon Art
@@ -2458,6 +2467,7 @@
 103600835 Spear
 103600920 Spear
 103600921 Spear
+103600990 Spear - Quickstep
 103603300 Dragonslayer Spear - 2H Heavy #1
 103603305 Dragonslayer Spear - 2H Heavy #1 Max
 103603310 Dragonslayer Spear - 2H Heavy #2
@@ -2774,6 +2784,7 @@
 103800700 Halberd
 103800710 Halberd
 103800720 Halberd - Stance: Weak
+103800990 Halberd - Quickstep
 103802000 Lucerne - 1H Light #1
 103802010 Lucerne - 1H Light #2 (thrust)
 103802020 Lucerne - 1H Light #3 (thrust)
@@ -2855,6 +2866,8 @@
 103807313 Gundyr's Halberd
 103807315 Gundyr's Halberd
 103807318 Gundyr's Halberd
+103807410 Gundyr's Halberd - 1H Kick
+103807420 Gundyr's Halberd - 2H Kick
 103807700 Gundyr's Halberd
 103807705 Gundyr's Halberd
 103807800 Gundyr's Halberd
@@ -3033,6 +3046,7 @@
 104100701 Spell Tool - Steady Chant - Left
 104100920 Spell Tool
 104100921 Spell Tool
+104100990 Spell Tool - Quickstep
 104101000 Staff - 1H Light
 104101030 Staff
 104101100 Staff - 1H Heavy
@@ -3196,6 +3210,7 @@
 104200760 Caestus - Weapon Art
 104200761 Caestus - Weapon Art
 104200800 Caestus - Weapon Art
+104200990 Caestus - Quickstep
 104201000 Fist - 1H Light #1
 104201010 Fist - 1H Light #2
 104201020 Fist - 1H Light #3
@@ -3209,7 +3224,7 @@
 104201400 Fist - Left Hand
 104201402 Fist - Left Hand
 104201404 Fist - Left Hand
-104201410 Fist - 1H Short
+104201410 Fist - 1H Kick
 104201430 Fist - 1H Guard
 104201450 Fist - Parry
 104201470 Fist - Large Throw
@@ -3328,7 +3343,9 @@
 104203610 Dark Hand
 104203615 Dark Hand
 104203700 Dark Hand - Weapon Art
-104205410 Demon's Fist
+104205106 Demon's Fist - 1H Heavy #1 (Charged) - Bullet
+104205107 Demon's Fist - 2H Heavy #1 (Charged) - Bullet
+104205410 Demon's Fist - Kick
 104205800 Demon's Fist
 104205810 Demon's Fist
 104205820 Demon's Fist
@@ -3391,6 +3408,8 @@
 104207751 Flurry of Fists
 104207760 Flurry of Fists
 104207761 Flurry of Fists
+104208106 Hands of God - 1H Heavy #1 (Charged) - Bullet
+104208107 Hands of God - 2H Heavy #1 (Charged) - Bullet
 104208700 Hands of God - Flurry of Fists
 104208701 Hands of God - Flurry of Fists
 104208702 Hands of God - Flurry of Fists
@@ -3450,6 +3469,7 @@
 104300700 Whip
 104300710 Whip
 104300720 Whip
+104300990 Whip - Quickstep
 104302000 Rose of Ariandel
 104302010 Rose of Ariandel
 104302020 Rose of Ariandel
@@ -3521,6 +3541,9 @@
 104600710 Crossbow - Tackle
 104600711 Crossbow - Tackle
 104600800 Crossbow
+104600990 Crossbow - Quickstep
+104601300 Cannon - 2H Heavy
+104601400 Cannon - Left Hand
 104700000 Large Shield - 1H Light #1
 104700001 Large Shield
 104700010 Large Shield - 1H Light #2
@@ -3553,10 +3576,11 @@
 104700600 Large Shield - Parry
 104700601 Large Shield - General Range
 104700610 Large Shield - Backstab Transition
-104700700 Large Shield
-104700701 Large Shield
-104700710 Large Shield
+104700700 Large Shield - Shield Bash
+104700701 Large Shield - Shield Bash
+104700710 Large Shield - Shield Bash
 104700800 Large Shield - Magic Sword
+104700990 Large Shield - Quickstep
 104701000 Wood Large Shield - 1H Light #1
 104701010 Wood Large Shield - 1H Light #2
 104701020 Wood Large Shield - 1H Light #3
@@ -3605,13 +3629,15 @@
 104705702 Moaning Shield
 104705704 Moaning Shield
 104707700 Dragonhead Greatshield
-104708100 Cart Wheel - 1H Heavy #1
-104708110 Cart Wheel - 1H Heavy #2
-104708300 Cart Wheel - 2H Heavy #1
-104708310 Cart Wheel - 2H Heavy #2
-104708700 Cart Wheel - Weapon Art
-104708702 Cart Wheel - Weapon Art
-104708704 Cart Wheel - Weapon Art
+104708100 Breaking Wheel - 1H Heavy #1
+104708110 Breaking Wheel - 1H Heavy #2
+104708300 Breaking Wheel - 2H Heavy #1
+104708310 Breaking Wheel - 2H Heavy #2
+104708700 Breaking Wheel - Weapon Art
+104708702 Breaking Wheel - Weapon Art
+104708704 Breaking Wheel - Weapon Art
+104708706 Breaking Wheel - Weapon Art - Self-buff
+104709712 King's Mirror - Shield Bash
 104800000 Small Shield - 1H Light #1
 104800010 Small Shield - 1H Light #2
 104800020 Small Shield - 1H Light #3
@@ -3644,10 +3670,11 @@
 104800580 Small Shield - 2H Backstep
 104800600 Small Shield - Parry
 104800610 Small Shield - Backstab Transition
-104800700 Small Shield - Weapon Art
-104800701 Small Shield - Weapon Art
-104800710 Small Shield - Weapon Art
+104800700 Small Shield - Weapon Art - Left-hand Strike
+104800701 Small Shield - Weapon Art - Right-hand Strike
+104800710 Small Shield - Weapon Art - 2H Strike
 104800780 Small Shield - Blown Attack
+104800990 Small Shield - Quickstep
 104803000 Pierce Shield - 1H Light #1
 104803010 Pierce Shield - 1H Light #2
 104803020 Pierce Shield - 1H Light #3
@@ -3712,6 +3739,7 @@
 104805451 Golden Falcon Shield
 104806700 Dragonhead Shield
 104806701 Dragonhead Shield
+104807720 Crystal Ring Shield - Unleash Moonlight
 104900000 Torch
 104900010 Torch
 104900020 Torch
@@ -3741,6 +3769,7 @@
 104900530 Torch
 104900540 Torch
 104900580 Torch
+104900990 Torch - Quickstep
 104901040 Follower Torch
 104901470 Follower Torch
 104901490 Follower Torch
@@ -3835,6 +3864,7 @@
 105000615 Scythe
 105000616 Scythe
 105000700 Scythe
+105000990 Scythe - Quickstep
 105010000 Pontiff Knight Great Scythe
 105010001 Pontiff Knight Great Scythe
 105010010 Pontiff Knight Great Scythe
@@ -3898,6 +3928,8 @@
 105010581 Pontiff Knight Great Scythe
 105010615 Pontiff Knight Great Scythe
 105010700 Pontiff Knight Great Scythe
+105011700 Lothric's Scythe - Weapon Art
+105011705 Lothric's Scythe - Weapon Art
 105030000 Friede's Great Scythe
 105030001 Friede's Great Scythe
 105030010 Friede's Great Scythe
@@ -4038,6 +4070,7 @@
 105100700 Carthus Curved Greatsword - Spin
 105100710 Carthus Curved Greatsword - Spin
 105100720 Carthus Curved Greatsword - Spin
+105100990 Carthus Curved Greatsword - Quickstep
 105110700 Murakumo
 105110710 Murakumo
 105110711 Murakumo
@@ -4100,6 +4133,7 @@
 105300700 Scimitar
 105300710 Scimitar
 105300720 Scimitar
+105300990 Scimitar - Quickstep
 105301700 Painting Guardian's Curved Sword
 105301710 Painting Guardian's Curved Sword
 105301720 Painting Guardian's Curved Sword
@@ -4233,7 +4267,9 @@
 201613200 Abyssal Edge - Right - Ascended
 201613210 Abyssal Edge - Left - Ascended
 202458000 Flame Fan - Right
+202458010 Flame Fan - Right - Ascended
 202458100 Flame Fan - Left
+202458110 Flame Fan - Left - Ascended
 202458200 Dark Edge - Right
 202458210 Dark Edge - Left
 202458300 Dark Edge - Right - Ascended

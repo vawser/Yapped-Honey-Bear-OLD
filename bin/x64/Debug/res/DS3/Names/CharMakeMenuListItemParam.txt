@@ -119,6 +119,13 @@
 721 Hairstyle - Type 21
 722 Hairstyle - Type 22
 723 Hairstyle - Type 23
+724 Hairstyle - Aranea
+725 Hairstyle - Ardyn
+726 Hairstyle - Cloud
+727 Hairstyle - Ignis
+728 Hairstyle - Noctis
+729 Hairstyle - Ravus
+730 Hairstyle - Sekiro
 800 Tattoo - None
 801 Tattoo - Type 1
 802 Tattoo - Type 2

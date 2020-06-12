@@ -54,7 +54,7 @@
 1372000 Farron Hail
 1372006 Farron Hail [Ascended]
 1373000 Crystal Hail
-1373006 Crystal Hail [Mastery]
+1373006 Crystal Hail [Ascended]
 1374000 Soul Greatsword
 1374006 Soul Greatsword [Ascended]
 1375000 Farron Flashsword
@@ -195,6 +195,18 @@
 2713006 Rockflesh [Ascended]
 2714000 Immolation
 2714006 Immolation [Ascended]
+2715000 Pungent Blade
+2715006 Pungent Blade [Ascended]
+2716000 Black Flame Arc
+2716006 Black Flame Arc [Ascended]
+2717000 Black Fireball
+2717006 Black Fireball [Ascended]
+2718000 Black Fire Scatter
+2718006 Black Fire Scatter [Ascended]
+2719000 Black Fire Vestiges
+2719006 Black Fire Vestiges [Ascended]
+2720000 Fecal Expulsion
+2720006 Fecal Expulsion [Ascended]
 3399999 ### Miracles ###
 3490000 Heal Aid
 3490006 Heal Aid [Ascended]
@@ -295,4 +307,8 @@
 3815000 Proof of a Pact
 3815006 Proof of a Pact [Ascended]
 3816000 Ghostly Assault
+3817000 Pulsating Blade
+3817006 Pulsating Blade [Ascended]
+3818000 Overwhelming Power
+3818006 Overwhelming Power [Ascended]
 5200000 ### Below are NPC versions of the above spells

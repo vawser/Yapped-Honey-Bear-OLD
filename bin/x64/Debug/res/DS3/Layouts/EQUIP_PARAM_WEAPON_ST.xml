@@ -24,7 +24,8 @@
     <item value="47" name="Greatshield" />
     <item value="48" name="Shield" />
     <item value="49" name="Torch" />
-    
+    <item value="50" name="Great Scythe" />
+    <item value="51" name="Curved Greatsword" />
   </enum>
   <enum name="GuardMovesetCategory" type="u8">
     <item value="0" name="Shield" />
@@ -467,7 +468,6 @@
     <name>Weapon Moveset Category</name>
     <type>u8</type>
     <default>42</default>
-    <enum>WeaponMovesetCategory</enum>
   </entry>
   <entry>
     <name>Guard Moveset Category</name>
@@ -764,7 +764,7 @@
     <default>False</default>
   </entry>
   <entry>
-    <name>Is Shootable</name>
+    <name>Is Greatarrow</name>
     <type>b8</type>
     <default>False</default>
   </entry>

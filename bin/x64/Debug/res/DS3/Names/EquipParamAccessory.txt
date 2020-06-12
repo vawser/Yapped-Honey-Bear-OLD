@@ -12,6 +12,9 @@
 10110 Pilgrims of Dark
 10120 Way of White
 10130 Dragon Remnants
+10140 Blue Sentinels
+10150 Way of Blue
+10160 Company of Champions
 19999 ### Rings ###
 20000 Life Ring
 20001 Life Ring+1
@@ -118,7 +121,6 @@
 20431 Skull Ring+1
 20432 Skull Ring+2
 20433 Skull Ring+3
-20440 Untrue White Ring
 20450 Carthus Milkring
 20460 Knight's Ring
 20461 Knight's Ring+1
@@ -150,7 +152,6 @@
 20523 Dark Clutch Ring+3
 20540 Flynn's Ring
 20550 Prisoner's Chain
-20560 Untrue Dark Ring
 20580 Obscuring Ring
 20590 Ring of the Evil Eye
 20600 Ring of Calamity
@@ -265,19 +266,10 @@
 30701 Band of Darkness+1
 30702 Band of Darkness+2
 30703 Band of Darkness+3
-30710 Rainbow Ring
-30720 Ring of the Dutiful
-30730 Ring of the Blessed
-30740 Ring of the Resolute
-30750 Ring of the Faithful
-30760 Ring of the Devout
-30770 Ring of the Fanatic
-30780 Ring of Rosaria
-30790 Ring of Demons
 30800 Elden Ring
 30810 Rare Ring of Humanity
-30820 Tomb Ring
-30830 Accursed Ring
 30840 Fool's Sigil
-30850 Rattling Finger
-30860 Murky Finger
+30870 Ring of Momentum
+30880 Ring of Grace
+30890 Ring of Punishment
+30900 Dashmaster's String
