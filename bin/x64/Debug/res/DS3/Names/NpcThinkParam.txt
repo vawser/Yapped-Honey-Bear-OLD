@@ -151,8 +151,7 @@
 29341 Creighton the Wanderer - Red Phantom [Irithyll]
 29440 Alva, Seeker of the Spurned - Red Phantom [Irithyll Dungeon]
 29540 Longfinger Kirk - Red Phantom [Cathedral of the Deep]
-29999 ### NPCs ###
-30000 Sieghardt of Catarina
+29999 ### Invaders ###
 30100 Luyila of Londor
 30200 Forgotten Locklin
 30300 Holy Knight Morton
@@ -165,12 +164,6 @@
 31100 Devotee Scarlett
 31200 Fester the Jester
 31300 Inquisitor Ashford
-31400 Dragon Cultist Xeric
-31401 Dragon Cultist Zena
-31402 Dragon Cultist Pon
-31403 Dragon Cultist Kalix
-31404 Dragon Cultist Wex
-31405 Dragon Cultist Solos
 31500 Corrupted Knight Lloyd
 31600 Huntmaster Ava
 31700 The Pursuer [High Wall of Lothric]
@@ -183,9 +176,6 @@
 32000 Ollis the Merciless
 32100 Vileblood Annalise
 32200 The Forlorn
-32300 The Father
-32400 The Mother
-32500 The Child
 32600 Dragon Knight Oswald
 32700 Dragon Knight Terrill
 32800 Dragon Knight Lyre
@@ -199,9 +189,6 @@
 33600 Easterner Iazeel
 33700 Gaius the Mighty
 33800 Quintus the Monstrous
-33900 Thorned Knight
-34000 Undead Hexer
-34100 Roaming Sorcerer
 34200 Blacksmith's Nightmare
 34300 Frozen Knight Torbjorn
 34400 Bewitched Knight Iwai
@@ -213,7 +200,6 @@
 35000 Hallowed Knight Orthell
 35100 Dragon Hunter Karstark
 35200 Disciple of Alsanna
-35300 The Prowler
 39999 ### Companions ###
 40000 Solaire of Astora
 40010 El Crabbo
@@ -223,10 +209,27 @@
 40050 Pickle
 40060 Petyr the Hungry
 40070 Zippy
+49999 ### Hostile NPCs ###
+50000 Dragon Cultist Xeric
+50010 Dragon Cultist Zena
+50020 Dragon Cultist Pon
+50030 Dragon Cultist Kalix
+50040 Dragon Cultist Wex
+50050 Dragon Cultist Solos
+50060 Burial Knight - Scythe of Nahr Alma
+50070 Burial Knight - Reinforced Club
+50080 Burial Knight - Flamberge
+50090 Burial Knight - Great Machete
+50100 Burial Knight - Barbed Straight Sword
+50110 The Father
+50120 The Mother
+50130 The Child
 89999 ### Enemies ###
 90390 Dungeon Objects (for bullet owners)
 101000 Gyrm
 101001 Gyrm - TOG
+101100 Gyrm - Halberd [Boss]
+101101 Gyrm - Twinaxes [Boss]
 102000 Morne's Armor
 102001 Morne's Armor - TOG
 103000 Mirror Knight
@@ -677,10 +680,12 @@
 227002 Giant Crab
 227003 Giant Crab
 227004 Giant Crab - TOG
+227005 Giant Crab - Mark of Piscis
 227100 Lesser Crab
 227101 Lesser Crab
 227102 Lesser Crab - Tight Lease
 227103 Lesser Crab - TOG
+227105 Lesser Crab - Mark of Piscis
 228000 Giant Rat
 228001 Giant Rat - TOG
 229000 Irithyll Dog
@@ -732,6 +737,7 @@
 314020 Ancient Wyvern
 314100 [Boss] Ancient Wyvern
 314200 Ancient Wyvern
+314300 Ancient Wyvern - Bridge
 316000 Dragonslayer Armour
 316001 Dragonslayer Armour - TOG
 316010 Dragonslayer Armour
@@ -956,9 +962,15 @@
 721300 Domhnall of Zena
 721400 Marvelous Chester
 721500 Crestfallen Merchant
+721600 Grave Warden Lillian
+721700 Magnum Ursus
+721800 Alchemist Jiji
+721900 Solaire of Astora
 750000 The Lord's Blade
 751000 The Abyss Walker
 752000 The Dragonslayer
+753000 Fume Knight
+753100 Fume Knight (Heatup)
 809999 ### Trial ###
 810000 Skeleton (Scimitar)
 810001 Skeleton (Falchion)
@@ -1062,6 +1074,14 @@
 810530 Giant Crab
 810540 Lesser Crab
 810550 Gyrm
+810560 Dragonrider
+810570 Deep Accursed
+810580 Mirror Knight
+810590 Ringed Knight
+810600 Black Knight - Greatsword
+810610 Black Knight - Greataxe
+810620 Black Knight - Sword
+810630 Black Knight - Halberd
 900000 ### Old ###
 901000 Hiras Test
 901100 Yoshihi Test

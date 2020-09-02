@@ -1,5 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <enum name="ToCaution" type="u8">
+    <item value="0" name="Wait for Battle Start Distance" />
+    <item value="1" name="Look at Source" />
+    <item value="2" name="Approach Source" />
+    <item value="3" name="Run to Source" />
+    <item value="4" name="Immediate Battle AI" />
+  </enum>
+  <enum name="ToFind" type="u8">
+    <item value="0" name="Wait for Battle Start Distance" />
+    <item value="1" name="Look at Source" />
+    <item value="2" name="Approach Source" />
+    <item value="3" name="Run to Source" />
+    <item value="4" name="Immediate Battle AI" />
+  </enum>
   <entry>
     <name>Logic ID</name>
     <type>s32</type>
@@ -43,7 +57,7 @@
     <description>Retreat goal time when touching an 'enemy wall' that blocks the NPC's path.</description>
   </entry>
   <entry>
-    <name>Goal ID - To Caution</name>
+    <name>Goal ID - To Caution (Sound)</name>
     <type>f32</type>
     <default>8</default>
     <description>Goal ID to use when NPC's AI enters the 'Caution' state. Requires a Caution Goal Action value of 4.</description>
@@ -55,7 +69,7 @@
     <description>Animation to use if the NPC gets stuck on a destructible object.</description>
   </entry>
   <entry>
-    <name>Goal ID - To Find</name>
+    <name>Goal ID - To Find (Sight)</name>
     <type>f32</type>
     <default>0.1</default>
     <description>Goal ID to use when NPC's AI enters the 'Search' state. Requires a SearchGoalAction value of 4.</description>
@@ -229,16 +243,18 @@
     <description>Maximum time for response goal at first waiting goal.</description>
   </entry>
   <entry>
-    <name>Goal Action - To Caution</name>
+    <name>Goal Action - To Caution (Sound)</name>
     <type>u8</type>
     <default>1</default>
     <description>Type of action taken when AI enters the 'Caution' state.</description>
+    <enum>ToCaution</enum>
   </entry>
   <entry>
-    <name>Goal Action - To Find</name>
+    <name>Goal Action - To Find (Sight)</name>
     <type>u8</type>
     <default>2</default>
     <description>Type of action taken when AI enters the 'Search' state.</description>
+    <enum>ToFind</enum>
   </entry>
   <entry>
     <name>Call Help - Reply Behavior Type</name>

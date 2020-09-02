@@ -1,75 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <enum name="WeaponMovesetCategory" type="u8">
-    <item value="0" name="None" />
-    <item value="20" name="Dagger" />
-    <item value="23" name="Straight Sword" />
-    <item value="25" name="Greatsword" />
-    <item value="26" name="Ultra Greatsword" />
-    <item value="27" name="Thrusting Sword" />
-    <item value="28" name="Curved Sword" />
-    <item value="29" name="Katana" />
-    <item value="30" name="Axe" />
-    <item value="32" name="Greataxe" />
-    <item value="33" name="Hammer" />
-    <item value="35" name="Great Hammer" />
-    <item value="36" name="Spear" />
-    <item value="38" name="Halberd" />
-    <item value="41" name="Spell Tool" />
-    <item value="42" name="Fist" />
-    <item value="43" name="Whip/Claw" />
-    <item value="44" name="Bow" />
-    <item value="45" name="Greatbow" />
-    <item value="46" name="Crossbow" />
-    <item value="47" name="Greatshield" />
-    <item value="48" name="Shield" />
-    <item value="49" name="Torch" />
-    <item value="50" name="Great Scythe" />
-    <item value="51" name="Curved Greatsword" />
+    <item value="0" name="0 None" />
+    <item value="20" name="20 Dagger" />
+    <item value="23" name="23 - Straight Sword" />
+    <item value="25" name="25 - Greatsword" />
+    <item value="26" name="26 - Ultra Greatsword" />
+    <item value="27" name="27 - Thrusting Sword" />
+    <item value="28" name="28 - Curved Sword" />
+    <item value="29" name="29 - Katana" />
+    <item value="30" name="30 - Axe" />
+    <item value="32" name="32 - Greataxe" />
+    <item value="33" name="33 - Hammer" />
+    <item value="35" name="35 - Great Hammer" />
+    <item value="36" name="36 - Spear" />
+    <item value="38" name="38 - Halberd" />
+    <item value="41" name="41 - Spell Tool" />
+    <item value="42" name="42 - Fist" />
+    <item value="43" name="43 - Whip/Claw" />
+    <item value="44" name="44 - Bow" />
+    <item value="45" name="45 - Greatbow" />
+    <item value="46" name="46 - Crossbow" />
+    <item value="47" name="47 - Greatshield" />
+    <item value="48" name="48 - Shield" />
+    <item value="49" name="49 - Torch" />
+    <item value="50" name="50 - Great Scythe" />
+    <item value="51" name="51 - Curved Greatsword" />
   </enum>
   <enum name="GuardMovesetCategory" type="u8">
-    <item value="0" name="Shield" />
-    <item value="1" name="Greatshield" />
-    <item value="2" name="Weapon" />
+    <item value="0" name="0 - Shield" />
+    <item value="1" name="1 - Greatshield" />
+    <item value="2" name="2 - Weapon" />
   </enum>
   <enum name="MovesetAttribute" type="u8">
-    <item value="0" name="None" />
-	<item value="1" name="Physical" />
-	<item value="2" name="Fire" />
-    <item value="3" name="Magic" />
-    <item value="4" name="Poison/Bleed" />
-    <item value="6" name="Lightning" />
-    <item value="7" name="Petrify" />
-    <item value="8" name="Crystallize" />
-    <item value="9" name="Dark" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - Physical" />
+	<item value="2" name="2 - Fire" />
+    <item value="3" name="3 - Magic" />
+    <item value="4" name="4 - Poison/Bleed" />
+    <item value="6" name="6 - Lightning" />
+    <item value="7" name="7 - Petrify" />
+    <item value="8" name="8 - Crystallize" />
+    <item value="9" name="9 - Dark" />
   </enum>
   <enum name="WeaponCategory" type="u8">
-    <item value="0" name="Dagger" />
-    <item value="1" name="Straight Sword / Greatsword / Ultra Greatsword / Whip" />
-    <item value="2" name="Thrusting Sword" />
-    <item value="3" name="Curved Sword / Curved Greatsword" />
-    <item value="4" name="Axe" />
-    <item value="5" name="Hammer" />
-    <item value="6" name="Spear" />
-    <item value="7" name="Halberd / Reaper" />
-    <item value="8" name="Spell Tool" />
-    <item value="9" name="Fist" />
-    <item value="10" name="Bow / Greatbow" />
-    <item value="11" name="Crossbow" />
-    <item value="12" name="Shield / Torch" />
-    <item value="13" name="Arrow" />
-    <item value="14" name="Bolt" />
+    <item value="0" name="0 - Dagger" />
+    <item value="1" name="1 - Straight Sword / Greatsword / Ultra Greatsword / Whip" />
+    <item value="2" name="2 - Thrusting Sword" />
+    <item value="3" name="3 - Curved Sword / Curved Greatsword" />
+    <item value="4" name="4 - Axe" />
+    <item value="5" name="5 - Hammer" />
+    <item value="6" name="6 - Spear" />
+    <item value="7" name="7 - Halberd / Reaper" />
+    <item value="8" name="8 - Spell Tool" />
+    <item value="9" name="9 - Fist" />
+    <item value="10" name="10 - Bow / Greatbow" />
+    <item value="11" name="11 - Crossbow" />
+    <item value="12" name="12 - Shield / Torch" />
+    <item value="13" name="13 - Arrow" />
+    <item value="14" name="14 - Bolt" />
   </enum>
   <enum name="WeaponHoldPosition" type="u8">
-    <item value="0" name="One hand down by hip" />
-	<item value="2" name="One hand on shoulder" />
-    <item value="3" name="One hand down and behind hip" />
-    <item value="10" name="Both hands in front" />
-    <item value="12" name="Both hands on shoulder" />
-    <item value="13" name="Both hands in spear position" />
-    <item value="14" name="Both hands in bow position" />
-    <item value="15" name="Both hands in shield position" />
-    <item value="16" name="Both hands in crossbow position" />
+    <item value="0" name="0 - Idle Hold: 1H Hip" />
+    <item value="1" name="1 - Idle Hold: 1H Hip (Quick)" />
+	<item value="2" name="2 - Idle Hold: 1H Shoulder" />
+    <item value="3" name="3 - Idle Hold: 1H Spear" />
+    <item value="10" name="10 - Idle Hold: 2H Front" />
+    <item value="12" name="12 - Idle Hold: 2H Shoulder" />
+    <item value="13" name="13 - Idle Hold: 2H Spear" />
+    <item value="14" name="14 - Idle Hold: 2H Bow" />
+    <item value="15" name="15 - Idle Hold: 2H Shield" />
+    <item value="16" name="16 - Idle Hold: 2H Crossbow" />
+    <item value="17" name="17 - Idle Hold: 2H Cannon" />
   </enum>
   <enum name="DisplayType" type="s16">
     <item value="1" name="Dagger" />
@@ -669,22 +671,22 @@
     <default>False</default>
   </entry>
   <entry>
-    <name>Is Normal Attack Type</name>
+    <name>Type Display: Normal</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Is Strike Attack Type</name>
+    <name>Type Display: Strike</name>
     <type>b8</type>
     <default>True</default>
   </entry>
   <entry>
-    <name>Is Slash Attack Type</name>
+    <name>Type Display: Slash</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>Is Thrust Attack Type</name>
+    <name>Type Display: Thrust</name>
     <type>b8</type>
     <default>False</default>
   </entry>
@@ -981,7 +983,7 @@
   <entry>
     <name>Poise Health Multiplier</name>
     <type>f32</type>
-    <default>0.083</default>
+    <default>1</default>
   </entry>
   <entry>
     <name>Unk13</name>
@@ -989,9 +991,9 @@
     <default>False</default>
   </entry>
   <entry>
-    <name>Gai Item Menu</name>
+    <name>Is Dual Weapon</name>
     <type>b8</type>
-    <default>True</default>
+    <default>False</default>
   </entry>
   <entry>
     <name>Is Auto Equip</name>
@@ -1117,7 +1119,6 @@
     <name>Display Type ID</name>
     <type>s16</type>
     <default>35</default>
-    <enum>DisplayType</enum>
   </entry>
   <entry>
     <name>Correction Value 0</name>
@@ -1355,7 +1356,7 @@
     <default>450</default>
   </entry>
   <entry>
-    <name>SpEff9600</name>
+    <name>Multiplayer Weapon Adjustment</name>
     <type>s16</type>
     <default>310</default>
   </entry>

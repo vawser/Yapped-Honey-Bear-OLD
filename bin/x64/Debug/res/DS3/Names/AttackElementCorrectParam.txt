@@ -65,5 +65,6 @@
 40013 Primordial Flame
 40014 Darkmoon Volley
 40015 Holy Arrow
+40016 Handmaid's Ladle
 49999 ### Spells ###
 50000 Spell

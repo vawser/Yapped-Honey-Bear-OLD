@@ -79,8 +79,9 @@
 609 Beard - Type 9
 610 Beard - Type 10
 611 Beard - Type 11
-612 Beard - Type 12
-613 Beard - Type 13
+612 Beard - Gael
+613 Beard - Andre
+614 Beard - Vendrick
 620 Beard (Female) - None
 621 Beard (Female) - Type 1
 622 Beard (Female) - Type 2
@@ -93,8 +94,9 @@
 629 Beard (Female) - Type 9
 630 Beard (Female) - Type 10
 631 Beard (Female) - Type 11
-632 Beard (Female) - Type 12
-633 Beard (Female) - Type 13
+632 Beard (Female) - Gael
+633 Beard (Female) - Andre
+634 Beard (Female) - Vendrick
 700 Hairstyle - None
 701 Hairstyle - Type 1
 702 Hairstyle - Type 2
@@ -126,6 +128,8 @@
 728 Hairstyle - Noctis
 729 Hairstyle - Ravus
 730 Hairstyle - Sekiro
+731 Hairstyle - Fire Keeper
+732 Hairstyle - Vendrick
 800 Tattoo - None
 801 Tattoo - Type 1
 802 Tattoo - Type 2
@@ -229,7 +233,8 @@
 100223 Class - Outcast
 100224 Class - Skeptic
 100225 Class - Paladin
-100226 Class - Accursed
+100226 Class - Jester
+100227 Class - Accursed
 100300 Gift - None
 100301 Gift - Master Key
 100302 Gift - Coiled Sword Fragment

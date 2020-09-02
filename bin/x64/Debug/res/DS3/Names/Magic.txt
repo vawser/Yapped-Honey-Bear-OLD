@@ -1,12 +1,12 @@
 1199999 ### Sorcery ###
 1200000 Farron Dart
 1200006 Farron Dart [Ascended]
-1210000 Scattered Farron Dart
-1210006 Scattered Farron Dart [Ascended]
+1210000 Scattering Soul Orb
+1210006 Scattering Soul Orb [Ascended]
 1300000 Soul Arrow
 1300006 Soul Arrow [Ascended]
-1301000 Scattered Soul Arrow
-1301006 Scattered Soul Arrow [Ascended]
+1301000 Scattering Crystal Orb
+1301006 Scattering Crystal Orb [Ascended]
 1302000 Shockwave
 1302006 Shockwave [Ascended]
 1303000 Soul Geyser
@@ -85,8 +85,6 @@
 1803006 Blizzard [Ascended]
 1805000 Orbs of Judgment
 1805006 Orbs of Judgment [Ascended]
-1806000 Soul Focus
-1806006 Soul Focus [Ascended]
 1807000 Blinding Light
 1807006 Blinding Light [Ascended]
 1808000 Whisper of Despair
@@ -290,8 +288,6 @@
 3803006 Halo [Ascended]
 3805000 Perseverance
 3805006 Perseverance [Ascended]
-3806000 Inner Fervor
-3806006 Inner Fervor [Ascended]
 3807000 Nibble
 3807006 Nibble [Ascended]
 3810000 Devouring Swarm
@@ -307,8 +303,17 @@
 3815000 Proof of a Pact
 3815006 Proof of a Pact [Ascended]
 3816000 Ghostly Assault
+3816006 Ghostly Assault [Ascended]
 3817000 Pulsating Blade
 3817006 Pulsating Blade [Ascended]
 3818000 Overwhelming Power
 3818006 Overwhelming Power [Ascended]
+3819000 Wrathful Orbs
+3819006 Wrathful Orbs [Ascended]
+3820000 Holy Schism
+3820006 Holy Schism [Ascended]
+3821000 Wrathful Barrage
+3821006 Wrathful Barrage [Ascended]
+3822000 Gravelord Sword Dance
+3822006 Gravelord Sword Dance [Ascended]
 5200000 ### Below are NPC versions of the above spells

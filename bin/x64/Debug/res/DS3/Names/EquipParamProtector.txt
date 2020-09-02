@@ -34,11 +34,19 @@
 1181000 Titanite Demon Body
 1182000 Titanite Demon Hands
 1183000 Titanite Demon Legs
+1190000 Old Hunter Head
+1191000 Old Hunter Body
+1192000 Old Hunter Hands
+1193000 Old Hunter Legs
 1200000 Screenshot Armor - Head
 1201000 Screenshot Armor - Body
 1202000 Screenshot Armor - Arms
 1203000 Screenshot Armor - Legs
 1210000 Symbol of Avarice - NPC
+1220000 Magnum Ursus - Head
+1221000 Magnum Ursus - Body
+1222000 Magnum Ursus - Hands
+1223000 Magnum Ursus - Legs
 10000001 ### Armor ###
 10010000 Gough's Helm
 10011000 Gough's Armor
@@ -72,6 +80,15 @@
 10081000 Chester's Long Coat
 10082000 Chester's Gloves
 10083000 Chester's Trousers
+10090000 Winged Helm of Ridoh
+10100000 King's Crown
+10101000 King's Armor
+10102000 King's Gauntlets
+10103000 King's Leggings
+10110000 Cowl of the Bear
+10111000 Armor of the Bear
+10112000 Gauntlets of the Bear
+10113000 Leggings of the Bear
 19000000 Fallen Knight Helm
 19001000 Fallen Knight Armor
 19002000 Fallen Knight Gauntlets
@@ -612,10 +629,10 @@
 99711000 Steel Armor
 99712000 Steel Gauntlets
 99713000 Steel Leggings
-99720000 Drakekeeper Helm
-99721000 Drakekeeper Armor
-99722000 Drakekeeper Gauntlets
-99723000 Drakekeeper Leggings
+99720000 Dragon Hunter Helm
+99721000 Dragon Hunter Armor
+99722000 Dragon Hunter Gauntlets
+99723000 Dragon Hunter Leggings
 99730000 Ivory King Helm
 99731000 Ivory King Armor
 99732000 Ivory King Gauntlets
@@ -660,7 +677,10 @@
 99831000 Loyce Armor
 99832000 Loyce Gauntlets
 99833000 Loyce Leggings
-99840000 Black Stag Helm
+99840000 Tarnished Knight Helm
+99841000 Tarnished Knight Armor
+99842000 Tarnished Knight Gauntlets
+99843000 Tarnished Knight Leggings
 99850000 Golem Helm
 99851000 Golem Armor
 99852000 Golem Gauntlets

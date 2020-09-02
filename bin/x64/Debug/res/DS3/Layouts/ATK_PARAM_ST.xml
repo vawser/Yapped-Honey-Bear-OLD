@@ -1,52 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <enum name="AttackAttribute" type="s8">
-    <item value="0" name="None" />
-	<item value="1" name="Slash" />
-	<item value="2" name="Strike" />
-    <item value="3" name="Thrust" />
-    <item value="4" name="Standard" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - Slash" />
+	<item value="2" name="2 - Strike" />
+    <item value="3" name="3 - Thrust" />
+    <item value="4" name="4 - Standard" />
   </enum>
   <enum name="EffectAttribute" type="s8">
     <item value="-1" name="None" />
-    <item value="0" name="None" />
-	<item value="1" name="Physical" />
-	<item value="2" name="Fire" />
-    <item value="3" name="Magic" />
-    <item value="4" name="Poison/Bleed" />
-    <item value="6" name="Lightning" />
-    <item value="7" name="Petrify" />
-    <item value="8" name="Crystallize" />
-    <item value="9" name="Dark" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - Physical" />
+	<item value="2" name="2 - Fire" />
+    <item value="3" name="3 - Magic" />
+    <item value="4" name="4 - Poison/Bleed" />
+    <item value="6" name="6 - Lightning" />
+    <item value="7" name="7 - Petrify" />
+    <item value="8" name="8 - Crystallize" />
+    <item value="9" name="9 - Dark" />
   </enum>
   <enum name="DamageLevel" type="u8">
-    <item value="0" name="None" />
-	<item value="1" name="No Stagger" />
-	<item value="2" name="Short Stagger" />
-    <item value="3" name="Long Stagger" />
-    <item value="4" name="Stagger to Floor" />
-    <item value="5" name="Stagger Backwards" />
-    <item value="6" name="Faceplant" />
-    <item value="7" name="Stagger to Floor" />
-    <item value="8" name="Faceplant" />
-    <item value="9" name="Air Juggle Stagger" />
-    <item value="10" name="Push" />
-    <item value="11" name="Strong Stagger" />
-    <item value="12" name="Stagger Backwards" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - No Stagger" />
+	<item value="2" name="2 - Short Stagger" />
+    <item value="3" name="3 - Long Stagger" />
+    <item value="4" name="4 - Stagger to Floor" />
+    <item value="5" name="5 - Stagger Backwards" />
+    <item value="6" name="6 - Faceplant" />
+    <item value="7" name="7 - Stagger to Floor" />
+    <item value="8" name="8 - Faceplant" />
+    <item value="9" name="9 - Air Juggle Stagger" />
+    <item value="10" name="10 - Push" />
+    <item value="11" name="11 - Strong Stagger" />
+    <item value="12" name="12 - Stagger Backwards" />
   </enum>
   <enum name="AttackType" type="s8">
-    <item value="0" name="Slash" />
-	<item value="1" name="Strike" />
-	<item value="2" name="Thrust" />
+    <item value="0" name="0 - Slash" />
+	<item value="1" name="1 - Strike" />
+	<item value="2" name="2 - Thrust" />
   </enum>
   <enum name="HitType" type="u8">
-    <item value="0" name="Default" />
-	<item value="2" name="Whip Attack" />
+    <item value="0" name="0 - Ignore Collision" />
+	<item value="2" name="2 - Invoke Collision" />
   </enum>
   <enum name="MapHitType" type="u8">
-    <item value="0" name="Default" />
-	<item value="1" name="Projectile" />
-	<item value="2" name="Hazard" />
+    <item value="0" name="0 - Default" />
+	<item value="1" name="1 - Projectile" />
+	<item value="2" name="2 - Hazard" />
   </enum>
   <entry>
     <name>Hit 1: Radius</name>
@@ -367,9 +367,9 @@
   </entry>
   <entry>
     <name>Guard Absorption Bypass Rate</name>
-    <type>u8</type>
+    <type>s8</type>
     <default>0</default>
-    <description>Percentage (from -100 to 100) of target's current guard rate to ignore. A value of 100 will ignore guarding completely, and a value of -100 will double their guarding effectiveness.</description>
+    <description>Percentage (from -100 to 100) of target's current guard rate to ignore. A value of -100 will ignore guarding completely, and a value of 100 will double their guarding effectiveness.</description>
   </entry>
   <entry>
     <name>Attack Attribute</name>
@@ -517,19 +517,19 @@
     <default>False</default>
   </entry>
   <entry>
-    <name>0x81</name>
+    <name>Unk</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
-    <name>0x81</name>
+    <name>Unk</name>
     <type>b8</type>
     <default>False</default>
   </entry>
   <entry>
     <name>pad1</name>
-    <type>u8</type>
-    <default>0</default>
+    <type>dummy8</type>
+    <size>1</size>
   </entry>
   <entry>
     <name>Regainable Slot ID</name>

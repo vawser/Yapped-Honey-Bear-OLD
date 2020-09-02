@@ -32,6 +32,7 @@
 210 [Straight Sword] Unleash Dragon
 211 [Straight Sword] Crystal Shower (Blueblood Sword)
 212 [Straight Sword] Shield Splitter
+213 [Straight Sword] Rune Stance
 300 [Greatsword] Stance
 301 [Greatsword] Wrath of the Gods
 302 [Greatsword] Ember (Firelink Greatsword)
@@ -52,8 +53,8 @@
 317 [Greatsword] Tranquil Walk of Peace
 318 [Greatsword] Beckon Storm
 319 [Greatsword] Moonlight Vortex
-320 [Greatsword] Flame of the Great Lord
 321 [Greatsword] Abyssal Outburst
+322 [Greatsword] Flame of the Great Lord
 400 [Ultra Greatsword] Stomp
 401 [Ultra Greatsword] Parry
 402 [Ultra Greatsword] Charge
@@ -94,7 +95,8 @@
 803 [Katana] Darkdrift
 804 [Katana] Hold (Frayed Blade)
 805 [Katana] Pierce
-806 [Katana] Seppuku
+806 [Katana] Seppuku (Old)
+807 [Katana] Seppuku
 900 [Axe] Warcry (General)
 901 [Axe] Sharpen
 902 [Axe] Feast Bell
@@ -118,6 +120,8 @@
 1104 [Hammer] Breathe Fire
 1105 [Hammer] Ignite
 1106 [Hammer] Bloodlust
+1107 [Hammer] Spark
+1108 [Hammer] Fry Up
 1200 [Great Hammer] Perseverance
 1201 [Great Hammer] Molten Perseverance
 1202 [Great Hammer] Kindled Flurry
@@ -155,6 +159,7 @@
 1319 [Spear] Soul Barrage
 1320 [Spear] Coronal Cascade
 1321 [Spear] Demonic Stance
+1322 [Spear] Stance
 1400 [Halberd] Spin Sweep
 1401 [Halberd] Chain Spin
 1402 [Halberd] Champion's Charge
@@ -179,13 +184,15 @@
 1701 [Fist] Flame Whirlwind
 1702 [Fist] Lifedrain
 1703 [Fist] Perseverance
+1704 [Fist] Inner Turmoil
 1800 [Claw] Leaping Slash
 1801 [Claw] ?
 1802 [Claw] Quickstep
 1803 [Claw] Raptor Flurry
 1804 [Fist] Flurry of Fists
-1805 [Claw] Bestial Fury
+1805 [Claw] Bestial Fury (old)
 1806 [Claw] Crabby
+1807 [Claw] Bestial Fury
 1900 [Bow] Rapid Fire
 1901 [Bow] Puncture
 1902 [Bow] Pharis Triple-Shot

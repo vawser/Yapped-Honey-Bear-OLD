@@ -517,7 +517,7 @@
     <default>10</default>
   </entry>
   <entry>
-    <name>Flick Power Defence</name>
+    <name>Flick Absorption</name>
     <type>u8</type>
     <default>0</default>
   </entry>

@@ -22,6 +22,7 @@
 2102 [Boss - Abyss Watchers] Memory of the Abyss Watchers
 2110 [Boss - Deacons of the Deep] Soul of the Deacons of the Deep
 2111 [Boss - Deacons of the Deep] Memory of the Deacons
+2112 [Boss - Deacons of the Deep] Eye of Londor
 2120 [Boss - Pontiff Sulyvahn] Soul of Pontiff Sulyvahn
 2121 [Boss - Pontiff Sulyvahn] Memory of Pontiff Sulyvahn
 2130 [Boss - Aldrich] Cinders of a Lord
@@ -46,8 +47,9 @@
 2311 [Boss - Lordran Remnants] Memory of the Lordran Remnants
 2330 [Boss - Demon Prince] Soul of the Demon Prince
 2331 [Boss - Demon Prince] Memory of the Demon Prince
-2340 [Boss - Halflight] Titanite Slab
+2340 [Boss - Halflight] Soul of Halflight
 2341 [Boss - Halflight] Filianore's Spear Ornament
+2342 [Boss - Halflight] Memory of Halflight, Spear of the Church
 2350 [Boss - Midir] Soul of Darkeater Midir
 2351 [Boss - Midir] Spears of the Church
 2352 [Boss - Midir] Memory of Darkeater Midir
@@ -154,18 +156,17 @@
 9010 Ember
 9020 INVALID
 9030 Charcoal Pine Resin
-10000 [Sieghardt of Catarina] Ring of Momentum
 10100 [Luyila of Londor] Darkdrift
 10200 [Forgotten Locklin] Gargoyle Shield
 10300 [Holy Knight Morton] Ring of Punishment
 10500 [Tiny] Bestial Band
-10600 [Captain Morrel] Lightning Lothric Knight Greatsword
+10600 [Captain Morrel] Ring of Momentum
 10700 [Dominatrix Sharron] Witch's Locks
 10800 [Morric, the Fallen Knight] Morne's Great Hammer
 10900 [Tomb Raider Dyfan] Bone Rapier
 11000 [Chaos Servant Eygor] Demon's Axe
 11100 [Devotee Scarlett] Black Tearstone Ring
-11200 [Corrupted Knight Lloyd] Titanite Chunk
+11200 [Corrupted Knight Lloyd] Runic Seal
 11300 [Fester the Jester] Jester's Talisman
 11301 [Fester the Jester] Jester's Cap
 11302 [Fester the Jester] Jester's Robes
@@ -193,7 +194,7 @@
 12500 [The Child] Mask of the Child
 12600 [Dragon Cultist Zena] Dragon Scale
 12700 [Dragon Cultist Pon] Dragon Scale
-12800 [Dragon Cultist Kalix] Dragon Head Stone
+12800 [Dragon Cultist Kalix] Dragon Scale
 12900 [Dragon Cultist Wex] Dragon Scale
 13000 [Dragon Cultist Solos] Dragon Scale
 13100 [Dragon Knight Oswald] Black Dragon Greataxe
@@ -209,21 +210,19 @@
 13601 [Ezekiel of Mirrah] Penetrator Armor
 13602 [Ezekiel of Mirrah] Penetrator Gauntlets
 13603 [Ezekiel of Mirrah] Penetrator Leggings
-13700 [Eija the Shadow] Twinkling Titanite
-13800 [Dulfisk the Accursed] Twinkling Titanite
-13900 [Freya the Wretched] Titanite Scale
+13700 [Eija the Shadow] Titanite Slab
+13800 [Dulfisk the Accursed] Primsatic Slab
+13900 [Freya the Wretched] Prismatic Slab
 14000 [Nahor the Fallen] Scraping Spear
 14100 [Easterner Iazeel] Makoto
-14200 [Gaius the Mighty] Titanite Slab
-14201 [Gaius the Mighty] Helm of Aurous
-14202 [Gaius the Mighty] Armor of Aurous
-14203 [Gaius the Mighty] Gauntlets of Aurous
-14204 [Gaius the Mighty] Leggings of Aurous
-14300 [Quintus the Monstrous] Prismatic Slab
-14301 [Quintus the Monstrous] Six-Eyed Helm of the Channelers
-14302 [Quintus the Monstrous] Robe of the Channelers
-14303 [Quintus the Monstrous] Gauntlets of the Channelers
-14304 [Quintus the Monstrous] Waistcloth of the Channelers
+14200 [Gaius the Mighty] Helm of Aurous
+14201 [Gaius the Mighty] Armor of Aurous
+14202 [Gaius the Mighty] Gauntlets of Aurous
+14203 [Gaius the Mighty] Leggings of Aurous
+14300 [Quintus the Monstrous] Six-Eyed Helm of the Channelers
+14301 [Quintus the Monstrous] Robe of the Channelers
+14302 [Quintus the Monstrous] Gauntlets of the Channelers
+14303 [Quintus the Monstrous] Waistcloth of the Channelers
 14400 [Burial Knight] Twinkling Titanite
 14700 [Blacksmith's Nightmare] Smelter Demon Helm
 14701 [Blacksmith's Nightmare] Smelter Demon Armor
@@ -252,18 +251,14 @@
 15501 [Hallowed Knight Orthell] Hallowed Knight Armor
 15502 [Hallowed Knight Orthell] Hallowed Knight Gauntlets
 15503 [Hallowed Knight Orthell] Hallowed Knight Leggings
-15600 [Dragon Hunter Karstark] Drakekeeper Helm
-15601 [Dragon Hunter Karstark] Drakekeeper Armor
-15602 [Dragon Hunter Karstark] Drakekeeper Gauntlets
-15603 [Dragon Hunter Karstark] Drakekeeper Leggings
+15600 [Dragon Hunter Karstark] Dragon Hunter Helm
+15601 [Dragon Hunter Karstark] Dragon Hunter Armor
+15602 [Dragon Hunter Karstark] Dragon Hunter Gauntlets
+15603 [Dragon Hunter Karstark] Dragon Hunter Leggings
 15700 [Disciple of Alsanna] Ivory King Mask
 15701 [Disciple of Alsanna] Ivory King Armor
 15702 [Disciple of Alsanna] Ivory King Gauntlets
 15703 [Disciple of Alsanna] Ivory King Leggings
-15800 [The Prowler] Mad Warrior Mask
-15801 [The Prowler] Mad Warrior Armor
-15802 [The Prowler] Mad Warrior Gauntlets
-15803 [The Prowler] Mad Warrior Leggings
 50400 [Yuria of Londor] Darkdrift
 50401 [Yuria of Londor] Yuria's Ashes
 50600 [Company Captain Yorshka] Blade of the Darkmoon
@@ -326,8 +321,8 @@
 53000 [Londor Pilgrim] Chameleon
 53010 [Londor Pilgrim] Sword of Avowal
 53011 [Londor Pilgrim] Chameleon
-53020 [Pilgrim Dummy] Ceaseless Dung Pie
-53100 [Drowsy Forlorn] Ceaseless Dung Pie
+53020 [Fire Keeper] None
+53100 [Drowsy Forlorn] Ember
 55200 [Sir Vilhelm] Contraption Key
 55201 [Sir Vilhelm] Onyx Blade
 55400 [Forlorn Corvian Settler] Titanite Slab
@@ -371,7 +366,8 @@
 57900 [Londor Pale Shade] Manikin Claws
 58000 [Lion Knight Albert] Golden Wing Crest Shield
 58100 [Daughter of Crystal Kriemhild] Sage's Crystal Staff
-58120 [Daughter of Crystal Kriemhild] Crystal Fragment
+58120 [Daughter of Crystal Kriemhild - Invader] Crystal Fragment
+58121 [Daughter of Crystal Kriemhild - Invader] Sage's Crystal Staff
 58200 [Court Sorcerer] Logan's Scroll
 58201 [Court Sorcerer] Ring of Wisdom
 58300 [Drang Knight] Drang Twinspears
@@ -391,7 +387,10 @@
 59400 [Shira, Knight of Filianore] White Birch Bow
 59500 [Desert Pyromancer Zoey] Fire Seed
 59600 [Silver Knight Ledo] Ledo's Great Hammer
-59601 [Silver Knight Ledo] Black Stag Helm
+59601 [Silver Knight Ledo] Tarnished Knight Helm
+59602 [Silver Knight Ledo] Tarnished Knight Armor
+59603 [Silver Knight Ledo] Tarnished Knight Gauntlets
+59604 [Silver Knight Ledo] Tarnished Knight Leggings
 59700 [Alva, Seeker of the Spurned] Titanite Slab
 59800 [Moaning Knight] Blindfold Mask
 60200 [Untended Graves] Eyes of a Fire Keeper
@@ -481,6 +480,32 @@
 80000 [Crow] Bone Fragment
 80100 [Crow] Lizard Hide
 80200 [Crow] Resonating Crystal
+80300 [Beast of Lust] Brightbug
+90000 [Gift - Karla] Yearning Dregs
+90010 [Gift - Fire Keeper] Divine Blessing
+90020 [Gift - Painter] Ceaseless Dung Pie
+90030 [Gift - Rosaria] Brightbug
+90040 [Gift - Archdeacon McDonnell] Abyssal Fragment
+90050 [Gift - Company Captain Yorshka] Hidden Blessing
+90060 [Gift - Domhnall of Zena] Awestone
+90070 [Gift - Marvelous Chester] Twinkling Titanite
+90080 [Gift - Crestfallen Merchant] Titanite Scale
+90090 [Gift - Ludleth] Exotic Souls
+90100 [Gift - Yuria of Londor] Repel
+90110 [Gift - Orbeck of Vinheim] Crystal Fragment
+90120 [Gift - Andre] Titanite
+90130 [Gift - Shrine Handmaid] Ember
+90140 [Gift - Cornyx of the Great Swamp] Fire Seed
+90150 [Gift - Irina of Carim] Holy Fragment
+90160 [Gift - Patches] Undead Bone Shard
+90170 [Gift - Grave Warden Lillian] Climax
+90180 [Gift - Magnum Ursus] Cowl of the Bear
+90181 [Gift - Magnum Ursus] Armor of the Bear
+90182 [Gift - Magnum Ursus] Gauntlets of the Bear
+90183 [Gift - Magnum Ursus] Leggings of the Bear
+90190 [Gift - Greirat] Coins
+90200 [Gift - Yoel] Dark Sigil
+90210 [Gift - Solaire] Estus Shard
 3000000 [High Wall of Lothric] Titanite Shard
 3000010 [High Wall of Lothric] Green Blossom
 3000020 [High Wall of Lothric] Repair Powder
@@ -511,7 +536,7 @@
 3000360 [High Wall of Lothric] Ember
 3000370 [High Wall of Lothric] Large Soul of a Deserted Corpse
 3000380 [High Wall of Lothric] Binoculars
-3000390 [High Wall of Lothric] Accursed Signet
+3000390 [High Wall of Lothric] Ember
 3000400 [High Wall of Lothric] Titanite Shard
 3000410 [High Wall of Lothric] Soul of a Deserted Corpse
 3000420 [High Wall of Lothric] Glaive
@@ -693,7 +718,7 @@
 3100910 [Undead Settlement] Missionary Axe
 3100950 [Undead Settlement] Homeward Bone
 3200000 [Archdragon Peak] Dragonslayer Lightning Arrow
-3200010 [Archdragon Peak] Stalk Dung Pie
+3200010 [Archdragon Peak] Dragon Scale
 3200020 [Archdragon Peak] Dragon Scale
 3200030 [Archdragon Peak] Titanite Scale
 3200040 [Archdragon Peak] Soul of a Weary Warrior
@@ -720,10 +745,8 @@
 3200240 [Archdragon Peak] Lightning Gem
 3200260 [Archdragon Peak] Ancient Dragon Greatshield
 3200270 [Archdragon Peak] Dragon Scale
-3200280 [Archdragon Peak] Dragon Scale
 3200290 [Archdragon Peak] Ember
 3200300 [Archdragon Peak] Twinkling Titanite
-3200310 [Archdragon Peak] Stalk Dung Pie
 3200330 [Archdragon Peak] Twinkling Titanite
 3200340 [Archdragon Peak] Gold Pine Resin
 3200350 [Archdragon Peak - Dragon Spot] Havel's Helm
@@ -732,9 +755,8 @@
 3200353 [Archdragon Peak - Dragon Spot] Havel's Leggings
 3200360 [Archdragon Peak] Dragonkin Shield
 3200370 [Archdragon Peak] Ember
-3200380 [Archdragon Peak] Dragon Scale
+3200380 [Archdragon Peak] Serpentine Chain-axe
 3200500 [Archdragon Peak] Dragon Scale
-3200510 [Archdragon Peak] Ember
 3200700 [Archdragon Peak] Titanite Scale
 3200710 [Archdragon Peak] Twinkling Titanite
 3200900 [Archdragon Peak - Gesture] Dragon Chaser's Ashes
@@ -850,7 +872,7 @@
 3300783 [Farron Keep] Sellsword Trousers
 3300790 [Farron Keep] Twinkling Titanite
 3300800 [Farron Keep - Bridge] Fire Seed
-3300810 [Farron Keep - Bridge] Greataxe
+3300810 [Farron Keep - Bridge] Ash Demon Hammer
 3300820 [Farron Keep - Bridge] Speckled Stoneplate Ring
 3300830 [Farron Keep - Bridge] Titanite Scale
 3300840 [Farron Keep - Bridge] Dragon Crest Shield
@@ -910,7 +932,7 @@
 3410520 [Grand Archives] Loch Shield
 3410530 [Grand Archives] Ring of Woe
 3410540 [Grand Archives] Titanite Scale
-3410600 [Grand Archives] Prismatic Slab
+3410600 [Grand Archives] Insanity Catalyst
 3410610 [Grand Archives] Titanite Slab
 3410620 [Grand Archives] Estus Shard
 3500000 [Cathedral of the Deep] Lloyd's Sword Ring
@@ -1002,7 +1024,7 @@
 3700100 [Irithyll] Budding Green Blossom
 3700110 [Irithyll] Crystal Fragment
 3700120 [Irithyll] Soul of a Crestfallen Knight
-3700130 [Irithyll] Large Titanite Shard
+3700130 [Irithyll] Frozen Flower
 3700140 [Irithyll] Ring of the Sun's First Born
 3700150 [Irithyll] Large Soul of a Nameless Soldier
 3700160 [Irithyll] Large Titanite Shard
@@ -1015,7 +1037,7 @@
 3700230 [Irithyll] Homeward Bone
 3700240 [Irithyll] Undead Bone Shard
 3700250 [Irithyll] Crystal Fragment
-3700260 [Irithyll] Infusing Essence
+3700260 [Irithyll] Smouldering Key
 3700270 [Irithyll] Brass Helm
 3700271 [Irithyll] Brass Armor
 3700272 [Irithyll] Brass Gauntlets
@@ -1066,7 +1088,8 @@
 3700750 [Anor Londo] Proof of a Concord Kept
 3700760 [Anor Londo] Ember
 3700770 [Anor Londo] Abyssal Fragment
-3700800 [Anor Londo] Ring of Betrothal
+3700800 [Anor Londo] Giant Halberd
+3700801 [Anor Londo] Giant Shield
 3700810 [Irithyll] Soul of a Great Champion
 3700820 [Irithyll] Soul of a Great Champion
 3700830 [Irithyll] Soul of a Great Champion
@@ -1111,7 +1134,7 @@
 3800300 [Smouldering Lake] Twinkling Titanite
 3800310 [Smouldering Lake] Firebomb
 3800330 [Smouldering Lake] Ember
-3800340 [Smouldering Lake] Repair Powder
+3800340 [Smouldering Lake] Giant's Soul
 3800350 [Smouldering Lake] Charcoal Pine Bundle
 3800360 [Smouldering Lake] Izalith Pyromancy Tome
 3800370 [Smouldering Lake] Black Knight Sword
@@ -1222,9 +1245,9 @@
 3900820 [Irithyll Dungeon] Prisoner Chief's Ashes
 3900900 [Profaned Capital] Soul of a Weary Warrior
 4000010 [Cemetery of Ash - Shrine] Ember
-4000020 [Cemetery of Ash - Cemetery] Titanite Slab
-4000030 [Cemetery of Ash - Cemetery] Titanite Chunk
-4000050 [Cemetery of Ash - Cemetery] Twinkling Titanite
+4000020 [Cemetery of Ash - Cemetery] Company of Champions
+4000030 [Cemetery of Ash - Cemetery] Titanite Shard
+4000050 [Cemetery of Ash - Cemetery] Titanite Shard
 4000060 [Cemetery of Ash - Shrine] East-West Shield
 4000070 [Cemetery of Ash - Shrine] Ember
 4000080 [Cemetery of Ash - Shrine] Handmaid's Ladle
@@ -1238,6 +1261,7 @@
 4000143 [Cemetery of Ash - Shrine] Pale Shade Trousers
 4000160 [Cemetery of Ash - Shrine] Psychedelic Elixir
 4000170 [Cemetery of Ash - Shrine] Hollow Head
+4000171 [Cemetery of Ash - Shrine] Ring of Betrothal
 4000180 [Cemetery of Ash - Shrine] Estus Ring
 4000190 [Cemetery of Ash - Shrine] Fire Keeper Soul
 4000200 [Untended Graves] Titanite Chunk
@@ -1421,7 +1445,7 @@
 5000560 [Dreg Heap] Ember
 5000600 [Dreg Heap] Small Envoy Banner
 5000601 [Dreg Heap] Demon's Spear
-5100000 [Dreg Heap] Titanite Scale
+5100000 [Ringed City] Ember
 5100010 [Ringed City] Ruin Helm
 5100011 [Ringed City] Ruin Armor
 5100012 [Ringed City] Ruin Gauntlets
@@ -1430,7 +1454,7 @@
 5100030 [Ringed City] Titanite Chunk
 5100040 [Ringed City] Ember
 5100050 [Ringed City] Budding Green Blossom
-5100060 [Ringed City] Holy Fragment
+5100060 [Ringed City] Winged Helm of Ridoh
 5100070 [Ringed City] Soul of a Crestfallen Knight
 5100080 [Ringed City] Large Soul of a Weary Warrior
 5100090 [Ringed City] Fading Soul
@@ -1529,6 +1553,7 @@
 10100000 [Gyrm] Titanite Shard
 10100001 [Gyrm] Large Titanite Shard
 10100002 [Gyrm] Titanite Chunk
+10100003 [Gyrm] Exotic Souls
 10200000 [Morne's Armor] Morne's Ring
 10300000 [Mirror Knight] Mirror Knight Helm
 10300001 [Mirror Knight] Mirror Knight Armor
@@ -1582,6 +1607,7 @@
 10900002 [Pus of Man - High Wall of Lothric] Ember
 10900003 [Pus of Man - High Wall of Lothric] Titanite Shard
 10900004 [Pus of Man - High Wall of Lothric] Abyssal Fragment
+10900005 [Pus of Man - High Wall of Lothric] Exotic Souls
 10901000 [Pus of Man - Consumed King's Garden] Dark Gem
 10901001 [Pus of Man - Consumed King's Garden] Brightbug
 10901002 [Pus of Man - Consumed King's Garden] Ember
@@ -1589,6 +1615,7 @@
 10901004 [Pus of Man - Consumed King's Garden] Large Titanite Shard
 10901005 [Pus of Man - Consumed King's Garden] Titanite Chunk
 10901006 [Pus of Man - Consumed King's Garden] Abyssal Fragment
+10901007 [Pus of Man - Consumed King's Garden] Exotic Souls
 11000000 [Hollow Soldier - High Wall of Lothric] Firebomb
 11000001 [Hollow Soldier - High Wall of Lothric] Standard Bolt
 11000002 [Hollow Soldier - High Wall of Lothric] Throwing Knife
@@ -1615,6 +1642,7 @@
 11700006 [Carthus Swordsman - Catacombs of Carthus] Carthus Rouge
 11700007 [Carthus Swordsman - Catacombs of Carthus] Titanite Shard
 11700008 [Carthus Swordsman - Catacombs of Carthus] Large Titanite Shard
+11700009 [Carthus Swordsman - Catacombs of Carthus] Exotic Souls
 11700010 [Carthus Swordsman - Script] Carthus Curved Sword
 11700020 [Carthus Swordsman - Script] Carthus Curved Greatsword
 11700030 [Carthus Swordsman - Script] Carthus Shotel
@@ -1624,6 +1652,7 @@
 11900003 [Cathedral Knight - Cathedral of the Deep] Large Titanite Shard
 11900004 [Cathedral Knight - Cathedral of the Deep] Titanite Chunk
 11900005 [Cathedral Knight - Cathedral of the Deep] Holy Fragment
+11900006 [Cathedral Knight - Cathedral of the Deep] Exotic Souls
 11900010 [Cathedral Knight - Script] Great Mace
 11900020 [Cathedral Knight - Script] Cathedral Knight Greatsword
 11901120 [Cathedral Knight - Script] Magic Stoneplate Ring
@@ -1681,6 +1710,7 @@
 12800002 [Lothric Knight - High Wall of Lothric] Titanite Shard
 12800003 [Lothric Knight - High Wall of Lothric] Large Titanite Shard
 12800004 [Lothric Knight - High Wall of Lothric] Holy Fragment
+12800005 [Lothric Knight - High Wall of Lothric] Exotic Souls
 12800010 [Lothric Knight - Script] Lothric Knight Sword
 12800011 [Lothric Knight - Script] Lothric Knight Shield
 12800020 [Lothric Knight - Script] Lothric Knight Greatsword
@@ -1693,25 +1723,30 @@
 12801004 [Lothric Knight - Lothric Castle] Large Titanite Shard
 12801005 [Lothric Knight - Lothric Castle] Titanite Chunk
 12801006 [Lothric Knight - Lothric Castle] Holy Fragment
+12801007 [Lothric Knight - Lothric Castle] Exotic Souls
 12900000 [Winged Knight - High Wall of Lothric] Holy Gem
 12900001 [Winged Knight - High Wall of Lothric] Titanite Shard
 12900002 [Winged Knight - High Wall of Lothric] Large Titanite Shard
 12900003 [Winged Knight - High Wall of Lothric] Holy Fragment
+12900004 [Winged Knight - High Wall of Lothric] Exotic Souls
 12901000 [Winged Knight - Lothric Castle] Holy Gem
 12901001 [Winged Knight - Lothric Castle] Titanite Shard
 12901002 [Winged Knight - Lothric Castle] Large Titanite Shard
 12901003 [Winged Knight - Lothric Castle] Titanite Chunk
 12901004 [Winged Knight - Lothric Castle] Titanite Slab
 12901005 [Winged Knight - Lothric Castle] Holy Fragment
+12901006 [Winged Knight - Lothric Castle] Exotic Souls
 12902200 [Winged Knight - Script] Titanite Slab
 13000000 [Black Knight] Blunt Gem
 13000001 [Black Knight] Ember
 13000002 [Black Knight] Twinkling Titanite
+13000003 [Black Knight] Exotic Souls
 13000010 [Black Knight - Script] Black Knight Greatsword
 13000020 [Black Knight - Script] Black Knight Greataxe
 13100000 [Boreal Outrider Knight] Frost Gem
 13100001 [Boreal Outrider Knight] Sharp Gem
 13100002 [Boreal Outrider Knight] Twinkling Titanite
+13100003 [Boreal Outrider Knight] Exotic Souls
 13100010 [Boreal Outrider Knight - Script] Pontiff's Right Eye
 13100020 [Boreal Outrider Knight - Script] Irithyll Straight Sword
 13100030 [Boreal Outrider Knight - Script] Irithyll Rapier
@@ -1722,6 +1757,7 @@
 13200001 [Crystal Sage] Enchanted Gem
 13200002 [Crystal Sage] Crystal Fragment
 13200003 [Crystal Sage] Prismatic Slab
+13200004 [Crystal Sage] Exotic Souls
 13210000 [Crystal Sage - Script] Crystal Scroll
 13400000 [Archive Scholar - Grand Archives] Resonating Crystal
 13400001 [Archive Scholar - Grand Archives] Magic Gem
@@ -1756,11 +1792,13 @@
 13910001 [Giant Serpent-man - Archdragon Peak] Fire Gem
 13910002 [Giant Serpent-man - Archdragon Peak] Lizard Hide
 13910003 [Giant Serpent-man - Archdragon Peak] Titanite Scale
+13910004 [Giant Serpent-man - Archdragon Peak] Exotic Souls
 14000000 [Fire Keeper] None
 14100000 [Silver Knight - Irithyll] Lightning Gem
 14100001 [Silver Knight - Irithyll] Divine Blessing
 14100002 [Silver Knight - Irithyll] Proof of a Concord Kept
 14100003 [Silver Knight - Irithyll] Twinkling Titanite
+14100004 [Silver Knight - Irithyll] Exotic Souls
 14100010 [Silver Knight - Script] Silver Knight Straight Sword
 14100011 [Silver Knight - Script] Silver Knight Shield
 14100020 [Silver Knight - Script] Silver Knight Spear
@@ -1804,11 +1842,13 @@
 20300002 [Pontiff Knight] Twinkling Titanite
 20300003 [Pontiff Knight] Crystal Fragment
 20300004 [Pontiff Knight] Abyssal Fragment
+20300005 [Pontiff Knight] Exotic Souls
 20300210 [Pontiff Knight - Script] Pontiff Knight Curved Sword
 20300211 [Pontiff Knight - Script] Pontiff Knight Shield
 20300220 [Pontiff Knight - Script] Pontiff Knight Great Scythe
 20400000 [Monstrosity of Sin] Dung Pie
 20400001 [Monstrosity of Sin] Titanite Slab
+20400002 [Monstrosity of Sin] Exotic Souls
 20400020 [Monstrosity of Sin] Eleonora
 20601010 [Infested Corpse] Great Magic Shield
 20700000 [Wretch] Pale Pine Resin
@@ -1835,7 +1875,7 @@
 21204000 [Mimic - Irithyll Cathedral] Estus Shard
 21205000 [Mimic - High Wall of Lothric] Blueblood Sword
 21206000 [Mimic - Ringed City] Titanite Slab
-21207000 [Mimic - High Wall of Lothric] Braille Divine Tome of Carim
+21207000 [Mimic - High Wall of Lothric] Brightbug
 21207100 [Mimic - Profaned Capital] Band of Sparks
 21207200 [Mimic - Undead Settlement] Phosophrescent Pole
 21207300 [Mimic - Irithyll] Arcane Trinket
@@ -1853,14 +1893,14 @@
 21207903 [Mimic - Grand Archives] Dragon Acolyte Leggings
 21208000 [Mimic - Lothric Castle] Blind
 21208100 [Mimic - Irithyll] Spiral Greatsword
-21208200 [Mimic - Irithyll] Insanity Catalyst
-21208300 [Mimic - Lothric Castle] Rune Sword
-21208301 [Mimic - Lothric Castle] Rune Shield
+21208200 [Mimic - Irithyll] Hunter's Mark
+21208300 [Mimic - Lothric Castle] Runelock
 21208400 [Mimic - Grand Archives] Prismatic Slab
-21208500 [Mimic - Smouldering Lake] Fire Seed
+21208500 [Mimic - Smouldering Lake] Gravelord Sword Dance
 21208510 [Mimic - Smouldering Lake] Scythe of Want
 21208520 [Mimic - Smouldering Lake] Titanite Slab
 21208530 [Mimic - Smouldering Lake] Smelter Sword
+21209000 [Mimic - Crown of Illusion] Goods
 21300000 [Writhing Rotten Flesh] Titanite Shard
 21300001 [Writhing Rotten Flesh] Large Titanite Shard
 21320000 [Smouldering Rotten Flesh] Fire Gem
@@ -1936,6 +1976,7 @@
 21509860 [Crystal Lizard] Twinkling Titanite
 21509861 [Crystal Lizard] Titanite Scale
 21509870 [Crystal Lizard] Twinkling Titanite
+21509880 [Red Crystal Lizard] Twinkling Titanite, Titanite Scale
 21600000 [Londor Pilgrim] Abyssal Fragment
 21800000 [Grub - Yellowfinger Heysel] Undead Hunter Charm
 21800010 [Grub - Yellowfinger Heysel] Heysel Pick
@@ -1947,11 +1988,12 @@
 21900000 [Gargoyle] Fire Gem
 21900001 [Gargoyle] Twinkling Titanite
 21900002 [Gargoyle] Fire Seed
+21900003 [Gargoyle] Exotic Souls
 21900010 [Gargoyle - Script] Gargoyle Flame Hammer
 21900020 [Gargoyle - Script] Gargoyle Flame Spear
 22000000 [Carthus Sandworm] Undead Bone Shard
 22000010 [Carthus Sandworm] Titanite Scale
-22000020 [Carthus Sandworm] Titanite Scale
+22000020 [Carthus Sandworm] Smouldering Rubble
 22100000 [Corvian] Poison Gem
 22100001 [Corvian] Titanite Shard
 22100002 [Corvian] Large Titanite Shard
@@ -1964,13 +2006,16 @@
 22300101 [Jailer Handmaid] Rusted Coin, Rusted Gold Coin, Tarnished Coin, Tarnished Silver Coin
 22400000 [Boreal Outrider Sentinel] Titanite Chunk
 22400001 [Boreal Outrider Sentinel] Titanite Slab
+22400002 [Boreal Outrider Sentinel] Exotic Souls
 22500000 [Sulyvahn's Beast - Script] Twinkling Titanite
 22501010 [Sulyvahn's Beast - Script] Ring of Favor
 22502000 [Sulyvahn's Beast] Blunt Gem
 22502001 [Sulyvahn's Beast] Twinkling Titanite
 22502002 [Sulyvahn's Beast] Holy Fragment
+22502003 [Sulyvahn's Beast] Exotic Souls
 22700000 [Great Crab] Large Soul of a Nameless Soldier, Weary Warrior, Crestfallen Knight
 22700001 [Great Crab] Titanite Scale
+22700002 [Great Crab] Exotic Souls
 22700020 [Great Crab - Script] Great Swamp Ring
 22702010 [Great Crab - Script] Lingering Dragoncrest Ring
 22702100 [Great Crab - Script] Giant Crab Arm
@@ -1983,6 +2028,7 @@
 22800001 [Giant Rat] Large Soul of a Deserted Corpse, Unknown Traveler, Nameless Soldier
 22800100 [Giant Rat - Script] Bloodbite Ring
 30200000 [Giant Slave] Twinkling Titanite
+30200001 [Giant Slave] Exotic Souls
 30200100 [Giant Slave - Script] Twinkling Titanite
 30200200 [Giant Slave - Script] Twinkling Titanite
 30200300 [Giant Slave - Script] Twinkling Titanite
@@ -2000,13 +2046,16 @@
 31000000 [Ravenous Crystal Lizard - Script] Titanite Scale
 31000100 [Ravenous Crystal Lizard] Titanite Scale
 31000101 [Ravenous Crystal Lizard] Crystal Fragment
+31000102 [Ravenous Crystal Lizard] Exotic Souls
 31000110 [Ravenous Crystal Lizard] Forgotten Key
 31100000 [Deep Accursed - Script] Aldrich's Sapphire
 31100100 [Deep Accursed - Script] Ring of Catastrophe
 31102000 [Deep Accursed - Script] Aldrich's Ruby
 31103000 [Deep Accursed] Abyssal Fragment
+31103001 [Deep Accursed] Exotic Souls
 31200000 [Elder Ghru] Twinkling Titanite
 31200001 [Elder Ghru] Ember
+31200002 [Elder Ghru] Exotic Souls
 31200010 [Elder Ghru - Script] Elder Ghru Tree
 31200110 [Elder Ghru - Script] Pharis's Hat
 31200210 [Elder Ghru - Script] Black Bow of Pharis
@@ -2016,6 +2065,8 @@
 31411100 [Ancient Wyvern - Script] Dragon Scale
 31412000 [Ancient Wyvern - Script] Dragon Scale
 31413000 [Ancient Wyvern - Script] Dragon Scale
+31414000 [Ancient Wyvern - Script] Stick
+31414010 [Ancient Wyvern] Dragon Scale
 31600000 [Dragonslayer Armour] Iron Dragonslayer Helm
 31600001 [Dragonslayer Armour] Iron Dragonslayer Armor
 31600002 [Dragonslayer Armour] Iron Dragonslayer Gauntlets
@@ -2026,6 +2077,7 @@
 31700003 [Darkwraith] Cracked Red Eye Orb
 31700004 [Darkwraith] Twinkling Titanite
 31700005 [Darkwraith] Abyssal Fragment
+31700006 [Darkwraith] Exotic Souls
 32100000 [Poisonhorn Bug] Rotten Pine Resin
 32100001 [Poisonhorn Bug] Poison Gem
 32200000 [Rock Lizard] Dragon Scale
@@ -2033,9 +2085,11 @@
 51400001 [Spirit of the Pontiff] Crystal Fragment
 51400002 [Spirit of the Pontiff] Abyssal Fragment
 51400003 [Spirit of the Pontiff] Holy Fragment
+51400004 [Spirit of the Pontiff] Exotic Souls
 52000000 [Stray Demon - Farron Keep] Soul of a Stray Demon
 52000001 [Stray Demon - Farron Keep] Fire Seed
 52000010 [Stray Demon] Fire Seed
+52000011 [Stray Demon] Exotic Souls
 52210000 [Deacon] Human Dregs
 52210001 [Deacon] Abyssal Fragment
 52210002 [Deacon] Holy Fragment
@@ -2047,6 +2101,7 @@
 52400004 [Irithyll Fire Witch] Crystal Fragment
 52700000 [Boreal Outrider Assassin] Titanite Chunk
 52700001 [Boreal Outrider Assassin] Titanite Slab
+52700002 [Boreal Outrider Assassin] Exotic Souls
 60000000 [Farron Follower] Frost Gem
 60000001 [Farron Follower] Titanite Shard
 60000002 [Farron Follower] Large Titanite Shard
@@ -2062,6 +2117,7 @@
 60600001 [Tree Woman] Alluring Skull
 60700000 [Corvian Knight] Sharp Gem
 60700001 [Corvian Knight] Twinkling Titanite
+60700002 [Corvian Knight] Exotic Souls
 60800000 [Corvian Villager] Dung Pie, Stalk Dung Pie
 60900000 [Giant Fly] Dark Gem
 60900001 [Giant Fly] Human Pine Resin
@@ -2072,6 +2128,7 @@
 61000002 [Millwood Knight] Large Titanite Shard
 61000003 [Millwood Knight] Titanite Chunk
 61000004 [Millwood Knight] Titanite Slab
+61000005 [Millwood Knight] Exotic Souls
 62300000 [Murkman] Dark Gem
 62300001 [Murkman] Human Dregs
 62300002 [Murkman] Abyssal Fragment
@@ -2085,6 +2142,7 @@
 62600004 [Ringed Knight] Titanite Slab
 62600005 [Ringed Knight] Ember
 62600006 [Ringed Knight] Filianore's Spear Ornament
+62600007 [Ringed Knight] Exotic Souls
 62600230 [Ringed Knight - Script] Ringed Knight Paired Greatswords
 62600240 [Ringed Knight - Script] Titanite Slab
 62600300 [Ringed Knight - Script] Ringed Knight Hood
@@ -2095,13 +2153,15 @@
 62700001 [Hollow Vagabond] Twinkling Titanite
 62700002 [Hollow Vagabond] Holy Fragment
 62800000 [Judicator] Holy Fragment
+62800001 [Judicator] Exotic Souls
 62800010 [Judicator - Script] Proof of a Pact
-62800110 [Judicator - Script] Prismatic Slab
+62800110 [Judicator - Script] Ghostly Assault
 62800210 [Judicator - Script] Prismatic Slab
 62900000 [Hollow Cleric] Holy Gem
 62900001 [Hollow Cleric] Twinkling Titanite
 62900002 [Hollow Cleric] Holy Fragment
 63200000 [Harald Knight] Titanite Scale
+63200001 [Harald Knight] Exotic Souls
 63200100 [Harald Knight - Script] Harald Legion Helm
 63200110 [Harald Knight - Script] Harald Legion Armor
 63200120 [Harald Knight - Script] Harald Legion Gauntlets
@@ -2123,128 +2183,18 @@
 72150001 [Crestfallen Merchant] Steel Armor
 72150002 [Crestfallen Merchant] Steel Gauntlets
 72150003 [Crestfallen Merchant] Steel Leggings
-203000029 ### NG+ Overrides ###
-203000030 [High Wall of Lothric] NG+ - Large Soul of a Proud Paladin
-203000110 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203000140 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203000240 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203000310 [High Wall of Lothric] NG+ - Large Soul of a Proud Paladin
-203000340 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203000370 [High Wall of Lothric] NG+ - Large Soul of a Proud Paladin
-203000410 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203000450 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203000540 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203000610 [High Wall of Lothric] NG+ - Soul of a Proud Paladin
-203010210 [Lothric Castle] NG+ - Soul of a Venerable Old Hand
-203010260 [Lothric Castle] NG+ - Large Soul of a Seasoned Warrior
-203010290 [Lothric Castle] NG+ - Soul of a Venerable Old Hand
-203010320 [Lothric Castle] NG+ - Large Soul of a Seasoned Warrior
-203010420 [Lothric Castle] NG+ - Large Soul of a Seasoned Warrior
-203100070 [Undead Settlement] NG+ - Soul of an Intrepid Hero
-203100130 [Undead Settlement] NG+ - Large Soul of a Proud Paladin
-203100150 [Undead Settlement] NG+ - Large Soul of a Proud Paladin
-203100200 [Undead Settlement] NG+ - Soul of an Intrepid Hero
-203100380 [Undead Settlement] NG+ - Soul of an Intrepid Hero
-203100550 [Undead Settlement] NG+ - Large Soul of a Proud Paladin
-203100610 [Undead Settlement] NG+ - Large Soul of a Proud Paladin
-203100650 [Undead Settlement] NG+ - Large Soul of a Proud Paladin
-203100680 [Undead Settlement] NG+ - Soul of a Seasoned Warrior
-203100770 [Undead Settlement] NG+ - Large Soul of a Proud Paladin
-203200040 [Archdragon Peak] NG+ - Soul of an Old Hand
-203200080 [Archdragon Peak] NG+ - Soul of a Seasoned Warrior
-203200110 [Archdragon Peak] NG+ - Soul of a Venerable Old Hand
-203200120 [Archdragon Peak] NG+ - Large Soul of a Seasoned Warrior
-203200180 [Archdragon Peak] NG+ - Soul of an Old Hand
-203200190 [Archdragon Peak] NG+ - Soul of a Champion
-203200270 [Archdragon Peak] NG+ - Soul of a Great Champion
-203300050 [Road of Sacrifices] NG+ - Soul of an Intrepid Hero
-203300080 [Road of Sacrifices] NG+ - Large Soul of an Intrepid Hero
-203300100 [Road of Sacrifices] NG+ - Soul of an Intrepid Hero
-203300545 [Farron Keep] NG+ - Large Soul of a Seasoned Warrior
-203300555 [Farron Keep] NG+ - Large Soul of a Seasoned Warrior
-203300600 [Road of Sacrifices] NG+ - Soul of an Intrepid Hero
-203300710 [Road of Sacrifices] NG+ - Large Soul of an Intrepid Hero
-203410020 [Grand Archives] NG+ - Soul of a Champion
-203410070 [Grand Archives] NG+ - Soul of a Seasoned Warrior
-203410210 [Grand Archives] NG+ - Soul of a Great Champion
-203410260 [Grand Archives] NG+ - Soul of an Old Hand
-203410330 [Grand Archives] NG+ - Soul of a Great Champion
-203500070 [Cathedral of the Deep] NG+ - Large Soul of an Intrepid Hero
-203500270 [Cathedral of the Deep] NG+ - Soul of a Seasoned Warrior
-203500300 [Cathedral of the Deep] NG+ - Large Soul of an Intrepid Hero
-203500330 [Cathedral of the Deep] NG+ - Large Soul of an Intrepid Hero
-203500340 [Cathedral of the Deep] NG+ - Large Soul of an Intrepid Hero
-203500460 [Cathedral of the Deep] NG+ - Large Soul of an Intrepid Hero
-203500490 [Cathedral of the Deep] NG+ - Soul of a Seasoned Warrior
-203500560 [Cathedral of the Deep] NG+ - Soul of a Seasoned Warrior
-203500690 [Cathedral of the Deep] NG+ - Large Soul of an Intrepid Hero
-203700020 [Irithyll] NG+ - Large Soul of a Seasoned Warrior
-203700040 [Irithyll] NG+ - Soul of an Old Hand
-203700050 [Irithyll] NG+ - Soul of an Old Hand
-203700150 [Irithyll] NG+ - Large Soul of a Seasoned Warrior
-203700180 [Irithyll] NG+ - Soul of an Old Hand
-203700360 [Irithyll] NG+ - Large Soul of a Seasoned Warrior
-203700430 [Irithyll] NG+ - Large Soul of a Seasoned Warrior
-203700440 [Irithyll] NG+ - Soul of an Old Hand
-203700500 [Irithyll] NG+ - Soul of an Old Hand
-203700660 [Irithyll] NG+ - Soul of a Champion
-203700720 [Irithyll] NG+ - Large Soul of a Seasoned Warrior
-203700740 [Irithyll] NG+ - Soul of an Old Hand
-203700770 [Irithyll] NG+ - Soul of a Venerable Old Hand
-203800020 [Catacombs of Carthus] NG+ - Soul of a Seasoned Warrior
-203800170 [Catacombs of Carthus] NG+ - Large Soul of a Seasoned Warrior
-203800380 [Smouldering Lake] NG+ - Large Soul of a Seasoned Warrior
-203800470 [Smouldering Lake] NG+ - Soul of a Seasoned Warrior
-203800570 [Smouldering Lake] NG+ - Large Soul of an Intrepid Hero
-203900030 [Irithyll Dungeon] NG+ - Large Soul of a Seasoned Warrior
-203900070 [Irithyll Dungeon] NG+ - Large Soul of a Seasoned Warrior
-203900110 [Irithyll Dungeon] NG+ - Soul of an Old Hand
-203900120 [Irithyll Dungeon] NG+ - Soul of a Champion
-203900270 [Irithyll Dungeon] NG+ - Soul of a Venerable Old Hand
-203900370 [Irithyll Dungeon] NG+ - Soul of a Venerable Old Hand
-204000020 [Cemetery of Ash] NG+ - Soul of a Proud Paladin
-204000110 [Cemetery of Ash] NG+ - Soul of an Intrepid Hero
-204000230 [Cemetery of Ash] NG+ - Soul of a Champion
-204000290 [Cemetery of Ash] NG+ - Soul of a Champion
-204500020 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500040 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500110 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500140 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500170 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500220 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500230 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500250 [Ariandel] NG+ - Soul of a Champion
-204500390 [Ariandel] NG+ - Soul of a Champion
-204500400 [Ariandel] NG+ - Soul of a Champion
-204500410 [Ariandel] NG+ - Soul of a Great Champion
-204500610 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500660 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500670 [Ariandel] NG+ - Soul of a Venerable Old Hand
-204500680 [Ariandel] NG+ - Large Soul of an Intrepid Hero
-204500800 [Ariandel] NG+ - Soul of a Venerable Old Hand
-204500830 [Ariandel] NG+ - Soul of an Old Hand
-205000010 [Dreg Heap] NG+ - Soul of an Old Hand
-205000080 [Dreg Heap] NG+ - Soul of a Champion
-205000210 [Dreg Heap] NG+ - Soul of a Venerable Old Hand
-205000440 [Dreg Heap] NG+ - Soul of a Venerable Old Hand
-205000490 [Dreg Heap] NG+ - Soul of a Venerable Old Hand
-205100070 [The Ringed City] NG+ - Soul of a Champion
-205100080 [The Ringed City] NG+ - Soul of a Venerable Old Hand
-205100220 [The Ringed City] NG+ - Soul of a Great Champion
-205100290 [The Ringed City] NG+ - Soul of a Great Champion
-205100420 [The Ringed City] NG+ - Soul of an Old Hand
-205100510 [The Ringed City] NG+ - Soul of a Champion
-205100590 [The Ringed City] NG+ - Soul of a Venerable Old Hand
-205100650 [The Ringed City] NG+ - Soul of a Venerable Old Hand
-205100710 [The Ringed City] NG+ - Soul of an Old Hand
-205100810 [The Ringed City] NG+ - Soul of a Venerable Old Hand
-205100830 [The Ringed City] NG+ - Soul of an Old Hand
-205100860 [The Ringed City] NG+ - Soul of a Champion
+72160000 [Grave Warden Lillian] Grave Warden Hood
+72160001 [Grave Warden Lillian] Grave Warden Robe
+72160002 [Grave Warden Lillian] Grave Warden Wrap
+72160003 [Grave Warden Lillian] Grave Warden Skirt
+72170000 [Magnum Ursus] Awestone
+72180000 [Alchemist Jiji] Fading Soul
+72190000 [Solaire of Astora] Sunlight Medal
 209999999 ### Cinders - Treasures ###
-210000000 [High Wall of Lothric] Dragon Scale
+210000000 [High Wall of Lothric] Dragon Talon
 210000010 [High Wall of Lothric] Cleric's Sacred Chime
 210000011 [High Wall of Lothric] Cleric's Parma
-210000020 [High Wall of Lothric] Fire Gem
+210000020 [High Wall of Lothric] Braille Divine Tome of Carim
 210000030 [High Wall of Lothric] Titanite Shard
 210000040 [High Wall of Lothric] Mercenary Ring
 210000050 [High Wall of Lothric] Fire Seed
@@ -2287,9 +2237,7 @@
 210000410 [Grand Archives] Iron Cage
 210000420 [Consumed King's Garden] Iron Keeper Helm
 210000430 [Irithyll Dungeon] Black Metal Hat
-210000440 [Profaned Capital] Soul of an Intrepid Hero
-210000450 [Archdragon Peak] Holy Fragment
-210000460 [Archdragon Peak] Titanite Chunk
+210000440 [Profaned Capital] Hands of Sin
 210000470 [Archdragon Peak] Drake Fist
 210000480 [Cathedral of the Deep] Poison Gem
 210000490 [Cathedral of the Deep] Divine Blessing
@@ -2311,7 +2259,7 @@
 210000614 [Undead Settlement] Velka's Talisman
 210000620 [Profaned Capital] Soul of a Crestfallen Knight
 210000630 [Undead Settlement] Velka's Rapier
-210000880 [Cemetery of Ash - Shrine] Incense of Cooperation
+210000880 [Cemetery of Ash - Shrine] Ember
 210000890 [Cemetery of Ash - Shrine] Censuring Palm
 210000900 [Cemetery of Ash - Shrine] Fire Keeper Mask
 210000910 [Farron Keep] Skull Mask
@@ -2330,9 +2278,9 @@
 210001040 [Firelink Shrine] Ember
 210001050 [Firelink Shrine] Titanite Shard
 210001060 [Cemetery of Ash - Cemetery] Scythe of Nahr Alma
-210001070 [Cemetery of Ash - Cemetery] Titanite Chunk
+210001070 [Cemetery of Ash - Cemetery] Large Titanite Chunk
 210001080 [Cemetery of Ash - Gundyr] Ember
-210001090 [Cemetery of Ash - Shrine] Gold Pine Resin
+210001090 [Cemetery of Ash - Shrine] Frying Pan
 210001100 [Cemetery of Ash - Shrine] Soul of a Nameless Soldier
 210001110 [Untended Graves] Twinkling Titanite
 210001120 [Untended Graves] Bulwark Shield
@@ -2437,12 +2385,10 @@
 210002020 [Irithyll] Chest - Ring of Adversity
 210002030 [Irithyll] Chest - Boom Hammer
 210002040 [Irithyll] Chest - Frigid Valley Mask
-210002050 [Irithyll] Chest - Giant Halberd
-210002051 [Irithyll] Chest - Giant Shield
-210002052 [Irithyll] Chest - Giant Helm
-210002053 [Irithyll] Chest - Giant Armor
-210002054 [Irithyll] Chest - Giant Gauntlets
-210002055 [Irithyll] Chest - Giant Leggings
+210002050 [Irithyll] Chest - Giant Helm
+210002051 [Irithyll] Chest - Giant Armor
+210002052 [Irithyll] Chest - Giant Gauntlets
+210002053 [Irithyll] Chest - Giant Leggings
 210002060 [Irithyll Dungeon] Chest - Fleshbite Ring
 210002070 [Irithyll Dungeon] Chest - Band of Magic
 210002080 [Irithyll Dungeon] Chest - Hexer's Hood
@@ -2458,7 +2404,7 @@
 210002120 [Profaned Capital] Chest - Hallowed Ring
 210002130 [Profaned Capital] Chest - Gargoyle Helm
 210002140 [Profaned Capital] Chest - Bramd
-210002150 [Profaned Capital] Chest - Divine Blessing
+210002150 [Profaned Capital] Chest - Imperious Greatshield
 210002160 [Lothric Castle] Large Soul of a Weary Warrior
 210002170 [Lothric Castle] Sunlight Medal
 210002180 [Lothric Castle] Firebomb
@@ -2487,10 +2433,7 @@
 210002390 [Kiln of the First Flame] Chest - Divine Blessing
 210002400 [Kiln of the First Flame] Chest - Twinkling Titanite
 210002410 [Archdragon Peak] Soul of a Weary Warrior
-210002420 [Archdragon Peak] Yellow Bug Pellet
-210002430 [Archdragon Peak] Lightning Gem
 210002440 [Archdragon Peak] Lightning Urn
-210002450 [Archdragon Peak] Stick
 210002460 [Archdragon Peak] Chest - Immortal Dragon Greatshield
 210002470 [Archdragon Peak] Chest - Ring of Steel Protection
 210002480 [Archdragon Peak] Chest - Dragonslayer Helm
@@ -2507,8 +2450,8 @@
 210002530 [Undead Settlement] Chest - Sage's Scroll
 210002540 [Undead Settlement] Chest - Accursed Scroll
 210002550 [Undead Settlement] Chest - Great Swamp Pyromancy Tome
-210002560 [Undead Settlement] Lethal Gem
-210002570 [Undead Settlement] Ember
+210002560 [Undead Settlement] Catacombs Key
+210002570 [Undead Settlement] Pilgrim's Soul
 210002580 [Firelink Shrine] Chest - Dashmaster's String
 210002590 [Ariandel] Ember
 210002600 [Ariandel] Titanite Chunk
@@ -2564,13 +2507,12 @@
 210003001 [Undead Settlement - Chest] Footman's Overcoat
 210003002 [Undead Settlement - Chest] Footman's Bracelet
 210003003 [Undead Settlement - Chest] Footman's Trousers
-210003010 [Cemetery of Ash] Company of Champions
+210003010 [Cemetery of Ash] Ember
 210003020 [High Wall of Lothric] Steel Soldier Helm
 210003021 [High Wall of Lothric] Deserter Armor
 210003022 [High Wall of Lothric] Deserter Trousers
 210003030 [High Wall of Lothric] Iron Round Shield
-210003040 [High Wall of Lothric] Long Sword
-210003041 [High Wall of Lothric] Wooden Shield
+210003040 [High Wall of Lothric] Broken Tablet
 210003050 [High Wall of Lothric] Ember
 210003060 [High Wall of Lothric] Broken Straight Sword
 210003070 [High Wall of Lothric] Halberd
@@ -2678,6 +2620,7 @@
 800001080 [Covenant] Way of White
 800001100 [Covenant] Dragon Remnants
 800001110 [Covenant] Company of Champions
+800001120 [Covenant] Warrior of Sunlight
 800001200 [Script] Crown of Filianore
 800001210 [Script] Pot
 800009999 ### Covenant Drops ###
@@ -2719,21 +2662,6 @@
 800200020 100% - Primordial Fragment
 800200030 100% - Primordial Chunk
 800200040 100% - Primordial Slab
-800200100 50% - Primordial Shard
-800200110 50% - Large Primordial Shard
-800200120 50% - Primordial Fragment
-800200130 50% - Primordial Chunk
-800200140 50% - Primordial Slab
-800200200 30% - Primordial Shard
-800200210 30% - Large Primordial Shard
-800200220 30% - Primordial Fragment
-800200230 30% - Primordial Chunk
-800200240 30% - Primordial Slab
-800200300 10% - Primordial Shard
-800200310 10% - Large Primordial Shard
-800200320 10% - Primordial Fragment
-800200330 10% - Primordial Chunk
-800200340 10% - Primordial Slab
 800299999 ### NG+ Unique Enemies ###
 800300000 [NG+1 - Cemetery of Ash - Black Knight] Life Ring+1
 800300001 [NG+1 - Cemetery of Ash - Black Knight] Primordial Titanite
@@ -3005,10 +2933,26 @@
 800302431 [NG+3 - Profaned Capital - Gargoyle] Primordial Titanite
 800302440 [NG+3 - Irithyll Dungeon - Jailer] Dark Clutch Ring+3
 800302441 [NG+3 - Irithyll Dungeon - Jailer] Primordial Titanite
-800499999 ### Trial of Perseverance
-800500000 Reward - Tier 1
-800500010 Reward - Tier 2
-800500020 Reward - Tier 3
-800500030 Reward - Tier 4
-800500040 Reward - Tier 5
+800499999 ### Trials ###
+800500000 Trial of Adversity - Wave 1
+800500010 Trial of Adversity - Wave 2
+800500020 Trial of Adversity - Wave 3
+800500030 Trial of Adversity - Wave 4
+800500040 Trial of Adversity - Boss
+800500100 Trial of Sorrow - Wave 1
+800500110 Trial of Sorrow - Wave 2
+800500120 Trial of Sorrow - Wave 3
+800500130 Trial of Sorrow - Wave 4
+800500140 Trial of Sorrow - Boss
+800500200 Trial of Calamity - Wave 1
+800500210 Trial of Calamity - Wave 2
+800500220 Trial of Calamity - Wave 3
+800500230 Trial of Calamity - Wave 4
+800500240 Trial of Calamity - Boss
+800500300 Trial of Devastation - Wave 1
+800500310 Trial of Devastation - Wave 2
+800500320 Trial of Devastation - Wave 3
+800500330 Trial of Devastation - Wave 4
+800500340 Trial of Devastation - Boss
+800501000 Trial - Homeward Bone
 800599999 ### Debug ###

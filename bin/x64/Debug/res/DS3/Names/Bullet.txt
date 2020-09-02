@@ -1287,8 +1287,8 @@
 2230229 [Jailer] Fire Breath (Down)
 2230230 [Jailer] Fire Breath (Down)
 2230235 [Jailer] Fire Breath (Down)
-2230700 [Jailer] Quick Turn Nakaishi breath (right turn)
-2230701 [Jailer] Quick Turn Nakaishi breath (left turn)
+2230700 [Jailer] Quick Turn Petrify breath (right turn)
+2230701 [Jailer] Quick Turn Petrify breath (left turn)
 2230702 [Jailer] ?
 2230798 [Jailer] ?
 2230799 [Jailer] ?
@@ -2083,18 +2083,18 @@
 6200750 [Slave Knight Gael] ?
 6200900 [Slave Knight Gael] ?
 6200901 [Slave Knight Gael] ?
-6200902 [Slave Knight Gael] ?
-6200903 [Slave Knight Gael] ?
+6200902 [Slave Knight Gael] Blue Lightning #2
+6200903 [Slave Knight Gael] Blue Lightning [Hit]
 6200920 [Slave Knight Gael] ?
 6200921 [Slave Knight Gael] ?
-6200950 [Slave Knight Gael] ?
-6200951 [Slave Knight Gael] ?
-6200952 [Slave Knight Gael] ?
-6200953 [Slave Knight Gael] ?
-6200954 [Slave Knight Gael] ?
-6200960 [Slave Knight Gael] ?
-6200961 [Slave Knight Gael] ?
-6200962 [Slave Knight Gael] ?
+6200950 [Slave Knight Gael] Blue Lightning
+6200951 [Slave Knight Gael] Blue Lightning
+6200952 [Slave Knight Gael] Blue Lightning
+6200953 [Slave Knight Gael] Blue Lightning
+6200954 [Slave Knight Gael] Blue Lightning
+6200960 [Slave Knight Gael] Blue Lightning #2
+6200961 [Slave Knight Gael] Blue Lightning #2
+6200962 [Slave Knight Gael] Blue Lightning #2
 6201700 [Slave Knight Gael - Initial] ?
 6210700 [Darkeater Midir] ?
 6210701 [Darkeater Midir] ?
@@ -2357,15 +2357,51 @@
 6402100 [Gundyr] Corrupted Fist - Bullet
 6402200 [Gundyr] Corrupted Bite - Bullet
 6402300 [Gundyr] Corrupted Tear
+7530081 [Fume Knight]
+7530190 [Fume Knight] Wrath of the Gods
+7530240 [Fume Knight] Combustion
+7530241 [Fume Knight] Combustion [Hit]
+7530245 [Fume Knight] Fireball
+7530246 [Fume Knight] Fireball [Hit]
+7530247 [Fume Knight] Fireball [Hit]
+7530255 [Fume Knight] Poison Mist
+7530256 [Fume Knight] Poison Mist - Line
+7530257 [Fume Knight] Poison Mist - Cone
+7530300 [Fume Knight] Soul Arrow
+7530310 [Fume Knight] Soul Hail
+7530320 [Fume Knight] Crystal Soulmass
+7530321 [Fume Knight] Crystal Soulmass [Hit]
+7530322 [Fume Knight] Crystal Soulmass [Hit]
+7530323 [Fume Knight] Crystal Soulmass [Hit]
+7530340 [Fume Knight] Soul Stream
+7530535 [Fume Knight] Lightning Burst
+7530536 [Fume Knight]
+7530537 [Fume Knight]
+7530540 [Fume Knight] Sunlight Spear
+7530550 [Fume Knight] Heavenly Thunder
+7530551 [Fume Knight] Heavenly Thunder [Hit]
+7530552 [Fume Knight] Heavenly Thunder [Hit]
+7530555 [Fume Knight] Heavenly Thunder
+7530556 [Fume Knight] Heavenly Thunder [Hit]
+7530558 [Fume Knight]
+7530559 [Fume Knight] Heavenly Thunder - Low
+7530604 [Fume Knight]
+7530903 [Fume Knight]
+7530904 [Fume Knight]
+7530910 [Fume Knight]
 10000001 ### Spells ###
 11200000 [Sorcery] Farron Dart
 11200010 [Sorcery] Farron Dart - Ascended
-11210000 [Sorcery] Scattered Farron Dart
-11210010 [Sorcery] Scattered Farron Dart - Ascended
+11210020 [Sorcery] Scattering Soul Orb [Emitter]
+11210030 [Sorcery] Scattering Soul Orb [EmittedBullet]
+11210120 [Sorcery] Scattering Soul Orb [Emitter] - Ascended
+11210130 [Sorcery] Scattering Soul Orb [EmittedBullet] - Ascended
 11300000 [Sorcery] Soul Arrow
 11300010 [Sorcery] Soul Arrow - Ascended
-11301000 [Sorcery] Scattered Soul Arrow
-11301010 [Sorcery] Scattered Soul Arrow - Ascended
+11301020 [Sorcery] Scattering Crystal Orb [Emitter]
+11301030 [Sorcery] Scattering Crystal Orb [EmittedBullet]
+11301120 [Sorcery] Scattering Crystal Orb [Emitter] - Ascended
+11301130 [Sorcery] Scattering Crystal Orb [EmittedBullet] - Ascended
 11302000 [Sorcery] Shockwave
 11302006 [Sorcery] Shockwave - Ascended
 11303000 [Sorcery] Soul Geyser
@@ -2469,9 +2505,6 @@
 11620200 [Sorcery] Soul Stream
 11620300 [Sorcery] Soul Stream
 11621000 [Sorcery] Soul Stream [Emitter] - Ascended
-11621010 [Sorcery] Soul Stream [Hit] - Ascended
-11621020 [Sorcery] Soul Stream - Ascended
-11621030 [Sorcery] Soul Stream - Ascended
 11651000 [Sorcery] Twisted Wall of Light
 11651100 [Sorcery] Twisted Wall of Light
 11740000 [Sorcery] Pestilent Mist
@@ -2818,6 +2851,22 @@
 100050614 [Frayed Blade] Hold [Hit]
 100050615 [Frayed Blade] Hold [Hit]
 100050620 [Frayed Blade] Hold
+100050700 [Bewitched Alonne Sword] Seppuku - Black Fire Trail
+100050701 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050702 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050703 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050704 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050705 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050706 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050707 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050708 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050709 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050710 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050711 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050712 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050713 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050714 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
+100050715 [Bewitched Alonne Sword] Seppuku - Black Fire Trail [Hit]
 100061700 [Greatsword of Judgment] Stance of Judgment
 100061800 [Profaned Greatsword] Strong Attack 1H
 100061801 [Profaned Greatsword] Strong Attack 1H [Hit]
@@ -3080,10 +3129,11 @@
 104911000 [Channeler's Trident] Channeler's Boon - Self
 104911010 [Channeler's Trident] Channeler's Boon - Enemy
 104911100 [Scraping Spear] - Acid Surge
-104911200 [Quelaag's Fury Sword] Quelaag's Rage
-104911201 [Quelaag's Fury Sword] Quelaag's Rage [Hit]
-104911202 [Quelaag's Fury Sword] Quelaag's Rage [Hit]
-104911203 [Quelaag's Fury Sword] Quelaag's Rage [Hit]
+104911200 [Quelaag's Fury Sword] Quelaag's Fury
+104911201 [Quelaag's Fury Sword] Quelaag's Fury [Hit]
+104911202 [Quelaag's Fury Sword] Quelaag's Fury [Hit]
+104911203 [Quelaag's Fury Sword] Quelaag's Fury [Hit]
+104911204 [Quelaag's Fury Sword] Quelaag's Fury [Hit]
 104911300 [Moonlight Butterfly Horn] Soul Barrage
 104911310 [Moonlight Butterfly Horn] Soul Barrage
 104911400 [Istarelle] Coronal Cascade
@@ -3130,12 +3180,6 @@
 105006850 [Sorcery] Crystal Storm - Ascended
 105006860 [Sorcery] Crystal Storm [Hit] - Ascended
 105007000 [Sorcery] Abyssal Burst
-105008000 [Pyromancy] Cataclysm
-105008100 [Pyromancy] Cataclysm [Emitter]
-105008200 [Pyromancy] Cataclysm - Great Chaos Fire Orb
-105008210 [Pyromancy] Cataclysm - Great Chaos Fire Orb [Hit]
-105008220 [Pyromancy] Cataclysm - Great Chaos Fire Orb [Hit]
-105008230 [Pyromancy] Cataclysm - Great Chaos Fire Orb [Hit]
 105011000 [Sorcery] Unleash Magic
 105011001 [Sorcery] Unleash Magic - Ascended
 108140000 [Miracle] Heavenly Thunder
@@ -3240,9 +3284,6 @@
 108403200 [Miracle] Devouring Swarm - Ascended
 108403210 [Miracle] Devouring Swarm [Emitter] - Ascended
 108403211 [Miracle] Devouring Swarm [Hit] - Ascended
-108404000 [Pyromancy] Earthfall
-108404100 [Pyromancy] Earthfall [Emitter]
-108404200 [Pyromancy] Earthfall [Hit]
 108405000 [Pyromancy] Heave Earth
 108405010 [Pyromancy] Heave Earth
 108405020 [Pyromancy] Heave Earth [Hit]
@@ -3279,28 +3320,52 @@
 108800010 [Sorcery] Orbs of Judgment [Hit]
 108801000 [Sorcery] Orbs of Judgment - Ascended
 108801010 [Sorcery] Orbs of Judgment [Hit] - Ascended
-109540000 [Pyromancy] Immolation - Follower
-109540010 [Pyromancy] Immolation
-109540100 [Pyromancy] Immolation - Follower - Ascended
-109540101 [Pyromancy] Immolation - Ascended
-109541000 [Miracle] Heavenly Thunder
-109541010 [Miracle] Heavenly Thunder [Hit]
-109541020 [Miracle] Heavenly Thunder [Hit]
-109541100 [Miracle] Heavenly Thunder - Ascended
-109541101 [Miracle] Heavenly Thunder [Hit] - Ascended
-109541102 [Miracle] Heavenly Thunder [Hit] - Ascended
-109542000 [Pyromancy] Cataclysm
-109542010 [Pyromancy] Cataclysm [Hit]
-109542020 [Pyromancy] Cataclysm [Hit]
-109542100 [Pyromancy] Cataclysm - Ascended
-109542110 [Pyromancy] Cataclysm [Hit] - Ascended
-109542120 [Pyromancy] Cataclysm [Hit] - Ascended
-109543000 [Pyromancy] Earthfall
-109543010 [Pyromancy] Earthfall [Hit]
-109543020 [Pyromancy] Earthfall [Hit]
-109543100 [Pyromancy] Earthfall - Ascended
-109543101 [Pyromancy] Earthfall [Hit] - Ascended
-109543102 [Pyromancy] Earthfall [Hit] - Ascended
+108802000 [Pyromancy] Immolation
+108802010 [Pyromancy] Immolation - Firestorm
+108802020 [Pyromancy] Immolation - Firestorm
+108802030 [Pyromancy] Immolation - Firestorm [Hit]
+108802040 [Pyromancy] Immolation - Firestorm [Hit]
+108802100 [Pyromancy] Immolation - Ascended
+108802110 [Pyromancy] Immolation - Firestorm - Ascended
+108802120 [Pyromancy] Immolation - Firestorm - Ascended
+108802130 [Pyromancy] Immolation - Firestorm [Hit] - Ascended
+108802140 [Pyromancy] Immolation - Firestorm [Hit] - Ascended
+109541000 [Miracle] Heavenly Thunder - Random
+109541010 [Miracle] Heavenly Thunder - Random [Emitter]
+109541020 [Miracle] Heavenly Thunder - Random [Hit]
+109541100 [Miracle] Heavenly Thunder - Forward
+109541110 [Miracle] Heavenly Thunder - Forward [Emitter]
+109541120 [Miracle] Heavenly Thunder - Forward [Hit]
+109541200 [Miracle] Heavenly Thunder - Random - Ascended
+109541210 [Miracle] Heavenly Thunder - Random [Emitter] - Ascended
+109541220 [Miracle] Heavenly Thunder - Random [Hit] - Ascended
+109541300 [Miracle] Heavenly Thunder - Forward - Ascended
+109541310 [Miracle] Heavenly Thunder - Forward [Emitter] - Ascended
+109541320 [Miracle] Heavenly Thunder - Forward [Hit] - Ascended
+109542000 [Pyromancy] Cataclysm - Random
+109542010 [Pyromancy] Cataclysm - Random [Emitter]
+109542020 [Pyromancy] Cataclysm - Random [Hit]
+109542100 [Pyromancy] Cataclysm - Forward
+109542110 [Pyromancy] Cataclysm - Forward [Emitter]
+109542120 [Pyromancy] Cataclysm - Forward [Hit]
+109542200 [Pyromancy] Cataclysm - Random - Ascended
+109542210 [Pyromancy] Cataclysm - Random [Emitter] - Ascended
+109542220 [Pyromancy] Cataclysm - Random [Hit] - Ascended
+109542300 [Pyromancy] Cataclysm - Forward - Ascended
+109542310 [Pyromancy] Cataclysm - Forward [Emitter] - Ascended
+109542320 [Pyromancy] Cataclysm - Forward [Hit] - Ascended
+109543000 [Pyromancy] Earthfall - Random
+109543010 [Pyromancy] Earthfall - Random [Emitter]
+109543020 [Pyromancy] Earthfall - Random [Hit]
+109543100 [Pyromancy] Earthfall - Forward
+109543110 [Pyromancy] Earthfall - Forward [Emitter]
+109543120 [Pyromancy] Earthfall - Forward [Hit]
+109543200 [Pyromancy] Earthfall - Random - Ascended
+109543210 [Pyromancy] Earthfall - Random [Emitter] - Ascended
+109543220 [Pyromancy] Earthfall - Random [Hit] - Ascended
+109543300 [Pyromancy] Earthfall - Forward - Ascended
+109543310 [Pyromancy] Earthfall - Forward [Emitter] - Ascended
+109543320 [Pyromancy] Earthfall - Forward [Hit] - Ascended
 109544000 [Miracle] Vow of Agony [Emitter]
 109544001 [Miracle] Vow of Agony [Emitter] - Ascended
 109544010 [Miracle] Vow of Agony
@@ -3329,15 +3394,15 @@
 109549007 [Miracle] Proof of a Pact [Hit]
 109549008 [Miracle] Proof of a Pact [Hit]
 109549009 [Miracle] Proof of a Pact [Hit]
-109550000 [Miracle] Ghostly Assault - Placement
-109550001 [Miracle] Ghostly Assault - Placement [Hit]
-109550002 [Miracle] Ghostly Assault - Placement [Hit]
-109550005 [Miracle] Ghostly Assault - Start here
-109550013 [Miracle] Ghostly Assault [Emitter]
-109550014 [Miracle] Ghostly Assault
-109550015 [Miracle] Ghostly Assault - Arrow
-109550016 [Miracle] Ghostly Assault
-109550017 [Miracle] Ghostly Assault [Emitter]
+109549010 [Miracle] Proof of a Pact - Spawn
+109550000 [Miracle] Ghostly Assault - Spawn
+109550001 [Miracle] Ghostly Assault - Spawn - Ascended
+109550010 [Miracle] Ghostly Assault - Knight - Rise Up
+109550011 [Miracle] Ghostly Assault - Knight - Start Shot
+109550012 [Miracle] Ghostly Assault - Knight - Fire Shot
+109550020 [Miracle] Ghostly Assault - Knight - Mid Shot
+109550021 [Miracle] Ghostly Assault - Knight - Finish Shot
+109550030 [Miracle] Ghostly Assault - Knight - Arrow
 109551000 [Miracle] Heavenly Thunder
 109551100 [Miracle] Heavenly Thunder [Emitter]
 109551200 [Miracle] Heavenly Thunder [Hit]
@@ -3351,7 +3416,9 @@
 109551804 [Miracle] Heavenly Thunder [Emitter] - Ascended
 109551805 [Miracle] Heavenly Thunder [Hit] - Ascended
 109551900 [Pyromancy] Black Fireball
+109551901 [Pyromancy] Black Fireball [Hit]
 109551906 [Pyromancy] Black Fireball - Ascended
+109551907 [Pyromancy] Black Fireball - Ascended [Hit]
 109552000 [Pyromancy] Black Fire Scatter
 109552010 [Pyromancy] Black Fire Scatter [Hit]
 109552020 [Pyromancy] Black Fire Scatter [Hit]
@@ -3370,10 +3437,33 @@
 109555010 [Miracle] Overwhelming Power [Hit]
 109555020 [Miracle] Overwhelming Power [Hit]
 109555030 [Miracle] Overwhelming Power [Hit]
+109555040 [Miracle] Overwhelming Power - Ground [Hit]
 109555100 [Miracle] Overwhelming Power - Ascended
 109555110 [Miracle] Overwhelming Power [Hit] - Ascended
 109555120 [Miracle] Overwhelming Power [Hit] - Ascended
 109555130 [Miracle] Overwhelming Power [Hit] - Ascended
+109555140 [Miracle] Overwhelming Power - Ground [Hit] - Ascended
+109556000 [Miracle] Wrathful Orbs
+109556001 [Miracle] Wrathful Orbs [Hit]
+109556010 [Miracle] Wrathful Orbs - Ascended
+109556011 [Miracle] Wrathful Orbs [Hit] - Ascended
+109557000 [Miracle] Holy Schism
+109557001 [Miracle] Holy Schism [Hit]
+109557002 [Miracle] Holy Schism [Hit]
+109557003 [Miracle] Holy Schism [Hit]
+109557004 [Miracle] Holy Schism [Hit]
+109557005 [Miracle] Holy Schism [Hit]
+109557006 [Miracle] Holy Schism [Hit]
+109557010 [Miracle] Holy Schism - Ascended
+109558000 [Miracle] Wrathful Barrage - Wave 1
+109558010 [Miracle] Wrathful Barrage - Wave 2
+109558100 [Miracle] Wrathful Barrage - Wave 1 - Ascended
+109558110 [Miracle] Wrathful Barrage - Wave 2 - Ascended
+109559000 [Miracle] Gravelord Sword Dance
+109559001 [Miracle] Gravelord Sword Dance [Hit]
+109559002 [Miracle] Gravelord Sword Dance [Hit]
+109559003 [Miracle] Gravelord Sword Dance [Hit]
+109559100 [Miracle] Gravelord Sword Dance - Ascended
 209999999 ### Weapons ###
 210000000 Logan's Staff - Logan's Focus
 210000100 Mendicant's Staff - Serpentine Orbs
@@ -3403,8 +3493,11 @@
 210001300 Insanity Catalyst - Insanity
 210001400 Talisman of Beasts - Bestial Wrath
 210001500 Rotten Talisman - Poison Spores
-210001600 Smouldering Talisman - Immolate - Behavior
-210001601 Smouldering Talisman - Immolate
+210001600 Smouldering Talisman - Immolate
+210001610 Smouldering Talisman - Immolate - Firestorm
+210001620 Smouldering Talisman - Immolate - Firestorm
+210001630 Smouldering Talisman - Immolate - Firestorm [Hit]
+210001640 Smouldering Talisman - Immolate - Firestorm [Hit]
 210001700 Smelter Sword - Smelter's Fury
 210001701 Smelter Sword - Smelter's Fury [Hit]
 210001702 Smelter Sword - Smelter's Fury [Hit]
@@ -3419,14 +3512,18 @@
 210002100 Hands of God - Emit Force
 210002101 Hands of God - Emit Force [Hit]
 210003000 King's Mirror - Reflect Spells
-210004010 Thorned Greatsword - Stomp - Sunlight Spear
-210004011 Thorned Greatsword - Stomp - Sunlight Spear - Sparks
+210004010 Thorned Greatsword - Lightning Imbue
+210004020 Thorned Greatsword - Stomp - Sunlight Spear
+210004021 Thorned Greatsword - Stomp - Sunlight Spear - Sparks
 210005000 Breaking Wheel - Power Within
 210006000 Crystal Ring Shield - Unleash Moonlight [Hit]
+210007000 Runelock - Shield Bash - Bullet
+210008000 Hands of Sin - Inner Turmoil
 219999999 ### Rings ###
 220000000 Cursed Ring of Deflection - Spell Deflection
 220001000 Cursed Ring of Confusion - Rapport
 220002000 Wretched Pendant - Aura
+220999999 ### Weapons ###
 229999999 ### General ###
 230000000 Darkness
 230010000 Remnants of Lordran - Gough's Arrow

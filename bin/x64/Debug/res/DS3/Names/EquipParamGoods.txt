@@ -162,7 +162,7 @@
 650 Ritual Spear Fragment
 651 Divine Spear Fragment
 700 Soul of Corrupted Gundyr
-701 Soul of the Ancient Dragon
+701 Soul of the Ancient Wyvern
 702 Soul of the Lordran Remnants
 712 Soul of Champion Gundyr
 714 Soul of the Dancer
@@ -188,6 +188,7 @@
 745 Soul of Slave Knight Gael
 746 Soul of the Demon Prince
 747 Soul of Darkeater Midir
+748 Soul of Halflight
 1000 Titanite Shard
 1001 Large Titanite Shard
 1002 Titanite Chunk
@@ -209,7 +210,10 @@
 2000 Ring of Betrothal
 2001 Lift Chamber Key
 2002 Lordvessel
+2003 Soul Vessel
+2004 Essence of Avarice
 2005 Small Doll
+2006 Smithbox
 2007 Jailbreaker's Key
 2008 Jailer's Key Ring
 2009 Grave Key
@@ -219,7 +223,15 @@
 2013 Forgotten Key
 2014 Grand Archives Key
 2015 Tower Key
-2016 Accursed Signet
+2016 Dragon Talon
+2017 Pilgrim's Soul
+2018 Catacombs Key
+2019 Smouldering Key
+2020 Eye of Londor
+2021 Frozen Flower
+2022 Broken Tablet
+2023 Giant's Soul
+2024 Smouldering Rubble
 2100 Master Key
 2102 Small Lothric Banner
 2103 Farron Coal
@@ -298,14 +310,6 @@
 2201 Degrading Essence
 3004 Tarnished Coin
 3005 Tarnished Silver Coin
-3006 Fire Stone
-3007 Magic Stone
-3008 Lightning Stone
-3009 Dark Stone
-3010 Poison Stone
-3011 Bleed Stone
-3012 Frost Stone
-3013 Blessed Stone
 3018 Hexing Urn
 3019 Holy Water Urn
 3020 Witching Urn
@@ -313,7 +317,6 @@
 3022 Vine Balm
 3023 Blackweed Balm
 3024 Goldenfruit Balm
-3025 Enchanted Stone
 3026 Rattling Finger
 3027 Murky Finger
 3028 Elixir of Ghosts
@@ -336,6 +339,7 @@
 3045 Dragon Torso Stone
 3046 Forgotten Seal
 3047 Demonic Skull
+3048 Hunter's Mark
 4000 Lethal Gem
 4001 Curse Gem
 4002 Poison Gem
@@ -356,33 +360,62 @@
 4017 Devil's Trumpet
 4018 Moonflower
 4019 Henbane
-4020 Cleansing Stone
 4100 Stone of Draconic Fire
 4101 Stone of Draconic Might
-5000 Dream of Corrupted Gundyr
-5001 Dream of Vordt
-5002 Dream of Rotted Greatwood
-5003 Dream of the Crystal Sage
-5004 Dream of the Deacons
-5005 Dream of the Abyss Watchers
-5006 Dream of High Lord Wolnir
-5007 Dream of Old Demon King
-5008 Dream of Pontiff Sulyvahn
-5009 Dream of Aldrich
-5010 Dream of Yhorm the Giant
-5011 Dream of the Dancer
-5012 Dream of Oceiros
-5013 Dream of Dragonslayer Armour
-5014 Dream of the Ancient Wyvern
-5015 Dream of the Nameless King
-5016 Dream of Champion Gundyr
-5017 Dream of the Twin Princes
-5018 Dream of Cinder
-5019 Dream of Sister Friede
-5020 Dream of the Lordran Remnants
-5021 Dream of the Demon Prince
-5022 Dream of Darkeater Midir
-5023 Dream of Slave Knight Gael
+4200 Soul of a Fallen Paladin
+4201 Soul of a Fallen Sentinel
+4202 Soul of a Fallen Sage
+4203 Soul of a Fallen Warrior
+4204 Soul of a Fallen Astrologer
+4205 Soul of a Fallen Beserker
+4206 Soul of a Fallen Champion
+4300 Cleansing Oil
+4301 Cleansing Oil (Left)
+4310 Magical Oil
+4311 Magical Oil (Left)
+4320 Fiery Oil
+4321 Fiery Oil (Left)
+4330 Sparking Oil
+4331 Sparking Oil (Left)
+4340 Abyssal Oil
+4341 Abyssal Oil (Left)
+4350 Poisonous Oil
+4351 Poisonous Oil (Left)
+4360 Bloody Oil
+4361 Bloody Oil (Left)
+4370 Frost Oil
+4371 Frost Oil (Left)
+4380 Moonlit Oil
+4381 Moonlit Oil (Left)
+4390 Blessed Oil
+4391 Blessed Oil (Left)
+4400 Black Fire Oil
+4401 Black Fire Oil (Left)
+5000 Memory of Corrupted Gundyr
+5001 Memory of Vordt
+5002 Memory of Rotted Greatwood
+5003 Memory of the Crystal Sage
+5004 Memory of the Deacons
+5005 Memory of the Abyss Watchers
+5006 Memory of High Lord Wolnir
+5007 Memory of Old Demon King
+5008 Memory of Pontiff Sulyvahn
+5009 Memory of Aldrich
+5010 Memory of Yhorm the Giant
+5011 Memory of the Dancer
+5012 Memory of Oceiros
+5013 Memory of Dragonslayer Armour
+5014 Memory of the Ancient Wyvern
+5015 Memory of the Nameless King
+5016 Memory of Champion Gundyr
+5017 Memory of the Twin Princes
+5018 Memory of Cinder
+5019 Memory of Sister Friede
+5020 Memory of the Lordran Remnants
+5021 Memory of the Demon Prince
+5022 Memory of Darkeater Midir
+5023 Memory of Slave Knight Gael
+5024 Memory of Halflight
 5199 ### Companions ###
 5300 Incense of Cooperation
 5301 Crab Bait
@@ -483,7 +516,6 @@
 1802000 Soul Wave
 1803000 Blizzard
 1805000 Orbs of Judgment
-1806000 Soul Focus
 1807000 Blinding Light
 1808000 Whisper of Despair
 1809000 Repel
@@ -586,7 +618,6 @@
 3802000 Heavenly Thunder
 3803000 Halo
 3805000 Perseverance
-3806000 Inner Fervor
 3807000 Nibble
 3810000 Devouring Swarm
 3811000 Vow of Agony
@@ -597,3 +628,7 @@
 3816000 Ghostly Assault
 3817000 Pulsating Blade
 3818000 Overwhelming Power
+3819000 Wrathful Orbs
+3820000 Holy Schism
+3821000 Wrathful Barrage
+3822000 Gravelord Sword Dance

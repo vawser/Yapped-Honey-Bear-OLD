@@ -7,6 +7,7 @@
 80 Catalyst - Early Effectiveness
 81 Catalyst (Hybrid) - Early Effectiveness
 82 Catalyst - Normal Effectiveness
+83 Catalyst - Late Effectiveness
 100 VIG - HP Scaling
 101 ATN - FP Scaling
 102 Soul Level - Defence
@@ -28,4 +29,12 @@
 135 FTH - Dark Defence
 140 LCK - Item Discovery
 150 Estus at Bonfire [Obsolete]
+160 Shield - Absorption %
+161 Shield - Attribute %
+162 Shield - Status %
+163 Shield - Stamina %
+170 STR - Weapon Arts Point Max
+171 DEX - Weapon Arts Point Max
+172 INT - Weapon Arts Point Max
+173 FTH - Weapon Arts Point Max
 200 Soul Level - Souls Required

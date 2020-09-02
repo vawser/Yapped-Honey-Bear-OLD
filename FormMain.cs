@@ -126,11 +126,13 @@ namespace Yapped
         
             if (result == null)
             {
+                exportToolStripMenuItem.Enabled = false;
             }
             else
             {
                 encrypted = result.Encrypted;
                 regulation = result.ParamBND;
+                exportToolStripMenuItem.Enabled = encrypted;
                 foreach (ParamWrapper wrapper in result.ParamWrappers)
                 {
                     if (!dgvIndices.ContainsKey(wrapper.Name))

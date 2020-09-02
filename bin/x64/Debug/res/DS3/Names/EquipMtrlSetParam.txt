@@ -879,6 +879,7 @@
 100028 Soul of Corrupted Gundyr
 100029 Soul of the Ancient Wyvern
 100030 Soul of the Lordran Remnants
+100031 Soul of Halflight
 200001 Awestone - 1
 200002 Awestone - 2
 200003 Awestone - 3

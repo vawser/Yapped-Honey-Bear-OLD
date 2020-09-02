@@ -445,6 +445,13 @@
 50339 Soul of Cinder -
 50340 Yhorm the Giant -
 50341 Yhorm the Giant - Heatup
+50350 Irithyllian Slave -
+50351 Irithyllian Slave -
+50352 Irithyllian Slave -
+50353 Irithyllian Slave -
+50354 Irithyllian Slave -
+50355 Irithyllian Slave -
+50360 Irithyllian Slave -
 50370 Lorian -
 50371 Lorian -
 50372 Lorian -
@@ -611,15 +618,30 @@
 99901006 Ring: Rainbow Ring - Color 7
 99901007 Ring: Rainbow Ring - Color 8
 99901008 Ring: Rainbow Ring - Color 9
-99910000 Weapon: Fire Stone
-99910001 Weapon: Magic Stone
-99910002 Weapon: Lightning Stone
-99910003 Weapon: Dark Stone
-99910004 Weapon: Poison Stone
-99910005 Weapon: Bleed Stone
-99910006 Weapon: Frost Stone
-99910007 Weapon: Blessed Stone
-99910008 Weapon: Enchanted Stone
+99910000 Fire VFX - Right
+99910001 Fire VFX - Left
+99910010 Magic VFX - Right
+99910011 Magic VFX - Left
+99910020 Lightning VFX - Right
+99910021 Lightning VFX - Left
+99910030 Dark VFX - Right
+99910031 Dark VFX - Left
+99910040 Poison VFX - Right
+99910041 Poison VFX - Left
+99910050 Bleed VFX - Right
+99910051 Bleed VFX - Left
+99910060 Frost VFX - Right
+99910061 Frost VFX - Left
+99910070 Curse VFX - Right
+99910071 Curse VFX - Left
+99910080 Holy VFX - Right
+99910081 Holy VFX - Left
+99910090 Enchanted VFX - Right
+99910091 Enchanted VFX - Left
+99910100 Black Fire VFX - Right
+99910101 Black Fire VFX - Left
+99910110 Pacify VFX - Right
+99910111 Pacify VFX - Left
 99911000 Script: Proximity Invisibility - Enemies
 99912000 Ring: Black Phantom
 99912010 Ring: Darkmoon Faithful
@@ -650,6 +672,8 @@
 99913400 Dragonform Body
 99913401 Dragonform Head
 99913500 Wax Head
+99913600 Hunter's Mark - Head
+99913601 Hunter's Mark - Body
 99914000 Weapon: Curse Aura
 99914001 Weapon: Curse Aura
 99915000 Weapon: Curse Burst
@@ -692,3 +716,5 @@
 99950011 Phantom: Mad Purple
 99950012 Phantom: Peach
 99950013 Phantom: Black Spirit
+99950020 Perfect Block
+99951000 Mimic - Crown of Illusions Invisibility

@@ -89,6 +89,7 @@
 3023 [Class] Outcast
 3024 [Class] Skeptic
 3025 [Class] Paladin
+3026 [Class] Jester
 3099 [Class] Accursed
 3100 Knight
 3101 Warrior
@@ -211,7 +212,7 @@
 27420 Yellowfinger Heysel - Red Phantom [Farron Keep]
 27440 Yellowfinger Heysel - Red Phantom [Road of Sacrifices]
 27441 Yellowfinger Heysel - Red Phantom [Farron Keep]
-27500 Black Hand Gotthard
+27500 Black Hand Kamui [Grand Archives]
 27520 Black Hand Gotthard - White Phantom [Farron Keep]
 27521 Black Hand Gotthard - White Phantom [Irithyll]
 27600 Great Swamp Cuculus
@@ -249,7 +250,7 @@
 29341 Creighton the Wanderer - Red Phantom [Irithyll]
 29440 Alva, Seeker of the Spurned [Irithyll Dungeon]
 29540 Longfinger Kirk [Cathedral of the Deep]
-30000 Sieghardt of Catarina [Undead Settlement]
+29999 ### Invaders ###
 30100 Luyila of Londor [Irithyll]
 30200 Forgotten Locklin [Farron Keep]
 30300 Holy Knight Morton [Catacombs of Carthus]
@@ -262,12 +263,6 @@
 31100 Devotee Scarlett [Irithyll of the Boreal Valley]
 31200 Fester the Jester [Profaned Capital]
 31300 Inquisitor Ashford [Consumed King's Garden]
-31400 Dragon Cultist Xeric [Archdragon Peak]
-31401 Dragon Cultist Zena [Archdragon Peak]
-31402 Dragon Cultist Pon [Archdragon Peak]
-31403 Dragon Cultist Kalix [Archdragon Peak]
-31404 Dragon Cultist Wex [Archdragon Peak]
-31405 Dragon Cultist Solos [Archdragon Peak]
 31500 Corrupted Knight Lloyd [Irithyll Dungeon]
 31600 Huntmaster Ava [High Wall of Lothric]
 31700 The Pursuer [High Wall of Lothric]
@@ -280,9 +275,6 @@
 32000 Ollis the Merciless [Irithyll of the Boreal Valley]
 32100 Vileblood Annalise [Profaned Capital]
 32200 The Forlorn [Road of Sacrifices]
-32300 The Father [Untended Graves]
-32400 The Mother [Untended Graves]
-32500 The Child [Untended Graves]
 32600 Dragon Knight Oswald [Grand Archives]
 32700 Dragon Knight Terrill [Grand Archives]
 32800 Dragon Knight Lyre [Grand Archives]
@@ -296,18 +288,6 @@
 33600 Easterner Iazeel [Ringed City]
 33700 Gaius the Mighty [Archdragon Peak]
 33800 Quintus the Monstrous [Grand Archives]
-33900 Burial Knight - Scythe of Nahr Alma [Cemetery of Ash]
-33901 Burial Knight - Reinforced Club [Cemetery of Ash]
-33902 Burial Knight - Flamberge [Cemetery of Ash]
-33903 Burial Knight - Great Machete [Cemetery of Ash]
-33904 Burial Knight - Barbed Straight Sword [Cemetery of Ash]
-34000 Undead Hexer - Shiv [Undead Settlement]
-34001 Undead Hexer - Harpe [Undead Settlement]
-34002 Undead Hexer - Dagger [Undead Settlement]
-34003 Undead Hexer - Murky Hand Scythe [Undead Settlement]
-34004 Undead Hexer - Corvian Greatknife [Undead Settlement]
-34100 Roaming Sorcerer - Shockwave [Road of Sacrifices]
-34101 Roaming Sorcerer - Soul Arrow [Road of Sacrifices]
 34200 Blacksmith's Nightmare [Untended Graves]
 34300 Frozen Knight Torbjorn [Ariandel]
 34400 Bewitched Knight Iwai [Profaned Capital]
@@ -319,13 +299,31 @@
 35000 Hallowed Knight Orthell [Cathedral of the Deep]
 35100 Dragon Hunter Karstark [Archdragon Peak]
 35200 Disciple of Alsanna [Ariandel]
-35300 The Prowler [Dreg Heap]
 39999 ### Companions ###
 40000 Solaire of Astora
+49999 ### Hostile NPCs ###
+50000 Dragon Cultist Xeric [Archdragon Peak]
+50010 Dragon Cultist Zena [Archdragon Peak]
+50020 Dragon Cultist Pon [Archdragon Peak]
+50030 Dragon Cultist Kalix [Archdragon Peak]
+50040 Dragon Cultist Wex [Archdragon Peak]
+50050 Dragon Cultist Solos [Archdragon Peak]
+50060 Burial Knight - Scythe of Nahr Alma [Cemetery of Ash]
+50070 Burial Knight - Reinforced Club [Cemetery of Ash]
+50080 Burial Knight - Flamberge [Cemetery of Ash]
+50090 Burial Knight - Great Machete [Cemetery of Ash]
+50100 Burial Knight - Barbed Straight Sword [Cemetery of Ash]
+50110 The Father [Smouldering Lake]
+50120 The Mother [Smouldering Lake]
+50130 The Child [Smouldering Lake]
 699999 ### NPC ###
 721300 Domhnall of Zena
 721400 Marvelous Chester
 721500 Crestfallen Merchant
+721600 Grave Warden Lillian
+721700 Magnum Ursus
+721800 Alchemist Jiji
+721900 Solaire of Astora
 999999 ### Enemies ###
 1000000 Bonfire
 1000010 1000010: [For the weapon animation confirmation] ◎ 01 Dagger (id_20: Dagger)

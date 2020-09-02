@@ -10,10 +10,10 @@
     <item value="7" name="7 - Ghost" />
     <item value="8" name="8 - Enemy Sight Reduction" />
     <item value="9" name="9 - Tranquil Walk of Peace" />
-    <item value="10" name="10 - Used to remove Poison buildup" />
-    <item value="11" name="11 - Used to remove Toxic buildup" />
-    <item value="12" name="12 - Used to remove Bleed buildup" />
-    <item value="13" name="13 - Used to remove all aux buildup" />
+    <item value="10" name="10 - Remove Poison" />
+    <item value="11" name="11 - Remove Toxic" />
+    <item value="12" name="12 - Remove" />
+    <item value="13" name="13 - Remove Status" />
     <item value="14" name="14 - Humanity Stolen" />
     <item value="15" name="15 - Binoculars" />
     <item value="16" name="16 - Warp_Lothric3002953" />
@@ -33,7 +33,7 @@
     <item value="39" name="39 - Sound Feed" />
     <item value="40" name="40 - Greater Body Buff VFX" />
     <item value="41" name="41 - VFX - Flash Sweat" />
-    <item value="42" name="42 - Used in HP Recovery" />
+    <item value="42" name="42 - HP Recovery" />
     <item value="43" name="43 - Unknown" />
     <item value="44" name="44 - Unknown" />
     <item value="45" name="45 - Unknown" />
@@ -41,7 +41,7 @@
     <item value="47" name="47 - Disable Fall Damage" />
     <item value="48" name="48 - Increase Damage" />
     <item value="49" name="49 - Increase Defense" />
-    <item value="50" name="50 - Used in HP Recovery" />
+    <item value="50" name="50 - HP Recovery" />
     <item value="52" name="52 - Pledge Effect Test" />
     <item value="54" name="54 - Modify Enemy Listen Reduction" />
     <item value="55" name="55 - HostDeath" />
@@ -50,7 +50,7 @@
     <item value="60" name="60 - Magic Buff VFX" />
     <item value="61" name="61 - Crystal Magic Buff VFX" />
     <item value="62" name="62 - Charcoal Pine Resin VFX" />
-    <item value="64" name="64 - Effect1040" />
+    <item value="64" name="64 - Darkmoon Blade VFX" />
     <item value="65" name="65 - Effect12180" />
     <item value="66" name="66 - Modify Item Discovery" />
     <item value="69" name="69 - Tears of Denial VFX" />
@@ -114,8 +114,8 @@
     <item value="149" name="149 - White Relief Magic" />
     <item value="150" name="150 - Black Relief Magic" />
     <item value="151" name="151 - Gold Pine Resin VFX" />
-    <item value="152" name="152 - Enable AttackOccurance for Enemies" />
-    <item value="153" name="153 - Enable AttackOccurance for Players" />
+    <item value="152" name="152 - Enable AttackOccurance against Enemy" />
+    <item value="153" name="153 - Enable AttackOccurance against Player" />
     <item value="154" name="154 - Block Estus usage" />
     <item value="155" name="155 - Modify Poise" />
     <item value="156" name="156 - Disable Durability" />
@@ -189,9 +189,9 @@
     <item value="278" name="278 - DisableSpellEffect" />
     <item value="280" name="280 - WatchdogTriggerForHost" />
     <item value="281" name="281 - WetSystemTrigger" />
-    <item value="282" name="282 - Effect140001" />
-    <item value="283" name="283 - Unknown" />
-    <item value="284" name="284 - SpCategory" />
+    <item value="282" name="282 - NPC Correction for Coop" />
+    <item value="283" name="283 - Tears of Denial Trigger" />
+    <item value="284" name="284 - Heal Spell" />
     <item value="285" name="285 - Unknown" />
     <item value="286" name="286 - Weak Movement Slow" />
     <item value="287" name="287 - Strong Movement Slow" />
@@ -201,10 +201,10 @@
     <item value="291" name="291 - Grants roll invisibility" />
     <item value="292" name="292 - Repair1" />
     <item value="293" name="293 - Change Durability" />
-    <item value="294" name="294 - AldrichFaithful" />
-    <item value="295" name="295 - AldrichFaithfulForHost" />
-    <item value="296" name="296 - ChrFinder_DarkmoonInvasion" />
-    <item value="297" name="297 - Cant Be Used In Session" />
+    <item value="294" name="294 - Aldrich Faithful" />
+    <item value="295" name="295 - Aldrich Faithful for Host" />
+    <item value="296" name="296 - Chr Finder - Darkmoon Invasion" />
+    <item value="297" name="297 - Not in Multiplayer Session" />
     <item value="298" name="298 - Trigger on Backstab" />
     <item value="299" name="299 - Enemies attack Invaders" />
     <item value="300" name="300 - Enemies attack Invaders" />
@@ -212,13 +212,13 @@
     <item value="302" name="302 - Homeward Warp" />
     <item value="303" name="303 - Condition Occurence 1" />
     <item value="304" name="304 - Condition Occurence 2" />
-    <item value="305" name="305 - Condition Occurence 3" />
+    <item value="305" name="305 - Condition Occurence 3 (Consecutive Attacks)" />
     <item value="306" name="306 - Condition Occurence 4" />
     <item value="307" name="307 - Condition Occurence 5" />
     <item value="308" name="308 - Condition Occurence 6" />
     <item value="309" name="309 - Condition Occurence 7" />
     <item value="310" name="310 - Condition Occurence 8 (Jailer HP Drain)" />
-    <item value="311" name="311 - Condition Occurence 9" />
+    <item value="311" name="311 - Condition Occurence 9 (Estus Charge on Kill)" />
     <item value="312" name="312 - Unknown" />
     <item value="313" name="313 - Seek Guidance" />
     <item value="314" name="314 - Add Stability" />
@@ -248,45 +248,45 @@
     <item value="1001" name="1001 - SkipSpCategoryCheck2" />
   </enum>
   <enum name="AttackAttribute" type="u8">
-    <item value="0" name="None" />
-	<item value="1" name="Slash" />
-	<item value="2" name="Strike" />
-    <item value="3" name="Thrust" />
-    <item value="4" name="Standard" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - Slash" />
+	<item value="2" name="2 - Strike" />
+    <item value="3" name="3 - Thrust" />
+    <item value="4" name="4 - Standard" />
   </enum>
   <enum name="EffectAttribute" type="u8">
-    <item value="0" name="None" />
-	<item value="1" name="Physical" />
-	<item value="2" name="Fire" />
-    <item value="3" name="Magic" />
-    <item value="4" name="Poison/Bleed" />
-    <item value="6" name="Lightning" />
-    <item value="7" name="Petrify" />
-    <item value="8" name="Crystallize" />
-    <item value="9" name="Dark" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - Physical" />
+	<item value="2" name="2 - Fire" />
+    <item value="3" name="3 - Magic" />
+    <item value="4" name="4 - Poison/Bleed" />
+    <item value="6" name="6 - Lightning" />
+    <item value="7" name="7 - Petrify" />
+    <item value="8" name="8 - Crystallize" />
+    <item value="9" name="9 - Dark" />
   </enum>
   <enum name="DamageLevel" type="u8">
-    <item value="0" name="None" />
-	<item value="1" name="No Stagger" />
-	<item value="2" name="Short Stagger" />
-    <item value="3" name="Long Stagger" />
-    <item value="4" name="Stagger to Floor" />
-    <item value="5" name="Stagger Backwards" />
-    <item value="6" name="Faceplant" />
-    <item value="7" name="Stagger to Floor" />
-    <item value="8" name="Faceplant" />
-    <item value="9" name="Air Juggle Stagger" />
-    <item value="10" name="Push" />
-    <item value="11" name="Strong Stagger" />
-    <item value="12" name="Stagger Backwards" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - No Stagger" />
+	<item value="2" name="2 - Short Stagger" />
+    <item value="3" name="3 - Long Stagger" />
+    <item value="4" name="4 - Stagger to Floor" />
+    <item value="5" name="5 - Stagger Backwards" />
+    <item value="6" name="6 - Faceplant" />
+    <item value="7" name="7 - Stagger to Floor" />
+    <item value="8" name="8 - Faceplant" />
+    <item value="9" name="9 - Air Juggle Stagger" />
+    <item value="10" name="10 - Push" />
+    <item value="11" name="11 - Strong Stagger" />
+    <item value="12" name="12 - Stagger Backwards" />
   </enum>
   <enum name="ThrowTrigger" type="u8">
-    <item value="0" name="None" />
-	<item value="1" name="Forbidden" />
-	<item value="2" name="Parry" />
-    <item value="4" name="Fall" />
-    <item value="5" name="Hornet Ring" />
-    <item value="6" name="Lifedrain" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - Forbidden" />
+	<item value="2" name="2 - Parry" />
+    <item value="4" name="3 - Fall" />
+    <item value="5" name="5 - Hornet Ring" />
+    <item value="6" name="6 - Lifedrain" />
   </enum>
   <enum name="MoveType" type="u8">
     <item value="0" name="0" />
@@ -295,38 +295,54 @@
     <item value="5" name="5" />
   </enum>
   <enum name="WeaponParamChange" type="u8">
-    <item value="0" name="None" />
-	<item value="1" name="Right-hand" />
-	<item value="2" name="Left-hand" />
-    <item value="3" name="Self" />
-    <item value="4" name="Kick" />
+    <item value="0" name="0 - None" />
+	<item value="1" name="1 - Right-hand" />
+	<item value="2" name="2 - Left-hand" />
+    <item value="3" name="3 - Self" />
+    <item value="4" name="4 - Kick" />
   </enum>
   <enum name="EffectCategory" type="s16">
-    <item value="0" name="None" />
-	<item value="10" name="Stacks with Self" />
-	<item value="20" name="Expire on Resting" />
-    <item value="150" name="Unknown" />
-	<item value="151" name="Body Buff 1" />
-    <item value="152" name="Body Buff 2" />
-    <item value="157" name="Body Buff 3" />
-	<item value="160" name="Body Buff 4)" />
-	<item value="161" name="Body Buff 5" />
-	<item value="162" name="Weapon Buff - Right-hand" />
-	<item value="163" name="Weapon Buff - Left-hand" />
-	<item value="100" name="Animation Change Offset" />
-	<item value="1001" name="Super Armor Change" />
-	<item value="10001" name="Damage Level Change" />
-	<item value="110" name="Resonance" />
-	<item value="154" name="Spook" />
-	<item value="156" name="Stamina Recovery" />
-	<item value="1000" name="Move Type" />
-	<item value="1002" name="Lava Walk" />
-    <item value="10002" name="Dragonform" />
-	<item value="10003" name="Bleed" />
-	<item value="10004" name="Poison" />
-	<item value="10005" name="Toxic" />
-	<item value="10006" name="Curse" />
-	<item value="10007" name="Frostbite" />
+    <item value="0" name="0 - None" />
+	<item value="10" name="10 - Stack Self" />
+	<item value="20" name="20 - Reset on Apply" />
+    <item value="100" name="100 - Remove Previous" />
+	<item value="110" name="110 - Remove Previous (Resonance)" />
+    <item value="130" name="130 - Remove Previous" />
+    <item value="131" name="131 - Remove Previous" />
+    <item value="132" name="132 - Remove Previous" />
+    <item value="133" name="133 - Remove Previous" />
+    <item value="140" name="140 - Remove Previous" />
+    <item value="150" name="150 - Remove Previous" />
+	<item value="151" name="151 - Remove Previous (Body Buff)" />
+    <item value="152" name="152 - Remove Previous (Body Buff)" />
+    <item value="153" name="153 - Remove Previous" />
+	<item value="154" name="154 - Remove Previous (Spook)" />
+    <item value="155" name="155 - Remove Previous" />
+	<item value="156" name="156 - Remove Previous (Stamina Recovery)" />
+    <item value="157" name="157 - Remove Previous (Body Buff)" />
+    <item value="158" name="158 - Remove Previous" />
+    <item value="159" name="159 - Remove Previous" />
+	<item value="160" name="160 - Remove Previous (Body Buff)" />
+	<item value="161" name="161 - Remove Previous (Body Buff)" />
+	<item value="162" name="162 - Remove Previous (Right-hand)" />
+	<item value="163" name="163 - Remove Previous (Left-hand)" />
+    <item value="164" name="164 - Remove Previous (Wet Aspect)" />
+    <item value="165" name="165 - Remove Previous" />
+    <item value="166" name="166 - Remove Previous" />
+    <item value="167" name="167 - Remove Previous" />
+    <item value="168" name="168 - Remove Previous" />
+    <item value="174" name="174 - Remove Previous" />
+    <item value="1000" name="1000 - Apply Highest (Category Priority)" />
+	<item value="1001" name="1001 - Apply Highest (Category Priority)" />
+	<item value="1002" name="1002 - Apply Highest (Category Priority)" />
+    <item value="10000" name="10000 - Apply First" />
+	<item value="10001" name="10001 - Apply First (Damage Level Change)" />
+    <item value="10002" name="10002 - Apply First (Dragonform)" />
+	<item value="10003" name="10003 - Apply First (Bleed)" />
+	<item value="10004" name="10004 - Apply First (Poison)" />
+	<item value="10005" name="10005 - Apply First (Toxic)" />
+	<item value="10006" name="10006 - Apply First (Curse)" />
+	<item value="10007" name="10007 - Apply First (Frostbite)" />
   </enum>
   <enum name="IconID" type="s32">
     <item value="-1" name="None" />
@@ -806,7 +822,7 @@ Enemies - Requires State Info 152</description>
   </entry>
   <entry>
     <name>Category Priority</name>
-    <type>s8</type>
+    <type>u8</type>
     <default>0</default>
     <description>Priority ordering for special effect to be applied on each update (lower values are updated first).</description>
   </entry>
@@ -961,12 +977,12 @@ Enemies - Requires State Info 152</description>
     <enum>ThrowTrigger</enum>
   </entry>
   <entry>
-    <name>addBehaviorJudgeId_add Trigger</name>
+    <name>Add Behavior Judge ID - Trigger</name>
     <type>s8</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>addBehaviorJudgeId_add</name>
+    <name>Add Behavior Judge ID</name>
     <type>s8</type>
     <default>100</default>
   </entry>
@@ -1973,12 +1989,12 @@ Enemies - Requires State Info 152</description>
     <default>1</default>
   </entry>
   <entry>
-    <name>Unk40</name>
+    <name>Add Behavior Judge ID</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk41</name>
+    <name>Add Behavior Judge ID - Unk</name>
     <type>u8</type>
     <default>0</default>
   </entry>

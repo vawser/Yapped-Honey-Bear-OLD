@@ -61,20 +61,11 @@
 400500 Moonlight Arrow
 400600 Wood Arrow
 400700 Dark Arrow
-400800 Lightning Arrow
-400900 Lacerating Arrow
-401000 Frost Arrow
-401100 Draconic Arrow
 401999 ### Greatarrows ###
 402000 Dragonslayer Greatarrow
 402200 Dragonslayer Lightning Arrow
 402300 Onislayer Greatarrow
 402400 Millwood Greatarrow
-402500 Moonlight Greatarrow
-402600 Demonic Greatarrow
-402700 Corrupted Greatarrow
-402800 Draconic Greatarrow
-402900 Wood Greatarrow
 403001 ### Bolts ###
 404000 Standard Bolt
 404100 Heavy Bolt
@@ -83,15 +74,24 @@
 404400 Lightning Bolt
 404500 Splintering Bolt
 404600 Exploding Bolt
-404700 Magic Bolt
-404800 Fire Bolt
-404900 Dark Bolt
-405000 Poison Bolt
-405200 Frost Bolt
-405300 Draconic Bolt
 409801 ### Test Data ###
 409900 TestData Bolt1
-419900 TestData Bolt2
+409999 ### Ammunition ###
+410000 Lightning Arrow
+410300 Draconic Arrow
+410400 Frost Arrow
+410600 Lacerating Arrow
+412000 Moonlight Greatarrow
+412300 Wood Greatarrow
+414000 Magic Bolt
+414100 Draconic Bolt
+422000 Demonic Greatarrow
+424000 Fire Bolt
+432000 Corrupted Greatarrow
+434000 Dark Bolt
+442000 Draconic Greatarrow
+444000 Poison Bolt
+454000 Frost Bolt
 800000 Test Greatbow
 890000 Test-Glow
 890010 Test-Glow +10
@@ -143,7 +143,6 @@
 933710 Ghost Shield +10
 933800 Ghost GreatShield
 933900 Ghost Torch
-934000 Test Cannon
 990001 ## Weapons ###
 1000000 Dagger [Normal]
 1000100 Dagger [Lethal]
@@ -2984,6 +2983,8 @@
 14190000 Repeating Crossbow [Boss]
 14200000 Flynn's Bow [Unique]
 14210000 Scholar's Bow [Boss]
+14220000 Giant's Bow [Unique]
+14230000 Model Ballista [Unique]
 15900001 ### Paired Weapons ###
 16000000 Sellsword Twinblades [Normal]
 16000100 Sellsword Twinblades [Lethal]
@@ -3210,6 +3211,21 @@
 16161200 Ringed Knight Paired Greatswords [Holy]
 16161300 Ringed Knight Paired Greatswords [Sharp]
 16161400 Ringed Knight Paired Greatswords [Blunt]
+16170000 Imperious Greatshield [Unique]
+16170100 Imperious Greatshield [Lethal]
+16170200 Imperious Greatshield [Curse]
+16170300 Imperious Greatshield [Poison]
+16170400 Imperious Greatshield [Bleed]
+16170500 Imperious Greatshield [Frost]
+16170600 Imperious Greatshield [Magic]
+16170700 Imperious Greatshield [Fire]
+16170800 Imperious Greatshield [Lightning]
+16170900 Imperious Greatshield [Dark]
+16171000 Imperious Greatshield [Lucky]
+16171100 Imperious Greatshield [Enchanted]
+16171200 Imperious Greatshield [Holy]
+16171300 Imperious Greatshield [Sharp]
+16171400 Imperious Greatshield [Blunt]
 19000001 ### Shields ###
 20000000 Buckler [Normal]
 20000100 Buckler [Clarity]
@@ -4047,17 +4063,6 @@
 22250800 Quicksilver Shield [Fire]
 22250900 Quicksilver Shield [Lightning]
 22251000 Quicksilver Shield [Dark]
-22260000 Rune Shield [Unique]
-22260100 Rune Shield [Clarity]
-22260200 Rune Shield [Rejuvenation]
-22260300 Rune Shield [Restoration]
-22260400 Rune Shield [Respite]
-22260500 Rune Shield [Lucidity]
-22260600 Rune Shield [Greed]
-22260700 Rune Shield [Magic]
-22260800 Rune Shield [Fire]
-22260900 Rune Shield [Lightning]
-22261000 Rune Shield [Dark]
 22270000 Adjudicator's Shield [Unique]
 22270100 Adjudicator's Shield [Clarity]
 22270200 Adjudicator's Shield [Rejuvenation]
@@ -5191,21 +5196,21 @@
 30841200 Hands of God [Holy]
 30841300 Hands of God [Sharp]
 30841400 Hands of God [Blunt]
-30850000 Rune Sword [Unique]
-30850100 Rune Sword [Lethal]
-30850200 Rune Sword [Curse]
-30850300 Rune Sword [Poison]
-30850400 Rune Sword [Blood]
-30850500 Rune Sword [Frost]
-30850600 Rune Sword [Magic]
-30850700 Rune Sword [Fire]
-30850800 Rune Sword [Lightning]
-30850900 Rune Sword [Dark]
-30851000 Rune Sword [Lucky]
-30851100 Rune Sword [Enchanted]
-30851200 Rune Sword [Holy]
-30851300 Rune Sword [Sharp]
-30851400 Rune Sword [Blunt]
+30850000 Runelock [Unique]
+30850100 Runelock [Lethal]
+30850200 Runelock [Curse]
+30850300 Runelock [Poison]
+30850400 Runelock [Blood]
+30850500 Runelock [Frost]
+30850600 Runelock [Magic]
+30850700 Runelock [Fire]
+30850800 Runelock [Lightning]
+30850900 Runelock [Dark]
+30851000 Runelock [Lucky]
+30851100 Runelock [Enchanted]
+30851200 Runelock [Holy]
+30851300 Runelock [Sharp]
+30851400 Runelock [Blunt]
 30860000 Scraping Spear [Unique]
 30860100 Scraping Spear [Lethal]
 30860200 Scraping Spear [Curse]
@@ -5972,6 +5977,51 @@
 31411200 Thorned Greatsword [Holy]
 31411300 Thorned Greatsword [Sharp]
 31411400 Thorned Greatsword [Blunt]
+31420000 Hands of Sin [Unique]
+31420100 Hands of Sin [Lethal]
+31420200 Hands of Sin [Curse]
+31420300 Hands of Sin [Poison]
+31420400 Hands of Sin [Blood]
+31420500 Hands of Sin [Frost]
+31420600 Hands of Sin [Magic]
+31420700 Hands of Sin [Fire]
+31420800 Hands of Sin [Lightning]
+31420900 Hands of Sin [Dark]
+31421000 Hands of Sin [Lucky]
+31421100 Hands of Sin [Enchanted]
+31421200 Hands of Sin [Holy]
+31421300 Hands of Sin [Sharp]
+31421400 Hands of Sin [Blunt]
+31430000 Frying Pan [Normal]
+31430100 Frying Pan [Lethal]
+31430200 Frying Pan [Curse]
+31430300 Frying Pan [Poison]
+31430400 Frying Pan [Blood]
+31430500 Frying Pan [Frost]
+31430600 Frying Pan [Magic]
+31430700 Frying Pan [Fire]
+31430800 Frying Pan [Lightning]
+31430900 Frying Pan [Dark]
+31431000 Frying Pan [Lucky]
+31431100 Frying Pan [Enchanted]
+31431200 Frying Pan [Holy]
+31431300 Frying Pan [Sharp]
+31431400 Frying Pan [Blunt]
+31440000 Serpentine Chain-axe [Normal]
+31440100 Serpentine Chain-axe [Lethal]
+31440200 Serpentine Chain-axe [Curse]
+31440300 Serpentine Chain-axe [Poison]
+31440400 Serpentine Chain-axe [Bleed]
+31440500 Serpentine Chain-axe [Frost]
+31440600 Serpentine Chain-axe [Magic]
+31440700 Serpentine Chain-axe [Fire]
+31440800 Serpentine Chain-axe [Lightning]
+31440900 Serpentine Chain-axe [Dark]
+31441000 Serpentine Chain-axe [Lucky]
+31441100 Serpentine Chain-axe [Enchanted]
+31441200 Serpentine Chain-axe [Holy]
+31441300 Serpentine Chain-axe [Sharp]
+31441400 Serpentine Chain-axe [Blunt]
 63900001 ### Debug ###
 63990000 [Debug] Arrow
 67000000 [Debug] Bolt

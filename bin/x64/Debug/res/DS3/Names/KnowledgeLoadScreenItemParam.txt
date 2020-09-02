@@ -191,7 +191,6 @@
 198 Soul Wave
 199 Blizzard
 201 Orbs of Judgment
-202 Soul Focus
 203 Blinding Light
 204 Whisper of Despair
 205 Repel
@@ -217,7 +216,6 @@
 225 Heavenly Thunder
 226 Halo
 227 Perseverance
-228 Inner Fervor
 229 Nibble
 230 Devouring Swarm
 231 Thieves' Pact

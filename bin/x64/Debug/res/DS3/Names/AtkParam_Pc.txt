@@ -434,10 +434,10 @@
 2000510 Dagger - Riposte
 2000515 Dagger - Riposte (Hornet Ring) - Sub
 2000516 Dagger - Riposte (Hornet Ring)
-2000520 Dagger - 1H Roll Attack
-2000530 Dagger - 2H Roll Attack
-2000540 Dagger - 1H Backstep
-2000580 Dagger - 2H Backstep
+2000520 Dagger - 1H Backstep
+2000530 Dagger - 2H Backstep
+2000540 Dagger - 1H Roll
+2000580 Dagger - 2H Roll
 2000600 Dagger - Parry
 2000610 Dagger - Backstab Transition
 2000615 Dagger - Missed Backstab Transition
@@ -549,10 +549,10 @@
 2300510 Straight Sword - Riposte
 2300515 Straight Sword - Riposte (Hornet Ring) - Sub
 2300516 Straight Sword - Riposte (Hornet Ring)
-2300520 Straight Sword - 1H Roll Attack
-2300530 Straight Sword - 2H Roll Attack
-2300540 Straight Sword - 1H Backstep
-2300580 Straight Sword - 2H Backstep
+2300520 Straight Sword - 1H Backstep
+2300530 Straight Sword - 2H Backstep
+2300540 Straight Sword - 1H Roll
+2300580 Straight Sword - 2H Roll
 2300600 Straight Sword - Parry
 2300610 Straight Sword - Backstab Transition
 2300615 Straight Sword - Missed Backstab Transition
@@ -562,8 +562,8 @@
 2300921 Straight Sword
 2301100 Broadsword - 1H Heavy # 1
 2301105 Broadsword - 1H Heavy # 1 Max
-2301540 Broadsword - 1H Backstep
-2301580 Broadsword - 2H Backstep
+2301540 Broadsword - 1H Roll
+2301580 Broadsword - 2H Roll
 2302100 Shortsword - 1H Heavy #1
 2302105 Shortsword - 1H Heavy #1 Max
 2302110 Shortsword - 1H Heavy #2
@@ -572,11 +572,11 @@
 2302305 Shortsword - 2H Heavy #1 Max
 2302310 Shortsword - 2H Heavy #2
 2302315 Shortsword - 2H Heavy #2 Max
-2302580 Shortsword - 2H Backstep
-2303100 Unknown - 1H Heavy #1
-2303110 Unknown - 1H Heavy #2
-2303300 Unknown - 2H Heavy #1
-2303310 Unknown - 2H Heavy #2
+2302580 Shortsword - 2H Roll
+2303100 Ringed Knight Straight Sword - 1H Heavy #1
+2303110 Ringed Knight Straight Sword - 1H Heavy #2
+2303300 Ringed Knight Straight Sword - 2H Heavy #1
+2303310 Ringed Knight Straight Sword - 2H Heavy #2
 2304100 Dark Sword - 1H Heavy #1
 2304105 Dark Sword - 1H Heavy #1 Max
 2304110 Dark Sword - 1H Heavy #2
@@ -627,17 +627,38 @@
 2351707 Drake Sword - Unleash Dragon
 2352700 Blueblood Sword - Crystal Shower
 2352701 Blueblood Sword - Crystal Shower
-2353100 Penetrating Sword/BSS - 1H Heavy #1
-2353105 Penetrating Sword/BSS - 1H Heavy #1 Max
-2353110 Penetrating Sword/BSS - 1H Heavy #2
-2353115 Penetrating Sword/BSS - 1H Heavy #2 Max
-2353300 Penetrating Sword/BSS - 2H Heavy #1
-2353305 Penetrating Sword/BSS - 2H Heavy #1 Max
-2353310 Penetrating Sword/BSS - 2H Heavy #2
-2353315 Penetrating Sword/BSS - 2H Heavy #2 Max
-2353700 Penetrating Sword/BSS - Shield Splitter
+2353100 Balder Side Sword - 1H Heavy #1
+2353105 Balder Side Sword - 1H Heavy #1 Max
+2353110 Balder Side Sword - 1H Heavy #2
+2353115 Balder Side Sword - 1H Heavy #2 Max
+2353300 Balder Side Sword - 2H Heavy #1
+2353305 Balder Side Sword - 2H Heavy #1 Max
+2353310 Balder Side Sword - 2H Heavy #2
+2353315 Balder Side Sword - 2H Heavy #2 Max
+2353700 Balder Side Sword - Shield Splitter
 2354700 Firelink Sword - Ember
 2354705 Firelink Sword - Ember
+2355000 Penetrating Sword - 1H Light #1
+2355010 Penetrating Sword - 1H Light #2
+2355020 Penetrating Sword - 1H Light #3
+2355100 Penetrating Sword - 1H Heavy #1
+2355101 Penetrating Sword - 1H Heavy #1 - Second Hit
+2355105 Penetrating Sword - 1H Heavy #1 Max
+2355106 Penetrating Sword - 1H Heavy #1 Max - Second Hit
+2355110 Penetrating Sword - 1H Heavy #2
+2355115 Penetrating Sword - 1H Heavy #2 Max
+2355200 Penetrating Sword - 2H Light #1
+2355210 Penetrating Sword - 2H Light #2
+2355220 Penetrating Sword - 2H Light #3
+2355300 Penetrating Sword - 2H Heavy #1
+2355301 Penetrating Sword - 2H Heavy #1 - Second Hit
+2355305 Penetrating Sword - 2H Heavy #1 Max
+2355306 Penetrating Sword - 2H Heavy #1 Max - Second Hit
+2355310 Penetrating Sword - 2H Heavy #2
+2355315 Penetrating Sword - 2H Heavy #2 Max
+2355520 Penetrating Sword - 1H Backstep
+2355530 Penetrating Sword - 2H Backstep
+2355700 Penetrating Sword - Shield Splitter
 2390620 Gotthard Twinswords
 2390621 Gotthard Twinswords
 2390630 Gotthard Twinswords
@@ -664,6 +685,15 @@
 2391723 Valorheart
 2391750 Valorheart
 2391760 Valorheart
+2393620 Runelock
+2393630 Runelock
+2393640 Runelock
+2393720 Runelock
+2393722 Runelock
+2393723 Runelock
+2393750 Runelock
+2393760 Runelock
+2393795 Runelock - Shield Bash - Bullet
 2500000 Bastard Sword - 1H Light #1
 2500001 Bastard Sword
 2500010 Bastard Sword - 1H Light #2
@@ -700,10 +730,10 @@
 2500510 Bastard Sword - Riposte
 2500515 Bastard Sword - Riposte (Hornet Ring) - Sub
 2500516 Bastard Sword - Riposte (Hornet Ring)
-2500520 Bastard Sword - 1H Roll Attack
-2500530 Bastard Sword - 2H Roll Attack
-2500540 Bastard Sword - 1H Backstep
-2500580 Bastard Sword - 2H Backstep
+2500520 Bastard Sword - 1H Backstep
+2500530 Bastard Sword - 2H Backstep
+2500540 Bastard Sword - 1H Roll
+2500580 Bastard Sword - 2H Roll
 2500600 Bastard Sword - Parry
 2500610 Bastard Sword - Backstab Transition
 2500615 Bastard Sword - Missed Backstab Transition
@@ -733,10 +763,10 @@
 2502400 Flamberge - Left Hand
 2502402 Flamberge
 2502404 Flamberge
-2502520 Flamberge - 1H Roll Attack
-2502530 Flamberge - 2H Roll Attack
-2502540 Flamberge - 1H Backstep
-2502580 Flamberge - 2H Backstep
+2502520 Flamberge - 1H Backstep
+2502530 Flamberge - 2H Backstep
+2502540 Flamberge - 1H Roll
+2502580 Flamberge - 2H Roll
 2502615 Flamberge
 2502700 Flamberge - Stance
 2502710 Flamberge - Stance
@@ -751,7 +781,7 @@
 2503305 Hollowslayer Greatsword - 2H Heavy #1 Max
 2503310 Hollowslayer Greatsword - 2H Heavy #2
 2503315 Hollowslayer Greatsword - 2H Heavy #2 Max
-2503580 Hollowslayer Greatsword - 2H Backstep
+2503580 Hollowslayer Greatsword - 2H Roll
 2505100 Claymore - 1H Heavy #1
 2505105 Claymore - 1H Heavy #1 Max
 2505110 Claymore - 1H Heavy #2
@@ -760,7 +790,7 @@
 2505305 Claymore - 2H Heavy #1 Max
 2505310 Claymore - 2H Heavy #2
 2505315 Claymore - 2H Heavy #2 Max
-2505580 Claymore - 2H Backstep
+2505580 Claymore - 2H Roll
 2508100 Wolf Knight's Greatsword - 1H Heavy #1
 2508105 Wolf Knight's Greatsword - 1H Heavy #1 Max
 2508300 Wolf Knight's Greatsword - 2H Heavy #1
@@ -914,9 +944,22 @@
 2523740 Spiral Greatsword - Beckon Storm
 2523750 Spiral Greatsword - Beckon Storm - Falling Bolt
 2523751 Spiral Greatsword - Beckon Storm - Falling Bolt
-2525720 Great Lord Greatsword - Flame of the Great Lord
-2525725 Great Lord Greatsword - Flame of the Great Lord
-2525726 Great Lord Greatsword - Flame of the Great Lord
+2525100 Great Lord Greatsword - 1H Heavy #1
+2525110 Great Lord Greatsword - 1H Heavy #1 Max
+2525300 Great Lord Greatsword - 2H Heavy #1
+2525310 Great Lord Greatsword - 2H Heavy #1 Max
+2525700 Great Lord Greatsword - WA - Light #1
+2525701 Great Lord Greatsword - WA - Light #1 - Second Hit
+2525705 Great Lord Greatsword - WA - Light #1 - No FP
+2525706 Great Lord Greatsword - WA - Light #1 - No FP - Second Hit
+2525710 Great Lord Greatsword - WA - Light #2
+2525711 Great Lord Greatsword - WA - Light #2 - Second Hit
+2525721 Great Lord Greatsword - WA - Light #3
+2525726 Great Lord Greatsword - WA - Light #3 - Second Hit
+2525730 Great Lord Greatsword - WA - Heavy #1
+2525735 Great Lord Greatsword - WA - Heavy #1 - No FP
+2525740 Great Lord Greatsword - WA - Heavy #2
+2525745 Great Lord Greatsword - WA - Heavy #2 - No FP
 2527700 Obsidian Greatsword - Abyssal Fire
 2527705 Obsidian Greatsword - Abyssal Fire
 2527706 Obsidian Greatsword - Abyssal Fire - Marker
@@ -964,10 +1007,10 @@
 2600515 Greatsword - Riposte (Hornet Ring) - Sub
 2600516 Greatsword - Riposte (Hornet Ring) - Sub
 2600517 Greatsword - Riposte (Hornet Ring)
-2600520 Greatsword - 1H Roll Attack
-2600530 Greatsword - 2H Roll Attack
-2600540 Greatsword - 1H Backstep
-2600580 Greatsword - 2H Backstep
+2600520 Greatsword - 1H Backstep
+2600530 Greatsword - 2H Backstep
+2600540 Greatsword - 1H Roll
+2600580 Greatsword - 2H Roll
 2600600 Greatsword - Parry
 2600610 Greatsword - Backstab Transition
 2600615 Greatsword - Missed Backstab Transition
@@ -984,8 +1027,8 @@
 2601220 Greatsword (Alt) - 2H Light #3
 2601300 Greatsword (Alt) - 2H Heavy #1
 2601305 Greatsword (Alt) - 2H Heavy #1 Max
-2601540 Greatsword (Alt) - 1H Backstep
-2601580 Greatsword (Alt) - 2H Backstep
+2601540 Greatsword (Alt) - 1H Roll
+2601580 Greatsword (Alt) - 2H Roll
 2601700 Greatsword (Alt)
 2601705 Greatsword (Alt)
 2602100 Black Knight Greatsword - 1H Heavy #1
@@ -999,11 +1042,12 @@
 2602308 Black Knight Greatsword
 2602309 Black Knight Greatsword
 2602701 Black Knight Greatsword
+2602705 Black Knight Greatsword - Stomp
 2603100 Astora Greatsword - 1H Heavy #1
 2603105 Astora Greatsword - 1H Heavy #1 Max
 2603300 Astora Greatsword - 2H Heavy #1
 2603305 Astora Greatsword - 2H Heavy #1 Max
-2603540 Astora Greatsword - 1H Backstep
+2603540 Astora Greatsword - 1H Roll
 2603580 Astora Greatsword - 2H Step Forward
 2603800 Astora Greatsword
 2603810 Astora Greatsword
@@ -1214,10 +1258,10 @@
 2700510 Rapier - Riposte
 2700515 Rapier - Riposte (Hornet Ring) - Sub
 2700516 Rapier - Riposte (Hornet Ring)
-2700520 Rapier - 1H Roll Attack
-2700530 Rapier - 2H Roll Attack
-2700540 Rapier - 1H Backstep
-2700580 Rapier - 2H Backstep
+2700520 Rapier - 1H Backstep
+2700530 Rapier - 2H Backstep
+2700540 Rapier - 1H Roll
+2700580 Rapier - 2H Roll
 2700600 Rapier - Parry
 2700610 Rapier - Backstab Transition
 2700615 Rapier - Missed Backstab Transition
@@ -1295,10 +1339,10 @@
 2800510 Falchion - Riposte
 2800515 Falchion - Riposte (Hornet Ring) - Sub
 2800516 Falchion - Riposte (Hornet Ring)
-2800520 Falchion - 1H Roll Attack
-2800530 Falchion - 2H Roll Attack
-2800540 Falchion - 1H Backstep
-2800580 Falchion - 2H Backstep
+2800520 Falchion - 1H Backstep
+2800530 Falchion - 2H Backstep
+2800540 Falchion - 1H Roll
+2800580 Falchion - 2H Roll
 2800600 Falchion - Parry
 2800610 Falchion - Backstab Transition
 2800615 Falchion - Missed Backstab Transition
@@ -1325,8 +1369,8 @@
 2806510 Dancer's Enchanted Swords - Riposte
 2806515 Dancer's Enchanted Swords - Riposte (Hornet Ring) - Sub
 2806516 Dancer's Enchanted Swords - Riposte (Hornet Ring)
-2806520 Dancer's Enchanted Swords - 1H Roll Attack
-2806540 Dancer's Enchanted Swords - 1H Backstep
+2806520 Dancer's Enchanted Swords - 1H Backstep
+2806540 Dancer's Enchanted Swords - 1H Roll
 2806615 Dancer's Enchanted Swords - Missed Backstab Transition
 2806620 Dancer's Enchanted Swords - Left Hand Combo 1
 2806621 Dancer's Enchanted Swords - Left Hand Combo 1
@@ -1425,10 +1469,31 @@
 2814700 Quelaag's Fury Sword - Quelaag's Rage
 2814705 Quelaag's Fury Sword - Quelaag's Rage
 2814706 Quelaag's Fury Sword - Quelaag's Rage
-2814710 Quelaag's Fury Sword - Quelaag's Rage - Chaos Orb
-2814711 Quelaag's Fury Sword - Quelaag's Rage - Chaos Orb
-2814712 Quelaag's Fury Sword - Quelaag's Rage - Chaos Orb
-2814713 Quelaag's Fury Sword - Quelaag's Rage - Chaos Orb
+2814710 Quelaag's Fury Sword - Quelaag's Rage - Chaos Storm
+2814711 Quelaag's Fury Sword - Quelaag's Rage - Chaos Storm [Hit]
+2814712 Quelaag's Fury Sword - Quelaag's Rage - Chaos Storm [Hit]
+2814713 Quelaag's Fury Sword - Quelaag's Rage - Chaos Storm [Hit]
+2814714 Quelaag's Fury Sword - Quelaag's Rage - Chaos Storm [Hit]
+2815000 Beast Cutter - 1H Light #1
+2815010 Beast Cutter - 1H Light #2
+2815020 Beast Cutter - 1H Light #3
+2815030 Beast Cutter - 1H Jump Attack
+2815100 Beast Cutter - 1H Heavy #1
+2815105 Beast Cutter - 1H Heavy #1 Max
+2815110 Beast Cutter - 1H Heavy #2
+2815115 Beast Cutter - 1H Heavy #2 Max
+2815200 Beast Cutter - 2H Light #1
+2815210 Beast Cutter - 2H Light #2
+2815220 Beast Cutter - 2H Light #3
+2815230 Beast Cutter - 2H Jump Attack
+2815300 Beast Cutter - 2H Heavy #1
+2815305 Beast Cutter - 2H Heavy #1 Max
+2815310 Beast Cutter - 2H Heavy #2
+2815315 Beast Cutter - 2H Heavy #2 Max
+2815520 Beast Cutter - 1H Backstep
+2815530 Beast Cutter - 2H Backstep
+2815540 Beast Cutter - 1H Roll Attack
+2815580 Beast Cutter - 2H Roll Attack
 2900000 Katana
 2900001 Katana
 2900010 Katana
@@ -1490,8 +1555,6 @@
 2902310 Black Blade - 2H Heavy #2
 2902315 Black Blade - 2H Heavy #2 Max
 2903700 Bloodlust - Bloodlust
-2903701 Bloodlust - Bloodlust
-2903702 Bloodlust - Bloodlust
 2904000 Washing Pole
 2904001 Washing Pole
 2904100 Washing Pole - 1H Heavy #1
@@ -1547,9 +1610,13 @@
 2905580 Darkdrift
 2905700 Darkdrift
 2905701 Darkdrift
-2906700 Bewitched Alonne Sword - Seppuku
-2906701 Bewitched Alonne Sword - Seppuku
-2906702 Bewitched Alonne Sword - Seppuku
+2906700 Bewitched Alonne Sword - Black Fire Trail
+2930410 Murky Warstaff - 1H Kick
+2930420 Murky Warstaff - 2H Kick
+2930700 Murky Warstaff - Weapon Art
+2930710 Murky Warstaff - Weapon Art
+2930720 Murky Warstaff - Weapon Art
+2930730 Murky Warstaff - Weapon Art
 2931700 Staff of Serpents - Expel Lightning
 2931705 Staff of Serpents - Expel Lightning
 2931706 Staff of Serpents - Expel Lightning
@@ -1617,10 +1684,10 @@
 3000515 Axe - Riposte (Hornet Ring) - Sub
 3000516 Axe - Riposte (Hornet Ring) - Sub
 3000517 Axe - Riposte (Hornet Ring)
-3000520 Axe - 1H Roll Attack
-3000530 Axe - 2H Roll Attack
-3000540 Axe - 1H Backstep
-3000580 Axe - 2H Backstep
+3000520 Axe - 1H Backstep
+3000530 Axe - 2H Backstep
+3000540 Axe - 1H Roll
+3000580 Axe - 2H Roll
 3000600 Axe - Parry
 3000610 Axe - Backstab Transition
 3000615 Axe - Missed Backstab Transition
@@ -1678,10 +1745,10 @@
 3010400 Hand Axe - Left Hand
 3010402 Hand Axe
 3010404 Hand Axe
-3010520 Hand Axe - 1H Roll Attack
-3010530 Hand Axe - 2H Roll Attack
-3010540 Hand Axe - 1H Backstep
-3010580 Hand Axe - 2H Backstep
+3010520 Hand Axe - 1H Backstep
+3010530 Hand Axe - 2H Backstep
+3010540 Hand Axe - 1H Roll
+3010580 Hand Axe - 2H Roll
 3010700 Hand Axe
 3010800 Hand Axe
 3030000 Butcher Knife - 1H Light #1
@@ -1719,10 +1786,10 @@
 3030515 Butcher Knife - Riposte (Hornet Ring) - Sub
 3030516 Butcher Knife - Riposte (Hornet Ring) - Sub
 3030517 Butcher Knife - Riposte (Hornet Ring)
-3030520 Butcher Knife - 1H Roll Attack
-3030530 Butcher Knife - 2H Roll Attack
-3030540 Butcher Knife - 1H Backstep
-3030580 Butcher Knife - 2H Backstep
+3030520 Butcher Knife - 1H Backstep
+3030530 Butcher Knife - 2H Backstep
+3030540 Butcher Knife - 1H Roll
+3030580 Butcher Knife - 2H Roll
 3030615 Butcher Knife
 3030700 Butcher Knife
 3030800 Butcher Knife
@@ -1853,10 +1920,10 @@
 3200515 Greataxe - Riposte (Hornet Ring) - Sub
 3200516 Greataxe - Riposte (Hornet Ring) - Sub
 3200517 Greataxe - Riposte (Hornet Ring)
-3200520 Greataxe - 1H Roll Attack
-3200530 Greataxe - 2H Roll Attack
-3200540 Greataxe - 1H Backstep
-3200580 Greataxe - 2H Backstep
+3200520 Greataxe - 1H Backstep
+3200530 Greataxe - 2H Backstep
+3200540 Greataxe - 1H Roll
+3200580 Greataxe - 2H Roll
 3200600 Greataxe - Parry
 3200610 Greataxe - Backstab Transition
 3200615 Greataxe - Missed Backstab Transition
@@ -1898,10 +1965,10 @@
 3203402 Black Knight's Greataxe
 3203404 Black Knight's Greataxe
 3203406 Black Knight's Greataxe
-3203520 Black Knight's Greataxe - 1H Roll Attack
-3203530 Black Knight's Greataxe - 2H Roll Attack
-3203540 Black Knight's Greataxe - 1H Backstep
-3203580 Black Knight's Greataxe - 2H Backstep
+3203520 Black Knight's Greataxe - 1H Backstep
+3203530 Black Knight's Greataxe - 2H Backstep
+3203540 Black Knight's Greataxe - 1H Roll
+3203580 Black Knight's Greataxe - 2H Roll
 3203800 Black Knight's Greataxe
 3203805 Black Knight's Greataxe
 3203808 Black Knight's Greataxe
@@ -2042,10 +2109,10 @@
 3216305 Crypt Blacksword - 2H Heavy #1 Max
 3216310 Crypt Blacksword - 2H Heavy #2
 3216315 Crypt Blacksword - 2H Heavy #2 Max
-3216520 Crypt Blacksword - 1H Roll Attack
-3216530 Crypt Blacksword - 2H Roll Attack
-3216540 Crypt Blacksword - 1H Backstep
-3216580 Crypt Blacksword - 2H Backstep
+3216520 Crypt Blacksword - 1H Backstep
+3216530 Crypt Blacksword - 2H Backstep
+3216540 Crypt Blacksword - 1H Roll
+3216580 Crypt Blacksword - 2H Roll
 3216700 Crypt Blacksword - Undead Wrath
 3216710 Crypt Blacksword - Undead Wrath [HitBullet]
 3217000 King's Ultra Greatsword - 1H Light #1
@@ -2065,10 +2132,10 @@
 3217305 King's Ultra Greatsword - 2H Heavy #1 Max
 3217310 King's Ultra Greatsword - 2H Heavy #2
 3217315 King's Ultra Greatsword - 2H Heavy #2 Max
-3217520 King's Ultra Greatsword - 1H Roll Attack
-3217530 King's Ultra Greatsword - 2H Roll Attack
-3217540 King's Ultra Greatsword - 1H Backstep
-3217580 King's Ultra Greatsword - 2H Backstep
+3217520 King's Ultra Greatsword - 1H Backstep
+3217530 King's Ultra Greatsword - 2H Backstep
+3217540 King's Ultra Greatsword - 1H Roll
+3217580 King's Ultra Greatsword - 2H Roll
 3300000 Hammer - 1H Light #1
 3300001 Hammer
 3300010 Hammer - 1H Light #2
@@ -2109,10 +2176,10 @@
 3300515 Hammer - Riposte (Hornet Ring) - Sub
 3300516 Hammer - Riposte (Hornet Ring) - Sub
 3300517 Hammer - Riposte (Hornet Ring)
-3300520 Hammer - 1H Roll Attack
-3300530 Hammer - 2H Roll Attack
-3300540 Hammer - 1H Backstep
-3300580 Hammer - 2H Backstep
+3300520 Hammer - 1H Backstep
+3300530 Hammer - 2H Backstep
+3300540 Hammer - 1H Roll
+3300580 Hammer - 2H Roll
 3300600 Hammer - Parry
 3300610 Hammer - Backstab Transition
 3300615 Hammer - Missed Backstab Transition
@@ -2169,10 +2236,10 @@
 3301515 Warpick - Riposte (Hornet Ring) - Sub
 3301516 Warpick - Riposte (Hornet Ring) - Sub
 3301517 Warpick - Riposte (Hornet Ring)
-3301520 Warpick - 1H Roll Attack
-3301530 Warpick - 2H Roll Attack
-3301540 Warpick - 1H Backstep
-3301580 Warpick - 2H Backstep
+3301520 Warpick - 1H Backstep
+3301530 Warpick - 2H Backstep
+3301540 Warpick - 1H Roll
+3301580 Warpick - 2H Roll
 3302000 Club - 1H Light #1
 3302010 Club - 1H Light #2
 3302020 Club - 1H Light #3
@@ -2202,8 +2269,10 @@
 3311700 Boom Hammer - Weapon Art
 3311705 Boom Hammer - Weapon Art
 3314700 Sanguinus - Bloodlust
-3314701 Sanguinus - Bloodlust
-3314702 Sanguinus - Bloodlust
+3315700 Tonitrus - Spark
+3316700 Frying Pan - Fry Up
+3316710 Frying Pan - Fry Up
+3316720 Frying Pan - Fry Up
 3390620 Drang Hammers
 3390621 Drang Hammers
 3390630 Drang Hammers
@@ -2271,10 +2340,10 @@
 3500515 Great Mace - Riposte (Hornet Ring) - Sub
 3500516 Great Mace - Riposte (Hornet Ring) - Sub
 3500517 Great Mace - Riposte (Hornet Ring)
-3500520 Great Mace - 1H Roll Attack
-3500530 Great Mace - 2H Roll Attack
-3500540 Great Mace - 1H Backstep
-3500580 Great Mace - 2H Backstep
+3500520 Great Mace - 1H Backstep
+3500530 Great Mace - 2H Backstep
+3500540 Great Mace - 1H Roll
+3500580 Great Mace - 2H Roll
 3500600 Great Mace - Parry
 3500610 Great Mace - Backstab Transition
 3500615 Great Mace
@@ -2335,8 +2404,6 @@
 3512734 Ledo's Great Hammer
 3512750 Ledo's Great Hammer
 3513700 Bloodletter - Bloodlust
-3513701 Bloodletter - Bloodlust
-3513702 Bloodletter - Bloodlust
 3514700 Sacred Chime Hammer - Beckon the Deep
 3514705 Sacred Chime Hammer - Beckon the Deep
 3515710 Giant Crab Arm - Bubblebeam
@@ -2428,10 +2495,10 @@
 3600510 Spear - Riposte
 3600515 Spear - Riposte (Hornet Ring) - Sub
 3600516 Spear - Riposte (Hornet Ring)
-3600520 Spear - 1H Roll Attack
-3600530 Spear - 2H Roll Attack
-3600540 Spear - 1H Backstep
-3600580 Spear
+3600520 Spear - 1H Backstep
+3600530 Spear - 2H Backstep
+3600540 Spear - 1H Roll
+3600580 Spear - 2H Roll
 3600600 Spear - Parry
 3600610 Spear - Backstab Transition
 3600615 Spear - Missed Backstab Transition
@@ -2469,9 +2536,9 @@
 3601403 Spear
 3601405 Spear
 3601460 Spear - Guard during attack (stick)
-3601520 Spear - 1H Roll Attack (stick)
-3601530 Spear - 2H Roll Attack (stick)
-3601540 Spear - 1H Backstep (stick)
+3601520 Spear - 1H Backstep (stick)
+3601530 Spear - 2H Backstep (stick)
+3601540 Spear - 1H Roll (stick)
 3601600 Spear - Parry (stick)
 3601610 Spear - Backstab Transition (stick)
 3601615 Spear - Missed Backstab Transition (stick)
@@ -2535,20 +2602,27 @@
 3608403 Pike
 3608404 Pike
 3608405 Pike
-3608520 Pike - 1H Roll Attack
-3608521 Pike - 1H Roll Attack (stop)
+3608520 Pike - 1H Backstep
+3608521 Pike - 1H Backstep (stop)
 3608522 Pike
-3608530 Pike - 2H Roll Attack
-3608531 Pike - 2H Roll Attack (stop)
+3608530 Pike - 2H Backstep
+3608531 Pike - 2H Backstep (stop)
 3608532 Pike
 3608800 Pike
 3608810 Pike
 3608820 Pike
 3608830 Pike
-3609800 Phosophrescent Pole
-3609810 Phosophrescent Pole
-3609820 Phosophrescent Pole
-3609830 Phosophrescent Pole
+3609410 Phosphorescent Pole - 1H Kick
+3609420 Phosphorescent Pole - 2H Kick
+3609580 Phosphorescent Pole - 2H Roll Attack
+3609720 Phosphorescent Pole - Stance Light #1
+3609721 Phosphorescent Pole - Stance Light #2
+3609722 Phosphorescent Pole - Stance Heavy
+3609730 Phosphorescent Pole - Stance Light - Final Hit
+3609800 Phosphorescent Pole - Weapon Art
+3609810 Phosphorescent Pole - Weapon Art
+3609820 Phosphorescent Pole - Weapon Art
+3609830 Phosphorescent Pole - Weapon Art
 3610000 Greatlance
 3610001 Greatlance
 3610010 Greatlance
@@ -2759,10 +2833,10 @@
 3800510 Halberd - Riposte
 3800515 Halberd - Riposte (Hornet Ring)
 3800516 Halberd - Riposte (Hornet Ring)
-3800520 Halberd - 1H Roll Attack
-3800530 Halberd - 2H Roll Attack
-3800540 Halberd - 1H Backstep
-3800580 Halberd - 2H Backstep
+3800520 Halberd - 1H Backstep
+3800530 Halberd - 2H Backstep
+3800540 Halberd - 1H Roll
+3800580 Halberd - 2H Roll
 3800600 Halberd - Parry
 3800610 Halberd - Backstab Transition
 3800615 Halberd
@@ -2802,10 +2876,10 @@
 3802510 Lucerne - Riposte (stab)
 3802515 Lucerne - Riposte (Hornet Ring) (stab)
 3802516 Lucerne - Riposte (Hornet Ring) (stab)
-3802520 Lucerne - 1H Roll Attack (Thrust)
-3802530 Lucerne - 2H Roll Attack (Thrust)
-3802540 Lucerne - 1H Backstep (needle thrust)
-3802580 Lucerne - 2H Backstep (needle thrust)
+3802520 Lucerne - 1H Backstep (Thrust)
+3802530 Lucerne - 2H Backstep (Thrust)
+3802540 Lucerne - 1H Roll (needle thrust)
+3802580 Lucerne - 2H Roll (needle thrust)
 3802700 Lucerne
 3802710 Lucerne
 3802720 Lucerne
@@ -3129,6 +3203,7 @@
 4200402 Caestus
 4200404 Caestus
 4200410 Caestus - 1H Kick
+4200420 Caestus - 2H Kick
 4200430 Caestus - 1H Guard
 4200450 Caestus - Parry
 4200470 Caestus - Large Throw
@@ -3142,8 +3217,8 @@
 4200515 Caestus - Riposte (Hornet Ring)
 4200516 Caestus - Riposte (Hornet Ring)
 4200517 Caestus - Riposte (Hornet Ring)
-4200520 Caestus - 1H Roll Attack
-4200540 Caestus - 1H Backstep
+4200520 Caestus - 1H Backstep
+4200540 Caestus - 1H Roll
 4200600 Caestus - Parry
 4200610 Caestus - Backstab Transition
 4200615 Caestus
@@ -3160,7 +3235,7 @@
 4200900 Fist - Dragon Form 1H Light
 4200901 Fist - Dragon Form 1H Heavy
 4200902 Fist - Dragon Form 1H Left Hand
-4200903 Fist - Dragon Form 1H Roll Attack
+4200903 Fist - Dragon Form 1H Backstep
 4200905 Fist - Dragon Form 1H Jump
 4200906 Fist - Dragon Form 1H Fall Loop
 4200907 Fist - Dragon Form 1H Fall Landing
@@ -3190,8 +3265,8 @@
 4202515 Claw - Riposte (Hornet Ring)
 4202516 Claw - Riposte (Hornet Ring)
 4202517 Claw - Riposte (Hornet Ring)
-4202520 Claw - 1H Roll Attack
-4202540 Claw - 1H Backstep
+4202520 Claw - 1H Backstep
+4202540 Claw - 1H Roll
 4202620 Claw - Parry
 4202621 Claw
 4202630 Claw
@@ -3238,8 +3313,8 @@
 4203515 Dark Hand - Riposte (Hornet Ring)
 4203516 Dark Hand - Riposte (Hornet Ring)
 4203517 Dark Hand - Riposte (Hornet Ring)
-4203520 Dark Hand - 1H Roll Attack
-4203540 Dark Hand - 1H Backstep
+4203520 Dark Hand - 1H Backstep
+4203540 Dark Hand - 1H Roll
 4203600 Dark Hand - Parry
 4203610 Dark Hand
 4203615 Dark Hand
@@ -3331,6 +3406,7 @@
 4209751 Crab Claw - Crabby
 4209760 Crab Claw - Crabby
 4209761 Crab Claw - Crabby
+4210795 Hands of Sin - Inner Turmoil
 4300000 Whip - 1H Light #1
 4300010 Whip - 1H Light #2
 4300020 Whip - 1H Light #3
@@ -3369,10 +3445,10 @@
 4300515 Whip - Riposte (Hornet Ring)
 4300516 Whip - Riposte (Hornet Ring)
 4300517 Whip - Riposte (Hornet Ring)
-4300520 Whip - 1H Roll Attack
-4300530 Whip - 2H Roll Attack
-4300540 Whip - 1H Backstep
-4300580 Whip - 2H Backstep
+4300520 Whip - 1H Backstep
+4300530 Whip - 2H Backstep
+4300540 Whip - 1H Roll
+4300580 Whip - 2H Roll
 4300600 Whip - Parry
 4300700 Whip - Weapon Art
 4300710 Whip - Weapon Art
@@ -3406,6 +3482,32 @@
 4302580 Rose of Ariandel
 4302700 Rose of Ariandel
 4302701 Rose of Ariandel
+4303000 Serpentine Chain-axe - 1H Light #1
+4303010 Serpentine Chain-axe - 1H Light #2
+4303020 Serpentine Chain-axe - 1H Light #3
+4303030 Serpentine Chain-axe - 1H Jump
+4303100 Serpentine Chain-axe - 1H Heavy #1
+4303105 Serpentine Chain-axe - 1H Heavy #1 Max
+4303110 Serpentine Chain-axe - 1H Heavy #2
+4303115 Serpentine Chain-axe - 1H Heavy #2 Max
+4303200 Serpentine Chain-axe - 2H Light #1
+4303210 Serpentine Chain-axe - 2H Light #2
+4303220 Serpentine Chain-axe - 2H Light #3
+4303230 Serpentine Chain-axe - 2H Jump
+4303300 Serpentine Chain-axe - 2H Heavy #1
+4303305 Serpentine Chain-axe - 2H Heavy #1 Max
+4303310 Serpentine Chain-axe - 2H Heavy #2
+4303315 Serpentine Chain-axe - 2H Heavy #2 Max
+4303400 Serpentine Chain-axe - Left #1
+4303402 Serpentine Chain-axe - Left #2
+4303404 Serpentine Chain-axe - Left #3
+4303520 Serpentine Chain-axe - 1H Backstep
+4303530 Serpentine Chain-axe - 2H Backstep
+4303540 Serpentine Chain-axe - 1H Roll
+4303580 Serpentine Chain-axe - 2H Roll
+4303700 Serpentine Chain-axe - Impact
+4303710 Serpentine Chain-axe - Impact
+4303720 Serpentine Chain-axe - Impact
 4400000 Bow - 1H Light
 4400100 Bow - 1H Heavy
 4400200 Bow - 2H Light
@@ -3418,10 +3520,10 @@
 4400450 Bow - Parry
 4400500 Bow - Backstab
 4400510 Bows - Riposte
-4400520 Bow - 1H Roll Attack
-4400530 Bow - 2H Roll Attack
-4400540 Bow - 1H Backstep
-4400580 Bow - 2H Backstep
+4400520 Bow - 1H Backstep
+4400530 Bow - 2H Backstep
+4400540 Bow - 1H Roll
+4400580 Bow - 2H Roll
 4400600 Bow - Parry
 4600000 Crossbow
 4600100 Crossbow - 1H Heavy
@@ -3435,8 +3537,8 @@
 4600450 Crossbow - Parry
 4600500 Crossbow - Backstab
 4600510 Crossbow - Riposte
-4600520 Crossbow - 1H Roll Attack
-4600530 Crossbow - 2H Roll Attack
+4600520 Crossbow - 1H Backstep
+4600530 Crossbow - 2H Backstep
 4600540 Crossbow - 1H Step Ahead
 4600580 Crossbow - 2H Step Ahead
 4600600 Crossbow - Parry
@@ -3461,12 +3563,12 @@
 4700420 Large Shield - 2H Kick
 4700430 Large Shield - 1H Guard
 4700440 Large Shield - 2H Guard
-4700520 Large Shield - 1H Roll Attack
-4700521 Large Shield - 1H Roll Attack -> Roll Attack
-4700530 Large Shield - 2H Roll Attack
-4700531 Large Shield - 2H Roll Attack -> Roll Attack
-4700540 Large Shield - 1H Backstep
-4700580 Large Shield - 2H Backstep
+4700520 Large Shield - 1H Backstep
+4700521 Large Shield - 1H Backstep -> Roll Attack
+4700530 Large Shield - 2H Backstep
+4700531 Large Shield - 2H Backstep -> Roll Attack
+4700540 Large Shield - 1H Roll
+4700580 Large Shield - 2H Roll
 4700600 Large Shield - Parry
 4700601 Large Shield - General Range
 4700610 Large Shield - Backstab Transition
@@ -3516,12 +3618,12 @@
 4800440 Small Shield - 2H Guard
 4800450 Small Shield - Parry
 4800451 Small Shield
-4800520 Small Shield - 1H Roll Attack
-4800521 Small Shield - 1H Roll Attack -> Roll Attack
-4800530 Small Shield - 2H Roll Attack
-4800531 Small Shield - 2H Roll Attack -> Roll Attack
-4800540 Small Shield - 1H Backstep
-4800580 Small Shield - 2H Backstep
+4800520 Small Shield - 1H Backstep
+4800521 Small Shield - 1H Backstep -> Roll Attack
+4800530 Small Shield - 2H Backstep
+4800531 Small Shield - 2H Backstep -> Roll Attack
+4800540 Small Shield - 1H Roll
+4800580 Small Shield - 2H Roll
 4800600 Small Shield - Parry
 4800610 Small Shield - Backstab Transition
 4800700 Small Shield - Weapon Art
@@ -3551,12 +3653,12 @@
 4803430 Pierce Shield - 1H Guard
 4803440 Pierce Shield - 2H Guard
 4803450 Pierce Shield - Parry
-4803520 Pierce Shield - 1H Roll Attack
-4803521 Pierce Shield - 1H Roll Attack -> Roll Attack
-4803530 Pierce Shield - 2H Roll Attack
-4803531 Pierce Shield - 2H Roll Attack -> Roll Attack
-4803540 Pierce Shield - 1H Backstep
-4803580 Pierce Shield - 2H Backstep
+4803520 Pierce Shield - 1H Backstep
+4803521 Pierce Shield - 1H Backstep -> Roll Attack
+4803530 Pierce Shield - 2H Backstep
+4803531 Pierce Shield - 2H Backstep -> Roll Attack
+4803540 Pierce Shield - 1H Roll
+4803580 Pierce Shield - 2H Roll
 4803600 Pierce Shield - Parry
 4806700 Dragonhead Shield
 4806701 Dragonhead Shield [Bullet]
@@ -3640,10 +3742,10 @@
 5000510 Scythe - Riposte
 5000515 Scythe - Riposte (Hornet Ring)
 5000516 Scythe - Riposte (Hornet Ring)
-5000520 Scythe - 1H Roll Attack
-5000530 Scythe - 2H Roll Attack
-5000540 Scythe - 1H Backstep
-5000580 Scythe - 2H Backstep
+5000520 Scythe - 1H Backstep
+5000530 Scythe - 2H Backstep
+5000540 Scythe - 1H Roll
+5000580 Scythe - 2H Roll
 5000600 Scythe - Parry
 5000610 Scythe
 5000615 Scythe
@@ -3683,10 +3785,10 @@
 5001510 Scythe (shaft) - Riposte
 5001515 Scythe (shaft) - Riposte (Hornet Ring)
 5001516 Scythe (shaft) - Riposte (Hornet Ring)
-5001520 Scythe (shaft) - 1H Roll Attack
-5001530 Scythe (shaft) - 2H Roll Attack
-5001540 Scythe (shaft) - 1H Backstep
-5001580 Scythe (shaft) - 2H Backstep
+5001520 Scythe (shaft) - 1H Backstep
+5001530 Scythe (shaft) - 2H Backstep
+5001540 Scythe (shaft) - 1H Roll
+5001580 Scythe (shaft) - 2H Roll
 5001600 Scythe (shaft) - Parry
 5010000 Pontiff Knight Great Scythe - 1H Light #1
 5010010 Pontiff Knight Great Scythe - 1H Light #2
@@ -3718,10 +3820,10 @@
 5010510 Pontiff Knight Great Scythe - Riposte
 5010515 Pontiff Knight Great Scythe - Riposte (Hornet Ring)
 5010516 Pontiff Knight Great Scythe - Riposte (Hornet Ring)
-5010520 Pontiff Knight Great Scythe - 1H Roll Attack
-5010530 Pontiff Knight Great Scythe - 2H Roll Attack
-5010540 Pontiff Knight Great Scythe - 1H Backstep
-5010580 Pontiff Knight Great Scythe - 2H Backstep
+5010520 Pontiff Knight Great Scythe - 1H Backstep
+5010530 Pontiff Knight Great Scythe - 2H Backstep
+5010540 Pontiff Knight Great Scythe - 1H Roll
+5010580 Pontiff Knight Great Scythe - 2H Roll
 5010615 Pontiff Knight Great Scythe
 5010700 Pontiff Knight Great Scythe - Weapon Art
 5011000 Pontiff Knight Great Scythe (shaft) - 1H Light #1
@@ -3754,10 +3856,10 @@
 5011510 Pontiff Knight Great Scythe (shaft) - Riposte
 5011515 Pontiff Knight Great Scythe (shaft) - Riposte (Hornet Ring)
 5011516 Pontiff Knight Great Scythe (shaft) - Riposte (Hornet Ring)
-5011520 Pontiff Knight Great Scythe (shaft) - 1H Roll Attack
-5011530 Pontiff Knight Great Scythe (shaft) - 2H Roll Attack
-5011540 Pontiff Knight Great Scythe (shaft) - 1H Backstep
-5011580 Pontiff Knight Great Scythe (shaft) - 2H Backstep
+5011520 Pontiff Knight Great Scythe (shaft) - 1H Backstep
+5011530 Pontiff Knight Great Scythe (shaft) - 2H Backstep
+5011540 Pontiff Knight Great Scythe (shaft) - 1H Roll
+5011580 Pontiff Knight Great Scythe (shaft) - 2H Roll
 5011700 Lothric's Scythe - Weapon Art
 5011705 Lothric's Scythe - Weapon Art
 5030000 Friede's Great Scythe
@@ -3895,10 +3997,10 @@
 5100515 Carthus Curved Greatsword - Riposte (Hornet Ring)
 5100516 Carthus Curved Greatsword - Riposte (Hornet Ring)
 5100517 Carthus Curved Greatsword - Riposte (Hornet Ring)
-5100520 Carthus Curved Greatsword - 1H Roll Attack
-5100530 Carthus Curved Greatsword - 2H Roll Attack
-5100540 Carthus Curved Greatsword - 1H Backstep
-5100580 Carthus Curved Greatsword - 2H Backstep
+5100520 Carthus Curved Greatsword - 1H Backstep
+5100530 Carthus Curved Greatsword - 2H Backstep
+5100540 Carthus Curved Greatsword - 1H Roll
+5100580 Carthus Curved Greatsword - 2H Roll
 5100600 Carthus Curved Greatsword - Parry
 5100610 Carthus Curved Greatsword - Backstab Transition
 5100615 Carthus Curved Greatsword - Missed Backstab Transition
@@ -3915,6 +4017,16 @@
 5112700 Harald Curved Greatsword
 5112710 Harald Curved Greatsword
 5112720 Harald Curved Greatsword
+5114100 Gravelord Sword - 1H Heavy #1
+5114105 Gravelord Sword - 1H Heavy #1 Max
+5114110 Gravelord Sword - 1H Heavy #2
+5114115 Gravelord Sword - 1H Heavy #2 Max
+5114300 Gravelord Sword - 2H Heavy #1
+5114305 Gravelord Sword - 2H Heavy #1 Max
+5114310 Gravelord Sword - 2H Heavy #2
+5114315 Gravelord Sword - 2H Heavy #2 Max
+5114500 Gravelord Sword - Backstab
+5114505 Gravelord Sword - Backstab (Hornet Ring)
 5300000 Scimitar
 5300010 Scimitar
 5300020 Scimitar
@@ -4054,9 +4166,15 @@
 5306760 Ciaran's Tracers
 5306761 Ciaran's Tracers
 11200000 [Sorcery] Farron Dart
-11210000 [Sorcery] Scattered Farron Dart
+11210000 [Sorcery] Scattering Soul Orb
+11210010 [Sorcery] Scattering Soul Orb
+11210020 [Sorcery] Scattering Soul Orb
+11210030 [Sorcery] Scattering Soul Orb
 11300000 [Sorcery] Soul Arrow
-11301000 [Sorcery] Scattered Soul Arrow
+11301000 [Sorcery] Scattering Crystal Orb
+11301010 [Sorcery] Scattering Crystal Orb
+11301020 [Sorcery] Scattering Crystal Orb
+11301030 [Sorcery] Scattering Crystal Orb
 11302000 [Sorcery] Shockwave
 11303000 [Sorcery] Soul Geyser
 11304000 [Sorcery] Homing Soulmass
@@ -4293,10 +4411,12 @@
 15006300 [Sorcery] Crystal Storm [HitBullet]
 15006500 [Sorcery] Crystal Storm
 15006600 [Sorcery] Crystal Storm [HitBullet]
-15008000 [Pyromancy] Cataclysm
-15008010 [Pyromancy] Cataclysm - Great Chaos Fire Orb
-18140000 [Miracle] Heavenly Thunder
-18140100 [Miracle] Heavenly Thunder [Hit]
+18141000 [Miracle] Heavenly Thunder
+18141010 [Miracle] Heavenly Thunder [Hit]
+18142000 [Pyromancy] Cataclysm
+18142010 [Pyromancy] Cataclysm [Hit]
+18143000 [Pyromancy] Earthfall
+18143010 [Pyromancy] Earthfall [Hit]
 18160000 [Miracle] Nibble
 18200000 [Pyromancy] Dark Inferno
 18200100 [Pyromancy] Dark Inferno [BulletEmitter]
@@ -4349,8 +4469,6 @@
 18403010 [Miracle] Devouring Swarm
 18403100 [Miracle] Devouring Swarm [BulletEmitter]
 18403110 [Miracle] Devouring Swarm [Bullet]
-18404000 [Pyromancy] Earthfall
-18404010 [Pyromancy] Earthfall [HitBullet]
 18405000 [Pyromancy] Heave Earth
 18405100 [Pyromancy] Heave Earth [HitBullet]
 18406000 [Pyromancy] Earthquake
@@ -4384,6 +4502,9 @@
 19518000 Smouldering Talisman - Immolate
 19530000 Frigid Valley Mask - Frost Aura
 19540000 [Pyromancy] Immolation
+19540010 [Pyromancy] Immolation [Hit]
+19540020 [Pyromancy] Immolation [Hit]
+19540030 [Pyromancy] Immolation [Hit]
 19544010 [Miracle] Vow of Agony
 19545000 [Miracle] Angelic Barrage
 19545100 [Miracle] Angelic Barrage [Hit]
@@ -4394,6 +4515,7 @@
 19549000 [Miracle] Proof of a Pact
 19550000 [Miracle] Ghostly Assault
 19551900 [Pyromancy] Black Fireball
+19551901 [Pyromancy] Black Fireball [Hit]
 19551910 [Pyromancy] Black Fireball - Ascended [Hit]
 19551911 [Pyromancy] Black Fireball - Ascended [Hit]
 19551912 [Pyromancy] Black Fireball - Ascended - Lava [Hit]
@@ -4408,4 +4530,20 @@
 19555010 [Miracle] Overwhelming Power [Hit]
 19555020 [Miracle] Overwhelming Power [Hit]
 19555030 [Miracle] Overwhelming Power [Hit]
+19555040 [Miracle] Overwhelming Power - Ground [Hit]
+19555100 [Miracle] Wrathful Orbs
+19555110 [Miracle] Wrathful Orbs [Hit]
+19556000 [Miracle] Holy Schism
+19556001 [Miracle] Holy Schism [Hit]
+19556002 [Miracle] Holy Schism [Hit]
+19556003 [Miracle] Holy Schism [Hit]
+19556004 [Miracle] Holy Schism [Hit]
+19556005 [Miracle] Holy Schism [Hit]
+19556006 [Miracle] Holy Schism [Hit]
+19557000 [Miracle] Wrathful Barrage - Wave 1
+19557010 [Miracle] Wrathful Barrage - Wave 2
+19559000 [Miracle] Gravelord Sword Dance
+19559001 [Miracle] Gravelord Sword Dance [Hit]
+19559002 [Miracle] Gravelord Sword Dance [Hit]
+19559003 [Miracle] Gravelord Sword Dance [Hit]
 210006010 Crystal Ring Shield - Unleash Moonlight
